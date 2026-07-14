@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "74551dc58b19d0c4d6779c6615864a862b6617af901f074a3977d2769cff7325",
+  "kind": "higgsfield-audio:mirelo_text_to_audio",
+  "output_sha256": "9c788f9ea1f5b5864870f890af91270123bc1881e19deb0a84ef94f387f27c61",
+  "output_size": 1636250,
+  "schema": 1,
+  "values": {
+    "duration": "8.50",
+    "prompt": "shore waves, distant whale call fading, wet cloth drip. Scene context: oracao. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

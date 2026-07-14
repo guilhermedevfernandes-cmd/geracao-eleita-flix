@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "b40e01636745ac313d367c0e67bbbc610fe02cebc95876285d87d2804f2a3b43",
+  "kind": "higgsfield-audio:mirelo_text_to_audio",
+  "output_sha256": "2693f033ad6f9e76e10234af9d282c500b00e99402f250bb9a7b483d08479516",
+  "output_size": 1417798,
+  "schema": 1,
+  "values": {
+    "duration": "7.38",
+    "prompt": "soft plant unfurling, breeze, quiet wonder tone. Scene context: resolucao. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

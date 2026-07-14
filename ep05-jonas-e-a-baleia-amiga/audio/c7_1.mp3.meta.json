@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "787fb698892bbb3a5f7022c54b1bf2fd589f42e0c4e330583acb5734e9e5a345",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "517d39eeef229bfc87f3da4c84e9aa1a58988c641e373ef8662e2c4e8b117bc4",
+  "output_size": 65245,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[calm] Jonas, vá até Nínive. Fale ao povo o que eu te disser.",
+    "tts_model": "eleven_v3",
+    "voice_id": "7i7dgyCkKt4c16dLtwT3",
+    "voice_type": "elevenlabs"
+  }
+}

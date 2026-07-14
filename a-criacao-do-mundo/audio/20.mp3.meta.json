@@ -1,0 +1,20 @@
+{
+  "dependencies": [],
+  "fingerprint": "c35857efad8326f54487f5c47888b519939e5973a80df3a78147728139a9a8fc",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "4097af100d70064e28556a8bbaa9c0aaddef6477f0fe390bff07f467b79c282c",
+  "output_size": 105837,
+  "schema": 1,
+  "values": {
+    "direction": "[with awe] [animated storytelling]",
+    "model": "elevenlabs",
+    "post_atempo": "0.95",
+    "prompt": "O céu ficou cheio de luzes. E veio a tarde, e veio a manhã. Foi o quarto dia.",
+    "similarity_boost": "0.78",
+    "speed": "0.90",
+    "stability": "0.50",
+    "tts_model": "eleven_v3",
+    "voice_id": "gkqqIm2zTUUewCkNIkTF",
+    "voice_type": "elevenlabs"
+  }
+}

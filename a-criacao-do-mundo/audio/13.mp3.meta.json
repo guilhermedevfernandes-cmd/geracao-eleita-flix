@@ -1,0 +1,20 @@
+{
+  "dependencies": [],
+  "fingerprint": "939255e3baf81f8fda423e68d3ce920f141ab0ac099e863ac025752213748e7c",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "8135809c26abc52c931615010b13a5a710f24d1bb5ed70514544eef6d1eb4cbf",
+  "output_size": 100461,
+  "schema": 1,
+  "values": {
+    "direction": "[warmly] [filled with wonder]",
+    "model": "elevenlabs",
+    "post_atempo": "0.95",
+    "prompt": "As águas se juntaram e formaram os mares. No meio deles, a terra firme apareceu.",
+    "similarity_boost": "0.78",
+    "speed": "0.90",
+    "stability": "0.50",
+    "tts_model": "eleven_v3",
+    "voice_id": "gkqqIm2zTUUewCkNIkTF",
+    "voice_type": "elevenlabs"
+  }
+}

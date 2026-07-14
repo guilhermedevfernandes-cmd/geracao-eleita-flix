@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "5841fbdbe2443e72b89a1137b7ad7c5da325b751ea3524333faf4516fba7c158",
+  "kind": "elevenlabs-audio:sound_generation",
+  "output_sha256": "048c1f8c5443b99284c2408da77cba5454da89c9d2ea2da3070611c342e5a8c4",
+  "output_size": 1267278,
+  "schema": 1,
+  "values": {
+    "duration": "6.60",
+    "prompt": "morning birds, fountain water, relaxed footsteps. Scene context: aplicacao. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

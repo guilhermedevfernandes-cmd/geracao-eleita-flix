@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "ea7537ecfaf57502678d7375b5d5bd3653c3440dcda31c6090c74ae64807f7c6",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "8ee12620f2e42a4d3534be42bab6e67c9dd4fbdf54154e5eba68e8fff9e60945",
+  "output_size": 327306,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[warm] E o que aprendemos com essa história? [thoughtful] Vem lembrar comigo.\n\n[calm] Um: obedecer a Deus é o melhor caminho.\n\n[calm] Dois: quando a gente erra, deve contar a verdade.\n\n[warm] Três: Deus ama você, sempre.\n\n[warm] Deus cuida de mim, Deus cuida de você! [happy] Tchau! Até a próxima.",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

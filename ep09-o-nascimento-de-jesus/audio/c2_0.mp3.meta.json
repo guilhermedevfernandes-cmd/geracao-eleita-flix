@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "a8a4d16fc986e5d3f7cbc922ebf33103a3ccf60f05f174d07d938478fe97f751",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "f6a164b0ab93dd4097d94f8e337e8be2388a7a75c928829eb866e7cea809f475",
+  "output_size": 201918,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[calm] Naquele tempo, o rei mandou que todo mundo fosse se registrar na cidade da sua família. [warm] Por isso, José e Maria viajaram para Belém. [softly] E a Maria estava esperando um bebê... o bebê Jesus.",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "4d8b295f43e3e2d4f3e15cf0ce8bb4b705ea818353d5039acd0165436eb9b2a9",
+  "kind": "elevenlabs-audio:eleven_multilingual_v2",
+  "output_sha256": "8565a7f7654b3dc4511374b2b70c8e5de17e2d10df935fa70dcb26de65586004",
+  "output_size": 147165,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[warm] Deus fez o Adão e a Eva. [awe] E olhou para tudo o que tinha feito... e era muito bom! Esse foi o sexto dia.",
+    "tts_model": "eleven_multilingual_v2",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

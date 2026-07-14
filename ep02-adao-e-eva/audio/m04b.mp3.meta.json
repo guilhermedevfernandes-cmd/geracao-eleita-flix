@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "29e0bd002557dbb1fef7b6acaf220a5c28e6b529f99eaf9ffa807bb98fbba007",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "f1e960ded910ce437e8ec29c3510ebc94b44aa787f4fb4883c053a9e7b6653dc",
+  "output_size": 56050,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[happy] Leão! Isso mesmo. E esse, voando?",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "dependencies": [],
+  "fingerprint": "0ea58ed1be42a225de2671ad9c150937689bc22c9046968612fe8f6b2dda975c",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "f2c3d0198d6b29193e00c599c7234735c0a1f6e4d4958e85b3432386c9891d42",
+  "output_size": 120429,
+  "schema": 1,
+  "values": {
+    "direction": "[warmly] [filled with wonder]",
+    "model": "elevenlabs",
+    "post_atempo": "0.95",
+    "prompt": "Cada planta tinha sua semente. Cada árvore tinha seu fruto. Foi o terceiro dia.",
+    "similarity_boost": "0.78",
+    "speed": "0.90",
+    "stability": "0.50",
+    "tts_model": "eleven_v3",
+    "voice_id": "gkqqIm2zTUUewCkNIkTF",
+    "voice_type": "elevenlabs"
+  }
+}

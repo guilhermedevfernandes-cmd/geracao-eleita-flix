@@ -1,0 +1,14 @@
+{
+  "dependencies": [],
+  "fingerprint": "62041744c0fc9434ab4e85e743648d7a0fd2fde080d2f0c2a321c978c6c47bdf",
+  "kind": "higgsfield-audio:text2speech_v2",
+  "output_sha256": "7a701ea017ea883c4ca817b12b443b0b7949fc187fe6d803654656fd9bfe298b",
+  "output_size": 94502,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "A culpa é minha. Eu estou fugindo do Senhor. Joguem-me no mar e a tempestade vai parar.",
+    "voice_id": "73a45c18-0c56-4642-a61e-f6b303f8ded1",
+    "voice_type": "preset"
+  }
+}

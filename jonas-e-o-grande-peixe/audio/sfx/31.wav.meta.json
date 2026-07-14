@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "955305c5c84ff69f11d2f1e4e81a41a3ac0e4b56e6f83dee0f0e1560aae51788",
+  "kind": "higgsfield-audio:mirelo_text_to_audio",
+  "output_sha256": "a0350a6586bf8f82e74037bd2c348b7c2da73e917fc5236602c44621403aa6eb",
+  "output_size": 1560462,
+  "schema": 1,
+  "values": {
+    "duration": "8.12",
+    "prompt": "robe fabric drop, throne room hush, soft knee on stone. Scene context: missao. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

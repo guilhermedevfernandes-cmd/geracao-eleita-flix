@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "91623fa0b56879d36eb76b0d7b44f98cd8266ee9106cddadbc31359af6c8ed69",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "32c9b3772678b438afd0bda97b8f731fe4c81c5f4938b97e1c90b20d98daa862",
+  "output_size": 372445,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[warm] E o que aprendemos com essa história? [thoughtful] Vem lembrar comigo.\n\n[calm] Um: o enganador quer nos afastar de Deus, mas Jesus é mais forte.\n\n[calm] Dois: a Palavra de Deus é a nossa espada: está escrito!\n\n[warm] Três: adore só a Deus, e sirva só a Ele.\n\n[warm] Deus cuida de mim, Deus cuida de você! [happy] Tchau! Até a próxima.",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

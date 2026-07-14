@@ -1,0 +1,14 @@
+{
+  "dependencies": [],
+  "fingerprint": "8637df4c6c331d031643f8556cc6fc303d58c08872826192391572e57246fdc3",
+  "kind": "higgsfield-audio:text2speech_v2",
+  "output_sha256": "cb0651d3921e5df3b7b6998a45990fb6635c56f3b08176ced407b98afd08e47e",
+  "output_size": 100772,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "Jonas, levante-se outra vez. Vá a Nínive e anuncie a mensagem que eu te dei.",
+    "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+    "voice_type": "preset"
+  }
+}

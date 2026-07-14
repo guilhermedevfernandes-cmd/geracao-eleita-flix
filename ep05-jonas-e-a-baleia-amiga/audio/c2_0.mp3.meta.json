@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "26b53cf2be8a2ea2f47a1c2a5fa7f5ed5d426c85eca808e8dad7bbefd67ef1a2",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "ae127866750f117ec9113efd0545ea5491174f83d03032047537e9fd6242d80b",
+  "output_size": 79038,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[calm] Jonas era um homem que ouvia a voz de Deus. Um dia, Deus falou com ele:",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

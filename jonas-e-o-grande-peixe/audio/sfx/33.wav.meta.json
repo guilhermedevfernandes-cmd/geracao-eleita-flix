@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "94b5fb0e48af58fb254aa4cd951921e70cc0c9f41b8706c9c205f0984d3bf93d",
+  "kind": "higgsfield-audio:mirelo_text_to_audio",
+  "output_sha256": "9e59deb90d02d8dab235e820a01932c17a2ff9a2eca2eb4a0520eedcc807ace4",
+  "output_size": 1440090,
+  "schema": 1,
+  "values": {
+    "duration": "7.50",
+    "prompt": "relieved crowd murmur, soft evening wind, distant hopeful music bed tone. Scene context: missao. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

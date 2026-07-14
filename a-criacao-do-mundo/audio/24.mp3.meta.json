@@ -1,0 +1,20 @@
+{
+  "dependencies": [],
+  "fingerprint": "e793d873253a324c18b1ce35ee7b86a97b1eddd983520f71bc074829ea39bdac",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "6a918f5583b7e968052ed8c8a2aab2279ce6254c835b110117732fd6f3dfa6fa",
+  "output_size": 84333,
+  "schema": 1,
+  "values": {
+    "direction": "[warmly] [with quiet authority]",
+    "model": "elevenlabs",
+    "post_atempo": "0.95",
+    "prompt": "Frutifiquem e multipliquem-se. Encham as águas e a terra!",
+    "similarity_boost": "0.78",
+    "speed": "0.90",
+    "stability": "0.50",
+    "tts_model": "eleven_v3",
+    "voice_id": "r8pRY97Q57nCIMtpOyWA",
+    "voice_type": "elevenlabs"
+  }
+}

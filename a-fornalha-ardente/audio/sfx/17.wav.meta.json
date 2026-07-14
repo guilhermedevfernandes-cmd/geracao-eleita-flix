@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "43726125f9f1af27401cf1045dcac409c77e3e9e0000f368b90e403ed333e47b",
+  "kind": "elevenlabs-audio:sound_generation",
+  "output_sha256": "2944c1faa2004ffdb5a8037ef104d1c04bb87683ef7867d2fee4ef53fc38852f",
+  "output_size": 1797198,
+  "schema": 1,
+  "values": {
+    "duration": "9.40",
+    "prompt": "deep fire roar, crackling wood, whooshing heat gusts. Scene context: acusacao. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

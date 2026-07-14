@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "e0bee48ba396078225d2b55bc571b293c626416a24e20b46cbf787babd8621d1",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "eb96b284d54496629cd44041cbcfed276c1cb1a9f0ad6f0a531bb1e4aa17b59b",
+  "output_size": 40586,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[happy] Pombinha! Muito bem!",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

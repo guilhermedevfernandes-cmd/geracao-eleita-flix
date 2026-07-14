@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "59d20a63e8983708485420370e9dd46a6ef9eccaa31b8f93701def05a7aaaf2f",
+  "kind": "elevenlabs-audio:eleven_multilingual_v2",
+  "output_sha256": "ab0e683b9e01375fee888d2bf9f670183140ca8a42c5912f15713a6793813c3a",
+  "output_size": 111639,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "Os servos obedeceram ao rei. A fornalha ficou tão quente que ninguém conseguia chegar perto.",
+    "tts_model": "eleven_multilingual_v2",
+    "voice_id": "gkqqIm2zTUUewCkNIkTF",
+    "voice_type": "elevenlabs"
+  }
+}

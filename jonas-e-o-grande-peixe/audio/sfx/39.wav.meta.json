@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "2dca2f195811959a1fd441235bf174526132d88108a01bcd6fc9cb8f81496296",
+  "kind": "higgsfield-audio:mirelo_text_to_audio",
+  "output_sha256": "4de3d1a5fb55a2db397c82d29f3df7876747b1628b46fbef3647ccb758fc580e",
+  "output_size": 1449006,
+  "schema": 1,
+  "values": {
+    "duration": "7.54",
+    "prompt": "hopeful resolve ambience, soft wind, quiet heartfelt hold. Scene context: resolucao. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

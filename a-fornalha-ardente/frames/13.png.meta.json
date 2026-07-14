@@ -1,0 +1,22 @@
+{
+  "dependencies": [
+    {
+      "filename": "rei_ref.png",
+      "label": "ref-rei",
+      "sha256": "f5ad3a89284045d0b41229b642c40fcc29d75538025ee7b71947527bce6024be"
+    },
+    {
+      "filename": "guarda_ref.png",
+      "label": "ref-guarda",
+      "sha256": "b331c131dbb01c31cc1bbef1a67925ca2f2a885a66d2d106128a080e2e649bbf"
+    }
+  ],
+  "fingerprint": "b2610d70b8b63ff1b67cd2a3d2ec77994ef94ef4385b2753ab365de847f1cb17",
+  "kind": "episode-frame",
+  "output_sha256": "d78fa8ca9c379f4ff4bca108c1be004f81b715072e3adc3c3a4e6694f24d9624",
+  "output_size": 3179572,
+  "schema": 1,
+  "values": {
+    "source_signature": "28cff8af5e9b00484d73e72e4780b81c3d0c0d0d6fb9d78dc66f9844430926f7"
+  }
+}

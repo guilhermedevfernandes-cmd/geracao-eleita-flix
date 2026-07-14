@@ -1,0 +1,20 @@
+{
+  "dependencies": [],
+  "fingerprint": "6465fae417671e565d37fcfe7b38b8dc682d6c4d0b287a5fd1599de429b5ef91",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "d8453d33f17327acfc44ee7ffd96db44f594297445073f8f74b18a06da525b48",
+  "output_size": 73197,
+  "schema": 1,
+  "values": {
+    "direction": "[warmly] [with quiet authority]",
+    "model": "elevenlabs",
+    "post_atempo": "0.95",
+    "prompt": "Sirvam de sinais para dias, estações e anos.",
+    "similarity_boost": "0.78",
+    "speed": "0.90",
+    "stability": "0.50",
+    "tts_model": "eleven_v3",
+    "voice_id": "r8pRY97Q57nCIMtpOyWA",
+    "voice_type": "elevenlabs"
+  }
+}

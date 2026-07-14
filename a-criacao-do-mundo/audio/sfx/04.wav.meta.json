@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "2f6f6e6b39cc077734a9b17d6fec4194a80e1c68829862a177df2b93a9ae60a9",
+  "kind": "elevenlabs-audio:sound_generation",
+  "output_sha256": "62d321e1fd47ec8b64818051e4bdf9616cb7f88d01d1a55df88b3c4955c5d3c7",
+  "output_size": 791118,
+  "schema": 1,
+  "values": {
+    "duration": "4.16",
+    "prompt": "powerful light whoosh, bright resonant chord, silence after. Scene context: luz. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

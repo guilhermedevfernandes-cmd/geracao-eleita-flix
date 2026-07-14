@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "7bf5a8f07fd02c242d5b531b007b52b2ac29f17404d8adfa50d3dad013e59dfb",
+  "kind": "elevenlabs-audio:sound_generation",
+  "output_sha256": "97aabf4cc017f0424ba48602104073449bf5fea20b1dcd7ace393e0cbd346583",
+  "output_size": 1282638,
+  "schema": 1,
+  "values": {
+    "duration": "6.70",
+    "prompt": "water splash, bird wing flaps, joyful ocean ambience. Scene context: vida. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

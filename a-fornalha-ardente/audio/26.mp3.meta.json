@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "cec2c668876ea229f82202676532ab6ad4af816f89bda822f6ade318e06c87fe",
+  "kind": "elevenlabs-audio:eleven_multilingual_v2",
+  "output_sha256": "5cb955c5a2c80c97171362e7b14d3cdad2f8a5fccbc0ef660d9aac8a86a0688e",
+  "output_size": 97010,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "Eu estou vendo quatro homens soltos, andando no meio do fogo! E o quarto brilha como um anjo!",
+    "tts_model": "eleven_multilingual_v2",
+    "voice_id": "r8pRY97Q57nCIMtpOyWA",
+    "voice_type": "elevenlabs"
+  }
+}

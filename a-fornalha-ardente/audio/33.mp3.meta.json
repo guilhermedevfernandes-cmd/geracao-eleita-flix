@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "9f86f4f577e99a6a9418c072a579a2d8554e082e0d518a347c33860c2e05ada6",
+  "kind": "elevenlabs-audio:eleven_multilingual_v2",
+  "output_sha256": "ec6207ff46093caa55e15376f2285ddeca2a095ef1aa65141466f6818d3fb325",
+  "output_size": 99100,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "Deus esteve conosco dentro do fogo. Ele é fiel, ontem, hoje e para sempre.",
+    "tts_model": "eleven_multilingual_v2",
+    "voice_id": "NHphTvFqgs01MNV8q4Gn",
+    "voice_type": "elevenlabs"
+  }
+}

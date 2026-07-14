@@ -1,0 +1,20 @@
+{
+  "dependencies": [],
+  "fingerprint": "62690d635857447a8891064a0dab60db5a7d3122e852778ba06104f448dfcddf",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "5a67b5ea944d79f6bf85de7cb56aa9dcde94a3d7628ed9427aa4a742233ef673",
+  "output_size": 108525,
+  "schema": 1,
+  "values": {
+    "direction": "[with awe] [animated storytelling]",
+    "model": "elevenlabs",
+    "post_atempo": "0.95",
+    "prompt": "Então Deus fez o céu. Águas embaixo. Águas lá em cima. Um espaço aberto no meio.",
+    "similarity_boost": "0.78",
+    "speed": "0.90",
+    "stability": "0.50",
+    "tts_model": "eleven_v3",
+    "voice_id": "gkqqIm2zTUUewCkNIkTF",
+    "voice_type": "elevenlabs"
+  }
+}

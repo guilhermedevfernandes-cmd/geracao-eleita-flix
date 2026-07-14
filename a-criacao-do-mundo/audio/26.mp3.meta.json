@@ -1,0 +1,20 @@
+{
+  "dependencies": [],
+  "fingerprint": "28663007a7e1fd69ccd6f818c1dec550e1b5e45aa6a14117a4434c6fc871d6af",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "01571bcf9f75cfd7c82121169a02e9f1a46d4edc3dd8e8f83ed180b9397eed0b",
+  "output_size": 138093,
+  "schema": 1,
+  "values": {
+    "direction": "[warmly] [with quiet authority]",
+    "model": "elevenlabs",
+    "post_atempo": "0.95",
+    "prompt": "Terra, produza seres vivos: animais domésticos, bichos que rastejam e animais selvagens!",
+    "similarity_boost": "0.78",
+    "speed": "0.90",
+    "stability": "0.50",
+    "tts_model": "eleven_v3",
+    "voice_id": "r8pRY97Q57nCIMtpOyWA",
+    "voice_type": "elevenlabs"
+  }
+}

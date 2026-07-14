@@ -1,0 +1,20 @@
+{
+  "dependencies": [],
+  "fingerprint": "6f3a358e6249f85a024183c7bff23372f3b55b1e026e2954f6dc6993b10a4c43",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "877a39a01413737f74dbb21c98968cf1112020268b442c4dc04f0149fa5bd77c",
+  "output_size": 92397,
+  "schema": 1,
+  "values": {
+    "direction": "[peaceful] [reverent]",
+    "model": "elevenlabs",
+    "post_atempo": "0.95",
+    "prompt": "No sétimo dia, Eu descanso. Este dia é santo e abençoado.",
+    "similarity_boost": "0.78",
+    "speed": "0.90",
+    "stability": "0.50",
+    "tts_model": "eleven_v3",
+    "voice_id": "r8pRY97Q57nCIMtpOyWA",
+    "voice_type": "elevenlabs"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "3b5a73a7e17349aa4d4d1c1e18b4455d2c4e9638288bb7ada7d37543c54dcded",
+  "kind": "elevenlabs-audio:sound_generation",
+  "output_sha256": "7bb0156cb765bf909e4a45fc3ab538f9fa58c5d3fb1332fe30560d03d6af4ff6",
+  "output_size": 1589838,
+  "schema": 1,
+  "values": {
+    "duration": "8.32",
+    "prompt": "crumbling rope, soft ash fall, astonished murmur. Scene context: livramento. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

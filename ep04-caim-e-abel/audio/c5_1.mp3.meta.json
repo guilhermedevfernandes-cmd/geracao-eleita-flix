@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "8ab885c14679c43a81d6c6a3651de6e09e2f2c1f0dfe9f9a0e4989f4d7bd3a41",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "0c97d33a0bf228375fa307a0531e2f6a70726977fdd44e705be96c8bddd0fa31",
+  "output_size": 61066,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[gentle] Deus avisou Caim com carinho. Mas Caim não quis ouvir.",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

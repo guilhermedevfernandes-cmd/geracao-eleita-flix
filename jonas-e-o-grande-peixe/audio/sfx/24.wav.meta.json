@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "9616a5655a3f1b8c98fff7794009d47e6c7e344bab473d9d3bfd3c70031eb619",
+  "kind": "higgsfield-audio:mirelo_text_to_audio",
+  "output_sha256": "b9b15d188507acff531b775bd6047accb64edca4e494d1c5402646a161ebf2a5",
+  "output_size": 1128014,
+  "schema": 1,
+  "values": {
+    "duration": "5.86",
+    "prompt": "massive water surge, soft sand thud, gulls, relieved ocean hush. Scene context: oracao. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

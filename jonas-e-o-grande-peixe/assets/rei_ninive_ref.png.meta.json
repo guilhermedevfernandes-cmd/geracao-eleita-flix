@@ -1,0 +1,11 @@
+{
+  "dependencies": [],
+  "fingerprint": "1c3693c720b6c4ad89f0e8e1bebae13b485c48dd917bae453b85b03f5c05a990",
+  "kind": "episode-reference",
+  "output_sha256": "5efb1b21ed673a7609ea95af7e630ee48c5769e9602b23a0eb884b347ef417d5",
+  "output_size": 6124573,
+  "schema": 1,
+  "values": {
+    "source_signature": "bee831d9ab5907dd9c4c9fb9ca6a3e92436b62670808457c095355d1d5f12f70"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "801cd3fa16bfb17dbcc9b321cc2c1caf661b1c3ab598f9b47b6e3c80c16930ac",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "e424fc854b08e5153e13ff28a6cee80622b58e1cf945f4d822740e2a2ae00111",
+  "output_size": 219890,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[happy] Os pastores correram para Belém... e encontraram Maria, José e o bebê deitado na manjedoura, do jeitinho que o anjo falou! [warm] Eles contaram tudo o que tinham visto. [calm] E depois voltaram para casa louvando a Deus por tudo.",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

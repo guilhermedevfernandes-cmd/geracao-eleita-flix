@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "8664ccf35d1698ea65f838d9c342c435995dbe7dc9ea891ecf691e36463fc6c6",
+  "kind": "higgsfield-audio:mirelo_text_to_audio",
+  "output_sha256": "d5a222f9b0bf2dd6bcf98b765c0efbc63a205b799ee0a9288674cd2679377f30",
+  "output_size": 1453462,
+  "schema": 1,
+  "values": {
+    "duration": "7.56",
+    "prompt": "soft prayer breath, dripping water, warm low resonance. Scene context: oracao. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

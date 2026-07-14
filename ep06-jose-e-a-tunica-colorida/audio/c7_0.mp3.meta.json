@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "e7082c1821c2c874ace6449792200f32f01fd0fe925be6a662950d3919831907",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "aa4446ceaf11fef1428853d8438f443b5540525fc6a564e5da2cfa2d801020d8",
+  "output_size": 153435,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[happy] E José mandou buscar o papai Jacó! [warm] Quando se encontraram, José abraçou o papai e chorou de alegria. A família estava junta de novo.",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

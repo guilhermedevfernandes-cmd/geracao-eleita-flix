@@ -1,0 +1,14 @@
+{
+  "dependencies": [],
+  "fingerprint": "6603d92b03d9ff96a46b8001539c7a4f3ea4622fee5f1fee61475ede79d80a98",
+  "kind": "higgsfield-audio:text2speech_v2",
+  "output_sha256": "44da5142466cd4f37bead6b11fde62381d4d5425ecbc52a517ba8f29be53f844",
+  "output_size": 106205,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "Deus fez crescer uma planta para dar sombra a Jonas. No dia seguinte, a planta secou de repente.",
+    "voice_id": "d8ba9f14-8a24-44db-932b-99e16c45bd32",
+    "voice_type": "preset"
+  }
+}

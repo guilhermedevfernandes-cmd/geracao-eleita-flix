@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "c08c0756638f2356ffb02e3c5c2ec1bf26fbbc635ee7e8416b6c61a2aeb5f3ba",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "112844ea03e51d2052f59cd6a9af88f0668ce290e64f960685d8bd8e3eb6bad4",
+  "output_size": 198156,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[awe] E aí aconteceu uma coisa linda: o céu se abriu! [warm] E o Espírito de Deus desceu sobre Jesus, suavinho, como uma pombinha. [calm] E lá do céu, veio a voz de Deus:",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

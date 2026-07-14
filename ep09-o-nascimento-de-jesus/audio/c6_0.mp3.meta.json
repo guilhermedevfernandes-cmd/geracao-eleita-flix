@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "ad47d46156579130446252eae32b9590b78612141b0cdfb3d53031b1a19b0b58",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "0af1339e50935d9bfcf43db63943038768e2e21c954e77ad8981c101cd0b0933",
+  "output_size": 154688,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[awe] E de repente, o céu se encheu de anjos, uma multidão! [happy] E todos cantavam louvando a Deus: glória a Deus nas alturas, e paz na terra!",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

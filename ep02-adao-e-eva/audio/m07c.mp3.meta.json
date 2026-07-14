@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "aec871030325db5fb7773769d108c290932e4b8d14d1144b9249baf422c95be5",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "bd652e00e160ce678cc76636578bfbb70a057baf54a90acc01a18da5ceeac19f",
+  "output_size": 41839,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[softly] E eles contaram: foi sim...",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

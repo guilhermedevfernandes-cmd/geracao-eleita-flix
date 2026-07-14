@@ -1,0 +1,620 @@
+<title>EP02 · Adão e Eva — Roteiro de Estudo</title>
+<style>
+  :root {
+    --bg: #F3F6EE;
+    --card: #FDFEFA;
+    --ink: #2C3A2E;
+    --ink-soft: #5C6B5E;
+    --line: #DCE5D6;
+    --eden: #3E7C4F;
+    --eden-soft: #E4EFE4;
+    --gold: #A97F2B;
+    --gold-soft: #F6EFDC;
+    --adam: #3D6B8E;
+    --adam-soft: #E3ECF3;
+    --snake: #7B5E8A;
+    --snake-soft: #EEE8F2;
+    --note: #8A6D1F;
+    --serif: "Iowan Old Style", "Palatino Nova", Palatino, "Book Antiqua", Georgia, serif;
+    --sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #1C231B;
+      --card: #242D23;
+      --ink: #E8EDE0;
+      --ink-soft: #A8B5A3;
+      --line: #37422F;
+      --eden: #8CC49A;
+      --eden-soft: #2C3A2C;
+      --gold: #DCB369;
+      --gold-soft: #322C1D;
+      --adam: #8FB6D4;
+      --adam-soft: #263341;
+      --snake: #B69CC7;
+      --snake-soft: #322A3B;
+      --note: #D3B267;
+    }
+  }
+  :root[data-theme="dark"] {
+    --bg: #1C231B;
+    --card: #242D23;
+    --ink: #E8EDE0;
+    --ink-soft: #A8B5A3;
+    --line: #37422F;
+    --eden: #8CC49A;
+    --eden-soft: #2C3A2C;
+    --gold: #DCB369;
+    --gold-soft: #322C1D;
+    --adam: #8FB6D4;
+    --adam-soft: #263341;
+    --snake: #B69CC7;
+    --snake-soft: #322A3B;
+    --note: #D3B267;
+  }
+  :root[data-theme="light"] {
+    --bg: #F3F6EE;
+    --card: #FDFEFA;
+    --ink: #2C3A2E;
+    --ink-soft: #5C6B5E;
+    --line: #DCE5D6;
+    --eden: #3E7C4F;
+    --eden-soft: #E4EFE4;
+    --gold: #A97F2B;
+    --gold-soft: #F6EFDC;
+    --adam: #3D6B8E;
+    --adam-soft: #E3ECF3;
+    --snake: #7B5E8A;
+    --snake-soft: #EEE8F2;
+    --note: #8A6D1F;
+  }
+
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--ink);
+    font-family: var(--serif);
+    font-size: 1.05rem;
+    line-height: 1.65;
+  }
+  .wrap {
+    max-width: 42rem;
+    margin: 0 auto;
+    padding: 2.5rem 1.25rem 4rem;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+  }
+
+  /* ---------- cabeçalho ---------- */
+  header { display: flex; flex-direction: column; gap: .9rem; }
+  .kicker {
+    font-family: var(--sans);
+    font-size: .72rem;
+    font-weight: 600;
+    letter-spacing: .14em;
+    text-transform: uppercase;
+    color: var(--eden);
+  }
+  h1 {
+    margin: 0;
+    font-size: clamp(1.9rem, 5.5vw, 2.6rem);
+    line-height: 1.15;
+    font-weight: 600;
+    text-wrap: balance;
+  }
+  .subtitle { margin: 0; color: var(--ink-soft); font-style: italic; }
+  .chips { display: flex; flex-wrap: wrap; gap: .45rem; }
+  .chip {
+    font-family: var(--sans);
+    font-size: .74rem;
+    font-weight: 500;
+    padding: .28rem .7rem;
+    border: 1px solid var(--line);
+    border-radius: 999px;
+    background: var(--card);
+    color: var(--ink-soft);
+    white-space: nowrap;
+  }
+  .chip strong { color: var(--ink); font-weight: 600; }
+
+  /* ---------- blocos utilitários ---------- */
+  .panel {
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: 14px;
+    padding: 1.15rem 1.3rem;
+  }
+  .panel h2 {
+    margin: 0 0 .7rem;
+    font-family: var(--sans);
+    font-size: .76rem;
+    font-weight: 700;
+    letter-spacing: .12em;
+    text-transform: uppercase;
+    color: var(--eden);
+  }
+  .legend { display: flex; flex-direction: column; gap: .5rem; font-size: .95rem; }
+  .legend-row { display: flex; align-items: baseline; gap: .6rem; }
+  .voice-dot {
+    flex: none;
+    width: .68rem; height: .68rem;
+    border-radius: 50%;
+    transform: translateY(.05rem);
+  }
+  .legend .hint { color: var(--ink-soft); }
+
+  .rule-box { border-left: 4px solid var(--gold); background: var(--gold-soft); border-radius: 0 14px 14px 0; padding: 1rem 1.2rem; }
+  .rule-box p { margin: 0; }
+  .rule-box .lead { font-weight: 600; }
+  .rule-box .why { color: var(--ink-soft); font-size: .95rem; margin-top: .35rem; }
+
+  /* ---------- sumário ---------- */
+  nav.toc { display: flex; flex-wrap: wrap; gap: .4rem; }
+  nav.toc a {
+    font-family: var(--sans);
+    font-size: .78rem;
+    font-weight: 600;
+    text-decoration: none;
+    color: var(--eden);
+    background: var(--eden-soft);
+    border-radius: 999px;
+    padding: .3rem .75rem;
+    transition: filter .15s ease;
+  }
+  nav.toc a:hover { filter: brightness(.94); }
+  nav.toc a:focus-visible, details summary:focus-visible {
+    outline: 2px solid var(--eden);
+    outline-offset: 2px;
+  }
+
+  /* ---------- cenas ---------- */
+  .scenes { display: flex; flex-direction: column; gap: 1.6rem; }
+  article.scene {
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: 16px;
+    padding: 1.4rem 1.45rem 1.25rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    scroll-margin-top: 1rem;
+  }
+  .scene-head { display: flex; flex-direction: column; gap: .3rem; }
+  .scene-eyebrow {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: .6rem;
+    font-family: var(--sans);
+    font-size: .72rem;
+    font-weight: 700;
+    letter-spacing: .12em;
+    text-transform: uppercase;
+    color: var(--eden);
+  }
+  .scene-eyebrow .ref {
+    color: var(--gold);
+    letter-spacing: .06em;
+    text-transform: none;
+    font-size: .78rem;
+  }
+  .scene-head h3 {
+    margin: 0;
+    font-size: 1.35rem;
+    line-height: 1.25;
+    font-weight: 600;
+    text-wrap: balance;
+  }
+  .scene-meta { font-family: var(--sans); font-size: .78rem; color: var(--ink-soft); }
+
+  /* falas */
+  .speech { display: flex; flex-direction: column; gap: .65rem; }
+  .line {
+    border-left: 3px solid var(--eden);
+    background: var(--eden-soft);
+    border-radius: 0 10px 10px 0;
+    padding: .65rem .9rem .7rem;
+  }
+  .line .who {
+    display: block;
+    font-family: var(--sans);
+    font-size: .68rem;
+    font-weight: 700;
+    letter-spacing: .12em;
+    text-transform: uppercase;
+    color: var(--eden);
+    margin-bottom: .2rem;
+  }
+  .line .emo { font-weight: 400; text-transform: none; letter-spacing: 0; opacity: .8; }
+  .line p { margin: 0; }
+  .line.god   { border-color: var(--gold);  background: var(--gold-soft); }
+  .line.god .who   { color: var(--gold); }
+  .line.adam  { border-color: var(--adam);  background: var(--adam-soft); }
+  .line.adam .who  { color: var(--adam); }
+  .line.snake { border-color: var(--snake); background: var(--snake-soft); }
+  .line.snake .who { color: var(--snake); }
+  .pause { color: var(--ink-soft); }
+
+  /* bíblia */
+  .bible {
+    border-top: 1px dashed var(--line);
+    padding-top: .85rem;
+    display: flex;
+    flex-direction: column;
+    gap: .45rem;
+  }
+  .bible .tag {
+    font-family: var(--sans);
+    font-size: .68rem;
+    font-weight: 700;
+    letter-spacing: .12em;
+    text-transform: uppercase;
+    color: var(--gold);
+  }
+  .bible blockquote {
+    margin: 0;
+    padding: 0 0 0 .95rem;
+    border-left: 2px solid var(--gold);
+    font-style: italic;
+    color: var(--ink);
+  }
+  .bible blockquote footer {
+    margin-top: .25rem;
+    font-family: var(--sans);
+    font-style: normal;
+    font-size: .74rem;
+    color: var(--ink-soft);
+  }
+  .fidelity {
+    margin: 0;
+    font-size: .9rem;
+    color: var(--note);
+  }
+  .fidelity::before { content: "✱ "; }
+
+  /* produção */
+  details.prod { border-top: 1px dashed var(--line); padding-top: .6rem; }
+  details.prod summary {
+    cursor: pointer;
+    font-family: var(--sans);
+    font-size: .76rem;
+    font-weight: 600;
+    letter-spacing: .08em;
+    text-transform: uppercase;
+    color: var(--ink-soft);
+    list-style: none;
+  }
+  details.prod summary::before { content: "▸ "; }
+  details.prod[open] summary::before { content: "▾ "; }
+  details.prod summary::-webkit-details-marker { display: none; }
+  details.prod p { margin: .5rem 0 0; font-family: var(--sans); font-size: .84rem; color: var(--ink-soft); }
+
+  /* ---------- fechamento ---------- */
+  .changes ul { margin: .2rem 0 0; padding-left: 1.2rem; display: flex; flex-direction: column; gap: .4rem; }
+  .changes li { font-size: .95rem; }
+  .changes .old { text-decoration: line-through; color: var(--ink-soft); }
+  .changes .new { font-weight: 600; color: var(--eden); }
+
+  .motto {
+    text-align: center;
+    font-size: 1.25rem;
+    font-style: italic;
+    color: var(--eden);
+    padding: .5rem 0 0;
+    text-wrap: balance;
+  }
+  footer.end {
+    border-top: 1px solid var(--line);
+    padding-top: 1rem;
+    font-family: var(--sans);
+    font-size: .78rem;
+    color: var(--ink-soft);
+    text-align: center;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    * { transition: none !important; scroll-behavior: auto !important; }
+  }
+  html { scroll-behavior: smooth; }
+</style>
+
+<div class="wrap">
+
+  <header>
+    <span class="kicker">Geração Eleita Flix · Episódio 02</span>
+    <h1>Adão e Eva no Jardim do Éden</h1>
+    <p class="subtitle">Roteiro de estudo, cena a cena — narração fiel a Gênesis 2–3, contada com carinho para pequenininhos.</p>
+    <div class="chips">
+      <span class="chip"><strong>≈2min55s</strong></span>
+      <span class="chip">público <strong>2–3 anos</strong></span>
+      <span class="chip"><strong>9 cenas</strong> · 21 planos</span>
+      <span class="chip">base <strong>Gênesis 2–3</strong></span>
+      <span class="chip">versão corrigida · <strong>12/07/2026</strong></span>
+    </div>
+  </header>
+
+  <section class="rule-box">
+    <p class="lead">Regra do canal: seguir a Bíblia sem inventar nada.</p>
+    <p class="why">A idade do público muda o <em>tom</em> (linguagem de colo, sem sustos), nunca os <em>fatos</em>. Cada cena traz o versículo de base e, quando precisa, uma nota ✱ explicando a escolha de fidelidade.</p>
+  </section>
+
+  <section class="panel" aria-label="Como ler este roteiro">
+    <h2>Como ler</h2>
+    <div class="legend">
+      <div class="legend-row"><span class="voice-dot" style="background: var(--eden)"></span><span><strong>Narradora</strong> — conta a história e conversa com a criança (voz "Eva GE Flix").</span></div>
+      <div class="legend-row"><span class="voice-dot" style="background: var(--gold)"></span><span><strong>Deus</strong> — só falas com base no texto bíblico (voz "Voz de Deus GE Flix").</span></div>
+      <div class="legend-row"><span class="voice-dot" style="background: var(--adam)"></span><span><strong>Adão</strong> — fala pontual (voz "Adão GE Flix").</span></div>
+      <div class="legend-row"><span class="voice-dot" style="background: var(--snake)"></span><span><strong>Cobrinha</strong> — a serpente enganadora; fofa no desenho, mas a narração deixa claro que ela mente.</span></div>
+      <div class="legend-row"><span class="hint">[colchetes] = emoção da voz · <strong>(...)</strong> = pausa de 2s para a criança responder.</span></div>
+    </div>
+  </section>
+
+  <nav class="toc" aria-label="Ir para a cena">
+    <a href="#cena1">1 · Abertura</a>
+    <a href="#cena2">2 · Deus fez tudo</a>
+    <a href="#cena3">3 · Adão e Eva</a>
+    <a href="#cena4">4 · Os nomes</a>
+    <a href="#cena5">5 · A árvore</a>
+    <a href="#cena6">6 · A cobrinha</a>
+    <a href="#cena7">7 · O coração</a>
+    <a href="#cena8">8 · Deus ama</a>
+    <a href="#cena9">9 · Lição + tchau</a>
+  </nav>
+
+  <div class="scenes">
+
+    <article class="scene" id="cena1">
+      <div class="scene-head">
+        <div class="scene-eyebrow"><span>Cena 1 · Abertura</span><span class="ref">moldura do canal</span></div>
+        <h3>Olá, amiguinho!</h3>
+        <span class="scene-meta">~15s · 2 planos</span>
+      </div>
+      <div class="speech">
+        <div class="line">
+          <span class="who">Narradora <span class="emo">[animado]</span></span>
+          <p>"Olá, amiguinho! Que bom te ver! Hoje eu vou te contar a historinha mais bonita do começo do mundo... A história do Adão e da Eva! Vem comigo!"</p>
+        </div>
+      </div>
+      <div class="bible">
+        <p class="fidelity">Abertura ritual do canal — a narradora conversa com a criança. Não é narrativa bíblica, e por isso não afirma nada sobre a história.</p>
+      </div>
+      <details class="prod"><summary>Produção</summary><p>P1: Adão, Eva e mascotes acenando (título) · P2: panorâmica do Éden. SFX: sininhos.</p></details>
+    </article>
+
+    <article class="scene" id="cena2">
+      <div class="scene-head">
+        <div class="scene-eyebrow"><span>Cena 2 · Deus fez tudo</span><span class="ref">Gênesis 1</span></div>
+        <h3>O mundo inteirinho</h3>
+        <span class="scene-meta">~17s · 3 planos</span>
+      </div>
+      <div class="speech">
+        <div class="line">
+          <span class="who">Narradora <span class="emo">[maravilhado]</span></span>
+          <p>"No comecinho de tudo, Deus fez o mundo inteirinho! Fez o sol quentinho... as flores cheirosas... e todos os bichinhos! UAU, que capricho!"</p>
+        </div>
+      </div>
+      <div class="bible">
+        <span class="tag">Na Bíblia</span>
+        <blockquote>
+          "No princípio, criou Deus os céus e a terra." — "E viu Deus tudo quanto tinha feito, e eis que era muito bom."
+          <footer>Gênesis 1:1 e 1:31</footer>
+        </blockquote>
+      </div>
+      <details class="prod"><summary>Produção</summary><p>P1: sol nascendo e flores abrindo · P2: filhotinhos no campo · P3: leãozinho brincando (cameo visual do mascote). SFX: bloom mágico, passarinho.</p></details>
+    </article>
+
+    <article class="scene" id="cena3">
+      <div class="scene-head">
+        <div class="scene-eyebrow"><span>Cena 3 · Adão e Eva</span><span class="ref">Gênesis 2:7-8, 18-22</span></div>
+        <h3>Deus fez uma família</h3>
+        <span class="scene-meta">~18s · 2 planos</span>
+      </div>
+      <div class="speech">
+        <div class="line">
+          <span class="who">Narradora <span class="emo">[carinho]</span></span>
+          <p>"Então Deus fez uma família! Fez o Adão..."</p>
+        </div>
+        <div class="line adam">
+          <span class="who">Adão</span>
+          <p>"Que jardim lindo!"</p>
+        </div>
+        <div class="line">
+          <span class="who">Narradora</span>
+          <p>"E fez a Eva, com um sorriso doce! Eles cuidavam do jardim com muito amor."</p>
+        </div>
+      </div>
+      <div class="bible">
+        <span class="tag">Na Bíblia</span>
+        <blockquote>
+          "E formou o Senhor Deus o homem do pó da terra e soprou em seus narizes o fôlego da vida." — "Não é bom que o homem esteja só."
+          <footer>Gênesis 2:7 e 2:18</footer>
+        </blockquote>
+        <p class="fidelity">A fala do Adão é dramatização de reação — o jardim era "agradável aos olhos" (Gn 2:9). Ela não afirma nenhum fato novo. Cuidar do jardim: Gn 2:15.</p>
+      </div>
+      <details class="prod"><summary>Produção</summary><p>P1: Adão de braços abertos admirando · P2: Eva cheirando flor com passarinhos. SFX: passarinho.</p></details>
+    </article>
+
+    <article class="scene" id="cena4">
+      <div class="scene-head">
+        <div class="scene-eyebrow"><span>Cena 4 · Nomeando os bichinhos</span><span class="ref">Gênesis 2:19-20</span></div>
+        <h3>Que bicho é esse?</h3>
+        <span class="scene-meta">~18s · 2 planos</span>
+      </div>
+      <div class="speech">
+        <div class="line">
+          <span class="who">Narradora <span class="emo">[brincalhão]</span></span>
+          <p>"O Adão dava nome pros bichinhos! Olha esse fofinho aqui! Que bicho é esse? <span class="pause">(...)</span> LEÃOZINHO! Isso mesmo! E esse, voando? <span class="pause">(...)</span> POMBINHA! Muito bem, amiguinho!"</p>
+        </div>
+      </div>
+      <div class="bible">
+        <span class="tag">Na Bíblia</span>
+        <blockquote>
+          "...e como o homem chamou a cada ser vivente, esse foi o seu nome."
+          <footer>Gênesis 2:19</footer>
+        </blockquote>
+        <p class="fidelity">Os mascotes do canal (leãozinho e pombinha) aparecem só na imagem. A narração não diz que Adão os chamou de "Juba" e "Nina" — isso seria inventar um fato dentro da história.</p>
+      </div>
+      <details class="prod"><summary>Produção</summary><p>P1: Adão apontando para o leãozinho · P2: Eva com a pombinha nas mãos. SFX: passarinho, sininhos.</p></details>
+    </article>
+
+    <article class="scene" id="cena5">
+      <div class="scene-head">
+        <div class="scene-eyebrow"><span>Cena 5 · A árvore especial</span><span class="ref">Gênesis 2:16-17</span></div>
+        <h3>O aviso de Deus</h3>
+        <span class="scene-meta">~19s · 2 planos</span>
+      </div>
+      <div class="speech">
+        <div class="line">
+          <span class="who">Narradora <span class="emo">[misterioso doce]</span></span>
+          <p>"No meio do jardim tinha uma árvore especial. E Deus avisou, com muito carinho:"</p>
+        </div>
+        <div class="line god">
+          <span class="who">Deus</span>
+          <p>"Podem comer de todas as frutinhas! Só o fruto desta árvore não pode. Se comer, vai acontecer uma coisa muito triste."</p>
+        </div>
+        <div class="line">
+          <span class="who">Narradora</span>
+          <p>"Vocês vão obedecer, né? <span class="pause">(...)</span>"</p>
+        </div>
+      </div>
+      <div class="bible">
+        <span class="tag">Na Bíblia</span>
+        <blockquote>
+          "De toda árvore do jardim comerás livremente, mas da árvore do conhecimento do bem e do mal, dela não comerás; porque, no dia em que dela comeres, certamente morrerás."
+          <footer>Gênesis 2:16-17</footer>
+        </blockquote>
+        <p class="fidelity">O aviso inclui a consequência de verdade — "uma coisa muito triste" traduz a morte de Gn 2:17 em linguagem suave para a idade, sem escondê-la. A Bíblia não diz qual era a fruta; a cor dourada é só ilustração.</p>
+      </div>
+      <details class="prod"><summary>Produção</summary><p>P1: árvore com luz do céu · P2: Adão e Eva ouvindo atentos. SFX: harpa.</p></details>
+    </article>
+
+    <article class="scene" id="cena6">
+      <div class="scene-head">
+        <div class="scene-eyebrow"><span>Cena 6 · A cobrinha que enganou</span><span class="ref">Gênesis 3:1-6</span></div>
+        <h3>Era mentira!</h3>
+        <span class="scene-meta">~20s · 3 planos</span>
+      </div>
+      <div class="speech">
+        <div class="line">
+          <span class="who">Narradora <span class="emo">[sussurro de alerta]</span></span>
+          <p>"Mas aí apareceu uma cobrinha muito espertinha, que não falava a verdade..."</p>
+        </div>
+        <div class="line snake">
+          <span class="who">Cobrinha <span class="emo">(na voz da narradora)</span></span>
+          <p>"Sssss... come a frutinha... sss... não vai acontecer nada!"</p>
+        </div>
+        <div class="line">
+          <span class="who">Narradora</span>
+          <p>"Era mentira, amiguinho! E sabe o que aconteceu? Ai ai ai... Eles comeram a frutinha!"</p>
+        </div>
+      </div>
+      <div class="bible">
+        <span class="tag">Na Bíblia</span>
+        <blockquote>
+          "Então, a serpente disse à mulher: Certamente não morrereis." — "A serpente me enganou, e eu comi."
+          <footer>Gênesis 3:4 e 3:13</footer>
+        </blockquote>
+        <p class="fidelity">A fala da cobrinha é exatamente a mentira da serpente ("não vai acontecer nada" = "certamente não morrereis"). O desenho é fofo para não assustar, mas a narração marca na hora: <em>era mentira</em>. Ela nunca é tratada como amiguinha.</p>
+      </div>
+      <details class="prod"><summary>Produção</summary><p>P1: cobrinha atrás do galho (olhar matreiro) · P2: cobrinha sussurrando para Eva em dúvida · P3: os dois com a fruta mordida e carinha de "ops". SFX: sss de desenho, crunch fofo.</p></details>
+    </article>
+
+    <article class="scene" id="cena7">
+      <div class="scene-head">
+        <div class="scene-eyebrow"><span>Cena 7 · O coração apertadinho</span><span class="ref">Gênesis 3:8-13</span></div>
+        <h3>Onde vocês estão?</h3>
+        <span class="scene-meta">~18s · 2 planos</span>
+      </div>
+      <div class="speech">
+        <div class="line">
+          <span class="who">Narradora <span class="emo">[sussurro]</span></span>
+          <p>"Aí o coração deles ficou apertadinho... e eles se esconderam! Mas Deus chamou, com carinho:"</p>
+        </div>
+        <div class="line god">
+          <span class="who">Deus</span>
+          <p>"Onde vocês estão? Vocês comeram a frutinha?"</p>
+        </div>
+        <div class="line">
+          <span class="who">Narradora <span class="emo">[doce]</span></span>
+          <p>"E eles contaram: foi sim... Que carinha triste, né? <span class="pause">(...)</span>"</p>
+        </div>
+      </div>
+      <div class="bible">
+        <span class="tag">Na Bíblia</span>
+        <blockquote>
+          "E chamou o Senhor Deus a Adão e disse-lhe: Onde estás? E ele disse: Ouvi a tua voz no jardim, e temi... e escondi-me."
+          <footer>Gênesis 3:9-10</footer>
+        </blockquote>
+        <p class="fidelity">"Coração apertadinho" é a linguagem de colo para o medo e a vergonha de Gn 3:8-10. Eles contaram o que fizeram (Gn 3:12-13 — "eu comi"), mas a Bíblia não registra pedido de desculpa; por isso a história não o afirma. O ensino de pedir desculpa vai para a lição final, fora da narrativa.</p>
+      </div>
+      <details class="prod"><summary>Produção</summary><p>P1: os dois escondidos atrás da moita (olhinhos aparecendo) · P2: saindo da moita com carinha arrependida sob a luz dourada. SFX: harpa suave.</p></details>
+    </article>
+
+    <article class="scene" id="cena8">
+      <div class="scene-head">
+        <div class="scene-eyebrow"><span>Cena 8 · Deus ama mesmo assim</span><span class="ref">Gênesis 3:21-24</span></div>
+        <h3>Roupinhas novas</h3>
+        <span class="scene-meta">~19s · 3 planos</span>
+      </div>
+      <div class="speech">
+        <div class="line">
+          <span class="who">Narradora <span class="emo">[quentinho]</span></span>
+          <p>"E Deus mesmo fez roupinhas novas pra eles! Depois, eles precisaram sair do jardim... Mas escuta esse segredo: mesmo quando a gente erra... Deus continua amando a gente! Sempre, sempre, sempre!"</p>
+        </div>
+      </div>
+      <div class="bible">
+        <span class="tag">Na Bíblia</span>
+        <blockquote>
+          "E fez o Senhor Deus a Adão e à sua mulher túnicas de peles, e os vestiu." — "E o Senhor Deus o enviou para fora do jardim do Éden."
+          <footer>Gênesis 3:21 e 3:23</footer>
+        </blockquote>
+        <p class="fidelity">A Bíblia diz só o fato: Deus fez as roupas e os vestiu — sem explicar o motivo. Por isso a narração diz "roupinhas novas" (a versão antiga dizia "quentinhas, para aquecer", que era invenção). A ordem também é a real: primeiro as roupas (3:21), depois a saída (3:23). "Deus continua amando" é a aplicação da narradora, apoiada no gesto de cuidado do próprio texto.</p>
+      </div>
+      <details class="prod"><summary>Produção</summary><p>P1: os dois com as túnicas simples que Deus fez, tocando as roupas agradecidos · P2: saindo de mãozinhas dadas, carinha triste-esperançosa, mascotes olhando do portão · P3: nuvem de coração no céu. SFX: sininhos, harpa.</p></details>
+    </article>
+
+    <article class="scene" id="cena9">
+      <div class="scene-head">
+        <div class="scene-eyebrow"><span>Cena 9 · Lição + tchau</span><span class="ref">aplicação para a criança</span></div>
+        <h3>Deus cuida de você</h3>
+        <span class="scene-meta">~14s · 2 planos</span>
+      </div>
+      <div class="speech">
+        <div class="line">
+          <span class="who">Narradora <span class="emo">[colo]</span></span>
+          <p>"Obedecer é melhor, né, amiguinho? E se errar... pede desculpinha, que Deus ama você! Deus cuida de mim... Deus cuida de VOCÊ! Tchau, amiguinho!"</p>
+        </div>
+      </div>
+      <div class="bible">
+        <span class="tag">Base da lição</span>
+        <blockquote>
+          "Mas Deus prova o seu amor para conosco em que Cristo morreu por nós, sendo nós ainda pecadores."
+          <footer>Romanos 5:8</footer>
+        </blockquote>
+        <p class="fidelity">Aqui a narradora fala com a criança sobre a vida dela — é ensino, claramente separado da história. É o lugar certo do "pede desculpinha" (que não aparece como fato na narrativa).</p>
+      </div>
+      <details class="prod"><summary>Produção</summary><p>P1: todos acenando tchau (abraço em grupo) · P2: nuvem de coração no pôr do sol. SFX: sininhos. Bordão fixo do canal com gesto de abraço.</p></details>
+    </article>
+
+  </div>
+
+  <section class="panel changes">
+    <h2>O que esta versão corrigiu (12/07/2026)</h2>
+    <ul>
+      <li><span class="old">"Deus fez roupinhas quentinhas"</span> → <span class="new">"Deus mesmo fez roupinhas novas"</span> — Gn 3:21 não dá o motivo das roupas.</li>
+      <li><span class="old">"Foi sim... desculpa, Deus"</span> → <span class="new">"E eles contaram: foi sim"</span> — o pedido de desculpa não está no texto (Gn 3:12-13).</li>
+      <li><span class="old">Adão batizando os mascotes ("JUBA!", "NINA!")</span> → <span class="new">brincadeira com os bichos reais ("LEÃOZINHO!", "POMBINHA!")</span>.</li>
+      <li><span class="old">Cobrinha "travessa-fofa"</span> → <span class="new">cobrinha que "não falava a verdade" — "Era mentira, amiguinho!"</span> (Gn 3:4,13).</li>
+      <li>O aviso de Deus agora inclui a consequência, de forma suave e verdadeira (Gn 2:17).</li>
+    </ul>
+  </section>
+
+  <p class="motto">"Deus cuida de mim... Deus cuida de você!"</p>
+
+  <footer class="end">
+    Geração Eleita Flix · Roteiro EP02 (versão fiel, 12/07/2026) · Citações: Gênesis 1–3 e Romanos 5:8 (Almeida) · Regra completa do canal: FIDELIDADE-BIBLICA.md
+  </footer>
+
+</div>

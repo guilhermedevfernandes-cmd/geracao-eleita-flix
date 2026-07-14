@@ -1,0 +1,20 @@
+{
+  "dependencies": [],
+  "fingerprint": "7cd486812c1ba24f03c8ebdf8df29e16e72e6f98e088231edaba1cfb9b753bcc",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "66eac8bcc7119c4ecb7d1eb5f5376f593d7fcfbb3db1e872a6509efec4b1bcb4",
+  "output_size": 98925,
+  "schema": 1,
+  "values": {
+    "direction": "[joyful] [filled with wonder]",
+    "model": "elevenlabs",
+    "post_atempo": "0.95",
+    "prompt": "Os mares se encheram de peixes de todas as cores. Criaturas grandes e pequenas nadavam juntas.",
+    "similarity_boost": "0.78",
+    "speed": "0.90",
+    "stability": "0.50",
+    "tts_model": "eleven_v3",
+    "voice_id": "gkqqIm2zTUUewCkNIkTF",
+    "voice_type": "elevenlabs"
+  }
+}

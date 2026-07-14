@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "a815daaff92b62d307e40ec4cd97b533784666bb62ce631712c02e2b0d2c72bd",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "94aa8032b581463ca851899bf9800cdcaab541f662afde385ef2a7cbd03114c1",
+  "output_size": 98264,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[calm] Então João batizou Jesus no rio Jordão. [softly] A aguinha brilhou... e Jesus saiu da água.",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

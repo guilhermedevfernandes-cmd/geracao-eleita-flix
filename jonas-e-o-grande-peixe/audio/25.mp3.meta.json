@@ -1,0 +1,14 @@
+{
+  "dependencies": [],
+  "fingerprint": "38cf796df15187ae95eead90c258cbd7dbf5618ab9ed685d778f9bcc5b403754",
+  "kind": "higgsfield-audio:text2speech_v2",
+  "output_sha256": "a3fd5520bd34c289b0633728123af02c6a9b9676bb12a9a3c27dd042d0d10970",
+  "output_size": 116236,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "Jonas caiu na areia, cansado e molhado. Mas ele estava vivo. Deus tinha lhe dado outra chance.",
+    "voice_id": "d8ba9f14-8a24-44db-932b-99e16c45bd32",
+    "voice_type": "preset"
+  }
+}

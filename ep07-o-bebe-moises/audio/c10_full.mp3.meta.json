@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "eb5f9952ab32b93a6a2898870a36d6abc0348518d751cc0ef8536a8a1627f256",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "b9f344a12e92e4c8553e8dcb75334f535129339bcae632c5b796b4e09634ac32",
+  "output_size": 374953,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[warm] E o que aprendemos com essa história? [thoughtful] Vem lembrar comigo.\n\n[calm] Um: Deus cuida dos pequenininhos.\n\n[calm] Dois: Deus usa a família para proteger a gente.\n\n[warm] Três: Deus tem um plano lindo para cada um. Para o Moisés... e para você.\n\n[warm] Deus cuida de mim, Deus cuida de você! [happy] Tchau! Até a próxima.",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "346feb965f7f02c8cf267e97f8dbe773a9367a0383a203da2b2db87c70ce9144",
+  "kind": "elevenlabs-audio:sound_generation",
+  "output_sha256": "d341dfc25e97ba86810155356864186f9e1d55d1d43c6c12c65d7700199553a4",
+  "output_size": 1705038,
+  "schema": 1,
+  "values": {
+    "duration": "8.88",
+    "prompt": "soft leaf rustle, tiny water drip, warm quiet tone. Scene context: terra. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

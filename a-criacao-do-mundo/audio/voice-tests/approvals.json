@@ -1,0 +1,29 @@
+{
+  "approvals": {
+    "adam": {
+      "approved_at": "2026-07-10T18:02:03.885522+00:00",
+      "fingerprint": "41d94e961689dd234e198a9dbc90d439d346e68594c0728cc2aa536c2694444f",
+      "output_sha256": "fefb1530eef0568f573ce78dca302679d56c43ab17595fc6a651d663dd9ebbff",
+      "voice_id": "NHphTvFqgs01MNV8q4Gn"
+    },
+    "deus": {
+      "approved_at": "2026-07-10T18:02:03.513911+00:00",
+      "fingerprint": "3aa9d3212fc9357b048bdf311a1110b1a5eb2ed23b8c2fc7721a55651224ec72",
+      "output_sha256": "ca003c908d1bcde13ebabb57b80b1e482cdf28b8dd1d2c0b57fce9eb81561548",
+      "voice_id": "r8pRY97Q57nCIMtpOyWA"
+    },
+    "eva": {
+      "approved_at": "2026-07-10T18:02:04.238845+00:00",
+      "fingerprint": "030f31ea0ce595d6ac5ba48d58d275cb922ed3bca38d69df884781c853665524",
+      "output_sha256": "33d97d7f33ef667c9f7b583999de831561d14b0ed2ebd2b0d4c768a9304059cc",
+      "voice_id": "CQvWt7QRuInVGJUccjBp"
+    },
+    "narrator": {
+      "approved_at": "2026-07-10T18:02:03.178017+00:00",
+      "fingerprint": "0a3bbb096b588fdc94bd8faa9817ad5ab215c6c43bb48290b00042df43ea00b8",
+      "output_sha256": "8c08162e131e730693c61366865916977c45457a5e078eeff32a5991e53bd3ae",
+      "voice_id": "gkqqIm2zTUUewCkNIkTF"
+    }
+  },
+  "schema": 1
+}

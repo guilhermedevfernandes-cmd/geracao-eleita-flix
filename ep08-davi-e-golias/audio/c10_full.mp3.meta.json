@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "fc600e414d6b9a1bfbe98e670216a5cab725bda5e88bf25cd7fba8f98e48a199",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "8570badef5a3c67cdacf5dfdb5720745ccc0e1fa5f6c5306401c2fa18f5b7c93",
+  "output_size": 319782,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[warm] E o que aprendemos com essa história? [thoughtful] Vem lembrar comigo.\n\n[calm] Um: a vitória vem de Deus.\n\n[calm] Dois: Deus usa até os pequenininhos.\n\n[warm] Três: quem anda com Deus não precisa ter medo.\n\n[warm] Deus cuida de mim, Deus cuida de você! [happy] Tchau! Até a próxima.",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

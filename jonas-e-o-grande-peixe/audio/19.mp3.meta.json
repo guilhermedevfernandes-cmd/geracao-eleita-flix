@@ -1,0 +1,14 @@
+{
+  "dependencies": [],
+  "fingerprint": "9a8fc12bd01675be60c2dea70518e287ed7749237bf040266157f444263145c8",
+  "kind": "higgsfield-audio:text2speech_v2",
+  "output_sha256": "f7b3bfee804f67e9e084f14ebbd50751ec99b9b2050e4e7dbe2f58abb1b37d34",
+  "output_size": 103279,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "Então eles jogaram Jonas no mar. Na mesma hora, as águas começaram a se acalmar.",
+    "voice_id": "d8ba9f14-8a24-44db-932b-99e16c45bd32",
+    "voice_type": "preset"
+  }
+}

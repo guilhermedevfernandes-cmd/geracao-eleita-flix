@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "e01500168c318cd90a348d4f467b39f41f50ab585fef54124aaebb95347ac642",
+  "kind": "elevenlabs-audio:sound_generation",
+  "output_sha256": "01a69b1d66aeb033f7ac8a5406ad36f22e121c39558670e99d5ef4624439aa5c",
+  "output_size": 1244238,
+  "schema": 1,
+  "values": {
+    "duration": "6.52",
+    "prompt": "soft sleep breath, night garden hush, warm low tone. Scene context: humanidade. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

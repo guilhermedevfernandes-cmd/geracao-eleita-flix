@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "48703a6f7b7b5447a251b24f5e4f2ebf8cd8ddc79bf60613235267cbcb029dab",
+  "kind": "elevenlabs-audio:sound_generation",
+  "output_sha256": "6350a79ac8aa3945e0a559c54ea5f1ece6cc665a825aa1b3c189f6437ed3465b",
+  "output_size": 1198158,
+  "schema": 1,
+  "values": {
+    "duration": "6.27",
+    "prompt": "wind hush, distant horns fading, heartbeat-like drum. Scene context: desafio. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

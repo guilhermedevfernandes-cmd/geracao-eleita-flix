@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "32d51a36d6e30634a5604bd4db94b057f5b61c481da7135cebe57c357c06456a",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "4ed95d0c803bdd8fbf65c093be24ab818afc308b3fb779f5b97e31f51480ec84",
+  "output_size": 39332,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[calm] Um: Deus fez o mundo inteiro.",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

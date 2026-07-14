@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "c2d5a3952bd47ef24ef30ff55b40697002af3fb57edcd103d321dfc3d7571421",
+  "kind": "elevenlabs-audio:sound_generation",
+  "output_sha256": "bf0ec3b1b60200cf136daaf314dad11c3e697c72b4d363dd19d876cc7da48350",
+  "output_size": 1513038,
+  "schema": 1,
+  "values": {
+    "duration": "7.92",
+    "prompt": "ocean gathering roar softened, dripping rock, wind over land. Scene context: terra. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

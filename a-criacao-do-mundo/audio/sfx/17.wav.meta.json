@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "d21b72e6a196220f20ed22532402224c8bedc0e42e196ec7fd82c094bd52a402",
+  "kind": "elevenlabs-audio:sound_generation",
+  "output_sha256": "72f50b758de1c0c9a5b757e7c3469324f7639bd07999fabb0a262e763d9041e9",
+  "output_size": 1236558,
+  "schema": 1,
+  "values": {
+    "duration": "6.44",
+    "prompt": "soft stellar chime, quiet night wind, distant sea. Scene context: astros. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

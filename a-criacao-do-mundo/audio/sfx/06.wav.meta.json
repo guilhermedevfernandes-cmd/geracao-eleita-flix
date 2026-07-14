@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "96b64ff651c22bf548042a1614432a9ab82627f634df78e0589dd2e619fd8663",
+  "kind": "elevenlabs-audio:sound_generation",
+  "output_sha256": "43c832f1c3798618b665c2fb213a944ab5aa7266ca4071b02feb56424837f2e3",
+  "output_size": 1067598,
+  "schema": 1,
+  "values": {
+    "duration": "5.59",
+    "prompt": "gentle cosmic wind, soft water, warm presence tone. Scene context: luz. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "99b7f91a184ae42d36f7b12105387300521779dd12fdd9e6000d501b94665a53",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "a44180d648d6c0aa0bbb91fff15bae9232dcf9384211bcf2383e78d08b973a6c",
+  "output_size": 48527,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[warm] O arco-íris é o sinal da promessa de Deus.",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

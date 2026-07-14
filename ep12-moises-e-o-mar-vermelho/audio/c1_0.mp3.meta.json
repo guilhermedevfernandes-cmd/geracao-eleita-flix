@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "d54c9ed819d60f9a8aa3728df553662f05fde6dcac88d73f1cca2a4a1bfc4f66",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "03dfd50eefeb57a2e9bcbb60a32ebf5360828f86b29dadfac8d4aa3e90b0a333",
+  "output_size": 157196,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[warm] Olá, amiguinho! Que bom te ver. [happy] Hoje eu vou contar a história de Moisés. Lembra do bebê da cestinha? Ele cresceu! Vem comigo.",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

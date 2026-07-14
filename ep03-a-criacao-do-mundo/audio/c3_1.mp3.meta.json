@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "b425935553648cb1172f0eb603232be8dda20703df84691c5d17bef419a2445e",
+  "kind": "elevenlabs-audio:eleven_multilingual_v2",
+  "output_sha256": "7aec4aa98796b424dfb7a12241d81174a97304bd15134d12cd3b3ddab7483dce",
+  "output_size": 163466,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[awe] E a luz apareceu! Que linda. [warm] Deus chamou a luz de dia, e a escuridão de noite. E Deus viu que a luz era boa. Esse foi o primeiro dia.",
+    "tts_model": "eleven_multilingual_v2",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

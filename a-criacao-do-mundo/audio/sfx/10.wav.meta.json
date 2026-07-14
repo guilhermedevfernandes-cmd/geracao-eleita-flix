@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "ddbf6192528ce49f85237475884354f594051a596edd1b7e13331799f0976c01",
+  "kind": "elevenlabs-audio:sound_generation",
+  "output_sha256": "2f7c211f6aee34db9376883502a4eee6a3c8ceec2782196bfd49c06f8ac0a638",
+  "output_size": 983118,
+  "schema": 1,
+  "values": {
+    "duration": "5.14",
+    "prompt": "airy breeze, calm sea, soft celestial tone. Scene context: ceu. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

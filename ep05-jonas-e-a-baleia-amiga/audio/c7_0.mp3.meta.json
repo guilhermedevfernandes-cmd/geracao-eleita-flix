@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "e3be6e232c885af265659a39cb018e5d411de738d7be8977f6061df954d3b665",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "1300a49f9c5afa4ac8e6f107e442d5eeb8da8b82e9b2fe78a039aabf8f6f1f69",
+  "output_size": 31808,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[calm] E Deus falou com Jonas de novo:",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

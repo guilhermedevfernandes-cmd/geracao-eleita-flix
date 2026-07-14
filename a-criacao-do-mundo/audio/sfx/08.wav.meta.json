@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "fe06f847e572b0e88947c578b821dfc45f533a0e32e61c2858d8583247dc3601",
+  "kind": "elevenlabs-audio:sound_generation",
+  "output_sha256": "c3b76036b757fdd1a3f2f7c2b2649b612850f60c3fdf8f3ae5bfdce07d83ee70",
+  "output_size": 990798,
+  "schema": 1,
+  "values": {
+    "duration": "5.19",
+    "prompt": "rising wind, water separation roar softened, airy tone. Scene context: ceu. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "af1b4dc6f5cdfbbf5120439d4713209914ee80e7d29eab1aa913797e726b0bfa",
+  "kind": "elevenlabs-audio:sound_generation",
+  "output_sha256": "b57f1e636237953fc51ac4fcdafdced94670f6df23ecbcc269ef546f1ff3d7c2",
+  "output_size": 40586,
+  "schema": 1,
+  "values": {
+    "duration": "2.50",
+    "prompt": "magical cheerful gift reveal shimmer, cute sparkle chime flourish for a preschool show, bright and warm, no voices. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

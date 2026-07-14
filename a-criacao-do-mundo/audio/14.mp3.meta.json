@@ -1,0 +1,20 @@
+{
+  "dependencies": [],
+  "fingerprint": "0dedef28d3511032e3c678094a02071ff7041e5a7a2dc27236fc85a5cdc3bed1",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "2cc2cc4e75e5876ba242e37f91ca4eaff37dd0c422b3d7a95bdd3a0b558e0909",
+  "output_size": 82797,
+  "schema": 1,
+  "values": {
+    "direction": "[warmly] [with quiet authority]",
+    "model": "elevenlabs",
+    "post_atempo": "0.95",
+    "prompt": "A terra é boa. Agora brote erva, plantas e árvores com fruto!",
+    "similarity_boost": "0.78",
+    "speed": "0.90",
+    "stability": "0.50",
+    "tts_model": "eleven_v3",
+    "voice_id": "r8pRY97Q57nCIMtpOyWA",
+    "voice_type": "elevenlabs"
+  }
+}

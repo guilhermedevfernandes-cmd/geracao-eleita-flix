@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "dafaa1a084aa08c69e988066710c4c609135c36e4ada9fd302c587d720ef9d3f",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "9a60be4d80d919a984b76448573f3be2b9b95b100759d5d78254c145dd2482c3",
+  "output_size": 285092,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[calm] Então veio um tempo sem comida nas terras. E adivinha quem chegou no Egito procurando comida? [gentle] Os irmãos de José! [softly] José podia ficar bravo com eles, não podia? [warm] Mas José escolheu perdoar. Ele abraçou os irmãos e disse: Deus me mandou na frente, para salvar vidas.",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

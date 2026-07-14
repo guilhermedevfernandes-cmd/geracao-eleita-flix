@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "a97caeb4073dc63498d0648f21be418b951dc4a1fd8abe8fa982f8bb936fd1ad",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "374d7f41e8e5016055e48f2bfda84322c6d5e54081f61e6265fa7912e803c4a6",
+  "output_size": 341516,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[warm] E o que aprendemos com essa história? [thoughtful] Vem lembrar comigo.\n\n[calm] Um: Deus está com a gente, até bem longe de casa.\n\n[calm] Dois: Deus pode transformar o mal em bem.\n\n[warm] Três: perdoar faz a família ficar junta de novo.\n\n[warm] Deus cuida de mim, Deus cuida de você! [happy] Tchau! Até a próxima.",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

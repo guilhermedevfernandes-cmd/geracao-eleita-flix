@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "48cf22866efab19422cbb7ed8455b6815c2209f2d86e9fff26c1274e085ba791",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "acd54cd83a5350fc7ea0c5c686d75c29984e5d8371d96865843bc68ad782bae0",
+  "output_size": 316021,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[calm] Mas aí, veio um vento muito forte. [gentle] O mar ficou bravo, cheio de ondas! O barco balançava para lá e para cá. Os marinheiros ficaram com medo. [calm] E Jonas contou: é por minha causa. Eu fugi de Deus. Podem me colocar no mar. [softly] Splash! E o mar... ficou calminho.",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

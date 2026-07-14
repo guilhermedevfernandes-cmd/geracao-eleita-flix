@@ -1,0 +1,17 @@
+{
+  "dependencies": [
+    {
+      "filename": "eva_ref.png",
+      "label": "ref-eva",
+      "sha256": "14fe5d324c24798ab754d8d4813670e3b38b3ebeff9e6a45809558ca29c2177f"
+    }
+  ],
+  "fingerprint": "ac039b073ba9c4391e710139643d6e988ed9e3ebd7a97b76e7dbb67e643d1833",
+  "kind": "episode-frame",
+  "output_sha256": "3fa0492ac2c8414da2cec206cf060a054aec9e76f4c022018c0313651a3928d3",
+  "output_size": 2436404,
+  "schema": 1,
+  "values": {
+    "source_signature": "ee24c36b51faf0e940e54adb90f3d1c30e772e38e556c7be93055f5777a62412"
+  }
+}

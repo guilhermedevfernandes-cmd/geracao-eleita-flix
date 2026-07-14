@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "ecfce43502207e613a96c00073d467692fabf32ff2e97ccb4fd4ab3d1fc9a1cb",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "748471985f82f76bda6dc316533e67b0bc2aebaec93c6255a7abd20fcd1ddcaa",
+  "output_size": 331485,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[calm] Mas os irmãos ficaram com ciúme de José. [gentle] E José contou dois sonhos que teve. No primeiro sonho, os feixes de trigo dos irmãos se curvavam para o feixe dele. [awe] E no segundo sonho, o sol, a lua e onze estrelas se curvavam para José! [softly] Aí o ciúme ficou maior ainda.",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

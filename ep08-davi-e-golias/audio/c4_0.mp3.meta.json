@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "ae796f805398f6ed9e498d8d26bbf3fbecd51ec2e156a67d6233993503f39089",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "67a593318dda036a2f5ce60ea02e749e892cee4c93b05c3444f82282a8606993",
+  "output_size": 314767,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[calm] No acampamento, todo mundo estava com medo. [awe] Do outro lado, havia um soldado gigante, muito grandão, chamado Golias. [gentle] Todos os dias ele gritava, zombando do povo de Deus: quem vem lutar comigo? [softly] E ninguém tinha coragem de ir.",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "53d1f9339faa17991934359ebf1ecd9664e6800a4421d2408f6799cab59af4a8",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "7e00e56d3ec5b8361391a5d79b2af20c44553762fcb85980a799e2dbac29051a",
+  "output_size": 118744,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[warm] Olá, amiguinho! Que bom te ver. [happy] Hoje eu vou contar a história de José e a sua túnica colorida. Vem comigo.",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

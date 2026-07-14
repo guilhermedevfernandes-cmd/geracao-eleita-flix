@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "7a873a4ddbcd6d7e4432c469810a84b6ecc6daf8abc6d2874f9b27dfde27919e",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "8d48f239ce7bbb5250053869d57c676e70e552c69356a562b6e2b9106fd323c2",
+  "output_size": 49781,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[calm] Onde vocês estão? Vocês comeram a fruta?",
+    "tts_model": "eleven_v3",
+    "voice_id": "7i7dgyCkKt4c16dLtwT3",
+    "voice_type": "elevenlabs"
+  }
+}

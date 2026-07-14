@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "848d2713d1be8af1cd771b4bd1721086d6ad3f271482a9b51ef0952d13b367b7",
+  "kind": "elevenlabs-audio:eleven_multilingual_v2",
+  "output_sha256": "4a85149696523ae997c7ae1fefe580962faada0392a98aa075050233f60afaa8",
+  "output_size": 28047,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[calm] Apareça a terra seca!",
+    "tts_model": "eleven_multilingual_v2",
+    "voice_id": "7i7dgyCkKt4c16dLtwT3",
+    "voice_type": "elevenlabs"
+  }
+}

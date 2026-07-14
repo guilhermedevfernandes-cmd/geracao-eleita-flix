@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "2a892a2891be453d3a84801987647f55e379d9677b4f85d016112bb7c68f57f5",
+  "kind": "elevenlabs-audio:sound_generation",
+  "output_sha256": "75572ee4e25210f41acfb865edf685ba8510cfcbcd4699656e422ff3fefafe32",
+  "output_size": 1482318,
+  "schema": 1,
+  "values": {
+    "duration": "7.74",
+    "prompt": "grass rustle, leaf unfurl, soft bees-to-be ambience, breeze. Scene context: terra. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

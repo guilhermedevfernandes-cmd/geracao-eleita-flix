@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "045bdd4fc89cff991bda9b9a760310d6da78713b4285fc35f3ed2636db0c7608",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "dbafba865905e4122c01e0dc49e6fa2afa18be2e9c1a94c009c1f2106ee3b0fa",
+  "output_size": 134208,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[softly] E veio a chuva. Plic, ploc... Mas dentro da arca, todos estavam seguros. Deus cuidava deles.",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

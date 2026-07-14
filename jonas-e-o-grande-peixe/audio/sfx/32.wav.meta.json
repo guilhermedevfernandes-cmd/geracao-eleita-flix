@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "d17fe88062666bcebe857af3b43e0a58845a17a2a7ac897826aa80a1db4f2fb2",
+  "kind": "higgsfield-audio:mirelo_text_to_audio",
+  "output_sha256": "23c2c799caa6dc41a16714942595bf099e36673970c5db11c68345a9b8438c48",
+  "output_size": 1399966,
+  "schema": 1,
+  "values": {
+    "duration": "7.28",
+    "prompt": "quiet palace ambience, soft breath, distant city bells. Scene context: missao. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

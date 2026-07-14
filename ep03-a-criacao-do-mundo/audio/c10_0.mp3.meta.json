@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "d0284a31a53adda4a15b8754fb423b2dbf0de78ae0483ba868deb640a9d68aec",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "8eb0494da5c10e56a463c0f74afdde9c703424b8ad5a97d2f5087c2c58e61987",
+  "output_size": 65245,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[warm] E o que aprendemos com essa história? [thoughtful] Vem lembrar comigo.",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

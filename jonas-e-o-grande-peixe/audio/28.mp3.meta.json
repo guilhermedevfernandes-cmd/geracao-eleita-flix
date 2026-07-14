@@ -1,0 +1,14 @@
+{
+  "dependencies": [],
+  "fingerprint": "5f6f6db4f70fd59a9fa13d613f3133362dcad51e7e139a22b2ce60ead8cb9e46",
+  "kind": "higgsfield-audio:text2speech_v2",
+  "output_sha256": "4d0101adff7dee5124a5fff45d108568d8ab63365dec1c8e8a5386a311947746",
+  "output_size": 113728,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "Nínive era tão grande que levava dias para atravessar. Jonas entrou pelos portões e começou a falar.",
+    "voice_id": "d8ba9f14-8a24-44db-932b-99e16c45bd32",
+    "voice_type": "preset"
+  }
+}

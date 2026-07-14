@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "bceba848acbfa55a8317ac1a8fcf6f10f5c68f2262da747cee231f6bb2f830b5",
+  "kind": "higgsfield-audio:mirelo_text_to_audio",
+  "output_sha256": "5e8f26c3ec4e9765a871cefc2c4822a2b479228ad92229832ac2d6b82cc03806",
+  "output_size": 1319718,
+  "schema": 1,
+  "values": {
+    "duration": "6.86",
+    "prompt": "crowd hush spreading, footsteps stopping, tense city ambience. Scene context: missao. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

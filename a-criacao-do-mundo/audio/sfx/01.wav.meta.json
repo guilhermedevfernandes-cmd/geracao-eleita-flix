@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "61e3ea8d0b87e0b0fb17f2a6ab75308997a1626d853d4d41cb9ee21dad99cce9",
+  "kind": "elevenlabs-audio:sound_generation",
+  "output_sha256": "706b967da18d15ed737747570afaa02ab62f9674446b66d9b6d8b640f87d667f",
+  "output_size": 1689678,
+  "schema": 1,
+  "values": {
+    "duration": "8.83",
+    "prompt": "deep quiet void ambience, soft distant resonance. Scene context: gancho. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

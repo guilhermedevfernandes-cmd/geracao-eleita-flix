@@ -1,0 +1,14 @@
+{
+  "dependencies": [],
+  "fingerprint": "6e51516a8d92d4923aedff322ebec119d7ab71124b2663cc1a21a6c77ab4a19b",
+  "kind": "higgsfield-audio:text2speech_v2",
+  "output_sha256": "27722b9b973b70bcb4a034dd59a81251d0ed1c34ebd3a313582a4ca058cdebbd",
+  "output_size": 121252,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "A notícia chegou até o rei. Ele se levantou do trono, tirou o manto real e se humilhou diante de Deus.",
+    "voice_id": "d8ba9f14-8a24-44db-932b-99e16c45bd32",
+    "voice_type": "preset"
+  }
+}

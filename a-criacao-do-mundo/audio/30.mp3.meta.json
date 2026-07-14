@@ -1,0 +1,20 @@
+{
+  "dependencies": [],
+  "fingerprint": "e2d605449a438ea85c16dd362e50d073b51a92a6276cb873bb0ad704f2bc22ef",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "a2210cf74bb941384a8f884e1c063852b3a8803e81afadb1b8b0ea1738c521bf",
+  "output_size": 68205,
+  "schema": 1,
+  "values": {
+    "direction": "[amazed] [joyfully]",
+    "model": "elevenlabs",
+    "post_atempo": "0.95",
+    "prompt": "Eu... estou vivo. Que lugar lindo é este!",
+    "similarity_boost": "0.78",
+    "speed": "0.90",
+    "stability": "0.50",
+    "tts_model": "eleven_v3",
+    "voice_id": "NHphTvFqgs01MNV8q4Gn",
+    "voice_type": "elevenlabs"
+  }
+}

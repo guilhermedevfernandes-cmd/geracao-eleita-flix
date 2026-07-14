@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "a7a0625fab509d4760b937d401dfc269aa39ae2dfd019eef1641e8bbba797bf8",
+  "kind": "elevenlabs-audio:sound_generation",
+  "output_sha256": "254b52fdab5ff99a623e3356b3f33f4e969adb6142f5ff360c40ec9ea753dc7c",
+  "output_size": 1305678,
+  "schema": 1,
+  "values": {
+    "duration": "6.83",
+    "prompt": "warm night ambience, soft laughter, cloth movement. Scene context: resposta. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

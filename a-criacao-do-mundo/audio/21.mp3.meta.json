@@ -1,0 +1,20 @@
+{
+  "dependencies": [],
+  "fingerprint": "14a8c1d5952dd07f04eb7522a6c8824bbd5c3232e2b6ad5ed6340857a1e72a2c",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "7a55153665bad32b71812eb1e6aaec7065ea4e6d650505ee829563c38e91aeb2",
+  "output_size": 75885,
+  "schema": 1,
+  "values": {
+    "direction": "[joyful] [playfully]",
+    "model": "elevenlabs",
+    "post_atempo": "0.95",
+    "prompt": "Águas, encham-se de seres vivos. E voem aves sobre a terra!",
+    "similarity_boost": "0.78",
+    "speed": "0.90",
+    "stability": "0.50",
+    "tts_model": "eleven_v3",
+    "voice_id": "r8pRY97Q57nCIMtpOyWA",
+    "voice_type": "elevenlabs"
+  }
+}

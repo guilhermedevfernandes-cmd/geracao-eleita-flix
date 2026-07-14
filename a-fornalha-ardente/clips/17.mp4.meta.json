@@ -1,0 +1,17 @@
+{
+  "dependencies": [
+    {
+      "filename": "17.png",
+      "label": "frame",
+      "sha256": "0fe57bf8b2c32b0f3fc09819f5a77222811cd42758108d37ae803d0722713525"
+    }
+  ],
+  "fingerprint": "17bae2ce154519ea7b76bace3944700f848d44adb239f9b80137458ce8f1549a",
+  "kind": "episode-clip",
+  "output_sha256": "5277b9c6164c6ad4c174d5464398a5f41d3e78622dc57805186ca1dbdf5b5547",
+  "output_size": 10126375,
+  "schema": 1,
+  "values": {
+    "source_signature": "9b77bea12f39a6e8bf532e6c596d9df7710f2c592fc74b94125955d0a4468210"
+  }
+}

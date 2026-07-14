@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "e0aba471659cabd5475a28832028f9816e50f6b96617575f98e867137a5fef31",
+  "kind": "elevenlabs-audio:sound_generation",
+  "output_sha256": "e4e038fb833a36391957c9918dae8ca0f50717f762514699162cb1393a227cab",
+  "output_size": 1597518,
+  "schema": 1,
+  "values": {
+    "duration": "8.36",
+    "prompt": "echoing proclamation, gentle night wind, distant horns. Scene context: resposta. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

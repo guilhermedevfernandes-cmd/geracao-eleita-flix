@@ -1,0 +1,20 @@
+{
+  "dependencies": [],
+  "fingerprint": "6c68cd92dcd641252347c8960ea7635185131fbc9479c4ec48024575c4897b57",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "d0f8d016d35a1dd998e7b38039da16fa03c3f9bc6ff1b86e8cb5a7f1fc48ce50",
+  "output_size": 97773,
+  "schema": 1,
+  "values": {
+    "direction": "[powerful] [building excitement]",
+    "model": "elevenlabs",
+    "post_atempo": "0.95",
+    "prompt": "Águas debaixo do céu, juntem-se num só lugar. Apareça a terra seca!",
+    "similarity_boost": "0.78",
+    "speed": "0.90",
+    "stability": "0.50",
+    "tts_model": "eleven_v3",
+    "voice_id": "r8pRY97Q57nCIMtpOyWA",
+    "voice_type": "elevenlabs"
+  }
+}

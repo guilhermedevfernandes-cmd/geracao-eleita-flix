@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "f3b4434fc02efae7dc8af8cd0ddb26a3a840d049c0a9ee778aa22151f4f8a140",
+  "kind": "higgsfield-audio:mirelo_text_to_audio",
+  "output_sha256": "0372fab4e41c73af18a600eec2a92358c673b736beb38d7cdab876b207dc2bb8",
+  "output_size": 1636250,
+  "schema": 1,
+  "values": {
+    "duration": "8.50",
+    "prompt": "soft weeping, cloth kneeling, quiet city wind. Scene context: missao. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "92bb217071f1666f283c3901292dc7bbfffdbe723f4361c9a9fadbf105415280",
+  "kind": "higgsfield-audio:mirelo_text_to_audio",
+  "output_sha256": "4b2cc283ed097d8d1478246e08a6acfec8dd6a88ba86aad00e6e2fb2f5cc35c3",
+  "output_size": 1181510,
+  "schema": 1,
+  "values": {
+    "duration": "6.14",
+    "prompt": "dry wind, cloth shelter flap, distant peaceful city. Scene context: resolucao. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

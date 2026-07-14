@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "cf13aa1e4441b8fc0b5f0febbf68c266e3942d81529e07bddc11a58995de0573",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "14b4308ff8f9c6e951c8ef532c79d525ee2a06e7d41bc2e75d27866fdd321eb5",
+  "output_size": 188125,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[calm] Moisés! Moisés! Tire as sandálias, porque este lugar é santo. [warm] Eu vi o sofrimento do meu povo no Egito. Vá até o Faraó... e tire o meu povo de lá!",
+    "tts_model": "eleven_v3",
+    "voice_id": "7i7dgyCkKt4c16dLtwT3",
+    "voice_type": "elevenlabs"
+  }
+}

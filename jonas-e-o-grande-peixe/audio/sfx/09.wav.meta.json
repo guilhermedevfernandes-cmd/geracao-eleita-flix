@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "b3d5112c472da0aaba6e828e190f8c7ceef4d69995c2baba57e71d90ba73629e",
+  "kind": "higgsfield-audio:mirelo_text_to_audio",
+  "output_sha256": "5413bb80dd7274fe87435a9ec940fb6b1f7468749e799ead28a97598c08e25b1",
+  "output_size": 1252842,
+  "schema": 1,
+  "values": {
+    "duration": "6.52",
+    "prompt": "creaking dock wood, water lapping, distant sailors calling. Scene context: fuga. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

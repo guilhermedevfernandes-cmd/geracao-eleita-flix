@@ -1,0 +1,20 @@
+{
+  "dependencies": [],
+  "fingerprint": "e56bea72b32b85991cc003110ee2321f15717b593cae408f4f307be4e6ebd5c5",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "d13caad306e35bc55def1d1d9feff44f0cd446a057814588e146e5eee9e25762",
+  "output_size": 29037,
+  "schema": 1,
+  "values": {
+    "direction": "[powerful] [with awe]",
+    "model": "elevenlabs",
+    "post_atempo": "0.95",
+    "prompt": "Haja luz!",
+    "similarity_boost": "0.78",
+    "speed": "0.90",
+    "stability": "0.50",
+    "tts_model": "eleven_v3",
+    "voice_id": "r8pRY97Q57nCIMtpOyWA",
+    "voice_type": "elevenlabs"
+  }
+}

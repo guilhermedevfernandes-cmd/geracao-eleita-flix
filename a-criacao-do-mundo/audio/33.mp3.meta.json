@@ -1,0 +1,20 @@
+{
+  "dependencies": [],
+  "fingerprint": "67ce5a0dd8d89ee0a8419900d05d43f49e9f903c080f866655a94317141a1d0d",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "0ad641a41b661f4749da899878709f472dd408fb966aa98d080714d57d31dfce",
+  "output_size": 74733,
+  "schema": 1,
+  "values": {
+    "direction": "[tender] [softly]",
+    "model": "elevenlabs",
+    "post_atempo": "0.95",
+    "prompt": "Não é bom que o homem esteja só. Vou fazer uma companheira para ele.",
+    "similarity_boost": "0.78",
+    "speed": "0.90",
+    "stability": "0.50",
+    "tts_model": "eleven_v3",
+    "voice_id": "r8pRY97Q57nCIMtpOyWA",
+    "voice_type": "elevenlabs"
+  }
+}

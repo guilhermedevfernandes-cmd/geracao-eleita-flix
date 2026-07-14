@@ -1,0 +1,14 @@
+{
+  "dependencies": [],
+  "fingerprint": "ad9622dabefabd5b3582e771d7a6119d2735f00dc85101d5744e9d5f662a1ba9",
+  "kind": "higgsfield-audio:text2speech_v2",
+  "output_sha256": "5317af4d9d105f85392aa7d2332a12a6b2a95b4dc9ca0feb2b3274b5c9bc2f97",
+  "output_size": 79038,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "Nínive? Eu não quero ir até lá. Eles não merecem uma chance de Deus!",
+    "voice_id": "73a45c18-0c56-4642-a61e-f6b303f8ded1",
+    "voice_type": "preset"
+  }
+}

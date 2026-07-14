@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "e5fd186d72f519d8ed38c6a9edd32291fba74b78b9026a3e0501fa941b7528ad",
+  "kind": "elevenlabs-audio:sound_generation",
+  "output_sha256": "9388f25d1ea01828d28da307f82c6cda3855bf71a96fc25b737875bc805d7009",
+  "output_size": 1697358,
+  "schema": 1,
+  "values": {
+    "duration": "8.85",
+    "prompt": "footsteps on soft earth, animal soft sounds, warm presence. Scene context: humanidade. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "1cdcab04c2768ac65d44b9401ec4f2d69e3c433657cba3a6ac383a310c2be47e",
+  "kind": "elevenlabs-audio:sound_generation",
+  "output_sha256": "5cf06a202492f421fbd9cdff4acb4f70d7f16a350430c16b891457259291d495",
+  "output_size": 1705038,
+  "schema": 1,
+  "values": {
+    "duration": "8.88",
+    "prompt": "softened fire, warm harmonic tone, gentle footsteps on embers. Scene context: livramento. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

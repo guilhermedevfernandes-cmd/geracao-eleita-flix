@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "5fad70d5900bf598727fae15ccde9aeb8a5476fd8498e0d1f8b6a96c87a1fdf0",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "af27bacfdbb87540ba722819d5da0fc42aecd3b13e6265b80619ba2cabf4ea26",
+  "output_size": 399195,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[warm] E o que aprendemos com essa história? [thoughtful] Vem lembrar comigo.\n\n[calm] Um: Jesus obedeceu a Deus em tudo, desde o começo.\n\n[calm] Dois: Deus, o Papai do céu, ama muito o Filho dele, Jesus.\n\n[warm] Três: quem anda com Jesus deixa Deus muito alegre.\n\n[warm] Deus cuida de mim, Deus cuida de você! [happy] Tchau! Até a próxima.",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

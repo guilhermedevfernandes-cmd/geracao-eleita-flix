@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "6bd57a5acbfa084d7f94ed6d76ecb6b8678b18b30e905682a66b932e64256269",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "7982985366abbefb9714b7df8bd34a37cdeae69288b1f2a07716d64aa2f2b1ae",
+  "output_size": 291779,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[calm] Naquele tempo, vivia um homem chamado João. Ele morava no deserto, usava uma roupa de pelos de camelo e comia mel silvestre. [warm] João avisava o povo: preparem o coração! Deus está chegando pertinho! [happy] E muitas pessoas vinham ouvir, e João as batizava no rio Jordão.",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

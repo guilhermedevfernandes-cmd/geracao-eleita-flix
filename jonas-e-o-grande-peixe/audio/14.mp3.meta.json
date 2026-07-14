@@ -1,0 +1,14 @@
+{
+  "dependencies": [],
+  "fingerprint": "bea0492e0d2fe20e984deb85ab3f1c06c7d6b0907b3327f5f417162e3dafb2d8",
+  "kind": "higgsfield-audio:text2speech_v2",
+  "output_sha256": "996ade33a39b768b42fbd7fa37aa3a5dff67d05ee211b38e08fcd63827a3dd43",
+  "output_size": 112475,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "Enquanto todos lutavam no convés, Jonas dormia no porão. O medo dos outros não o acordava.",
+    "voice_id": "d8ba9f14-8a24-44db-932b-99e16c45bd32",
+    "voice_type": "preset"
+  }
+}

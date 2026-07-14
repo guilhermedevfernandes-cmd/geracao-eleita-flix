@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "dcfce22772f2520a08d331b1a66c2584660bb7c097a031801caecba7394dd5b4",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "7008b43124aec112a99156ed885eb199cae05db1a24aa679e70ba877bc1c936f",
+  "output_size": 29301,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[calm] E Deus falou com Moisés:",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

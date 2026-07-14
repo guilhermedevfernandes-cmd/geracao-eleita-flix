@@ -1,0 +1,14 @@
+{
+  "dependencies": [],
+  "fingerprint": "7dde00a4ad9cb7c1074e00e78c46491a2c822bfe3c1d354003ab70595d65ad57",
+  "kind": "higgsfield-audio:text2speech_v2",
+  "output_sha256": "78f2fcf53d0b1bda0b9fca777ad0c595101019379efc8c1cd59f7e1b67af0193",
+  "output_size": 104951,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "Jonas ficou aborrecido. Ele queria justiça dura. Mas o coração de Deus queria misericórdia.",
+    "voice_id": "d8ba9f14-8a24-44db-932b-99e16c45bd32",
+    "voice_type": "preset"
+  }
+}

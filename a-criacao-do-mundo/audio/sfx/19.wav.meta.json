@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "706355f2f4243afa9d779628da8747a3d5220339514abd77c5ecf6208530f1b8",
+  "kind": "elevenlabs-audio:sound_generation",
+  "output_sha256": "253e6a1ceec4edc8cb640b6d279a54e90997ef2310d1b1519e7bb06c6a2fa4fc",
+  "output_size": 1190478,
+  "schema": 1,
+  "values": {
+    "duration": "6.23",
+    "prompt": "soft wind cycles, distant waves, calm celestial tone. Scene context: astros. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "8f8641cead3dc44491595b519ffd4531a4e1a5f43025ff1f09630781c2e1c902",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "4412f82a64130baefee7515c086e224da1a639794101308e9d3cc2d9dee9a84a",
+  "output_size": 150927,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[gentle] Mas Jonas não quis ir. [softly] Ele fugiu! Correu para o porto, entrou num barco... e partiu para bem, bem longe de Nínive.",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

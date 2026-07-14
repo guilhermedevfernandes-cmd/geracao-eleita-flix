@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "916a2a72f6bd21aeeae46029b0c1b4030b3fc5da295ab4e2576726f4bd32c693",
+  "kind": "elevenlabs-audio:sound_generation",
+  "output_sha256": "ad583e37bc9ea296cf86e34367098e0c8672f04fb71cf09423d6a6a914090c2b",
+  "output_size": 1344078,
+  "schema": 1,
+  "values": {
+    "duration": "7.01",
+    "prompt": "bird soft calls, reef water, warm presence tone. Scene context: vida. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

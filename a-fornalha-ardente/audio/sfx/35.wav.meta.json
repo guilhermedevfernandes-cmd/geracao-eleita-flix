@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "06af98200911db979d3689af7c84f915362a12aab63b06e012ab7794a008b3e1",
+  "kind": "elevenlabs-audio:sound_generation",
+  "output_sha256": "f5c99f317163de06ca614014daa1420b64fad1132530ad32193e3a90b6aa5592",
+  "output_size": 975438,
+  "schema": 1,
+  "values": {
+    "duration": "5.11",
+    "prompt": "small cozy fire, crickets, soft night breeze. Scene context: aplicacao. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

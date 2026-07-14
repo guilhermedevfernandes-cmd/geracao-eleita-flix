@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "7b372e4ea6499862774804458c80f539294f5f5a4ab6f3dcc2c03f18160cf0a4",
+  "kind": "elevenlabs-audio:sound_generation",
+  "output_sha256": "4b2d9d50c638cc917893df2283ac31f0b560c0ee6f619df8e43a38089e64286b",
+  "output_size": 65245,
+  "schema": 1,
+  "values": {
+    "duration": "4.00",
+    "prompt": "soft magical gentle campfire crackle for a preschool cartoon, warm and cozy, sacred glow shimmer, no voices, not scary. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

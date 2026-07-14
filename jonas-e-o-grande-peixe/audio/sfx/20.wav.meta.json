@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "d52795b6bd2b12fa78ad959f2314fe3799132fb1781f8f55d369e16bddce459a",
+  "kind": "higgsfield-audio:mirelo_text_to_audio",
+  "output_sha256": "e1f5d57d968cd196012d372350b5c9014ea98f81199099c13c90c7a42c3898c7",
+  "output_size": 1502502,
+  "schema": 1,
+  "values": {
+    "duration": "7.82",
+    "prompt": "underwater pressure rumble, muffled thunder, massive gentle whoosh. Scene context: peixe. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "ccc7a00043d4364b3df4f92bb5a6097e543740f0f1999623e360fdfcdd1fb413",
+  "kind": "elevenlabs-audio:sound_generation",
+  "output_sha256": "de426d1d5e802a3711d83f6a0b985f16e064256d603e955cd0117254c7f9198d",
+  "output_size": 1259598,
+  "schema": 1,
+  "values": {
+    "duration": "6.57",
+    "prompt": "warm solar hum, soft lunar hush, gentle space wind stylized. Scene context: astros. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

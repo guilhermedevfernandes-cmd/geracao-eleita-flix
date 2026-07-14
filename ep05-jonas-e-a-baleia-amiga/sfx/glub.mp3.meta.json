@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "f504bf4dfeaa016718d00f7e0724b51a06cea83094d208165ed0445727cd2cb2",
+  "kind": "elevenlabs-audio:sound_generation",
+  "output_sha256": "cd83577ac36bd4c50b6ab4b1475609e7c933c31b94c070fad91245e92a51aab4",
+  "output_size": 33062,
+  "schema": 1,
+  "values": {
+    "duration": "2.00",
+    "prompt": "cute cartoon gulp swallow sound, big soft glub glub with a little water bubble pop, funny and gentle for preschool animation, no voices. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

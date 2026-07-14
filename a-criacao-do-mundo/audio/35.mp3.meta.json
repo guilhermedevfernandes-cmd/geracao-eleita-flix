@@ -1,0 +1,20 @@
+{
+  "dependencies": [],
+  "fingerprint": "06d937142ce099e950c43fd76da165422c0044f98e44e05c84b4a211c87890f2",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "b5263d5b0f1a362f75a984a86ba336c6e0c3d89fc676cf81b1c43502849ef84a",
+  "output_size": 90861,
+  "schema": 1,
+  "values": {
+    "direction": "[overjoyed] [warmly]",
+    "model": "elevenlabs",
+    "post_atempo": "0.95",
+    "prompt": "Você! Agora o jardim parece completo. Eu não estou mais sozinho.",
+    "similarity_boost": "0.78",
+    "speed": "0.90",
+    "stability": "0.50",
+    "tts_model": "eleven_v3",
+    "voice_id": "NHphTvFqgs01MNV8q4Gn",
+    "voice_type": "elevenlabs"
+  }
+}

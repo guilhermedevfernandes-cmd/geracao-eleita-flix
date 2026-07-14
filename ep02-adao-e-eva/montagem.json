@@ -1,0 +1,16 @@
+{
+  "final": "EP02-PREVIEW-ADAO-E-EVA.mp4",
+  "bgm": "bgm-infantil.mp3",
+  "bgm_reflexao": "bgm-reflexao.mp3",
+  "cenas": [
+    {"nome": "c1", "segs": ["m01"], "planos": ["c1p1", "c1p2"], "sfx": [["sininhos", 0.8, 0.22]]},
+    {"nome": "c2", "segs": ["m02"], "planos": ["c2p1", "c2p2", "c2p3"], "sfx": [["bloom-magico", 1.2, 0.25], ["passarinho-piu", 6, 0.18]]},
+    {"nome": "c3", "segs": ["m03a", "m03b", "m03c"], "planos": ["c3p1", "c3p2"], "sfx": [["passarinho-piu", 1.2, 0.2]]},
+    {"nome": "c4", "segs": ["m04a", "m04b", "m04c"], "planos": ["c4p1", "c4p2"], "gap": 1.5, "sfx": [["sininhos", 9, 0.22]]},
+    {"nome": "c5", "segs": ["m05a", "m05b"], "planos": ["c5p1", "c5p2"], "sfx": [["harpa-magica", 0.8, 0.2]]},
+    {"nome": "c6", "segs": ["m06"], "planos": ["c6p1", "c6p2", "c6p3"], "sfx": [["cobra-sss", 4, 0.3], ["crunch-fruta", 10, 0.3]]},
+    {"nome": "c7", "segs": ["m07a", "m07b", "m07c"], "planos": ["c7p1", "c7p2"], "sfx": [["harpa-magica", 6, 0.18]]},
+    {"nome": "c8", "segs": ["m08"], "planos": ["c8p1", "c8p2", "c8p3"], "sfx": [["sininhos", 1.0, 0.22], ["harpa-magica", 8, 0.18]]},
+    {"nome": "c9-reflexao", "segs": ["m09_full"], "planos": ["c3p1", "c5p1", "c8p1", "c9p1", "c9p2"], "sfx": [["sininhos", 0.5, 0.22]]}
+  ]
+}

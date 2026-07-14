@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "2dd1de833c6dc1238d757bd9ad603184e4a6f53cc6f51348546c3e7694fa961f",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "61c381e9650d534363bf5314826f5fe8ca09fd2b87461253adf2c326be4f7efd",
+  "output_size": 278822,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[calm] Davi ouviu aquilo e disse: eu vou lutar com ele! [warm] Deus me ajudou com o leão e com o urso. Deus vai me ajudar agora também. [happy] O rei quis vestir Davi com a armadura dele... mas ficou grandona demais! [gentle] Davi tirou tudo e disse: assim eu não consigo nem andar.",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

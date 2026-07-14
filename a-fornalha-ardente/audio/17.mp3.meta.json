@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "907b0f70efe3a9d5459422fc6b13eda9356f24f41fe8a54fb6b2fe792fa6efd1",
+  "kind": "elevenlabs-audio:eleven_multilingual_v2",
+  "output_sha256": "28eeb23d76f14670a1caab64d358e2ee3e6a589c63beee1fa483dccb11294fab",
+  "output_size": 137134,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "Perto dali, a grande fornalha rugia. Suas chamas subiam altas, pintando o céu de laranja.",
+    "tts_model": "eleven_multilingual_v2",
+    "voice_id": "gkqqIm2zTUUewCkNIkTF",
+    "voice_type": "elevenlabs"
+  }
+}

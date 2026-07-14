@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "e8f03cba05ad1ef021f37e14e3ed6537fa76f3f70c4a24e1b0669becd036d2f8",
+  "kind": "elevenlabs-audio:eleven_multilingual_v2",
+  "output_sha256": "351c492987665889cee5145b75064a4e0131346537c045dcc15f8794617957e3",
+  "output_size": 157196,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[gentle] Deus fez o sol, para brilhar de dia. E a lua e as estrelas, para a noite. [whispering] Olha quantas estrelas... [warm] Esse foi o quarto dia.",
+    "tts_model": "eleven_multilingual_v2",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

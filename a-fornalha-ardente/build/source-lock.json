@@ -1,0 +1,11 @@
+{
+  "created_at": "2026-07-10T22:23:42.823430+00:00",
+  "episode_slug": "a-fornalha-ardente",
+  "expected_duration": 288.716,
+  "lock_fingerprint": "0b051981a64e362442cf9b13c5277a2fa29b1b68918291d57829e66b2d5013dc",
+  "master_inputs_fingerprint": "87459851854ee3c4f05d2a2e831538d6ba72ff3b26f25c82f0aa771487911ee9",
+  "nonce": "bc22732a175ce09f3a1a7f170e20fb45",
+  "pipeline_version": "2.2",
+  "schema": 1,
+  "source_fingerprint": "9ac25cba3090f0d1a6143c374d13177e84a37f5f130b0e11ed65d10d1963682f"
+}

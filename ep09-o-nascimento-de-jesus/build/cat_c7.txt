@@ -1,0 +1,4 @@
+file '/Users/huiosweb/Documents/huios-web-ccode/8 - Edicao De Videos/gerecao-eleita-flix/ep09-o-nascimento-de-jesus/build/vid_c7_0.mp4'
+file '/Users/huiosweb/Documents/huios-web-ccode/8 - Edicao De Videos/gerecao-eleita-flix/ep09-o-nascimento-de-jesus/build/vid_c7_1.mp4'
+file '/Users/huiosweb/Documents/huios-web-ccode/8 - Edicao De Videos/gerecao-eleita-flix/ep09-o-nascimento-de-jesus/build/vid_c7_2.mp4'
+file '/Users/huiosweb/Documents/huios-web-ccode/8 - Edicao De Videos/gerecao-eleita-flix/ep09-o-nascimento-de-jesus/build/vid_c7_3.mp4'

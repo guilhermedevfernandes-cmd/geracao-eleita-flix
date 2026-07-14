@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "42f4ef24a3aaca53149914eefc1eeeb98c3ad3de82a9ea2b52ecac6a1f7378b5",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "a5bf488b4a34c7e88148f0fbdc65a7d24e68f300c30199562749d535755968c3",
+  "output_size": 152181,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[warm] Viu só? Todas as vezes, Jesus respondeu com a Palavra de Deus: está escrito! [calm] A Palavra de Deus é a nossa força contra o enganador.",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "44fd3896ec66119464d7efcf071ddd5abb0a77fb8baf6098206ce20330e4904b",
+  "kind": "higgsfield-audio:mirelo_text_to_audio",
+  "output_sha256": "facf7ff172a6e6b61b71e208a30da9c80cfa3e4fc0ee379d3b93c9f9bf690f58",
+  "output_size": 1141386,
+  "schema": 1,
+  "values": {
+    "duration": "5.94",
+    "prompt": "warm evening wind, distant peaceful city. Scene context: resolucao. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

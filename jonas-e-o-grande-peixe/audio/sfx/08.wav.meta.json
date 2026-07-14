@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "f568b2e2d3a7e108a3cf82202f524773e51f23774adc2465586473efcc114e89",
+  "kind": "higgsfield-audio:mirelo_text_to_audio",
+  "output_sha256": "ce2efd4e35751ec38170638380de9762b92f8543d2b746815822093d07bbcf39",
+  "output_size": 1466838,
+  "schema": 1,
+  "values": {
+    "duration": "7.62",
+    "prompt": "harbor bustle, gulls, wooden crates, footsteps on stone. Scene context: fuga. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

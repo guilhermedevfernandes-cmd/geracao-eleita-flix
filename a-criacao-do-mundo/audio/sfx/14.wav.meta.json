@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "f55ab2aa9841991b2dd3ddd4c05ecaa271c1c75685bca0e9069d0be80c2436a5",
+  "kind": "elevenlabs-audio:sound_generation",
+  "output_sha256": "876bf7fb5fd2c939f576fed65285307740cb91e9dffed6f316d57a71ab745d72",
+  "output_size": 1251918,
+  "schema": 1,
+  "values": {
+    "duration": "6.53",
+    "prompt": "soil soft crackle, sprouting rustle, hopeful tone. Scene context: terra. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

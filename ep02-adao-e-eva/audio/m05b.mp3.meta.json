@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "121008c5d74cc73ae014676fda7c814ddb65b7885f0b87ac52ab265488b4c409",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "442120181ec19b3175dee19b5d64904ae4933028a3fe4d9b4d2ea3aee764b952",
+  "output_size": 166391,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[calm] Podem comer de todas as frutas. Só o fruto desta árvore não pode. Se comerem, algo muito triste vai acontecer.",
+    "tts_model": "eleven_v3",
+    "voice_id": "7i7dgyCkKt4c16dLtwT3",
+    "voice_type": "elevenlabs"
+  }
+}

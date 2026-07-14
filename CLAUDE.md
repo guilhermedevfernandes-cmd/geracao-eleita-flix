@@ -1,0 +1,280 @@
+# Geração Eleita Flix — Playbook de Produção
+
+> **Fonte canônica de conhecimento do canal.** Leia este arquivo INTEIRO antes de produzir
+> qualquer episódio. Ele existe para que qualquer Claude Code, em qualquer máquina
+> (Mac do Guilherme ou Windows da esposa), produza no MESMO padrão aprovado.
+> Sempre que uma lição nova for aprendida em produção, ATUALIZE este arquivo e faça commit.
+
+## 1. O que é o canal
+
+Canal de episódios bíblicos infantis, em português do Brasil, com duas linhas:
+
+| Linha | Público | Estilo visual | Pastas |
+|---|---|---|---|
+| **Baby (linha principal)** | 2-3 anos | Chibi estilo Cocomelon (ver DNA de estilo) | `ep01-*` a `ep12-*` (numeradas) |
+| **Madura (pausada)** | 5-11 anos | Pixar-like | `a-criacao-do-mundo`, `a-fornalha-ardente`, `jonas-e-o-grande-peixe` (finalizadas); demais sem master final |
+
+**Regra nº 1 — inegociável:** fidelidade bíblica. Antes de escrever/gravar/gerar QUALQUER
+coisa, rode o checklist de [`FIDELIDADE-BIBLICA.md`](FIDELIDADE-BIBLICA.md). Resumo: o tom
+é amigável, os FATOS são os da Bíblia. Nunca inventar motivos, eventos, gestos ou falas;
+toda cena com referência bíblica anotada (livro + capítulo:versículo); a lição final dá a
+glória a Deus; o enganador nunca fica simpático na narração.
+
+**Regra nº 2:** o humano é o revisor. TODO asset gerado (imagem, vídeo, áudio) passa por
+revisão visual/auditiva antes de aprovar. Nunca montar episódio com asset não revisado.
+
+## 2. Ferramentas e ambiente
+
+- **Imagens:** `nano-banana-pro` — via OpenArt MCP (i2i com `visualReferences` dos
+  personagens-mestre) ou HiggsField MCP (`nano_banana_pro`, param `medias` com job IDs).
+  Resolução 2k, aspecto 16:9.
+- **Vídeos:** OpenArt MCP `pixverseV6` (image2video, 720p, 5s, `generateAudio: false`,
+  `startFrame` aceita URL direto). Peças premium (intro, aberturas): Kling 3 Omni ou
+  Seedance 2.0 (`endFrame=startFrame` trava enquadramento).
+- **Áudio (narração, SFX, BGM): SEMPRE ElevenLabs via API direta** — NUNCA o TTS do
+  HiggsField (seed_audio/text2speech_v2 rejeitados: "parece caipira"). Script pronto:
+  [`scripts/elevenlabs_audio.py`](scripts/elevenlabs_audio.py) (comandos `discover`/`narrate`/`sfx`/`music`).
+  Chave: variável `ELEVENLABS_API_KEY` ou arquivo `~/.config/gerecao-eleita-flix/elevenlabs.env`
+  (o script lê os dois; NUNCA commitar a chave).
+- **Montagem:** Python + ffmpeg local (leve; qualquer notebook dá conta).
+- **Conectores MCP necessários na conta claude.ai:** OpenArt e Higgsfield.
+
+## 3. Pipeline de um episódio novo (linha baby)
+
+1. **Roteiro** — `ROTEIRO-EPxx.md` na pasta `epxx-slug/`. Cenas com base bíblica anotada,
+   texto de narração no tom da seção 6, mínimo de planos da etapa 3. Rodar checklist de
+   fidelidade ANTES de seguir.
+2. **Imagens-mestre** — personagens novos do episódio viram masters (gerar, revisar,
+   registrar ID na seção 5 deste arquivo + `refs-openart.json`). Personagens recorrentes:
+   usar os IDs existentes como referência em TODA cena.
+3. **Imagens de cena** — **mínimo 20 planos por episódio** (cada cena rende 2-3 planos:
+   aberto / close / detalhe da ação) para o vídeo não ficar repetitivo. Sempre com os
+   masters como referência + DNA de estilo no fim do prompt.
+4. **GATE de revisão de imagem** (checklist na seção 10) — só avança o que passou.
+5. **Vídeos** — PixVerse V6 i2v 5s por plano aprovado. Máx **8 gerações simultâneas**
+   no OpenArt (`PARALLEL_LIMIT_EXCEEDED`) — submeter em ondas. Prompt de movimento
+   defensivo: `STATIC camera, stays in place, no new characters`.
+6. **GATE de revisão de vídeo** (seção 10).
+7. **Áudio** — narração + SFX + BGM no ElevenLabs (seção 6 e 7). Registrar tudo em
+   `audio/` da pasta do episódio.
+8. **Montagem** — script `montar_epxx.py` copiado do de referência
+   [`ep03-a-criacao-do-mundo/montar_ep03.py`](ep03-a-criacao-do-mundo/montar_ep03.py). Regras técnicas na seção 8.
+9. **QA no arquivo final** (seção 9).
+10. **Versão COM-INTRO (obrigatória)** — o episódio NÃO está terminado sem
+    `EPxx-COM-INTRO-*.mp4` (seção 8.3).
+11. **Capas** — 16:9 e 9:16 (`capa-epxx-16x9.png` / `capa-epxx-9x16.png`). Revisar TEXTO
+    do título (nano-banana às vezes duplica palavra — pedir título "EXACTLY ONCE").
+12. **Registrar aprendizados** — lições novas → atualizar este CLAUDE.md + commit.
+
+**Arquivos padrão da pasta de episódio:** `ROTEIRO-EPxx.md`, `imagens-resources.tsv`
+(plano→resourceId→URL), `videos-jobs.tsv`, `imagens/`, `videos/`, `audio/`, `sfx/`,
+`montar_epxx.py`, `EPxx-PREVIEW-*.mp4`, `EPxx-COM-INTRO-*.mp4`, capas.
+(Mídia não vai para o git — os TSVs são o mapa para rebaixar tudo da nuvem.)
+
+## 4. DNA de estilo (colar no FIM de todo prompt de imagem)
+
+```
+Soft Cocomelon-style chibi proportions for a preschool cartoon aimed at toddlers aged 2-3:
+oversized round heads, huge sparkling eyes with big star highlights, tiny button noses,
+rosy blush cheeks, chubby short bodies, plush clay-like soft 3D render with matte velvety
+textures, bright cheerful candy colors, ultra cute, kawaii, huggable plush-toy look,
+wholesome G-rated preschool animation still, everything rounded with no sharp edges,
+high quality render
+```
+
+Com referências, acrescentar: `Keep the EXACT same character designs, colors and
+proportions as the reference images.`
+
+Rostos kawaii em sol/lua/nuvens/flores/árvores = estilo aprovado do canal.
+Em luz divina/objetos = NÃO. Presença de Deus = luz/brilho SEM rosto
+(`pure formless light, no face, not a character`).
+
+## 5. Personagens-mestre (IDs para referência visual)
+
+### HiggsField (job IDs — param `medias`)
+
+| Personagem | Job ID |
+|---|---|
+| Vovô Noé | `88646dbb-8103-43b0-a0cb-67a43d8c908d` |
+| Noé v1 (alternativo) | `88619132-241b-4809-a188-70d0022476f8` |
+| Juba (leãozinho, mascote — cameo VISUAL em todo episódio) | `335147b1-7167-485b-83e0-626e67c80f72` |
+| Nina (pombinha, cameo) | `05291622-b344-437e-99fa-5e75289b0840` |
+| Adão (EP02) | `813444c3-aaff-495f-8713-57e0321b9e19` |
+| Eva (EP02) | `1ca5f63c-6640-4341-9492-ce18072860ff` |
+| Cobrinha (serpente Gn 3 — design fofo, narração SEMPRE a marca como enganadora; NUNCA nome carinhoso) | `a89715d5-4323-4816-88b2-bb25a6e657eb` |
+| Daniel | `ab7dbe80-10ff-41c3-9fb6-d7b16d03db1c` |
+| Davi | `f26a2066-01c3-472e-8ef0-0e0dfe0eca66` |
+| Golias | `8649ce47-c9c5-4540-9ac1-49cb830be5db` |
+| João Batista | `afddcdbe-48cc-4ae5-a525-c1a7ccdc7fbb` |
+| Jesus | `f0eb5488-f096-4dcb-a38d-bfafbb8aa90f` |
+
+### OpenArt (resource IDs — `visualReferences`; uploads mapeados em `refs-openart.json`)
+
+| Personagem | Resource ID |
+|---|---|
+| Bebê Moisés (EP07) | `TBz2yp9uFUz5WKyHpuEH` |
+| Miriã (EP07) | `ZYgcxwGrY22myna2Db2B` |
+| Mamãe Joquebede (EP07) | `89yJfYDiuL8lz5sRPMXH` |
+| Princesa do Egito (EP07) | `U36zFWT3Hmn7SGO5y9FX` |
+| João Batista (EP10) | `3pQO80vge6x1s53bA9sn` |
+| Jesus chibi adulto (EP10+ — reusar em eps da vida de Jesus) | `24Dv0IiQYAKMfPXuqDmH` |
+| Enganador/serpente escura (EP11) | `JsLQYmX51sUVYyJc2t4h` |
+| Anjo (EP09) | `PoqqLpbbAmVyNehq7sN4` |
+| Moisés adulto (EP12) | `WN8Xju422Lj0amJD8U5J` |
+| Faraó (EP12) | `EeT86wkJEie7gmhJ6r8s` |
+| José v1 | `RqrW6KgZ7njyIQNRoRE8` |
+| José v2 (casaco aberto listras VERTICAIS + calça — versão oficial) | `uMnj6n19iKNSyGM4ktRT` |
+| Jacó | `geEH33YLWP5k6pf9C3JJ` |
+| Jonas | `8g7hzg6q9JCBUQh3Veig` |
+| Baleia | `jMzYCLoFE6DEpICQ76XC` |
+| Davi | `4wiieQxEuYk2xkcqtuNH` |
+| Golias | `qPZZZLHFBqVnRbWxNS1Q` |
+
+Linha madura (HiggsField): Adão v1 `9e913a82-236b-407a-bbf0-bde10babcdc1` ·
+Eva v1 `012b847f-1044-4cf9-b290-8f01fc6e2182` · Jonas `9607b390-b035-4ff6-be86-2c8a616a3ba9` ·
+trio da fornalha nos `assets/*.higgsfield.json`.
+
+## 6. Áudio — ElevenLabs (padrão oficial)
+
+**Vozes (a partir do EP03):** narradora `RGymW84CSmfVugnA5tvA` · Deus `7i7dgyCkKt4c16dLtwT3`.
+(Elenco antigo "GE Flix" nos EP01-02: Eva `CQvWt7QRuInVGJUccjBp`, Voz de Deus `r8pRY97Q57nCIMtpOyWA`.)
+
+**Narração — workflow Eleven v3:**
+- `POST /v1/text-to-speech/{voice_id}` com `model_id: eleven_v3` +
+  `voice_settings {stability: 1.0}` ("Robusto"; v3 só aceita 0.0/0.5/1.0).
+- **SEM outros voice_settings customizados** (deixavam a fala acelerada/forçada).
+- **Audio tags** de expressão em inglês, moderadas, dentro do texto: `[warm]`, `[happy]`,
+  `[calm]`, `[awe]`, `[whispering]`, `[playful]`, `[curious]`, `[softly]`. Falas de Deus = `[calm]`.
+  NUNCA usar tags com modelos v2 (eles LEEM as tags em voz alta).
+- **Blocos que precisam de consistência = UM request único** (ex.: reflexão final com as
+  3 lições), com quebras duplas de linha para as pausas. Segmentos muito curtos gerados
+  separadamente variam a pronúncia pt-BR (a narradora já "virou carioca" numa reflexão).
+  `previous_text`/`next_text` NÃO funcionam no v3 (HTTP 400).
+- **A PRIMEIRA palavra do request é a mais propensa a distorção** — nome próprio como 1ª
+  palavra já virou outra coisa ("José" → "Rosé"). Proteger com artigo ("O José tinha...").
+  O STT scribe NÃO detecta esse erro (corrige pelo contexto) — conferir DE OUVIDO.
+- Nunca regravar segmento já aprovado sem necessidade (cada geração é loteria de prosódia).
+
+**SFX:** `POST /v1/sound-generation`. **Novos a cada episódio** (reaproveitar só 1-2
+genéricos, ex.: passarinho — "precisamos inovar"). Chuva/ambientes saem MUITO baixos
+(~-48dB): aplicar ganho ×4 na mixagem. **NUNCA usar sininhos/twinkle/guizos** (o usuário
+chama de "som de chocalho" — removidos do EP05/EP06).
+
+**BGM:** `POST /v1/music` — instrumental infantil **alegre e saltitante** (ukulele,
+marimba, palminhas). NUNCA lullaby/caixinha de ninar. A música oficial do canal
+(`musica-oficial-geracao-eleita.mp3`) NÃO é trilha de fundo de episódio — só da intro.
+
+## 7. Narração para 2-3 anos (tom) e mixagem
+
+**Tom:** SÓBRIO e caloroso, sem forçar fofura. Diminutivos com MUITA parcimônia (1
+"amiguinho" na abertura é ok; NUNCA "historinha/nadinha/quietinho/terrinha/dedinhos").
+Onomatopeias só onde naturais e moderadas (auuu, muuu, splash — NUNCA "TCHAAAM/FUUUSH"
+em caps). Frases curtas. Pergunta à criança 1-2× por episódio (não a cada 20-30s).
+Tensão sempre "aconchegante", nunca escura/assustadora. Bordão que encerra:
+**"Deus cuida de mim, Deus cuida de você!"**
+
+**Mixagem (níveis validados — o usuário é MUITO sensível a áudio alto; na dúvida, mais baixo):**
+
+| Elemento | Volume |
+|---|---|
+| Narração | dominante |
+| BGM infantil — abertura | 0.10 |
+| BGM infantil — meio | **0.065** (janela só-BGM ≈ -44dB mean, quase subliminar) |
+| BGM infantil — outro | 0.08 |
+| BGM da reflexão (`assets/bgm-reflexao-oficial.mp3`) | 0.09, entra com crossfade |
+| SFX | 0.18–0.35 (chuva ×1.6 do gerado; toc-toc 0.32) |
+| **Pico geral do master** | **≤ -4dB** |
+
+## 8. Montagem e regras técnicas ffmpeg
+
+### 8.1 Estrutura e ritmo do episódio
+
+- Intro branca 2s / outro branco 3s; clipes em **0.75x**; pausa de **2.5s entre cenas**
+  (só BGM); **0.7s** entre falas de vozes diferentes na mesma cena; pausas interativas ~2.2s.
+- Multi-plano: cortes secos dentro da cena, fade branco entre cenas.
+- **Reflexão final encerra TODO episódio:** "E o que aprendemos com essa história? Vem
+  lembrar comigo." + 3 lições curtas e literais da passagem + bordão + tchau. Gravada em
+  request único; trilha própria (`assets/bgm-reflexao-oficial.mp3` — MESMA em todos os
+  eps, assinatura do quadro); visual = recap de clipes aprovados do episódio (custo zero).
+- Duração alvo: ~2:10–3:00 (EP03–EP12 ficaram entre 2:11 e 2:58).
+
+### 8.2 Regras ffmpeg (aprendidas com erro — NÃO repetir)
+
+- `format=yuv420p` / `-pix_fmt yuv420p` em TODO encode (sem isso o libx264 pode escolher
+  yuv444p e o QuickTime mostra só tela branca).
+- Concat final SEMPRE re-encodado (concat `-c copy` entre encodes diferentes corrompe).
+- `alimiter=limit=0.63:level=0` — o `:level=0` é OBRIGATÓRIO (sem ele o alimiter
+  re-normaliza para ~0dB e estoura a regra do pico ≤ -4dB).
+- `-movflags +faststart` no master final.
+- Overlay de PNG estático com fade exige `-loop 1` na entrada (senão a logo some).
+- Shell: cuidado com interpolação de variável junto de `:` em filtros ffmpeg
+  (no zsh, `"$n:layout"` vira modificador `:l` — usar `${n}:layout`; no Windows/
+  PowerShell, preferir escrever os filtros em arquivo de script Python, não inline).
+
+### 8.3 Versão COM-INTRO (obrigatória em todo episódio)
+
+Concatenar [`intro-oficial/intro-geracao-eleita-flix-6s-1080p.mp4`](intro-oficial/intro-geracao-eleita-flix-6s-1080p.mp4)
+antes do preview: intro convertida para fps=30 + mono 44.1kHz
+(`pan=mono|c0=0.5*c0+0.5*c1`), `concat=n=2:v=1:a=1`, re-encode crf 18 yuv420p +
+aac 192k + faststart. Episódio sem `EPxx-COM-INTRO-*.mp4` = episódio não terminado.
+
+## 9. QA final (no ARQUIVO FINAL, não nos intermediários)
+
+1. `ffprobe`: profile=High, pix_fmt=yuv420p, fps=30.
+2. Extrair frames em 3-4 pontos e OLHAR (extrair frame com ffmpeg não prova reprodução —
+   ffmpeg decodifica coisas que player não toca; por isso o ffprobe também).
+3. `volumedetect`: pico ≤ -4dB.
+4. Ouvir a narração inteira (erros de pronúncia que o STT não pega).
+
+## 10. Checklists de revisão de assets
+
+**Imagem (revisar TODA imagem gerada):**
+- Estilo fugiu do DNA? Personagem igual ao master?
+- **Contar braços/mãos/pernas de cada personagem** (nano-banana já desenhou Jesus com 3 braços).
+- Objeto anacrônico inventado? (barcos, casinhas, chapéus em bichos, bicho fora do dia
+  da criação) → negativar no prompt: `no boats, no houses, no hats, no animals, no people`.
+- TEXTO desenhado na imagem? Nunca usar frase conceitual no prompt ("celebration of
+  light" virou texto escrito); sempre `no text, no words`.
+- Elemento que só aparece depois na história (arca pronta antes da construção)?
+- Rosto kawaii onde não deve (luz divina/objetos)?
+
+**Vídeo (revisar TODO clipe):**
+- Personagem duplicado? Saiu do quadro? Grupo caminhou até a câmera destruindo a composição?
+- Personagem escondido "levantou" e ganhou roupa inventada? → travar no prompt:
+  `stays ducked/hidden the entire time, never rises, clothes stay hidden`.
+- Fim do clipe estranho (serpente ganha carinha cômica, gigante caído levanta)? →
+  verificar se a janela USADA na montagem está limpa antes de regenerar (trim resolve grátis).
+- Virou anoitecer sem pedir? (PixVerse faz isso.)
+
+## 11. Armadilhas de plataforma
+
+- **Google content policy (nano-banana):** descrição tipo "pulling clothing off a boy"
+  bloqueia → reescrever o estado, não a ação ("casaco já tirado, irmão segurando").
+- **Filtro HiggsField:** cena de batismo/rio pode dar falso positivo "nsfw" → reescrever
+  com `fully dressed in robe`, `pouring water from his cupped hand`, `shallow river`,
+  `family-friendly children's cartoon`.
+- **PixVerse V6 no OpenArt:** aceita `duration` livre 1-15s; máx 8 jobs simultâneos.
+- **Kling 3 Omni (OpenArt):** resolution "pro" = 1080p mas entrega 1928x1072 → normalizar
+  `scale=1942:1080,crop=1920:1080`; ~7min por job; exige upload próprio + `metadata`
+  completo do `openart_upload_metadata_get`.
+
+## 12. Custos de referência (OpenArt)
+
+- PixVerse V6 i2v 720p/5s = 70 créditos (63 com desconto MCP 10%); 1080p = 150.
+- Episódio típico (20+ planos) ≈ 1.400–1.600 créditos só de vídeo. Confirmar saldo antes
+  de submeter as ondas.
+
+## 13. O que NÃO está no repositório (e onde vive)
+
+- **MP4/PNG/áudio dos episódios**: no computador que produziu + masters nas plataformas
+  (OpenArt/HiggsField/ElevenLabs). Os mapas `imagens-resources.tsv` e `videos-jobs.tsv`
+  de cada episódio têm os resourceIds/URLs para rebaixar qualquer asset.
+- **Zips de entrega por tier**: `zips-tiers/` (local).
+- **Chaves de API**: `~/.config/gerecao-eleita-flix/elevenlabs.env` de cada máquina.
+- **Este repositório é a fonte de verdade do CONHECIMENTO** (playbook, roteiros, scripts,
+  mapas). Produziu algo novo? Commite roteiro + TSVs + lições no mesmo dia.
+
+## 14. Setup numa máquina nova
+
+Ver [`GUIA-INSTALACAO-WINDOWS.md`](GUIA-INSTALACAO-WINDOWS.md) (passo a passo completo para Windows;
+no macOS o equivalente é `brew install git python ffmpeg`).

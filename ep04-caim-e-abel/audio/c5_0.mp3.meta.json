@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "0179f4026067d28886aa95009d250ef7469aafa7bf1d3216ba0a7789fb56e8f4",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "5e7bdb98d903525561d05eb005b7413e799bd5a989f1fbd598b78db2bfa38a0e",
+  "output_size": 198156,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[calm] Caim, por que você está com raiva? Se você fizer o bem, tudo vai ficar bem. Mas cuidado: o pecado está na sua porta, querendo te pegar. Você precisa vencer ele.",
+    "tts_model": "eleven_v3",
+    "voice_id": "7i7dgyCkKt4c16dLtwT3",
+    "voice_type": "elevenlabs"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "dependencies": [],
+  "fingerprint": "4e43137e9c2e8d68258eb7642077df842b41a6009c3d9fbd74856c58e919f331",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "331dbfcd367f2647f640f0445386fd8f3e811636cbeb5a9a3d66e418463b11d4",
+  "output_size": 80109,
+  "schema": 1,
+  "values": {
+    "direction": "[hushed] [mysterious storytelling]",
+    "model": "elevenlabs",
+    "post_atempo": "0.95",
+    "prompt": "A terra estava vazia e sem forma. Escuridão cobria as águas profundas.",
+    "similarity_boost": "0.78",
+    "speed": "0.90",
+    "stability": "0.50",
+    "tts_model": "eleven_v3",
+    "voice_id": "gkqqIm2zTUUewCkNIkTF",
+    "voice_type": "elevenlabs"
+  }
+}

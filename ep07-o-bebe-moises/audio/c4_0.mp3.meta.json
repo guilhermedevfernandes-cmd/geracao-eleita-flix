@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "f8b5852b96498af188a86adce460c20b044f462ffd25172f460394d553cff769",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "ba0642ea25d315149b972ca349d7420f4758fcb903ed9f8bbfe55285b339f2fb",
+  "output_size": 102026,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[calm] A irmã do bebê, Miriã, ficou de longe, espiando. [gentle] Ela queria ver o que ia acontecer com o irmãozinho.",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

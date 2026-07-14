@@ -1,0 +1,30 @@
+{
+  "assembly_inputs": [
+    {
+      "filename": "timeline.tsv",
+      "label": "timeline",
+      "sha256": "f42f7b5a35a43b5014a106402bfa831c5b341867522034c8b474f923deb6ceb3"
+    },
+    {
+      "filename": "video-only.mp4",
+      "label": "video-stem",
+      "sha256": "a6f58daf413f8dc1103f6c972e1865225c7af01a1f0d3ed4361c72dfff4e0e39"
+    },
+    {
+      "filename": "master-audio.wav",
+      "label": "audio-stem",
+      "sha256": "cf2f9505836ec10e03c857fa05eeef0102ef7d6986ac447a906345814d41521c"
+    }
+  ],
+  "created_at": "2026-07-10T15:53:50.599399+00:00",
+  "episode_slug": "jonas-e-o-grande-peixe",
+  "expected_duration": 285.86,
+  "expected_output": "/Users/huiosweb/Documents/huios-web-ccode/8 - Edicao De Videos/gerecao-eleita-flix/jonas-e-o-grande-peixe/.jonas-e-o-grande-peixe_final.55076.mp4",
+  "master_inputs_fingerprint": "b7d889d332c37dc36b1a7dc40b818c1f3f6798414f42e483a310198d3680e49c",
+  "nonce": "725f74dc3a273cfb495ae1a8ec839342",
+  "pipeline_version": "2.1",
+  "schema": 1,
+  "session_fingerprint": "6ab68581d85d8681bc9d019de7a4908862db882bba1bc75792eae9a4dcee1a22",
+  "source_fingerprint": "90f11153762922568c1166a0ea13d091dc9fb50d2b0e48fed829885a2ad8dd4f",
+  "source_lock_fingerprint": "5b802cbde8055f287737050e389cab4984ddb8422593127a62792b66888d8abf"
+}

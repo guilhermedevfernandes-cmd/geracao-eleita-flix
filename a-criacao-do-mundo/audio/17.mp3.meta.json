@@ -1,0 +1,20 @@
+{
+  "dependencies": [],
+  "fingerprint": "86108f14c1adb0e70a8166e4126ca02001493a6a89b44b2e5a78d7d12b315514",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "a562bfdce5dafd468ea11523d165dcca4d95a45f5de8e5df5d716f66d80ffecb",
+  "output_size": 73581,
+  "schema": 1,
+  "values": {
+    "direction": "[warmly] [with quiet authority]",
+    "model": "elevenlabs",
+    "post_atempo": "0.95",
+    "prompt": "Haja luzes no céu para separar o dia da noite.",
+    "similarity_boost": "0.78",
+    "speed": "0.90",
+    "stability": "0.50",
+    "tts_model": "eleven_v3",
+    "voice_id": "r8pRY97Q57nCIMtpOyWA",
+    "voice_type": "elevenlabs"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "dependencies": [],
+  "fingerprint": "52ed7668978e7728d9f3179e1a6dfa2fa4c5b544e3c363ed949d5b3a532b5f09",
+  "kind": "higgsfield-audio:text2speech_v2",
+  "output_sha256": "bd4a62eeb613debb21fd32b35e0a4e9772719825e502fc76a613cc6b04fa58ff",
+  "output_size": 104951,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "Que cada um se arrependa do mal. Quem sabe Deus se arrepende e ainda nos poupa?",
+    "voice_id": "dc382508-c8bd-443c-8cb2-46e57b8d2e6f",
+    "voice_type": "preset"
+  }
+}

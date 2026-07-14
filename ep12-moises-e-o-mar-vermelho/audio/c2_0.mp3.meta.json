@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "cea13631911763620eeff335728d2b8fc6c01b274612ed1d566e21a2400ba3a1",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "dc154dcd38e10160e0392189bde0cf08a2c8c0d7f25ed4db9d5269182a303d1b",
+  "output_size": 204426,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[calm] O Moisés cresceu no palácio do Egito. Mas o povo dele, o povo de Deus, trabalhava sem parar, e sofria muito. [gentle] Um dia, Moisés foi morar bem longe, e virou pastor de ovelhinhas.",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

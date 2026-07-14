@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "af93fdea2a4fcf469b4be637c77ecade00e44f098e4106bfce7a330832d1e0ad",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "e4eb9e95a17d2bd526ba5acb22615e9a1e9d0898eb78c8c6b767c7ff351a59e2",
+  "output_size": 84471,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[softly] No meio do jardim, havia uma árvore especial. E Deus avisou, com carinho:",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

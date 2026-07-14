@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "7b6655a249322a16c3998e323efcbb30063d87858bb57b89d69397dac6087372",
+  "kind": "elevenlabs-audio:sound_generation",
+  "output_sha256": "da06c9eaf18bffd9c539e50f9aae13ecfa055e4ff68a3355d8af593ff2b59dde",
+  "output_size": 1305678,
+  "schema": 1,
+  "values": {
+    "duration": "6.84",
+    "prompt": "crackling inferno, footsteps on stone, rope strain. Scene context: fornalha. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

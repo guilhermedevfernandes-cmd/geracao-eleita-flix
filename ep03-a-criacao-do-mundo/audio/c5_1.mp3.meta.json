@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "fc9f33634998f1d34669484cdd1f851831543b87eeaeddc01d3f961b8db3d9b4",
+  "kind": "elevenlabs-audio:eleven_multilingual_v2",
+  "output_sha256": "7804f2d5b5eec886ad0da70a481145e462129c340b3f44179726559a3d7a744b",
+  "output_size": 196902,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[happy] Splash! As águas se juntaram, e a terra apareceu. [warm] Deus mandou brotar as plantas: flores, árvores e frutos. E viu que era bom. Esse foi o terceiro dia.",
+    "tts_model": "eleven_multilingual_v2",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

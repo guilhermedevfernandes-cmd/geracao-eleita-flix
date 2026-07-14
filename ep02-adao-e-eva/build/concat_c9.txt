@@ -1,0 +1,2 @@
+file '/Users/huiosweb/Documents/huios-web-ccode/8 - Edicao De Videos/gerecao-eleita-flix/ep02-adao-e-eva/build/seg_c9p1.mp4'
+file '/Users/huiosweb/Documents/huios-web-ccode/8 - Edicao De Videos/gerecao-eleita-flix/ep02-adao-e-eva/build/seg_c9p2.mp4'

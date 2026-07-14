@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "5fcb4b4dbe7b0a5145eaaafd4e075efa8ff63c8ed8fdb7ac3291fc6f29f1a3a7",
+  "kind": "elevenlabs-audio:sound_generation",
+  "output_sha256": "ff8886f9a60924c3d9ff7669c81ee3272f437771c53b416b0c972a29b43e9b75",
+  "output_size": 1497678,
+  "schema": 1,
+  "values": {
+    "duration": "7.84",
+    "prompt": "underwater ambience, soft whale call, bubble trails. Scene context: vida. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "7766702d237e35e4556bef236dee6ca9be0598d20a85cb164f694a93030b210d",
+  "kind": "elevenlabs-audio:eleven_multilingual_v2",
+  "output_sha256": "4e6c45d32a01c004c6f1e00cf5fe7feff851849d9bcb4c07ab470c30bd4d65e8",
+  "output_size": 84889,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "Vocês três, venham comigo! O rei precisa saber que vocês não obedeceram à ordem dele.",
+    "tts_model": "eleven_multilingual_v2",
+    "voice_id": "JtRtm0OrgcgUP6oMWQgc",
+    "voice_type": "elevenlabs"
+  }
+}

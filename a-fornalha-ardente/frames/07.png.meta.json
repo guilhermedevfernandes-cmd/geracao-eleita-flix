@@ -1,0 +1,17 @@
+{
+  "dependencies": [
+    {
+      "filename": "guarda_ref.png",
+      "label": "ref-guarda",
+      "sha256": "b331c131dbb01c31cc1bbef1a67925ca2f2a885a66d2d106128a080e2e649bbf"
+    }
+  ],
+  "fingerprint": "5ae98ab4ecb9d0ddcdb9058ed9af8213d33df9baa338e5dc4034b4c02b7be637",
+  "kind": "episode-frame",
+  "output_sha256": "fe27fcdcb1364b5b3013964ed897f0b8ed3e024833bfad6c71379cba042a0ebc",
+  "output_size": 3112859,
+  "schema": 1,
+  "values": {
+    "source_signature": "83e06b3acda00aa77bb53bebcf3f07e25e4644f63fc432efe1959b1f43499180"
+  }
+}

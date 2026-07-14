@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "2091b4457b5d4f05cd54d1ad4be43f367931b50e61b73db17da8f7e25adfbbe9",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "5e6aa91931facd9e6e73cd3691091a8f9a30f00a38d28dce0b65535d46291382",
+  "output_size": 84471,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[awe] Então todos saíram da arca. E Deus colocou o arco-íris no céu, com uma promessa:",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

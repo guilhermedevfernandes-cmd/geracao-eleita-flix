@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "bb4535132bbeea6c7c86fda3979b3017b032e9f99ac7360154b931df5e41bf13",
+  "kind": "higgsfield-audio:mirelo_text_to_audio",
+  "output_sha256": "cdbdc401f9bd991710c07a9e0dad3b54fc27155531738ce17a091672c645d372",
+  "output_size": 1582754,
+  "schema": 1,
+  "values": {
+    "duration": "8.24",
+    "prompt": "warm resonant voice presence, soft wind, distant children laughing faintly. Scene context: resolucao. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "e5aa83f48ffac42e8d8c71af4d5aedc63af4d1a6c4171090939a7d4052f1bdfc",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "1c070221bd4c72c9ac36ea3d1785ba38a155b9a57cd0148ab56f31abe800f896",
+  "output_size": 194395,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[awe] E Deus mandou um peixe bem grande, enorme! [playful] Glub! O peixe engoliu Jonas. [calm] E Jonas ficou lá, na barriga do peixe, três dias e três noites.",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

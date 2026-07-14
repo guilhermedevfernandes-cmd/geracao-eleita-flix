@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "664d2c730de00cbfe04d5dfbfd0d0e1266fe2452fcde00ee38a86971b402aeb8",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "2df32ae99b7eb369c9a88cf21b31978769db0d583d88246caa776a413a576536",
+  "output_size": 222398,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[calm] Depois do batismo, o Espírito de Deus levou Jesus para o deserto. [awe] Lá, Jesus ficou quarenta dias sem comer, orando. [softly] Quarenta dias! No fim, ele estava com muita, muita fome.",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

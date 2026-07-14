@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "700efb80360f460a3779ebbd33a3b6296d433cfccda0854dc6e6e2d1bc5929e2",
+  "kind": "elevenlabs-audio:sound_generation",
+  "output_sha256": "43e56271982cd228a6b46ecc5432da809032d0057ac84ec348961f13b66d7db2",
+  "output_size": 1705038,
+  "schema": 1,
+  "values": {
+    "duration": "8.90",
+    "prompt": "soft paws on grass, elephant hush steps, peaceful meadow ambience. Scene context: humanidade. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

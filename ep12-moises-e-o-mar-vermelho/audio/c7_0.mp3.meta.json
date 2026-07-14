@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "52aa147f0d8736b2d4f990e3033a200d95bbf5209f510a179e9285c6b17de58e",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "3af894a157b74de172e8ba64537227af96dd64e6d6cd8aebc3966946249060c8",
+  "output_size": 246639,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[calm] Quando os soldados tentaram passar, o mar voltou. Splash! [happy] E o povo de Deus estava seguro do outro lado. [warm] Todo mundo cantou e dançou de alegria, agradecendo a Deus. A Miriã, irmã de Moisés, dançou com o seu pandeiro!",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

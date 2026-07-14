@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "703a77f6b065d4052857e413d3b937e310012ab82c6fe51faa3616d975d59573",
+  "kind": "higgsfield-audio:mirelo_text_to_audio",
+  "output_sha256": "ee6d72a69f44179e1e08520fec8c3d8c6e78c72ef733c85e70d8c1efb92a62ae",
+  "output_size": 1150302,
+  "schema": 1,
+  "values": {
+    "duration": "5.98",
+    "prompt": "single water drop, soft inhale, warm ambient tone. Scene context: oracao. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "dependencies": [],
+  "fingerprint": "2b51eb6ae6a616f14691a888e7757b95162bd419f83ef4ab2ab45dc3a882a6c3",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "cac9b7582443d13946dfd17152bfe9b9612f40615187a2a4e414f9603bc5ccab",
+  "output_size": 98925,
+  "schema": 1,
+  "values": {
+    "direction": "[delighted] [animated storytelling]",
+    "model": "elevenlabs",
+    "post_atempo": "0.95",
+    "prompt": "Na mesma hora, a terra se encheu de vida verde. Grama, flores e árvores grandes nasceram.",
+    "similarity_boost": "0.78",
+    "speed": "0.90",
+    "stability": "0.50",
+    "tts_model": "eleven_v3",
+    "voice_id": "gkqqIm2zTUUewCkNIkTF",
+    "voice_type": "elevenlabs"
+  }
+}

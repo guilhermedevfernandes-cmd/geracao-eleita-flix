@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "3df663aa73f842bc1f9117a6d2a998704a076676ca601baf50b3925fbd215ccc",
+  "kind": "elevenlabs-audio:sound_generation",
+  "output_sha256": "c97f6bfda6cc8bdcf7d08987ecb012dcefd72bda75d4ecfe548fd19e49a02c72",
+  "output_size": 2050638,
+  "schema": 1,
+  "values": {
+    "duration": "10.69",
+    "prompt": "animal soft footsteps, grass rustle, distant calls gentle. Scene context: humanidade. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

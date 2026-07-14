@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "a42cddf826395c31b7a527245bca8c904158a5c53cc4acd29cef4ec856213cab",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "76cb7f533d821e496caf1e40c3576b3e2feb5691f667ce5b81977ef71e812c60",
+  "output_size": 131701,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[warm] Olá, amiguinho! Que bom te ver. [happy] Hoje eu vou contar a história de um bebezinho muito especial: o bebê Moisés. Vem comigo.",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

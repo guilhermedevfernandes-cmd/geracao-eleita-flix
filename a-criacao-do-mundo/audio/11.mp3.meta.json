@@ -1,0 +1,20 @@
+{
+  "dependencies": [],
+  "fingerprint": "7612528c1fd82f27bf97ede67732cff8bd686d5eec13d1da9451b8acd558e97f",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "e2199e553bcc48a29dbb6c4efbb28da0f1d7e8b3fa6949adfbd2149bc64c62bb",
+  "output_size": 57069,
+  "schema": 1,
+  "values": {
+    "direction": "[with awe] [animated storytelling]",
+    "model": "elevenlabs",
+    "post_atempo": "0.95",
+    "prompt": "E veio a tarde, e veio a manhã. Foi o segundo dia.",
+    "similarity_boost": "0.78",
+    "speed": "0.90",
+    "stability": "0.50",
+    "tts_model": "eleven_v3",
+    "voice_id": "gkqqIm2zTUUewCkNIkTF",
+    "voice_type": "elevenlabs"
+  }
+}

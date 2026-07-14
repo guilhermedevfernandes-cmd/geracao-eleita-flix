@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "5638107638db99836471aa549db36eb50edfd6ad38dc26c0dd4782450ff81553",
+  "kind": "elevenlabs-audio:sound_generation",
+  "output_sha256": "bb2d17478d6d8c95de0e3bef940b98d5bff610848ec007e76dec36aa808241e2",
+  "output_size": 1628238,
+  "schema": 1,
+  "values": {
+    "duration": "8.52",
+    "prompt": "deep restful resonance, quiet wind, still water. Scene context: descanso. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

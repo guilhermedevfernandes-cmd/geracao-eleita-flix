@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "e3ec9658bba70d3db9564332b13f7d832e371f36c0966740bec49281d0d25937",
+  "kind": "elevenlabs-audio:eleven_multilingual_v2",
+  "output_sha256": "be6eae4d722d6eacd8924ecdf6fcf0a52dd7fc86fa72c8bcebd3da56557bffdb",
+  "output_size": 110385,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "Assim como o fogo não venceu a fé dos três amigos, nada pode apagar o amor de Deus.",
+    "tts_model": "eleven_multilingual_v2",
+    "voice_id": "gkqqIm2zTUUewCkNIkTF",
+    "voice_type": "elevenlabs"
+  }
+}

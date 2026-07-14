@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "3080810a0aa47a88cbc25a8c2be4ee68b6724f5c78338a554f57ca7eee3cb2f7",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "e59752ef0cf8ec7ddee9c1cdbe976bb151a1e15e44df378dbf186738982099b1",
+  "output_size": 433885,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[calm] Um dia, longe de casa, os irmãos fizeram uma coisa muito errada. [somber] Tiraram a túnica colorida de José... e deixaram ele num poço fundo. [softly] Depois, mostraram a túnica para o papai Jacó e mentiram: Um bicho pegou o José! [somber] Mas José estava vivo. Os irmãos tinham vendido o irmão para uns moços que viajavam para bem longe, para o Egito. [softly] José foi embora sozinho. Que tristeza.",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

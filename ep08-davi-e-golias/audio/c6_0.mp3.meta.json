@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "57202b90a33f7f1fde9509859a58607e094c9a9c7fb2afac024b7de76dbb242e",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "813e63c7d656eac7d2d770ff2628fe474a81c99eff0578f5dd02c0b44d57d42f",
+  "output_size": 126685,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[calm] Davi foi até o riacho e escolheu cinco pedrinhas bem lisinhas. [softly] Guardou na bolsinha, pegou a funda... e foi.",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

@@ -1,0 +1,45 @@
+# ============================================================
+# Geração Eleita Flix — .gitignore
+# Estratégia: o repositório versiona o CONHECIMENTO (roteiros,
+# scripts, mapas de assets, playbook) e os poucos assets oficiais
+# leves. Mídia pesada gerada (episódios, imagens, áudios) fica
+# FORA — os masters vivem no OpenArt/HiggsField e os mapas
+# resourceId→URL estão nos *.tsv e *.json de cada episódio.
+# ============================================================
+
+# --- Sistema / lixo ---
+.DS_Store
+**/.DS_Store
+__pycache__/
+*.pyc
+*.log
+.firecrawl/
+node_modules/
+
+# --- Segredos (NUNCA subir; chaves ficam em ~/.config/gerecao-eleita-flix/) ---
+.env
+.env.*
+!.env.example
+elevenlabs.env
+*.secret
+
+# --- Mídia pesada gerada ---
+*.mp4
+*.mov
+*.MOV
+*.wav
+*.zip
+*.png
+*.jpg
+*.jpeg
+*.mp3
+*.m4a
+*.glb
+**/audio/voice-tests/*.mp3
+
+# --- Exceções: assets oficiais do canal (leves e necessários p/ produzir) ---
+!intro-oficial/intro-geracao-eleita-flix-6s-1080p.mp4
+!intro-oficial/assets/logogeracao-transparente.png
+!assets/bgm-reflexao-oficial.mp3
+!musica-oficial-geracao-eleita.mp3
+!musica-oficial-geracao-eleita.m4a

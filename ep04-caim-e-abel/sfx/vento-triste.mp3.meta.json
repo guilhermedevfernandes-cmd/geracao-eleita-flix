@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "88fb97dd041018a21fa02f1cecac08e6f160607cd0b2da971cfb99b662a4cdfc",
+  "kind": "elevenlabs-audio:sound_generation",
+  "output_sha256": "2d8885ab25fa1dcddee7fa1c74afb7c7a0c7f8f11edf809baea2aaadb2b4b07d",
+  "output_size": 65245,
+  "schema": 1,
+  "values": {
+    "duration": "4.00",
+    "prompt": "soft gentle melancholic cartoon wind whoosh for a preschool show, tender, airy, nothing scary, no voices. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

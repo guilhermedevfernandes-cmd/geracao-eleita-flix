@@ -1,0 +1,9 @@
+{
+  "job_id": "98a34c5b-f902-4df9-b122-45da49aa8f59",
+  "model": "nano_banana_2",
+  "output_sha256": "38ec4833140d7a3aa8ea8f34390dbd942f51bbba08c67e558f90ddec0efce107",
+  "provider": "higgsfield-cli",
+  "registered_at": "2026-07-10T21:18:40.123457+00:00",
+  "schema": 1,
+  "source_signature": "ecca3c1455d21059eaec783a504cf57b2e1ac5db373e73ebd1ef4ec7c2f143cd"
+}

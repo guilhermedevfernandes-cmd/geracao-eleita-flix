@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "8ba2dee8115c170c1b4e575c16287d5609c0af86c4e7811ba6c4554fafdee668",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "731f15e2162ecdcd6af7b4cd35c659dff75c8edb2554b091be8bdaa99884e693",
+  "output_size": 84471,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[softly] O coração deles ficou apertado... e eles se esconderam. Mas Deus chamou:",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

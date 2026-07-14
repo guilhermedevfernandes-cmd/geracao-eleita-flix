@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "fc5de8b5935441e0017f94183be18b2009b330d068ffe831ac2884fb7c1c92ac",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "ee1a6d99be6d3011b2b70c7a0d38c288149de73b733a9aec0ac90f2b2b34435a",
+  "output_size": 57304,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[warm] Então Deus fez uma família. Fez o Adão...",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "07728162140d17e57f1558616623e1f1e8e9a9d92ba3064b194cd0ca593a2626",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "e6b52fb923a78f9b5b5237e6cd4d28b745df5a76ef5c4010a531040c5e0005fe",
+  "output_size": 59812,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[calm] Noé, vai chover muito. Construa uma arca bem grande!",
+    "tts_model": "eleven_v3",
+    "voice_id": "7i7dgyCkKt4c16dLtwT3",
+    "voice_type": "elevenlabs"
+  }
+}

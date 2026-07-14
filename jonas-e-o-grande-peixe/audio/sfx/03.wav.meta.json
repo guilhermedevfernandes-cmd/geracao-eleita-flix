@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "0d51f01da14a02fe3c295689b2dd9daae862f3b501b1b0bc21617fb18defb6de",
+  "kind": "higgsfield-audio:mirelo_text_to_audio",
+  "output_sha256": "aeb44849a6dae6c28580652e59f82fdbbb834adea59d9e927fefdde9484027d7",
+  "output_size": 1261758,
+  "schema": 1,
+  "values": {
+    "duration": "6.56",
+    "prompt": "olive leaves rustling, distant village chatter, soft cloth movement. Scene context: mundo. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

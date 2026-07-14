@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "a6df1500ddcd44f60ca19cdcb7e74184ddde9a24b0f3eee7c5338ef1169333f8",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "afb0cab0cb4730ad8dfb25dea6a13c2b8733f16dc2740626d3c709cee44098e7",
+  "output_size": 98264,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[softly] No sétimo dia, com tudo pronto, Deus descansou. E abençoou esse dia.",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "dependencies": [
+    {
+      "filename": "mesaque_ref.png",
+      "label": "ref-mesaque",
+      "sha256": "8ddf7b7ff44c2a3506677d501bf8c74a3bb4ef9ff7f421970f7329fe8e1faa07"
+    }
+  ],
+  "fingerprint": "a0c7790986ed0bdbc9cfe2c2fa1fccf79e8a3236be6a9dcdc0483d905e3bb8be",
+  "kind": "episode-frame",
+  "output_sha256": "7f83255fe5b644f24c9ecf295cfebfaf2bcb30e05f1ced8a600730bd071dcc55",
+  "output_size": 2759377,
+  "schema": 1,
+  "values": {
+    "source_signature": "764f86665eab7c981bd0ca568386de2b3ed8ff91eed1fe03aeae724e70346a88"
+  }
+}

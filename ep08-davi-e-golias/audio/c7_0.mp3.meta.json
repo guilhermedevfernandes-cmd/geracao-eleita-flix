@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "36939e5750a586d58ce803a8c54d339c25c4ab7154f78e82c43ce993dfeac941",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "e3be81c9389b93a9711d046e05548ec74c301ff2d607653bdd96d3e51cf053ec",
+  "output_size": 387492,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[calm] Golias riu de Davi, porque ele era só um menino. [awe] Mas Davi disse: você vem com espada e lança. Eu venho no nome do Senhor! A batalha é do Senhor! [calm] Davi girou a funda... a pedrinha voou... e acertou bem na testa do gigante. [softly] Golias caiu no chão. E acabou! [happy] Deus deu a vitória, e todo mundo comemorou!",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

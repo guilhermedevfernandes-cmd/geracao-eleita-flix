@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "e216d74f76cc156444bc80be92ec1ee06087e0c97676f74aa2b2af6f7926a182",
+  "kind": "higgsfield-audio:mirelo_text_to_audio",
+  "output_sha256": "26a82cff6df0d51ac764a93dc72dfdd4cda5a08897fa9950d594fba75ec4c74b",
+  "output_size": 1654082,
+  "schema": 1,
+  "values": {
+    "duration": "8.60",
+    "prompt": "deep warm resonant presence, soft wind, distant thunder roll. Scene context: chamado. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

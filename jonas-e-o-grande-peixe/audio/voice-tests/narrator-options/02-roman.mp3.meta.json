@@ -1,0 +1,14 @@
+{
+  "dependencies": [],
+  "fingerprint": "39bafb35fc5e1e9bef7688353fdef5d5717e080877963546549ea809a5f149b6",
+  "kind": "higgsfield-audio:text2speech_v2",
+  "output_sha256": "6fbc3342019443030788e7cb484005e1c74b4889cb53ec683f2e7e67393193a6",
+  "output_size": 162212,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "Oi! Que bom ter você aqui. Hoje a gente vai embarcar numa aventura cheia de coragem, esperança e fé. O barco já está no porto, e o coração bate forte.",
+    "voice_id": "7e63ac18-5fcd-4aba-8078-a86d4e11c127",
+    "voice_type": "preset"
+  }
+}

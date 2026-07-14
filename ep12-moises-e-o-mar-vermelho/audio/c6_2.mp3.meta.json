@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "e34f4d6f27a23d286a7c62c53a59e5f19c2d3dfa6d7ee0832fe0583f0b5c7871",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "58fc126377bde94e5186578db1fa0a451f432c83f8ddc3db4da07ef4fc9818f5",
+  "output_size": 185199,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[awe] Moisés levantou o cajado... e Deus mandou um vento bem forte. E o mar se abriu! Duas paredes de água, e um caminho seco no meio! [happy] E todo o povo atravessou.",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

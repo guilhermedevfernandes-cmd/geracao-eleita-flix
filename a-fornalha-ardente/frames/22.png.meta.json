@@ -1,0 +1,32 @@
+{
+  "dependencies": [
+    {
+      "filename": "guarda_ref.png",
+      "label": "ref-guarda",
+      "sha256": "b331c131dbb01c31cc1bbef1a67925ca2f2a885a66d2d106128a080e2e649bbf"
+    },
+    {
+      "filename": "sadraque_ref.png",
+      "label": "ref-sadraque",
+      "sha256": "4096d541c64634e43df8a483d3af371a0954e637bed3b99e3bd7096c27a41b1d"
+    },
+    {
+      "filename": "mesaque_ref.png",
+      "label": "ref-mesaque",
+      "sha256": "8ddf7b7ff44c2a3506677d501bf8c74a3bb4ef9ff7f421970f7329fe8e1faa07"
+    },
+    {
+      "filename": "abednego_ref.png",
+      "label": "ref-abednego",
+      "sha256": "ad7ccff4adbaa9d8f85bd7b56fed3c3ed5f76fd7ad45a39e1a6c067783e5349b"
+    }
+  ],
+  "fingerprint": "2e75e0b5d6419409a8ac7eaac20038f8f93ac6b88f6df878efde122f505cbde0",
+  "kind": "episode-frame",
+  "output_sha256": "a7bb39f978681fb595e97b34c53b7953a3b221d054420d6814e2f547598d8d1c",
+  "output_size": 2683447,
+  "schema": 1,
+  "values": {
+    "source_signature": "0671f26daa8da6f33d28d73a495d61b059364f88255374c4a12bf8d73bf70094"
+  }
+}

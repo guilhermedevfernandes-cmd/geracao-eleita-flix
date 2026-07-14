@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "99762bbdca0900ec3cf4c4111d2f43ef75ae18ec93da7855e2bb7342463a82aa",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "803b1ea54f1be4653c269d92de8a43ddd641b86f22617164dd4a0b6e0a24f0c5",
+  "output_size": 40586,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[calm] Caim, onde está Abel, o seu irmão?",
+    "tts_model": "eleven_v3",
+    "voice_id": "7i7dgyCkKt4c16dLtwT3",
+    "voice_type": "elevenlabs"
+  }
+}

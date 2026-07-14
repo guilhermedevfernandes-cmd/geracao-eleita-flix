@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "4da0b2cb1058bb73c5cdffbe221955515d9ae2561669278ce8ef3104b4a9075e",
+  "kind": "elevenlabs-audio:sound_generation",
+  "output_sha256": "09fbccfec4441005c6a1fd85379ab54e0311410951d54968f9bd44f621421e9f",
+  "output_size": 33062,
+  "schema": 1,
+  "values": {
+    "duration": "2.00",
+    "prompt": "cute musical discovery sparkle, soft gasp-like chime flourish of wonder for a preschool show, gentle and sweet, no voices. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

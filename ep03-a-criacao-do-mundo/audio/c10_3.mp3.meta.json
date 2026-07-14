@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "849d8902c848c9909577fe0824f7d60a64d753362ee1487adda56159642a8b5f",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "8222c9a31068d7f592e6f97e4820ecb338982d8de2a85b5ca7191a3370ba828c",
+  "output_size": 75276,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[warm] Três: Deus fez você. E você é muito especial.",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

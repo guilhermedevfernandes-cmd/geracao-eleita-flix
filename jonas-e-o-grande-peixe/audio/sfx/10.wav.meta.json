@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "a015d3ab738b9327e8f1c0b64483015a39ea99b64130d1111adf6842cadfc8f0",
+  "kind": "higgsfield-audio:mirelo_text_to_audio",
+  "output_sha256": "f7c71e72ee4194c6cf827742780258825ec51565fa859f37c6c6d97d43506f19",
+  "output_size": 1333090,
+  "schema": 1,
+  "values": {
+    "duration": "6.94",
+    "prompt": "sail canvas flap, rope pull, hull creak, soft wave slap. Scene context: fuga. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

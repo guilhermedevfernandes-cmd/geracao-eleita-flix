@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "cb8d4cdb99ff54e8f31fe57cd72fd487539db6d3549722a00f79fd376886d12c",
+  "kind": "higgsfield-audio:mirelo_text_to_audio",
+  "output_sha256": "06075516a60b5884220f4b0edcc03f9c499e46872dcf1e89e020b736bf00c091",
+  "output_size": 1007642,
+  "schema": 1,
+  "values": {
+    "duration": "5.24",
+    "prompt": "steady footsteps, dry wind, distant city hum growing. Scene context: missao. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

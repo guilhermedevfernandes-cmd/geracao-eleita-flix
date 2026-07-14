@@ -1,0 +1,20 @@
+{
+  "dependencies": [],
+  "fingerprint": "16efa9d24082ee17a5e9d2fe844059ba432b84bf2031c54250cb0dbefc03719e",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "3ab126c6fcfc376cc31d2d29eae166c95cc71f794b0bb140893f1885e5949295",
+  "output_size": 75885,
+  "schema": 1,
+  "values": {
+    "direction": "[warmly] [reassuring]",
+    "model": "elevenlabs",
+    "post_atempo": "0.95",
+    "prompt": "Assim começou o mundo. Feito com palavra, cuidado e amor.",
+    "similarity_boost": "0.78",
+    "speed": "0.90",
+    "stability": "0.50",
+    "tts_model": "eleven_v3",
+    "voice_id": "gkqqIm2zTUUewCkNIkTF",
+    "voice_type": "elevenlabs"
+  }
+}

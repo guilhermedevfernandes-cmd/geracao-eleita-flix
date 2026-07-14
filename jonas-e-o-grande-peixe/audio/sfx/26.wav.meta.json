@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "a26f6cc15d58771662a249bc95acec4311488ac5b5b1bb47d890e539812727b8",
+  "kind": "higgsfield-audio:mirelo_text_to_audio",
+  "output_sha256": "1155d4c3f9846b090ff559e139a29a84571a2de08a0abd111511e88e294303d5",
+  "output_size": 1391050,
+  "schema": 1,
+  "values": {
+    "duration": "7.24",
+    "prompt": "soft wind, resonant warm presence, footsteps starting on sand. Scene context: missao. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

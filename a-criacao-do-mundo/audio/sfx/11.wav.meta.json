@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "54750254bb9d2bef8ef11ea725fd0eccbd4b2126819c40b6414f461efd1974cc",
+  "kind": "elevenlabs-audio:sound_generation",
+  "output_sha256": "f5d4723fcb3327e8d7e882d0fbbb4dc87334a3c2bb39e3ee63eb26164a6c78d0",
+  "output_size": 829518,
+  "schema": 1,
+  "values": {
+    "duration": "4.33",
+    "prompt": "soft dusk wind, quiet water, morning hush. Scene context: ceu. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

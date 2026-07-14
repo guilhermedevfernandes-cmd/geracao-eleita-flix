@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "fe21fa3f41f66496dbfb7f987d9343052fd98e4663e27a5c46c8493c32a95d0d",
+  "kind": "elevenlabs-audio:sound_generation",
+  "output_sha256": "0045eaa842f6cc5741a3a92564cc62be92f4bf7199ff381b6f4f37a817ac765a",
+  "output_size": 33062,
+  "schema": 1,
+  "values": {
+    "duration": "2.00",
+    "prompt": "tiny soft comedic deflating whoosh, cute cartoon disappointed puff, gentle, for preschool animation, no voices. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

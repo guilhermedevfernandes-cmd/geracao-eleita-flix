@@ -1,0 +1,20 @@
+{
+  "dependencies": [],
+  "fingerprint": "fd4d165ecb369a8c46f81f27a7df37c33424b94fd898c9b874da433f54474af4",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "a3788dcab75165b036db26d6995a694759b093cc624485f2db15df70179e63a0",
+  "output_size": 86637,
+  "schema": 1,
+  "values": {
+    "direction": "[hushed] [mysterious storytelling]",
+    "model": "elevenlabs",
+    "post_atempo": "0.95",
+    "prompt": "Mas o Espírito de Deus pairava sobre aquelas águas. Algo grande ia começar.",
+    "similarity_boost": "0.78",
+    "speed": "0.90",
+    "stability": "0.50",
+    "tts_model": "eleven_v3",
+    "voice_id": "gkqqIm2zTUUewCkNIkTF",
+    "voice_type": "elevenlabs"
+  }
+}

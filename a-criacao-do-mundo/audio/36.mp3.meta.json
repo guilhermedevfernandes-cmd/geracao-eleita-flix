@@ -1,0 +1,20 @@
+{
+  "dependencies": [],
+  "fingerprint": "df8c62ecb4ff733ea29223bd054a075c1cb39d408fa8d738d401aa58648934ef",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "b42e9e50edf6262a93216dd2a5897f792036fdeb4f3ef73db9919fd1974f0c51",
+  "output_size": 101613,
+  "schema": 1,
+  "values": {
+    "direction": "[brightly] [hopeful]",
+    "model": "elevenlabs",
+    "post_atempo": "0.95",
+    "prompt": "Que mundo maravilhoso Deus nos deu. Vamos cuidar dele juntos.",
+    "similarity_boost": "0.78",
+    "speed": "0.90",
+    "stability": "0.50",
+    "tts_model": "eleven_v3",
+    "voice_id": "CQvWt7QRuInVGJUccjBp",
+    "voice_type": "elevenlabs"
+  }
+}

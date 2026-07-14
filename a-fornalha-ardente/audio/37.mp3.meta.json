@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "2a8b8170bd40695e60edb404e46f6d969057134236632ed69125eb591c676b83",
+  "kind": "elevenlabs-audio:eleven_multilingual_v2",
+  "output_sha256": "de16b3ca8d9f704194543b46535a9d705c53f437871640d7f1d6357c4997ab33",
+  "output_size": 84471,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "E a fornalha se apagou. Mas a história dos três amigos nunca mais foi esquecida.",
+    "tts_model": "eleven_multilingual_v2",
+    "voice_id": "gkqqIm2zTUUewCkNIkTF",
+    "voice_type": "elevenlabs"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "b80ac4537ada4a5450c509317adb0d9261e2c4b9d15199ccebeb5beb925b1fb8",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "ddf29b64ed270f440fc2811837cbff9e010d3bde574200934c2314cf8e36eeeb",
+  "output_size": 270045,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[calm] Depois, o enganador levou Jesus até o ponto mais alto do templo. [gentle] E disse: se você é o Filho de Deus, pula daqui! Os anjos vão te segurar! [warm] Mas Jesus respondeu de novo: também está escrito: não ponha o Senhor seu Deus à prova.",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

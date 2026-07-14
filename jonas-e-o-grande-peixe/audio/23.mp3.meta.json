@@ -1,0 +1,14 @@
+{
+  "dependencies": [],
+  "fingerprint": "f583f016803af43f7128699c6526406d38ede7f5d941165b830f46019500b30e",
+  "kind": "higgsfield-audio:text2speech_v2",
+  "output_sha256": "0990b40a40a8de2e540c188c7702cc433bf9d52bbf063f490762ee8ab9f74179",
+  "output_size": 85725,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "Eu lembrei de ti. A salvação vem do Senhor. Eu quero obedecer de verdade.",
+    "voice_id": "73a45c18-0c56-4642-a61e-f6b303f8ded1",
+    "voice_type": "preset"
+  }
+}

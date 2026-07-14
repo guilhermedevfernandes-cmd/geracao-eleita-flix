@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "f1d89ab535a98e9244b387e9ae168c1d2834b301fc7370678cb7344ea0845a91",
+  "kind": "higgsfield-audio:mirelo_text_to_audio",
+  "output_sha256": "ef9cccea75d53bbce19fd273fec3d9a7e8c6feb57d2e2496c0baf15e246015f5",
+  "output_size": 1498046,
+  "schema": 1,
+  "values": {
+    "duration": "7.80",
+    "prompt": "body splash, sudden wave hush, rain softening, relieved gasps. Scene context: peixe. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

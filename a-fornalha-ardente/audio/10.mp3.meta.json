@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "0d676ab2768ee06436291ece3312b1488bdd936a80d107ff725238983f265897",
+  "kind": "elevenlabs-audio:eleven_multilingual_v2",
+  "output_sha256": "a5d33c1f24e419f137d1cb4d4ca7b0e6feeb8673313bd2fc4d294ce46f5691fb",
+  "output_size": 134208,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "Mas três homens continuaram de pé. Sadraque, Mesaque e Abednego não se curvaram diante da estátua.",
+    "tts_model": "eleven_multilingual_v2",
+    "voice_id": "gkqqIm2zTUUewCkNIkTF",
+    "voice_type": "elevenlabs"
+  }
+}

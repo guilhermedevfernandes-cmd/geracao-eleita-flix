@@ -1,0 +1,14 @@
+{
+  "dependencies": [],
+  "fingerprint": "379d6e1f37faaa65cdb31e89e1e6f97daadea5a2f12d8fe2ba56d8bbe2c7b80f",
+  "kind": "higgsfield-audio:text2speech_v2",
+  "output_sha256": "f51fa53c93e65aa8e3e24a3e5e7a7fb71d36eaa0bed3fc1de12a5e522fb45d30",
+  "output_size": 107459,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "Tu tens pena desta planta. E eu não teria pena de Nínive, com tanta gente e tantas crianças?",
+    "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+    "voice_type": "preset"
+  }
+}

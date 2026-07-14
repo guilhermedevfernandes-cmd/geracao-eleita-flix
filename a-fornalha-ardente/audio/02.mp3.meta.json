@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "b2ab3d5c22b74423ed0ecbbe322b64b902947ae99c4d5b2d812d45d905e03320",
+  "kind": "elevenlabs-audio:eleven_multilingual_v2",
+  "output_sha256": "2f5a7057b0c3543a984badab67c16665dbf27369326b6d282ce318f94e10b198",
+  "output_size": 104533,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "A estátua era tão alta que parecia tocar as nuvens. E todo o reino recebeu uma ordem do rei.",
+    "tts_model": "eleven_multilingual_v2",
+    "voice_id": "gkqqIm2zTUUewCkNIkTF",
+    "voice_type": "elevenlabs"
+  }
+}

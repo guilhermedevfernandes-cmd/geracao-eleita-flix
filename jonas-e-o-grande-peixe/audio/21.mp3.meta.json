@@ -1,0 +1,14 @@
+{
+  "dependencies": [],
+  "fingerprint": "29d092d362f81316ff975f631de15426cd1e3dd5cd9e02109bf8eb5716c9350d",
+  "kind": "higgsfield-audio:text2speech_v2",
+  "output_sha256": "ad5db890ec91c2110ee1524e40427b2e865b95c6ff0ef5bbc0b6ad77699f974b",
+  "output_size": 94502,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "Jonas foi engolido. Por três dias e três noites, ele ficou dentro daquele peixe enorme.",
+    "voice_id": "d8ba9f14-8a24-44db-932b-99e16c45bd32",
+    "voice_type": "preset"
+  }
+}

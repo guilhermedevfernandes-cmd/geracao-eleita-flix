@@ -1,0 +1,17 @@
+{
+  "dependencies": [
+    {
+      "filename": "sadraque_ref.png",
+      "label": "ref-sadraque",
+      "sha256": "4096d541c64634e43df8a483d3af371a0954e637bed3b99e3bd7096c27a41b1d"
+    }
+  ],
+  "fingerprint": "871a5351c10cce52e23ba7cbbdff928ea20772401235af4f86a797bd4fb92a2c",
+  "kind": "episode-frame",
+  "output_sha256": "d95e43a253d9835067ba081890ebefec63ec2a7e8540d210e5439decc3c3d02e",
+  "output_size": 3001207,
+  "schema": 1,
+  "values": {
+    "source_signature": "18ef5a91bab8dfe3276002ae5095856c3e055f1493124e1dd1c2fc70f6f11c5a"
+  }
+}

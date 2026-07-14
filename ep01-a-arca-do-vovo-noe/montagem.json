@@ -1,0 +1,16 @@
+{
+  "final": "EP01-PREVIEW-A-ARCA-DO-VOVO-NOE.mp4",
+  "bgm": "bgm-infantil.mp3",
+  "bgm_reflexao": "bgm-reflexao.mp3",
+  "cenas": [
+    {"nome": "c1", "segs": ["n01"], "planos": ["01-abertura"], "sfx": [["sininhos", 0.8, 0.22]]},
+    {"nome": "c2", "segs": ["n02"], "planos": ["02-vovo-noe"], "sfx": [["passarinho-piu", 1.5, 0.18]]},
+    {"nome": "c3", "segs": ["n03a", "n03b"], "planos": ["03-chamado"], "sfx": [["harpa-magica", 0.5, 0.2]]},
+    {"nome": "c4", "segs": ["n04"], "planos": ["04-toc-toc"], "sfx": [["toc-toc-madeira", 2.2, 0.32]]},
+    {"nome": "c5", "segs": ["n05"], "planos": ["05-desfile"], "sfx": []},
+    {"nome": "c6", "segs": ["n06"], "planos": ["06-chuva"], "sfx": [["chuva-suave", 1.0, 0.32]]},
+    {"nome": "c7", "segs": ["n07"], "planos": ["07-nina-volta"], "sfx": [["asas-batendo", 3.5, 0.25]]},
+    {"nome": "c8", "segs": ["n08a", "n08b", "n08c"], "planos": ["08-arco-iris"], "sfx": [["harpa-magica", 4.5, 0.2]]},
+    {"nome": "c9-reflexao", "segs": ["n09_full"], "planos": ["02-vovo-noe", "05-desfile", "08-arco-iris", "09-tchau"], "sfx": [["sininhos", 0.5, 0.22]]}
+  ]
+}

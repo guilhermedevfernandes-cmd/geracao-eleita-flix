@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "706bc766b37c995bdd13c2589e4de526741d46a62998ab8840097ab4b05e28a9",
+  "kind": "higgsfield-audio:mirelo_text_to_audio",
+  "output_sha256": "cd37386739cae7bfb06ce58abd52934f3c3a17ae8b0c897a90118c83399c28f3",
+  "output_size": 1529254,
+  "schema": 1,
+  "values": {
+    "duration": "7.96",
+    "prompt": "distant city murmur, uneasy wind, satchel strap creak. Scene context: chamado. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

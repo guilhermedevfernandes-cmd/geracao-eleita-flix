@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "da3902bfd52f94e9eda16d5a9c2039ab648dc66934ad03a2ad3a1ba818446de8",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "76591f9436f45aa92b67cc88843316833fda95641a6da1b8ecef2ea88343841c",
+  "output_size": 80292,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[calm] Uma arca é um barco enorme. E Noé obedeceu a Deus em tudo.",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "9fed53980d6c223d99eb4e5f678ad3bfc69367eba1df383183ca6f20a4ba4780",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "4f317592203551536ca62900b9ed089b0bbd8f90dd7637502b173778bfd75b72",
+  "output_size": 136716,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[curious] Quando a chuva passou, Noé soltou uma pombinha. [happy] E ela voltou com uma folha verde no bico! A terra estava secando.",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

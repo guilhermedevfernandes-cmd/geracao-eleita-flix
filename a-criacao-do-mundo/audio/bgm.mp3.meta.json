@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "5835d1c3d914f04ac12d35541a686738ad0e482c1c4232291154c190e01f0a91",
+  "kind": "elevenlabs-audio:music",
+  "output_sha256": "607b01b11d6c5dffde45601797c5658546980f4d37933bb535d350286fbe3fca",
+  "output_size": 2880619,
+  "schema": 1,
+  "values": {
+    "duration": "285.49",
+    "prompt": "warm orchestral wonder for children about Genesis creation, soft choir pads without lyrics, luminous strings, gentle woodwinds, sparkling celesta, hopeful crescendos for each creation day, peaceful Sabbath ending, memorable but unobtrusive. Instrumental cinematic score for a premium family animated film. No vocals, no speech, clean ending."
+  }
+}

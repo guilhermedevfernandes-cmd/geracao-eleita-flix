@@ -1,0 +1,41 @@
+{
+  "approvals": {
+    "abednego": {
+      "approved_at": "2026-07-10T22:09:44.204147+00:00",
+      "fingerprint": "14b62f16fc47a8d09146520f3862bd3f49a3de7f9c80dbd2e22cb80d0c2ac8e0",
+      "output_sha256": "994dade0e5e0c54e270cc263666ae1e6edd3d537407f9beace750f8e6ccb0d5c",
+      "voice_id": "S6JRAR6bdDn0imFzAhjA"
+    },
+    "guarda": {
+      "approved_at": "2026-07-10T22:09:44.663436+00:00",
+      "fingerprint": "150ecfc5aacbe0942df90aeda963aca227b32341174efdcbb5b237902ea53d73",
+      "output_sha256": "03b4065eab854eb772a6b8f7ccebf54be87536dc4e51bfd9b758649eab19d81e",
+      "voice_id": "JtRtm0OrgcgUP6oMWQgc"
+    },
+    "mesaque": {
+      "approved_at": "2026-07-10T22:09:43.553595+00:00",
+      "fingerprint": "3ef721bed7f5e5cfdef445cbb47a70e8a279dbe6b01dfd3f61cb92bd531e1d02",
+      "output_sha256": "bc4cb503294418460156306dcb6aba4befb977bf7ad8a2911f8709a9d5e6871d",
+      "voice_id": "5ALQoVCeBkwZZplFpKkO"
+    },
+    "narrator": {
+      "approved_at": "2026-07-10T22:09:42.052201+00:00",
+      "fingerprint": "0a3bbb096b588fdc94bd8faa9817ad5ab215c6c43bb48290b00042df43ea00b8",
+      "output_sha256": "c5f76bca40523c67044e5c6fb541503d107be8569a2a06134bec926896584c95",
+      "voice_id": "gkqqIm2zTUUewCkNIkTF"
+    },
+    "rei": {
+      "approved_at": "2026-07-10T22:09:42.575551+00:00",
+      "fingerprint": "3aa9d3212fc9357b048bdf311a1110b1a5eb2ed23b8c2fc7721a55651224ec72",
+      "output_sha256": "e1f8f0f02cd0c0af3c7b286f198366480f7d0e1a8dde529c69fc0f713ff2b604",
+      "voice_id": "r8pRY97Q57nCIMtpOyWA"
+    },
+    "sadraque": {
+      "approved_at": "2026-07-10T22:09:43.093390+00:00",
+      "fingerprint": "41d94e961689dd234e198a9dbc90d439d346e68594c0728cc2aa536c2694444f",
+      "output_sha256": "2ae12850eb56be36fbb1afdd277cc7fcada09f2487b3020fc057399e9e082857",
+      "voice_id": "NHphTvFqgs01MNV8q4Gn"
+    }
+  },
+  "schema": 1
+}

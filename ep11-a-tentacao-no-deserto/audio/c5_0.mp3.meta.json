@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "4b001783ee18f4d4572cec2926a643d5e8073e54c8dc2cc9efcfb5666ad79e32",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "c7a5785cfe93d5497b4ea035cdde65039ddd865c26bf4f421d9b6c8c7989220a",
+  "output_size": 368266,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[calm] Por fim, o enganador levou Jesus a um monte bem alto e mostrou todos os reinos do mundo, brilhando. [gentle] E disse: tudo isso eu te dou... se você se ajoelhar e me adorar. [awe] Aí Jesus respondeu bem firme: sai daqui, Satanás! Está escrito: adore só ao Senhor seu Deus. Sirva só a Ele!",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

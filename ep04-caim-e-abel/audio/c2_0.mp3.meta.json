@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "327d7b50e76a022a522bba05c57de506a6fe5e250c9f79e3d16e234feca0fc5d",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "1a7110a856c711fc64e49e0a5afe7f9a07b51339d2327ed891336c9f7abea3a3",
+  "output_size": 158450,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[warm] Depois que saíram do jardim, Adão e Eva tiveram dois filhos. [happy] Caim, o mais velho, plantava comidinhas na terra. E Abel, o mais novo, cuidava das ovelhinhas.",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

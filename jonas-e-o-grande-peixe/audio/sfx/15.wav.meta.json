@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "3abdcf3ec9da7906e233836bee6422fbb9f4edf3d24a8c09fc3f67f039ecf3b8",
+  "kind": "higgsfield-audio:mirelo_text_to_audio",
+  "output_sha256": "eddff879a04d4e7c4320cd8a8fb29d89d89d4d25b0e02a09017d839b0d61bae8",
+  "output_size": 1359842,
+  "schema": 1,
+  "values": {
+    "duration": "7.08",
+    "prompt": "urgent footsteps on wood, cloth grab, sudden gasp, storm muffled above. Scene context: tempestade. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

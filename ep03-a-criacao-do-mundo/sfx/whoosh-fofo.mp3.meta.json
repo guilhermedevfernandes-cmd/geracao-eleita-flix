@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "2c96580157296f3fa58e83541ac82b098669edeaa4b0fad3bd71d0c47a91b0e4",
+  "kind": "elevenlabs-audio:sound_generation",
+  "output_sha256": "cc728952ef26d9788b63615b10f18cc5084eb209c7587a361d2d02f6fa506cef",
+  "output_size": 33062,
+  "schema": 1,
+  "values": {
+    "duration": "2.00",
+    "prompt": "soft gentle cartoon wind whoosh, airy and cute, light and rounded, preschool show. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

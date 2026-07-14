@@ -1,0 +1,20 @@
+{
+  "dependencies": [],
+  "fingerprint": "563f84ccfededcf4ed0d87a182f0a242b59f32d9b60c24d43bcfb025dc23a659",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "b4a75fc14985d9e0353e4b92d8905bfe03639a6df1d13a0a09ed723f90a876c5",
+  "output_size": 59757,
+  "schema": 1,
+  "values": {
+    "direction": "[warmly] [with quiet authority]",
+    "model": "elevenlabs",
+    "post_atempo": "0.95",
+    "prompt": "A luz é boa. Separe-se a luz das trevas.",
+    "similarity_boost": "0.78",
+    "speed": "0.90",
+    "stability": "0.50",
+    "tts_model": "eleven_v3",
+    "voice_id": "r8pRY97Q57nCIMtpOyWA",
+    "voice_type": "elevenlabs"
+  }
+}

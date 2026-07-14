@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "440a7d6ba1b440380479e29888c5a0cb38f8df806312d2a572d00cce53409f9c",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "b3d659bd494810e084dc88e1d38540d64fff22b0039378ff6294459a143c2aa3",
+  "output_size": 237862,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[gentle] Jesus pediu para João batizá-lo. Mas João disse: eu é que preciso ser batizado por você! [calm] E Jesus respondeu: deixa assim por agora. É isso que Deus quer que a gente faça. [warm] E João obedeceu.",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

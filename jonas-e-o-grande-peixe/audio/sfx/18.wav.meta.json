@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "1f79714f95e6871b6eb2bc599adc73ad110fc1074b108cb1e5c6fd6cc67a9239",
+  "kind": "higgsfield-audio:mirelo_text_to_audio",
+  "output_sha256": "cd6d8fb7dea6481e5b876c66fd51e2aa702d17db0e98bf9f1a45d9efa8dfb681",
+  "output_size": 967518,
+  "schema": 1,
+  "values": {
+    "duration": "5.02",
+    "prompt": "close rain hits, soft breath, distant thunder. Scene context: tempestade. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

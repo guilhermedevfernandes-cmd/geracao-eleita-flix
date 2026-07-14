@@ -1,0 +1,14 @@
+{
+  "dependencies": [],
+  "fingerprint": "ee045f683f18cfc09df1ef5e6b8e6d6cc89cd227cfab9d98bae5840f523c2fe1",
+  "kind": "higgsfield-audio:text2speech_v2",
+  "output_sha256": "30c54a872939878cf60feeea561dc4c4841aa2811955e5992e2af4ba4500ea98",
+  "output_size": 107459,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "Mas um dia a voz de Deus chegou até ele. Não era um grito. Era um chamado claro e firme.",
+    "voice_id": "d8ba9f14-8a24-44db-932b-99e16c45bd32",
+    "voice_type": "preset"
+  }
+}

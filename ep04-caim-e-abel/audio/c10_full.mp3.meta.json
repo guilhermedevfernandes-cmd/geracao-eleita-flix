@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "b8175fe746499d6d072cf0309c8ddd70b4f6eb97aea23e5fad47c24273f46498",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "3cc6b4f54dee1ef12bb05555c42b2b68e595dadfc299aa69c3687402d3e95838",
+  "output_size": 339008,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[warm] E o que aprendemos com essa história? [thoughtful] Vem lembrar comigo.\n\n[calm] Um: Deus vê tudo, até o nosso coração.\n\n[calm] Dois: quando a raiva chegar, precisamos vencer ela, fazendo o bem.\n\n[warm] Três: mesmo quando erramos, Deus continua cuidando da gente.\n\n[warm] Deus cuida de mim, Deus cuida de você! [happy] Tchau! Até a próxima.",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

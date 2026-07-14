@@ -1,0 +1,20 @@
+{
+  "dependencies": [],
+  "fingerprint": "700772c092600650c0811dc6b32376d16d1cc0579dd8d26a82c59455287c859c",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "abf15e4e7c793303d2b5af498bb9b2338a9272b84fad28e1e90e1971a32bf0a0",
+  "output_size": 98925,
+  "schema": 1,
+  "values": {
+    "direction": "[hushed] [mysterious storytelling]",
+    "model": "elevenlabs",
+    "post_atempo": "0.95",
+    "prompt": "No começo, não havia terra, nem mar, nem luz. Só um silêncio enorme esperava.",
+    "similarity_boost": "0.78",
+    "speed": "0.90",
+    "stability": "0.50",
+    "tts_model": "eleven_v3",
+    "voice_id": "gkqqIm2zTUUewCkNIkTF",
+    "voice_type": "elevenlabs"
+  }
+}

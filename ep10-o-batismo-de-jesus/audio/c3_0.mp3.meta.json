@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "a0b24f6f69a6b3f723099cfc5466d2f2f16c20fffdf05b017671f6ebf976ef50",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "73b7128a8c843dd05b5ced0f44b7a12bee4ccf787a61f1a07aa1361e824b0098",
+  "output_size": 150927,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[calm] E João sempre dizia: [awe] depois de mim, vem alguém muito mais importante do que eu. Eu não sou digno nem de carregar as sandálias dele!",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

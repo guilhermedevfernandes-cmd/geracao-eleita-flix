@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "2ece3a548258ed1e658abe3fd348ab5adb472919732bf4d01dea32d0c7709eec",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "be0a6d23f13d714f8cda7b5f23a6b4b56846173548bf31d4f6a6878422d32199",
+  "output_size": 134208,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[awe] Um dia, no monte, Moisés viu uma coisa incrível: um arbusto pegando fogo... que não queimava! E dali, Deus chamou:",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

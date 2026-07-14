@@ -1,0 +1,20 @@
+{
+  "dependencies": [],
+  "fingerprint": "64da779ee29d4c176c137ea90e36c1094521fec93865db008e789b6cff43179a",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "7bc67ed76214d4fe0db892e56b782e9db3763016f51cc4460a297934ab259dbc",
+  "output_size": 74733,
+  "schema": 1,
+  "values": {
+    "direction": "[excited] [filled with wonder]",
+    "model": "elevenlabs",
+    "post_atempo": "0.95",
+    "prompt": "E a luz apareceu! Pela primeira vez, o escuro encontrou o claro.",
+    "similarity_boost": "0.78",
+    "speed": "0.90",
+    "stability": "0.50",
+    "tts_model": "eleven_v3",
+    "voice_id": "gkqqIm2zTUUewCkNIkTF",
+    "voice_type": "elevenlabs"
+  }
+}

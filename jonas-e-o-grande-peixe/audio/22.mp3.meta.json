@@ -1,0 +1,14 @@
+{
+  "dependencies": [],
+  "fingerprint": "f9bf67c6a275ac1839eafae7c9ebe29bd60fb026d6fc748d05ec53dd5d5b134d",
+  "kind": "higgsfield-audio:text2speech_v2",
+  "output_sha256": "a650ec243597c0db0d729d0c0bfeb0aeb59d2769d9e3fbe8a50ca2a1021658d7",
+  "output_size": 99518,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "Senhor, eu fugi. Eu errei. Do fundo deste lugar escuro, eu clamo a ti com o coração.",
+    "voice_id": "73a45c18-0c56-4642-a61e-f6b303f8ded1",
+    "voice_type": "preset"
+  }
+}

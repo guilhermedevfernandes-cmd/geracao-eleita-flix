@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "668d778e6b4ab900114f025f5ee312367101b74980c0753f9e5b6bfa51f2ac16",
+  "kind": "higgsfield-audio:mirelo_text_to_audio",
+  "output_sha256": "839c9ad47b0a922591647e372eb33735e7fe00704cdccb3aa6681fc42f033c05",
+  "output_size": 1471298,
+  "schema": 1,
+  "values": {
+    "duration": "7.64",
+    "prompt": "city gate bustle, market murmur, banners in wind. Scene context: missao. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

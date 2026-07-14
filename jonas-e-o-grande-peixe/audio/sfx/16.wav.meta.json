@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "154a88462f4b6fa1add07e7667070cfa30e49cf12aa4e961b0cd73649fa88028",
+  "kind": "higgsfield-audio:mirelo_text_to_audio",
+  "output_sha256": "e7d9020451869348aa425fa7ca752f1addb088a15686918d2d210026c513639d",
+  "output_size": 1373214,
+  "schema": 1,
+  "values": {
+    "duration": "7.14",
+    "prompt": "heavy rain, distant thunder, shocked murmurs, rope slap. Scene context: tempestade. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

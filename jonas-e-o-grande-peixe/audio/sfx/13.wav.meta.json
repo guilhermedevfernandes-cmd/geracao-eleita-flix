@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "5981a7f5a8b595d75157e8ee8f6820c0dfcb6851d80d437414f5d840de67e9b5",
+  "kind": "higgsfield-audio:mirelo_text_to_audio",
+  "output_sha256": "dd292c247efa1f029840ba0cd34775d75bc825c1bc53304509d49840cb7bd5b2",
+  "output_size": 1819038,
+  "schema": 1,
+  "values": {
+    "duration": "9.46",
+    "prompt": "shouting through wind, rope strain, thunder crack, deck splash. Scene context: tempestade. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

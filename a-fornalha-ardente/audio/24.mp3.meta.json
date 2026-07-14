@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "e8a71dcb75930f80f9239032f9f1f534392aabe84fc564d41f06608560d3fedd",
+  "kind": "elevenlabs-audio:eleven_multilingual_v2",
+  "output_sha256": "501b6dc5690f9a5caf3664e3722c0e5f492f53cf8500d3bda25d66fe58658fbc",
+  "output_size": 77784,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "E eles caíram no meio das chamas. O fogo os cercou por todos os lados.",
+    "tts_model": "eleven_multilingual_v2",
+    "voice_id": "gkqqIm2zTUUewCkNIkTF",
+    "voice_type": "elevenlabs"
+  }
+}

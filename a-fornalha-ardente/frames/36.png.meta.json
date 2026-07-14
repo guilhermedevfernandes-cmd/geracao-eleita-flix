@@ -1,0 +1,27 @@
+{
+  "dependencies": [
+    {
+      "filename": "sadraque_ref.png",
+      "label": "ref-sadraque",
+      "sha256": "4096d541c64634e43df8a483d3af371a0954e637bed3b99e3bd7096c27a41b1d"
+    },
+    {
+      "filename": "mesaque_ref.png",
+      "label": "ref-mesaque",
+      "sha256": "8ddf7b7ff44c2a3506677d501bf8c74a3bb4ef9ff7f421970f7329fe8e1faa07"
+    },
+    {
+      "filename": "abednego_ref.png",
+      "label": "ref-abednego",
+      "sha256": "ad7ccff4adbaa9d8f85bd7b56fed3c3ed5f76fd7ad45a39e1a6c067783e5349b"
+    }
+  ],
+  "fingerprint": "b8d0801f313eb8ae5b5f5f7ecf625ee8e694c9bea5968718c4e624bf1859acda",
+  "kind": "episode-frame",
+  "output_sha256": "a16fb93583a372476d99a76d6d280f5545f81e1f7469a66fd032dfb06886bfbf",
+  "output_size": 2983823,
+  "schema": 1,
+  "values": {
+    "source_signature": "824a38201671a8e201ea9eae584332aea696ceadde90b4c8b84825ab76903474"
+  }
+}

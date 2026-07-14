@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "959cd38cfcf487266a12797962b4267ca829743665bcb6ec78bf024f81230ddc",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "b13a71b677d64da6e2dc313c3b6542fd30da3af1b0388cabf865dfc49758d0b9",
+  "output_size": 160958,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[warm] O José tinha muitos irmãos. E o papai dele, Jacó, amava muito o José. [happy] Um dia, o papai deu para ele um presente lindo: uma túnica colorida!",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

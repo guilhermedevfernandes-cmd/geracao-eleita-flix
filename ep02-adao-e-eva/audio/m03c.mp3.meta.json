@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "a1f42c923d98255d86ca58bf2591c2713bebbad11ef9c8e9dc6f314707d5b333",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "b8cf8551ef93bec226c0bd6fe9273124bd1bf75c81c6548657ab7f442bf8f0bf",
+  "output_size": 67753,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[warm] E fez a Eva. Eles cuidavam do jardim com muito amor.",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "3756e7b06f1ae721cf641ef2bbb6c846df199d9266268ccac048ed540172273c",
+  "kind": "elevenlabs-audio:sound_generation",
+  "output_sha256": "4ab3bbae4c672bc44e1cc67b3986e7d0dbd5f71ba61dc62ad943802ebcc2c014",
+  "output_size": 81128,
+  "schema": 1,
+  "values": {
+    "duration": "5.00",
+    "prompt": "gentle little river stream flowing softly, calm water trickle for a preschool cartoon, soothing, no voices. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

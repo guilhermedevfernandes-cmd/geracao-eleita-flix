@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "1475466d59264ad23cbd8430156342bb85881ec5ab617f060bd7fbcec60543d0",
+  "kind": "higgsfield-audio:mirelo_text_to_audio",
+  "output_sha256": "4860c0a15a842fc74a6aecbd54f27e52af0d7851d714fe06e9815e489931be6a",
+  "output_size": 1074514,
+  "schema": 1,
+  "values": {
+    "duration": "5.58",
+    "prompt": "sharp breath, cloth rustle, tense silence under soft wind. Scene context: chamado. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

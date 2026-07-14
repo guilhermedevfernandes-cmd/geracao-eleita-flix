@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "70e87559d0b3621c45e418f0a18c26833dd3801b2285a736add45e5726a02e6a",
+  "kind": "elevenlabs-audio:music",
+  "output_sha256": "696c5d6af7e3835a3bc1e339269e330bc9e1c784d119d4d5d0ed2954936d1fee",
+  "output_size": 2879783,
+  "schema": 1,
+  "values": {
+    "duration": "288.72",
+    "prompt": "warm orchestral biblical adventure for children about courage and faith in Babylon, noble brass for the king, tense low strings and percussion for the fiery furnace, radiant hopeful strings for divine rescue, triumphant but gentle finale, memorable but unobtrusive. Instrumental cinematic score for a premium family animated film. No vocals, no speech, clean ending."
+  }
+}

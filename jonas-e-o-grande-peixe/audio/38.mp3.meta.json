@@ -1,0 +1,14 @@
+{
+  "dependencies": [],
+  "fingerprint": "638cf50e54eac0f59902d2e0e2d449d06942f74113daadeb6a1ca10c901cb3a9",
+  "kind": "higgsfield-audio:text2speech_v2",
+  "output_sha256": "d6b9ab90132cf3f006f97d68f3fb8719b26fd46d98531365ef679d85742e2b94",
+  "output_size": 75276,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "Jonas entendeu. O amor de Deus é maior do que a nossa raiva.",
+    "voice_id": "d8ba9f14-8a24-44db-932b-99e16c45bd32",
+    "voice_type": "preset"
+  }
+}

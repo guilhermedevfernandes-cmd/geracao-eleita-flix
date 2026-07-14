@@ -1,0 +1,20 @@
+{
+  "dependencies": [],
+  "fingerprint": "1f3165d48e6c564e9e753619f1efc0a5b69ca79863f3af52a9fc0eca321a3a2f",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "ada6b8fa2f95b4eb1827bb4e5e38ca866bb242404ba6d9692b80dcfa71079092",
+  "output_size": 75885,
+  "schema": 1,
+  "values": {
+    "direction": "[tender] [with awe]",
+    "model": "elevenlabs",
+    "post_atempo": "0.95",
+    "prompt": "Então Deus formou o homem do pó da terra. E soprou nele fôlego de vida.",
+    "similarity_boost": "0.78",
+    "speed": "0.90",
+    "stability": "0.50",
+    "tts_model": "eleven_v3",
+    "voice_id": "gkqqIm2zTUUewCkNIkTF",
+    "voice_type": "elevenlabs"
+  }
+}

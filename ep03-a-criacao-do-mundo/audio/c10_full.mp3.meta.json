@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "35787f7529ac830e28a4139ac9150d8cf0f3d32786706d84c1131be3d087f700",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "614dbb75f29e2390e7a91f6474c45efe7d401a9926e65c79b42be4c1d44084f4",
+  "output_size": 332739,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[warm] E o que aprendemos com essa história? [thoughtful] Vem lembrar comigo.\n\n[calm] Um: Deus fez o mundo inteiro.\n\n[calm] Dois: tudo o que Deus fez é bom.\n\n[warm] Três: Deus fez você. E você é muito especial.\n\n[warm] Deus cuida de mim, Deus cuida de você! [happy] Tchau! Até a próxima.",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

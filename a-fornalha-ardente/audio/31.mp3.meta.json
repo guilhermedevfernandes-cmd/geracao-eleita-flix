@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "1cd19b4b85872ac800b6c8ed058fed08149c479dbc3e6f68a0724bce5be05131",
+  "kind": "elevenlabs-audio:eleven_multilingual_v2",
+  "output_sha256": "9a440d51ae2a7a28c5791763e1942a654be1c606c127b8eb179bf408129e531f",
+  "output_size": 125013,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "Bendito seja o Deus de Sadraque, Mesaque e Abednego! Ele enviou o seu anjo e livrou os seus servos!",
+    "tts_model": "eleven_multilingual_v2",
+    "voice_id": "r8pRY97Q57nCIMtpOyWA",
+    "voice_type": "elevenlabs"
+  }
+}

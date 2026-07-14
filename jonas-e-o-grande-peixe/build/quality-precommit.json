@@ -1,0 +1,16 @@
+{
+  "ok": true,
+  "errors": [],
+  "warnings": [],
+  "metrics": {
+    "path": "/Users/huiosweb/Documents/huios-web-ccode/8 - Edicao De Videos/gerecao-eleita-flix/jonas-e-o-grande-peixe/.jonas-e-o-grande-peixe_final.55076.mp4",
+    "duration_seconds": 285.833333,
+    "width": 1920,
+    "height": 1080,
+    "loudness_lufs": -13.8,
+    "true_peak_dbfs": -1.1,
+    "session_fingerprint": "6ab68581d85d8681bc9d019de7a4908862db882bba1bc75792eae9a4dcee1a22",
+    "validation_scope": "technical-and-provenance",
+    "provenance_fingerprint": "f698affafb429d3cf35f43087090069cc8095803ffba153db3c73688e863139e"
+  }
+}

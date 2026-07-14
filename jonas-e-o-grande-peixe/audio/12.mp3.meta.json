@@ -1,0 +1,14 @@
+{
+  "dependencies": [],
+  "fingerprint": "7a24024346e0cf1af01d29b36ec2b9e57c53b273cc59ac5831af72caa277d226",
+  "kind": "higgsfield-audio:text2speech_v2",
+  "output_sha256": "b2a188b652ff11d42a2edd75d6306394f20f3c51721be197d87a7b009b2b2c3f",
+  "output_size": 125431,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "Mas ninguém foge de Deus. No meio do caminho, o vento mudou de verdade. O céu ficou escuro.",
+    "voice_id": "d8ba9f14-8a24-44db-932b-99e16c45bd32",
+    "voice_type": "preset"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "41af391223fb841ca5b6342db272ce48753c5393fba29e1962e86aacc06243bb",
+  "kind": "elevenlabs-audio:eleven_multilingual_v2",
+  "output_sha256": "127acec375e0c5a505ae64b8b8e1a3f220a386ffdee10f841d8cc73b4257a900",
+  "output_size": 102862,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "Se não se curvarem quando a música tocar, vocês serão jogados na fornalha de fogo ardente!",
+    "tts_model": "eleven_multilingual_v2",
+    "voice_id": "r8pRY97Q57nCIMtpOyWA",
+    "voice_type": "elevenlabs"
+  }
+}

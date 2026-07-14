@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "ead624626dd40b4f5141463e3a5ba3b7c089cc49edb0a59c41b454bea0701377",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "a5f6e48d264b6642e6acb9a1f9d770d6d5a8724413647db8d8d4015a23919d13",
+  "output_size": 40586,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[gentle] E Moisés obedeceu. Ele foi.",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

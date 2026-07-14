@@ -1,0 +1,35 @@
+{
+  "approvals": {
+    "capitao": {
+      "approved_at": "2026-07-10T00:52:21.940034+00:00",
+      "fingerprint": "6087dcbdf339a35e986020e0d6a08f98c38540e25ff3e9cd955a5cb129f1b0ff",
+      "output_sha256": "f87048ece4d258e71d08b1722ba5c82bc1edec63838c738b11cc62eb6850c98c",
+      "voice_id": "573e5163-59b3-4926-aab1-951ef2985f81"
+    },
+    "deus": {
+      "approved_at": "2026-07-10T00:52:21.583398+00:00",
+      "fingerprint": "0f090a48dc952d2ce08cd966f76e44ac513888c1e60ce2b4098348032890d61b",
+      "output_sha256": "7192643d369e271b73c744b7ef1f3f2b38902fcd2c572ef8e0c7581da96fd96e",
+      "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5"
+    },
+    "jonas": {
+      "approved_at": "2026-07-10T00:52:21.222009+00:00",
+      "fingerprint": "85503fc549da30be280abba757e9d762b1f86e2357e2e9cdc1992c3e3499a503",
+      "output_sha256": "87787161ae1037a5c4ab4c3c7c0e2bd1d11a0da07a1977ac0b82fd6cfd55cb8f",
+      "voice_id": "73a45c18-0c56-4642-a61e-f6b303f8ded1"
+    },
+    "narrator": {
+      "approved_at": "2026-07-10T00:52:20.853514+00:00",
+      "fingerprint": "a7a7afe38a98b8e0935e1a6f4ef7f0c2459f11830b8b34203b7496376cfbdb2f",
+      "output_sha256": "a57016779809d06abd88dffe0960b4accd9710965f2a2b4ba2d34eacf41c258f",
+      "voice_id": "d8ba9f14-8a24-44db-932b-99e16c45bd32"
+    },
+    "rei_ninive": {
+      "approved_at": "2026-07-10T00:52:22.304926+00:00",
+      "fingerprint": "48987a846921185e71512ae83846ca70ec14ed6ead1a880ad609e18d357f544a",
+      "output_sha256": "b51898a2ca12dfaf7aefe9904e9c581099deea8491c43f1f7e683b0394f865a3",
+      "voice_id": "dc382508-c8bd-443c-8cb2-46e57b8d2e6f"
+    }
+  },
+  "schema": 1
+}

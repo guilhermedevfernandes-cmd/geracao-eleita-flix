@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "4be919500e31db83c5db3bbf4e8733ff6fecacb88f8fb31cbb4733aeeb1bb3ed",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "c0cb18f8cb531fd0fafaa59c13fb5eb42b62420a7c9c519d40c9d4f028f74bcc",
+  "output_size": 367012,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[warm] E o que aprendemos com essa história? [thoughtful] Vem lembrar comigo.\n\n[calm] Um: quando Deus fala, o melhor é obedecer.\n\n[calm] Dois: Deus ouve a nossa oração em qualquer lugar. Até na barriga de um peixe!\n\n[warm] Três: Deus perdoa quem deixa de fazer o mal.\n\n[warm] Deus cuida de mim, Deus cuida de você! [happy] Tchau! Até a próxima.",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

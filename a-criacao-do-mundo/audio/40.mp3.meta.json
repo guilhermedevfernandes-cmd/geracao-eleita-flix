@@ -1,0 +1,20 @@
+{
+  "dependencies": [],
+  "fingerprint": "8b1a342f85e5eeb294afa00fe8aad0c7a61735af62ae66581a7e71f20389265d",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "12fe4b2144fe6b877b4dab1522dee0d3e9420cd33a64609e7e9c1687a69c9ca6",
+  "output_size": 81261,
+  "schema": 1,
+  "values": {
+    "direction": "[warmly] [reassuring]",
+    "model": "elevenlabs",
+    "post_atempo": "0.95",
+    "prompt": "E a mesma voz que disse “haja luz” ainda cuida de você hoje.",
+    "similarity_boost": "0.78",
+    "speed": "0.90",
+    "stability": "0.50",
+    "tts_model": "eleven_v3",
+    "voice_id": "gkqqIm2zTUUewCkNIkTF",
+    "voice_type": "elevenlabs"
+  }
+}

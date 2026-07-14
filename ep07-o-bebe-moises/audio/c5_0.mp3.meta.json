@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "5b94f68fd50bd79ccfc63697659af829de54ee01d07822f9eba8dc6e25425733",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "fc3bb2d56d5ea53cd3afcd76b8586363089b1580c16544b69ef0bf419418eee6",
+  "output_size": 303064,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[calm] Foi quando a filha do rei do Egito, a princesa, desceu para tomar banho no rio. [curious] Ela viu o cestinho no meio das plantas... [awe] Abriu... e era um bebê! O bebê chorou, e a princesa ficou com muita dó. [warm] Que bebezinho lindo, ela pensou, com o coração cheio de carinho.",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "dependencies": [],
+  "fingerprint": "933ddd75868d3ece337395bb9d1db8f98be95f34cb5665cec02c2a86fb969cc5",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "319b921cfa4223094cc4d39025366884c0d71cb3741ba2113bf19087cab179b2",
+  "output_size": 78573,
+  "schema": 1,
+  "values": {
+    "direction": "[with awe] [animated storytelling]",
+    "model": "elevenlabs",
+    "post_atempo": "0.95",
+    "prompt": "Deus fez o sol para brilhar de dia. Fez a lua e as estrelas para a noite.",
+    "similarity_boost": "0.78",
+    "speed": "0.90",
+    "stability": "0.50",
+    "tts_model": "eleven_v3",
+    "voice_id": "gkqqIm2zTUUewCkNIkTF",
+    "voice_type": "elevenlabs"
+  }
+}

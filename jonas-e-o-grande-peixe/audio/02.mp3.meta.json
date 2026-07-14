@@ -1,0 +1,14 @@
+{
+  "dependencies": [],
+  "fingerprint": "6307a7334596cfdfd73f9697f74e6c1facd8216460e4a627bf5e82aa0b892a6e",
+  "kind": "higgsfield-audio:text2speech_v2",
+  "output_sha256": "119bba4d0ceabdb4f76184dfa7bb1a87607640687669c043b562947e417b75d2",
+  "output_size": 122506,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "Jonas morava numa terra quente e seca. Ele gostava de paz, de sombra e de caminhos conhecidos.",
+    "voice_id": "d8ba9f14-8a24-44db-932b-99e16c45bd32",
+    "voice_type": "preset"
+  }
+}

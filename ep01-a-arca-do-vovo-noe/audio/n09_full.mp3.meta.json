@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "81b40d43ed6e91ec31a0a1626d61d66632ddaac67cf8878f08ea5bd70195dd0a",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "e6360694125c08be506c61af25d442fbdb7922720de8abc1a2ba6dc2929bc5ea",
+  "output_size": 332739,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[warm] E o que aprendemos com essa história? [thoughtful] Vem lembrar comigo.\n\n[calm] Um: Noé obedeceu a Deus em tudo.\n\n[calm] Dois: Deus cuidou de todos dentro da arca.\n\n[warm] Três: Deus sempre cumpre as suas promessas.\n\n[warm] Deus cuida de mim, Deus cuida de você! [happy] Tchau! Até a próxima.",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

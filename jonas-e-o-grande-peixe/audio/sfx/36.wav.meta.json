@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "bd26aa2d78bcec65c506f16e1b78a846125f6c6660b30853e6d96c62be29a1fa",
+  "kind": "higgsfield-audio:mirelo_text_to_audio",
+  "output_sha256": "325c6fda3ee2bf718edec93f19c6abc2d77911609d0e9fd82ad711f4f82ee1cd",
+  "output_size": 1377674,
+  "schema": 1,
+  "values": {
+    "duration": "7.16",
+    "prompt": "leaves crisping, hot wind, frustrated sigh. Scene context: resolucao. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

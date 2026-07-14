@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "a5f19e7ecfcd29f3fe3fd870f6b823b6cb216c7603f1c80fae0b7618a1e1fde0",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "af6c38d000f06a0c170badc2cfa85cb4a99da85a320b276f63a4f318b2c4ce6c",
+  "output_size": 188125,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[playful] Então chegaram os animais, de dois em dois. O leão! O elefante! A girafa! E a tartaruga, devagarinho. Todos entraram na arca.",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

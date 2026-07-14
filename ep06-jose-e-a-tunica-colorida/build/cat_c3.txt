@@ -1,0 +1,4 @@
+file '/Users/huiosweb/Documents/huios-web-ccode/8 - Edicao De Videos/gerecao-eleita-flix/ep06-jose-e-a-tunica-colorida/build/vid_c3_0.mp4'
+file '/Users/huiosweb/Documents/huios-web-ccode/8 - Edicao De Videos/gerecao-eleita-flix/ep06-jose-e-a-tunica-colorida/build/vid_c3_1.mp4'
+file '/Users/huiosweb/Documents/huios-web-ccode/8 - Edicao De Videos/gerecao-eleita-flix/ep06-jose-e-a-tunica-colorida/build/vid_c3_2.mp4'
+file '/Users/huiosweb/Documents/huios-web-ccode/8 - Edicao De Videos/gerecao-eleita-flix/ep06-jose-e-a-tunica-colorida/build/vid_c3_3.mp4'

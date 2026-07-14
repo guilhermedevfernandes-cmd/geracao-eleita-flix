@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "933ce60684a21545f6ad366e67c41ec2db27a09f2741885984033d850fddc7a6",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "092a47ab522c486da23d65cb080d5df8be93b120d5097b8ec90e0e359f679f28",
+  "output_size": 51035,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[calm] Dois: tudo o que Deus fez é bom.",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

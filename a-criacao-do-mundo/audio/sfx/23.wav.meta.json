@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "50c7fed047f4f95ae24d205e754f40705efdab8b432e1981302775f73392037e",
+  "kind": "elevenlabs-audio:sound_generation",
+  "output_sha256": "68d2e41020fb01b566cc3df823e9714fa8d338718eccda13b60620045ca999e6",
+  "output_size": 1428558,
+  "schema": 1,
+  "values": {
+    "duration": "7.45",
+    "prompt": "bird wing beats, joyful calls, cliff wind. Scene context: vida. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

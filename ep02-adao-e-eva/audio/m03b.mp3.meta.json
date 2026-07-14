@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "069e274ea1c5fac7bb06c29adf897fdbcc0abe8904a77ead40db0f09a7d32ab7",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "3edd1995e315d8818dc1ede58ac9f9d7380962253dbdfe595dd6d3ed0546de38",
+  "output_size": 31808,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[happy] Que jardim lindo!",
+    "tts_model": "eleven_v3",
+    "voice_id": "NHphTvFqgs01MNV8q4Gn",
+    "voice_type": "elevenlabs"
+  }
+}

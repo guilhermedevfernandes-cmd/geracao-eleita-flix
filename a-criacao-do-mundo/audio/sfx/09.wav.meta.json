@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "d448979534677723e6633d067303700c608df120e3fd1519cc83023de7d5ab32",
+  "kind": "elevenlabs-audio:sound_generation",
+  "output_sha256": "ae44759d8a3d497f158003add2657e676f4cde9ca20557fb6970e3cebc8f89cd",
+  "output_size": 1459278,
+  "schema": 1,
+  "values": {
+    "duration": "7.62",
+    "prompt": "open air wind, distant water, soft thunderless rumble. Scene context: ceu. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

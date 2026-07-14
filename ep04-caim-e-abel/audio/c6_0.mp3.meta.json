@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "4423a564cc48050afed87f2061d96397551e309845783cc4f99493f633825f11",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "2fd0ee8a0b12e3ed04a9193fdb53ce7b555fc5bd9aa9b4822b5dfeda3914403c",
+  "output_size": 186871,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[calm] Um dia, Caim chamou Abel para ir ao campo. [somber] E lá, com muita raiva no coração, Caim machucou o seu irmão. E Abel morreu. [softly] Foi muito, muito triste.",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

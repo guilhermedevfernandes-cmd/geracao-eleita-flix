@@ -1,0 +1,17 @@
+{
+  "dependencies": [
+    {
+      "filename": "adam_ref.png",
+      "label": "ref-adam",
+      "sha256": "8eebfef718a50b4206434091f8f4e6bc0be163d6919f1845a2fe5ebcf35f4e3e"
+    }
+  ],
+  "fingerprint": "48203409c2d6c6e5fd07cd38fdb3d02bc08b93947c7e6529d89029b5271f29eb",
+  "kind": "episode-frame",
+  "output_sha256": "07ff5626094a0f7904fc61daf34d07b2840bba3d6b038f8dd2e13e03675fa147",
+  "output_size": 3076521,
+  "schema": 1,
+  "values": {
+    "source_signature": "fdd0f7c9f1f2a569ee6ee1358a0f536933d8d175303d594fd106372b95f2c4e3"
+  }
+}

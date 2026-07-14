@@ -1,0 +1,19 @@
+{
+  "batch_id": "ed32373b2c45514d2082f6e32a74309371a32c5b17a717bd46f5fb2b4614fcef",
+  "model": "kling-3-omni",
+  "output_sha256": "c0b75a5b17f8f440b86450babe256527132a1b88947988f5fd6a6666d16dbf0e",
+  "provider": "openart-mcp",
+  "registered_at": "2026-07-10T19:50:56.764049+00:00",
+  "result": {
+    "asset_id": "UYofrMrdrISIioAQETdZ",
+    "history_id": "sB6RuSAvf1ks9rieEUdO",
+    "model": "kling-3-omni",
+    "source_url": "https://cdn.openart.ai/openart-ai/production/2026-07/create-video/U8LYT4b2errrkadcpdhh/0e1ded8aa74112b95e42007a6cc9e1e2-9208240c-800c-4a31-be79-d814b158c090_1783712311936_8b0517e1.mp4",
+    "status": "completed",
+    "task_id": "clip:09"
+  },
+  "schema": 1,
+  "server": "openart",
+  "source_signature": "1188891e56eedcf88bf00b7b0bb6b851e6a4cb60a9416885792b6a22f60370f6",
+  "task_id": "clip:09"
+}

@@ -1,0 +1,20 @@
+{
+  "dependencies": [],
+  "fingerprint": "b12674430caeb4b8637e8091426357e83e2db305db8559e854c6270a13b07690",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "af944a28154967c88b67e524e4e01e6cdf12079dbbb5236dee4a83dee4e6b0fc",
+  "output_size": 106989,
+  "schema": 1,
+  "values": {
+    "direction": "[tender] [softly]",
+    "model": "elevenlabs",
+    "post_atempo": "0.95",
+    "prompt": "Enquanto Adão dormia, Deus formou Eva. Uma pessoa nova, feita com o mesmo cuidado.",
+    "similarity_boost": "0.78",
+    "speed": "0.90",
+    "stability": "0.50",
+    "tts_model": "eleven_v3",
+    "voice_id": "gkqqIm2zTUUewCkNIkTF",
+    "voice_type": "elevenlabs"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "dependencies": [],
+  "fingerprint": "b33c347275a0965aad6cbccd258b51f2bf8faf35a1c366b63b5b3d73f2d5f593",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "f369cd62f69eb167f2145181237ecce997349126baa7b78f17e1949032208a0f",
+  "output_size": 106989,
+  "schema": 1,
+  "values": {
+    "direction": "[warmly] [reassuring]",
+    "model": "elevenlabs",
+    "post_atempo": "0.95",
+    "prompt": "Adão, este jardim é para você. Cuide dele. Dê nome aos animais. Eu estou com você.",
+    "similarity_boost": "0.78",
+    "speed": "0.90",
+    "stability": "0.50",
+    "tts_model": "eleven_v3",
+    "voice_id": "r8pRY97Q57nCIMtpOyWA",
+    "voice_type": "elevenlabs"
+  }
+}

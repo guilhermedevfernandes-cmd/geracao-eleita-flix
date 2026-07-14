@@ -1,0 +1,22 @@
+{
+  "dependencies": [
+    {
+      "filename": "adam_ref.png",
+      "label": "ref-adam",
+      "sha256": "8eebfef718a50b4206434091f8f4e6bc0be163d6919f1845a2fe5ebcf35f4e3e"
+    },
+    {
+      "filename": "eva_ref.png",
+      "label": "ref-eva",
+      "sha256": "14fe5d324c24798ab754d8d4813670e3b38b3ebeff9e6a45809558ca29c2177f"
+    }
+  ],
+  "fingerprint": "f02a2ee539205e70555476a63eb360c767890467e4a7bd680acdbe30713f3358",
+  "kind": "episode-frame",
+  "output_sha256": "7574a31117fbd08a6fbf287921e9d48dac9882232ce4dbccf4a02ed6dff4fe9e",
+  "output_size": 3195883,
+  "schema": 1,
+  "values": {
+    "source_signature": "074332a225074e24a481e5b1e61e19b94570d0c1e151b86f9f89141de9e07206"
+  }
+}

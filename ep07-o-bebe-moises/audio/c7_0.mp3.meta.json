@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "e5474fbef6ac0e56ccd4adf86656d02cc635d167bbd1fbc40d73cea5e1589301",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "dba1fb84d47a2e557d072cbef1eb692f43632bbe2d9c2478d59c8ecdd94f71be",
+  "output_size": 207351,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[calm] O bebê cresceu. E ele foi morar no palácio, como filho da princesa. [awe] Ela deu a ele o nome de Moisés, que quer dizer: tirado das águas. [warm] E Deus tinha planos lindos para a vida dele.",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

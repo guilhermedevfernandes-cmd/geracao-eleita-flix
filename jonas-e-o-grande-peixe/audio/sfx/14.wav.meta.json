@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "e267402862e99f957bd76b95a03b75c6f29d9a213fea317001cf7d9efc230532",
+  "kind": "higgsfield-audio:mirelo_text_to_audio",
+  "output_sha256": "fbe61ac4923a4c4a6ab127cccfd465664858581477deef4fb197bd9584d8fd19",
+  "output_size": 1453462,
+  "schema": 1,
+  "values": {
+    "duration": "7.56",
+    "prompt": "muffled storm above, creaking hull, dripping water, soft snore. Scene context: tempestade. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

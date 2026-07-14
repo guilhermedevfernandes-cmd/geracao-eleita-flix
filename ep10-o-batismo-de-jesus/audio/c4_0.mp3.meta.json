@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "1965ddd8d4da5caa8af19e16174fe670953e6ef52c69cc9c935e7451ed67bd6e",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "6d5819176a8d1bb82f441e518027b60dd51b9cb466a48f0d0406af54018f87ed",
+  "output_size": 164719,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[awe] Um dia, Jesus veio da Galileia até o rio Jordão. [warm] Quando João viu Jesus chegando, ficou muito feliz e disse: olhem! É o Cordeiro de Deus!",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "dependencies": [],
+  "fingerprint": "f6e0e9bbd4f532ff1274f5e45319736592f74cc4d7c44fc95f7a403207540366",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "d84c8bee7a86a831e757a9ea0d1a16b6dd1bc3782d67e630f573b93acfeb3172",
+  "output_size": 105837,
+  "schema": 1,
+  "values": {
+    "direction": "[joyful] [filled with wonder]",
+    "model": "elevenlabs",
+    "post_atempo": "0.95",
+    "prompt": "No céu, pássaros abriram as asas pela primeira vez. O ar ficou cheio de canto.",
+    "similarity_boost": "0.78",
+    "speed": "0.90",
+    "stability": "0.50",
+    "tts_model": "eleven_v3",
+    "voice_id": "gkqqIm2zTUUewCkNIkTF",
+    "voice_type": "elevenlabs"
+  }
+}

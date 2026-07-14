@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "8c9881fed91fa5cbe93d2d9729c7d826524d52fdde92f1be5ace11751ad35685",
+  "kind": "elevenlabs-audio:eleven_multilingual_v2",
+  "output_sha256": "05c00266d0b1c9e8ecda2d1a4dd9a1a71229d6929465b427c12aa0012b2943fb",
+  "output_size": 29301,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[calm] Haja um céu bem grande!",
+    "tts_model": "eleven_multilingual_v2",
+    "voice_id": "7i7dgyCkKt4c16dLtwT3",
+    "voice_type": "elevenlabs"
+  }
+}

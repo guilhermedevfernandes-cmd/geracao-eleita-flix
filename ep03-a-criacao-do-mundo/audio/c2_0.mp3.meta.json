@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "916aa1f15cf8e04c3f0014cfae0066c047a0b95e8136bf74940560c423a97cac",
+  "kind": "elevenlabs-audio:eleven_multilingual_v2",
+  "output_sha256": "cfe4dfdd718d06f06a0a4e18847f5104db3629340b68791d0eb5d48a2d832c8b",
+  "output_size": 157196,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[whispering] No começo, não havia nada. Tudo era escuro e quieto. [thoughtful] Mas Deus já estava lá. E então, Deus falou.",
+    "tts_model": "eleven_multilingual_v2",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

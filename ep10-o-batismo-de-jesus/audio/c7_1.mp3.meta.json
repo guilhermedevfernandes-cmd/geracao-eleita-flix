@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "6d5dee8e8623695994aeb011b105302181ab31db58da5298983e44793e66d631",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "6342dc4e2f39e76d09edf326406ee66d2c98ff5a1eb991237cc0bc02d0f30a88",
+  "output_size": 53542,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[warm] Este é o meu Filho amado. Nele eu me alegro muito!",
+    "tts_model": "eleven_v3",
+    "voice_id": "7i7dgyCkKt4c16dLtwT3",
+    "voice_type": "elevenlabs"
+  }
+}

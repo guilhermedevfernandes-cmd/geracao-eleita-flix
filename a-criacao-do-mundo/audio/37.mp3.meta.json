@@ -1,0 +1,20 @@
+{
+  "dependencies": [],
+  "fingerprint": "4a1d2d75b5c9e3fb4f045d00078f1f6b5009cb963d8186a9f9bfe73752efa94c",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "8adbc637b0b4ae78f8f64c625a6aae0651b3d383dc28174bd9e7e2d5f3e9b59e",
+  "output_size": 66669,
+  "schema": 1,
+  "values": {
+    "direction": "[peaceful] [softly]",
+    "model": "elevenlabs",
+    "post_atempo": "0.95",
+    "prompt": "Deus olhou para tudo o que havia feito. E viu que era muito bom.",
+    "similarity_boost": "0.78",
+    "speed": "0.90",
+    "stability": "0.50",
+    "tts_model": "eleven_v3",
+    "voice_id": "gkqqIm2zTUUewCkNIkTF",
+    "voice_type": "elevenlabs"
+  }
+}

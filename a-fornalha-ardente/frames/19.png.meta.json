@@ -1,0 +1,17 @@
+{
+  "dependencies": [
+    {
+      "filename": "abednego_ref.png",
+      "label": "ref-abednego",
+      "sha256": "ad7ccff4adbaa9d8f85bd7b56fed3c3ed5f76fd7ad45a39e1a6c067783e5349b"
+    }
+  ],
+  "fingerprint": "236dd7fb1a6b85227c97df3f57e82c102f3f06729db89833be74a4da64f8a874",
+  "kind": "episode-frame",
+  "output_sha256": "54b68cdde2987d7a4432ff6b81ff83ba2d3c8f915126f23b8050f1e0625e4401",
+  "output_size": 2390156,
+  "schema": 1,
+  "values": {
+    "source_signature": "6be669bc819905ef656085a0d8c2472936398605367574de9ed300c79156703d"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "786005a9e8078747aea4999cbc433832f0f3ae99f07ce471e7f876eaf644c618",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "bc7e59b01f6a57d6b471f37f3b49e36966d4c813e933ad2f08a3297e3375f043",
+  "output_size": 159704,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[calm] Deus se agradou do presente de Abel. [gentle] Mas do presente de Caim, não. [softly] E Caim ficou com muita raiva. Ficou de cara fechada, emburrado.",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

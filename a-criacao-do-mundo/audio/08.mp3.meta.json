@@ -1,0 +1,20 @@
+{
+  "dependencies": [],
+  "fingerprint": "f29055dce1a9a7a96ec7a6d7664f644c757dd1d26cf8d05438bbab30d5e8dc0f",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "fbcf7183c6301e98be055b7f3bf561703dcbfad14730d33b4c990ffae7365a13",
+  "output_size": 51693,
+  "schema": 1,
+  "values": {
+    "direction": "[warmly] [with quiet authority]",
+    "model": "elevenlabs",
+    "post_atempo": "0.95",
+    "prompt": "Haja um firmamento no meio das águas.",
+    "similarity_boost": "0.78",
+    "speed": "0.90",
+    "stability": "0.50",
+    "tts_model": "eleven_v3",
+    "voice_id": "r8pRY97Q57nCIMtpOyWA",
+    "voice_type": "elevenlabs"
+  }
+}

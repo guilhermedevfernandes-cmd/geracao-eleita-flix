@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "8b4618b9e7228ac028385d1bdcc510221b46869254ca739f461ca86fb6ec814a",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "016eefd363b90b51ea5f93c852fb88d114d90fcdb62ef8c5a3de6445db1cb902",
+  "output_size": 324798,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[softly] Lá dentro, no escurinho, Jonas orou. Conversou com Deus. [warm] E agradeceu: Obrigado, Senhor, porque eu estou vivo! A salvação vem do Senhor! [gentle] E Jonas prometeu: Agora eu vou obedecer. [happy] Então o peixe nadou, nadou... e deixou Jonas são e salvo na praia.",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

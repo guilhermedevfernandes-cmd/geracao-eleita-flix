@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "91f514ad4ac995d28bc313c4fa07623307d11020402fbbbbee49f3a9649ff60a",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "5e51493d529096a4d978388fdfab63babf57aa20e892b6e3335ae92e972c210e",
+  "output_size": 35570,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[calm] Nunca mais vai ter uma chuva assim!",
+    "tts_model": "eleven_v3",
+    "voice_id": "7i7dgyCkKt4c16dLtwT3",
+    "voice_type": "elevenlabs"
+  }
+}

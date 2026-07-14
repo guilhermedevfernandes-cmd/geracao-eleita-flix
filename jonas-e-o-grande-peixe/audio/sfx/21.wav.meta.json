@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "a6be3218a862b0edad721383fa8a2a83a17dafe68861978f2630bda2d7a97419",
+  "kind": "higgsfield-audio:mirelo_text_to_audio",
+  "output_sha256": "d93545d2b81f1653aedd00c4931a6678260e89744942b6567a6563f7e2a0cf5d",
+  "output_size": 1431174,
+  "schema": 1,
+  "values": {
+    "duration": "7.44",
+    "prompt": "deep living heartbeat ambience, dripping water, distant muffled ocean. Scene context: peixe. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

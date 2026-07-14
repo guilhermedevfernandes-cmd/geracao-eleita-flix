@@ -1,0 +1,30 @@
+{
+  "assembly_inputs": [
+    {
+      "filename": "timeline.tsv",
+      "label": "timeline",
+      "sha256": "a341474f2b23a3b403a517ec326598f4abbb162821e2b672dc5c8fa62a720c93"
+    },
+    {
+      "filename": "video-only.mp4",
+      "label": "video-stem",
+      "sha256": "c530e1c0165fe8b6134a203abe886a80a7a7b5ca4d61cd5c652833c93eb0059d"
+    },
+    {
+      "filename": "master-audio.wav",
+      "label": "audio-stem",
+      "sha256": "63db9254060b858dba69527e4c9b9eec7454577a5eb9083ac20f1a93bd12a706"
+    }
+  ],
+  "created_at": "2026-07-10T23:35:55.857363+00:00",
+  "episode_slug": "a-criacao-do-mundo",
+  "expected_duration": 285.494,
+  "expected_output": "/Users/huiosweb/Documents/huios-web-ccode/8 - Edicao De Videos/gerecao-eleita-flix/a-criacao-do-mundo/.a-criacao-do-mundo_final.34250.mp4",
+  "master_inputs_fingerprint": "ea1d90d4d7074de8589f75f0b561c0bbcfc3d2222ea64466de189398e47ee9ae",
+  "nonce": "fdd24c6acbb00d441beff4895cc7e525",
+  "pipeline_version": "2.2",
+  "schema": 1,
+  "session_fingerprint": "30001c882f46ac9b88b75d6911c6aea6b47300e8323621fb75fb70e443c03d00",
+  "source_fingerprint": "202d92ccc1c2a0e0c5398dc2e34e85a3ef1f1e15775063a59223e1fa44b88625",
+  "source_lock_fingerprint": "cb544aab046bb89651f5468e4f7f2dfc007ef5649bc8dab7d13c70c047e04a7b"
+}

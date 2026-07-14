@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "85b28a7a640e5172af971a0d6c8256c6e313cfd9505ae00d7a387379737d4e28",
+  "kind": "higgsfield-audio:mirelo_text_to_audio",
+  "output_sha256": "0d4a82a7b2332d2e003035491b9c3d0de367a704918f877a66def5f809a3e713",
+  "output_size": 1636250,
+  "schema": 1,
+  "values": {
+    "duration": "8.52",
+    "prompt": "deep ocean ambience, distant whale call, gentle surface waves. Scene context: gancho. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

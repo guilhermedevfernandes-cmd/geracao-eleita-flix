@@ -1,0 +1,20 @@
+{
+  "dependencies": [],
+  "fingerprint": "3b2deb69d29298c815f7471c4236e374dc86cf9d1fc69f11f783e3c91290385b",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "139646c25889c09f411b27fa90d2a0e75727afa18da4d9aaada7832b43827947",
+  "output_size": 55917,
+  "schema": 1,
+  "values": {
+    "direction": "[warmly] [with quiet authority]",
+    "model": "elevenlabs",
+    "post_atempo": "0.95",
+    "prompt": "Chame-se esse firmamento de céu.",
+    "similarity_boost": "0.78",
+    "speed": "0.90",
+    "stability": "0.50",
+    "tts_model": "eleven_v3",
+    "voice_id": "r8pRY97Q57nCIMtpOyWA",
+    "voice_type": "elevenlabs"
+  }
+}

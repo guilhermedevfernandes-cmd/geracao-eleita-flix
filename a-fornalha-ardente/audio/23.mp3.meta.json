@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "65ec90de77d58611e9f77441db9783429d7f2c3bbb9ffd51a08bfc7688b8a5f3",
+  "kind": "elevenlabs-audio:eleven_multilingual_v2",
+  "output_sha256": "4e393371cd3de3208125aea29e38e1bf6af714a1d36b8de4b9f8c0ecf62c1909",
+  "output_size": 71515,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "Não tenham medo, irmãos. O nosso Deus está conosco, até dentro do fogo.",
+    "tts_model": "eleven_multilingual_v2",
+    "voice_id": "5ALQoVCeBkwZZplFpKkO",
+    "voice_type": "elevenlabs"
+  }
+}

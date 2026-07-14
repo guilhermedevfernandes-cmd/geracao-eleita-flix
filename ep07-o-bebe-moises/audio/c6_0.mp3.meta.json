@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "85f8bd031b44822880651bcf325955054282874e11771e1cbb1793a166b07121",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "79ac4644a931b0cc19928ba4f215d35c3b9713311116b545fcae19d4166ae2e3",
+  "output_size": 287599,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[happy] Aí, Miriã saiu correndo do esconderijo e perguntou: quer que eu chame uma moça para cuidar do bebê para a senhora? [calm] A princesa disse que sim. [warm] E sabe quem a Miriã chamou? A própria mamãe do bebê! [happy] E a princesa ainda pagou a mamãe para cuidar dele. Olha como Deus cuidou de tudo!",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "0399b716d88c22044e951dca92dd3e94f0ba883d14ab13c1205b2213e122389b",
+  "kind": "elevenlabs-audio:eleven_multilingual_v2",
+  "output_sha256": "30f6783a045b4dbc71a0acf8a6ea182cfb898b81143bb2a245c0873651333021",
+  "output_size": 119998,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "Povos e nações, ouçam! Quando as trombetas e harpas tocarem, curvem-se diante da estátua do rei!",
+    "tts_model": "eleven_multilingual_v2",
+    "voice_id": "JtRtm0OrgcgUP6oMWQgc",
+    "voice_type": "elevenlabs"
+  }
+}

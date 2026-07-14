@@ -1,0 +1,14 @@
+{
+  "dependencies": [],
+  "fingerprint": "7666f632b8bc882f639bc2a956ae2cef5e1c80344574fd6c703c280650d7d496",
+  "kind": "higgsfield-audio:text2speech_v2",
+  "output_sha256": "4a2b7be8d5ea78127b7ade61fb8e3bebfdf488c8fbf0253e58cde35ec392589b",
+  "output_size": 102026,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "Lá embaixo, na escuridão da água, algo enorme se aproximou. Um grande peixe abriu a boca.",
+    "voice_id": "d8ba9f14-8a24-44db-932b-99e16c45bd32",
+    "voice_type": "preset"
+  }
+}

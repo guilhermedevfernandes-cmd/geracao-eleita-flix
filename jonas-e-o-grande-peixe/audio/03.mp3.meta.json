@@ -1,0 +1,14 @@
+{
+  "dependencies": [],
+  "fingerprint": "2c9c84c106a9cdd083c65a76b363048cfa2d10bc53e6b4aa13092af4196ba227",
+  "kind": "higgsfield-audio:text2speech_v2",
+  "output_sha256": "02cc2eff0b2078ce8cfde5324482f468eb01ed0cfeb7eb14241f64cef01a0944",
+  "output_size": 93248,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "Se Deus me deixar quieto por aqui, eu fico bem. Eu gosto do meu lugar e da minha rotina.",
+    "voice_id": "73a45c18-0c56-4642-a61e-f6b303f8ded1",
+    "voice_type": "preset"
+  }
+}

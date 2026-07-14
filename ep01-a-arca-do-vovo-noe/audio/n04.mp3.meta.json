@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "67466cb26b42effcfe48f99916c60414890a6b80ead7b7818b4525f3c6a3a9fa",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "6855047e38fa66a3c33fde5da031ce130c41669701384cf4c9d3cf0cf36a38f4",
+  "output_size": 111221,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[happy] Noé trabalhou muito. Toc, toc, toc! E a arca foi crescendo... até ficar pronta.",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

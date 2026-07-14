@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "3047dc4285e15322f364b4252bfc270ce29716d1663fe53edd5d7c721bc8d47b",
+  "kind": "elevenlabs-audio:sound_generation",
+  "output_sha256": "d86dedccdd4049a747d37c0d511fe4423045f922f5edc49ac49d2f65a0c6463d",
+  "output_size": 40586,
+  "schema": 1,
+  "values": {
+    "duration": "2.50",
+    "prompt": "cheerful tiny bells jingle melody, bright warm and bouncy, preschool cartoon sting, different from classic sleigh bells. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

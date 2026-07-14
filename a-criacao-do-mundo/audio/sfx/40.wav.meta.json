@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "0c6e7f00c088f66a88ca8e9d8dd1cefb170fbea7586a9ce5b4999d0a6ffc01f0",
+  "kind": "elevenlabs-audio:sound_generation",
+  "output_sha256": "a966558e2129d6f7e801f4c8e571575b259e7f97921d1b3e078e7a0da65adeb6",
+  "output_size": 1689678,
+  "schema": 1,
+  "values": {
+    "duration": "8.84",
+    "prompt": "soft final resonance, quiet night garden, fade-ready silence. Scene context: aplicacao. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

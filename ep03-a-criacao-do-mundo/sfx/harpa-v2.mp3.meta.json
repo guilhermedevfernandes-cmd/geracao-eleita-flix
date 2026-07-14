@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "a577dd9b1a1bc93b41cd4572891afd56f207958d83655e0b43d00e602a5666f6",
+  "kind": "elevenlabs-audio:sound_generation",
+  "output_sha256": "536ee8575710656cfe49bf7d99435f6068446ad9c58fe87ff32516e40b93597c",
+  "output_size": 48945,
+  "schema": 1,
+  "values": {
+    "duration": "3.00",
+    "prompt": "soft warm harp glissando ascending, gentle heavenly shimmer tail, short sweet preschool moment. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

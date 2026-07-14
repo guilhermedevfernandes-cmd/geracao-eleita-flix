@@ -1,0 +1,17 @@
+{
+  "dependencies": [
+    {
+      "filename": "rei_ref.png",
+      "label": "ref-rei",
+      "sha256": "f5ad3a89284045d0b41229b642c40fcc29d75538025ee7b71947527bce6024be"
+    }
+  ],
+  "fingerprint": "9906ab91e0cfe8b18a6e10d923c743d8a458e5227c4935371a02708061200153",
+  "kind": "episode-frame",
+  "output_sha256": "5be1b34331c5499c9ca82b1c792837da3c0ea7b0eec7ec41db5262ab022eec7a",
+  "output_size": 3013441,
+  "schema": 1,
+  "values": {
+    "source_signature": "bceccad046e4a5cc55bca21075df304b933904353aae051402724ec05773f793"
+  }
+}

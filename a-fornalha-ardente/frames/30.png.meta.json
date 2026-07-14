@@ -1,0 +1,22 @@
+{
+  "dependencies": [
+    {
+      "filename": "guarda_ref.png",
+      "label": "ref-guarda",
+      "sha256": "b331c131dbb01c31cc1bbef1a67925ca2f2a885a66d2d106128a080e2e649bbf"
+    },
+    {
+      "filename": "sadraque_ref.png",
+      "label": "ref-sadraque",
+      "sha256": "4096d541c64634e43df8a483d3af371a0954e637bed3b99e3bd7096c27a41b1d"
+    }
+  ],
+  "fingerprint": "3221a20a74fa55a53f983b86944d7fa605e70a1047fa5df019735624d4ff4ebf",
+  "kind": "episode-frame",
+  "output_sha256": "d4b3cb4e0324c5ac14d5beffbee297f7be29cbae99dbe311b6006a79eaad99f9",
+  "output_size": 2761950,
+  "schema": 1,
+  "values": {
+    "source_signature": "d700b8988359261b9baeaa0ce2ce5315ff23351d01e65f039abe9a930f6f96f1"
+  }
+}

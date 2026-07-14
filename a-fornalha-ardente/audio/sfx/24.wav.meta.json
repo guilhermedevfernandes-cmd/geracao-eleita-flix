@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "c0b0c88cf5d8f501f8c2cff32de32c1db5d9430b870d8fbba03d5762b1de6709",
+  "kind": "elevenlabs-audio:sound_generation",
+  "output_sha256": "89d48636ba1432d76695f88bb1f761e11b662c3622e04280d6176789c27c4d63",
+  "output_size": 1105998,
+  "schema": 1,
+  "values": {
+    "duration": "5.78",
+    "prompt": "engulfing fire roar, deep rumble, showering sparks. Scene context: fornalha. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

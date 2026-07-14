@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "cbd589d6e48d49ce5e61b14232e86b44c549248acdded129b483f530a8ad7479",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "9743cd1a263c832f74580f0256de7ea93df4e9cffe57e3f6aaba87328af6a690",
+  "output_size": 257088,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[calm] Naquele tempo, o povo de Deus morava no Egito. E o rei de lá não gostava do povo de Deus. Os bebezinhos estavam em perigo. [warm] Foi quando nasceu um bebê muito lindo. [softly] A mamãe dele o escondeu por três meses, com muito amor.",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

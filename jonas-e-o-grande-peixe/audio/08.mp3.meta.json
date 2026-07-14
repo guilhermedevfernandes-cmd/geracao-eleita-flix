@@ -1,0 +1,14 @@
+{
+  "dependencies": [],
+  "fingerprint": "eeac8d54a3843b724bb422ef5a05fbd0316a63fab9129338743a4b87acba85c7",
+  "kind": "higgsfield-audio:text2speech_v2",
+  "output_sha256": "df1a5da5b100121e3302e4f6c1000dc678d76bd0e0e480f5349ea7f9d10568b4",
+  "output_size": 108713,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "Então Jonas fez uma escolha errada. Em vez de subir para Nínive, ele desceu correndo para o porto.",
+    "voice_id": "d8ba9f14-8a24-44db-932b-99e16c45bd32",
+    "voice_type": "preset"
+  }
+}

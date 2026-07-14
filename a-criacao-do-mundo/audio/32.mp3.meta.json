@@ -1,0 +1,20 @@
+{
+  "dependencies": [],
+  "fingerprint": "3232dab78665d3fd75691857e241238132d284cedebbbc2ebd54818ed566ef9a",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "fdcf44951765e3ec64b7237c31a19a42487652c44e9d44053343b322066947d5",
+  "output_size": 77421,
+  "schema": 1,
+  "values": {
+    "direction": "[tender] [softly]",
+    "model": "elevenlabs",
+    "post_atempo": "0.95",
+    "prompt": "Adão deu nome a cada animal. Mas ainda sentia que faltava alguém ao seu lado.",
+    "similarity_boost": "0.78",
+    "speed": "0.90",
+    "stability": "0.50",
+    "tts_model": "eleven_v3",
+    "voice_id": "gkqqIm2zTUUewCkNIkTF",
+    "voice_type": "elevenlabs"
+  }
+}

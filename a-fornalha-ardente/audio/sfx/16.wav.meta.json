@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "1118e787b30d833116b1c7664f1eee24f10bbbfe37ce71edd40c85290343bfaf",
+  "kind": "elevenlabs-audio:sound_generation",
+  "output_sha256": "36b99fc186de99c327df253f70ff9bbaae588585a3431d042dcbb74590054fae",
+  "output_size": 1374798,
+  "schema": 1,
+  "values": {
+    "duration": "7.16",
+    "prompt": "deep furnace roar far away, echoing threat, ember hiss. Scene context: acusacao. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

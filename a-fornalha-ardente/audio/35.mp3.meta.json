@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "8982aaec7b1241467a2b369e5d61f27a0d6287c06c4f135a48baacc050977eea",
+  "kind": "elevenlabs-audio:eleven_multilingual_v2",
+  "output_sha256": "3d9efb990e0a7950f46438599b1532c93c683054762772dbfc5c0a8aeea8b8a0",
+  "output_size": 71515,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "Quando obedecemos a Deus, podemos confiar: Ele nunca nos deixa sozinhos.",
+    "tts_model": "eleven_multilingual_v2",
+    "voice_id": "S6JRAR6bdDn0imFzAhjA",
+    "voice_type": "elevenlabs"
+  }
+}

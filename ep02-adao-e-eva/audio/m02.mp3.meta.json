@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "c0fb2a59ef386a45b1135a09c623e981e493627c471905b18d744b6513dc3418",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "89a932192095284767f8a44af4ab726c01a88cdfc8e23c88e7a4c8e3744e2168",
+  "output_size": 123759,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[awe] No princípio, Deus fez o mundo inteiro. O sol, as flores, e todos os animais. [happy] E tudo era muito bom!",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

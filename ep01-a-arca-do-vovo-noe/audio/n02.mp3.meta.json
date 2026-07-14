@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "35ed7b0d105c0b84f22d876a06a938f4679bb129479a805bf017a997958bba45",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "2f8b3199aba12ab85186ce730d67db520325b91679d1c84f0c533d26ee2d16af",
+  "output_size": 84471,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[warm] Esse é o Noé. Ele amava a Deus de todo o coração. E fazia o que era certo.",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

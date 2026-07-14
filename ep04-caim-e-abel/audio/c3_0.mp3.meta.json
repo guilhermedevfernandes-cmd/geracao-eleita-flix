@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "2bbbd4fb086d051ee05bcfac141ada502f9160e6df513148f5c7a5973681fdbc",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "5ad607c99acd664d9dca8ba163d8816057cae13ead4e2b1faac49664cb0795c1",
+  "output_size": 166391,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[calm] Um dia, os dois trouxeram presentes para Deus. Caim trouxe frutos da sua plantação. E Abel trouxe as primeiras ovelhinhas do seu rebanho, as melhores.",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

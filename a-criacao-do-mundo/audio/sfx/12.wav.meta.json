@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "e1cb0108d5d75d2bd781d8e87390c7dc29bb9c4ea898a53a681c6c960085e724",
+  "kind": "elevenlabs-audio:sound_generation",
+  "output_sha256": "16760000a9f1a7b989fe592a0f4c3f7675089426846fef879acf19324a33506e",
+  "output_size": 1597518,
+  "schema": 1,
+  "values": {
+    "duration": "8.35",
+    "prompt": "water surge, rock grind softened, spray splash. Scene context: terra. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

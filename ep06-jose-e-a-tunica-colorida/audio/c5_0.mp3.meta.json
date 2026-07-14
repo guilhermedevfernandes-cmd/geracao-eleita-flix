@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "255c29cdf9c365533a15aeb931d78a2f649c96d46d0901523cff4f9be64d1c4c",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "0ce5b1286b69298e6829266d2fd7fcede7a7438cc05bf13b3113a5a6bcdbc5e8",
+  "output_size": 360742,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[warm] Mas escuta só: Deus estava com José. Sempre! [calm] No Egito, José cresceu, e tudo o que ele fazia dava certo. [awe] O tempo passou, e o rei do Egito teve sonhos que ninguém entendia. E Deus mostrou para José o que os sonhos queriam dizer! [happy] O rei ficou tão feliz que fez de José um grande ajudante, o governador do Egito!",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

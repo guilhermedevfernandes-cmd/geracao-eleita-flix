@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "783ff31b84c574ac0c50b12a3816074303e3c1aaeb009a2dff97f53ed1ab0c53",
+  "kind": "elevenlabs-audio:eleven_multilingual_v2",
+  "output_sha256": "dc5145459505aee3e375feb4773e849175eaea0064b5121fbf2b87feb4d65fda",
+  "output_size": 23031,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[calm] Hajam luzes no céu!",
+    "tts_model": "eleven_multilingual_v2",
+    "voice_id": "7i7dgyCkKt4c16dLtwT3",
+    "voice_type": "elevenlabs"
+  }
+}

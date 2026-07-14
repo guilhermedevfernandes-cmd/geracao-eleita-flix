@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "54a55642cec3baea3ac0bfd447219566b9646d86f178383b1fc3ca9791939908",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "5215fd75f258c02f0d9d23daab8dd83ac9ad597e151eaf08380bbca6db046be9",
+  "output_size": 236608,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[gentle] Quando não dava mais para esconder, a mamãe teve uma ideia. [calm] Ela fez um cestinho e passou uma tinta especial, para não entrar água. [softly] Colocou o bebê dentro, bem quentinho... e deixou o cestinho na beira do rio, no meio das plantas.",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

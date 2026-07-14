@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "d59543ca7b1b297f101a8a1f3360c5ba1b3506f992ce67601108d449987b0200",
+  "kind": "elevenlabs-audio:sound_generation",
+  "output_sha256": "9e34627f13244da517edbf9c686f42f4b80577edf76a19d068e031e3a315d31c",
+  "output_size": 81128,
+  "schema": 1,
+  "values": {
+    "duration": "5.00",
+    "prompt": "gentle cartoon sea storm: soft wind whoosh with rounded wave splashes, cozy not scary, for toddlers, no voices, no thunder. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

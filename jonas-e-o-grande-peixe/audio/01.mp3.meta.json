@@ -1,0 +1,14 @@
+{
+  "dependencies": [],
+  "fingerprint": "dcc8d697ab8a3b13f6eb001dc0d8cf1992fb329d3b20053d5260e28f083e08fb",
+  "kind": "higgsfield-audio:text2speech_v2",
+  "output_sha256": "b94af6dc5ea6771c929d2aea595225a7330c400cb6651f28371a9d0911246844",
+  "output_size": 114982,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "Lá no mar profundo, um peixe enorme nadava em silêncio. Mas esta história começa bem longe da água.",
+    "voice_id": "d8ba9f14-8a24-44db-932b-99e16c45bd32",
+    "voice_type": "preset"
+  }
+}

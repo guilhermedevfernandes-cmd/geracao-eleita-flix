@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "388a97c04c03acbc1dcb9896800353865dde5a793aa631ac96e83b41d49aa83f",
+  "kind": "elevenlabs-audio:music",
+  "output_sha256": "c1f1a6c5eb017b2abf0aed26311b2a01954db77f8a96c16a6fecda16b39c5395",
+  "output_size": 640358,
+  "schema": 1,
+  "values": {
+    "duration": "40.00",
+    "prompt": "Warm gentle acoustic guitar and soft piano, hopeful and tender, calm reflective closing moment for a preschool children's show, cozy and loving, moderate-slow tempo. Instrumental cinematic score for a premium family animated film. No vocals, no speech, clean ending."
+  }
+}

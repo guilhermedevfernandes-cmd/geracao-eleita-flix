@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "6d32c6a8bc73b60d5738a4ba60a0cc90108a540f22b9605ac3cdeffc47293e74",
+  "kind": "elevenlabs-audio:sound_generation",
+  "output_sha256": "e9569f0419332dad11f5106783cc65b584caaaad3b26c6ebe3abc81d237c0214",
+  "output_size": 40586,
+  "schema": 1,
+  "values": {
+    "duration": "2.50",
+    "prompt": "cute underwater bubbles popping softly, playful glub glub, gentle cartoon water. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

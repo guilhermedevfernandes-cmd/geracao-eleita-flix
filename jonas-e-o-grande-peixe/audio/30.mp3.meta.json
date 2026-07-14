@@ -1,0 +1,14 @@
+{
+  "dependencies": [],
+  "fingerprint": "58006a0676336ac7da7923e2a75c0cec9740d5baeca0052b9babcb6bcb622d65",
+  "kind": "higgsfield-audio:text2speech_v2",
+  "output_sha256": "915dff74036e31ce69e7a8ac7a714ecb85da66a53c3b8e9f9bda97fa22d1ed0a",
+  "output_size": 122506,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "Para a surpresa de Jonas, o povo ouviu. Eles acreditaram em Deus e ficaram tristes pelo mal que tinham feito.",
+    "voice_id": "d8ba9f14-8a24-44db-932b-99e16c45bd32",
+    "voice_type": "preset"
+  }
+}

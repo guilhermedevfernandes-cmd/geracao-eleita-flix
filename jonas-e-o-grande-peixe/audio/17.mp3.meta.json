@@ -1,0 +1,14 @@
+{
+  "dependencies": [],
+  "fingerprint": "c9a3e1a7668d7b7cdc21a921a2d0ea4cf55f37a1923b07d6ee301ab24b045a50",
+  "kind": "higgsfield-audio:text2speech_v2",
+  "output_sha256": "fa420e677563b4b3f9d0e4474df9c04d210aa117a49392ca3a3772c10be24a40",
+  "output_size": 111221,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "Os marinheiros não queriam fazer aquilo. Eles remaram com toda a força. Mas o mar só piorava.",
+    "voice_id": "d8ba9f14-8a24-44db-932b-99e16c45bd32",
+    "voice_type": "preset"
+  }
+}

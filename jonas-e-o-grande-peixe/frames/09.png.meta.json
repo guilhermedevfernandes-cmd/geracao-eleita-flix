@@ -1,0 +1,22 @@
+{
+  "dependencies": [
+    {
+      "filename": "jonas_ref.png",
+      "label": "ref-jonas",
+      "sha256": "7bdfe4143d94bdaec639d2046bce46867d4be96ea9c0cb825b5656260c6a15d2"
+    },
+    {
+      "filename": "capitao_ref.png",
+      "label": "ref-capitao",
+      "sha256": "f1358ab3d531c1b3a479560fd4778b58dfbbc4ab7faac25bd664eb022de47ea8"
+    }
+  ],
+  "fingerprint": "af00a65e638b0df8f9c976f184d5720e66c69ccd2fbd01290af76b807ea94ef4",
+  "kind": "episode-frame",
+  "output_sha256": "a1044fc7013d8b52fcc74be99844b93dbaac963f723e576f6315f847b9753fdf",
+  "output_size": 9469596,
+  "schema": 1,
+  "values": {
+    "source_signature": "9fafab80e6cf69d79373ac318a40d8f6740728d34d61e80fd2321620c228f43e"
+  }
+}

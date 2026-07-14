@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "c533641a301579fab29f8d0c207cb6d979f1ebd76782d03d4510a8534b8d018d",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "8cb0190a8a4a2a7e1018aa58d4f30637519d9ba97243ae9f15de7ce99584804a",
+  "output_size": 77784,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[playful] Adão dava nome aos animais. Olha esse! Que bicho é esse?",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

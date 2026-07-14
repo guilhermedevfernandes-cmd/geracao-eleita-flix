@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "d0d73ac793464650e7d20babcfbc43c81a88daa58f915d7b29f1368870889ca8",
+  "kind": "elevenlabs-audio:eleven_multilingual_v2",
+  "output_sha256": "e6545e97ac32938fb34ec61b7ec28e6bfd6d25eb449cb7d21785c600397ff408",
+  "output_size": 208605,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[happy] Depois, Deus encheu a terra de animais. O leão... auuu! O coelho, pula-pula. A vaca... muuu! [warm] E então, Deus fez o mais especial de todos:",
+    "tts_model": "eleven_multilingual_v2",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

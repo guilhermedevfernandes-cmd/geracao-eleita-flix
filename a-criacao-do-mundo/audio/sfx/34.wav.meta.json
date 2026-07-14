@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "7666f524c9037af3417dc59ad1dbd345e3668ad84cf3548422fd0db8917fbc58",
+  "kind": "elevenlabs-audio:sound_generation",
+  "output_sha256": "f1f820ba1b691dd1c11518c9a79632bc1f389a00ca6ac34b44f76aa9daa74c6f",
+  "output_size": 1597518,
+  "schema": 1,
+  "values": {
+    "duration": "8.34",
+    "prompt": "soft inhale, gentle hair movement, warm tone. Scene context: humanidade. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

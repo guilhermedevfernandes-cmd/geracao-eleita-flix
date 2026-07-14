@@ -1,0 +1,20 @@
+{
+  "dependencies": [],
+  "fingerprint": "3317350ae7f0c0238a02fc9841d135926e0ad4da5eed3cb7c06ce8f80b4a89af",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "669cd1d1cc774908fdb264682514cc82c28e4bd5eabff8765f2bad9732612368",
+  "output_size": 125805,
+  "schema": 1,
+  "values": {
+    "direction": "[with awe] [animated storytelling]",
+    "model": "elevenlabs",
+    "post_atempo": "0.95",
+    "prompt": "Deus chamou a luz de dia. E chamou a escuridão de noite. Foi o primeiro dia.",
+    "similarity_boost": "0.78",
+    "speed": "0.90",
+    "stability": "0.50",
+    "tts_model": "eleven_v3",
+    "voice_id": "gkqqIm2zTUUewCkNIkTF",
+    "voice_type": "elevenlabs"
+  }
+}

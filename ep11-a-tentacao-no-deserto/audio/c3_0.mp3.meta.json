@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "7f2a533b9f4a9506a06a7438b9d2b3f5ef826d3c9bb7cacdb09688046d06f21d",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "62a964f7b72aa5fa0af0d8f05d8a07d71d85bbd3e7ca740bc3d49c1a40552c71",
+  "output_size": 317275,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[calm] Foi aí que apareceu o enganador, o diabo. Ele queria que Jesus desobedecesse a Deus. [gentle] E disse: se você é o Filho de Deus, mande estas pedras virarem pães! [warm] Mas Jesus respondeu: está escrito: não é só de pão que a gente vive, mas de toda palavra que vem de Deus.",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

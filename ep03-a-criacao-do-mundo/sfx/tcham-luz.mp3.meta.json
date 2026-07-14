@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "c77a1dd2ea1370b3e7894f34e636f3a3d27f8b7c161e8ad352a5570d6b3cabb2",
+  "kind": "elevenlabs-audio:sound_generation",
+  "output_sha256": "8e2014e2e10c2a6ee6cd722f369eeb160f5c53aafb38d22c05031c675ca669c2",
+  "output_size": 40586,
+  "schema": 1,
+  "values": {
+    "duration": "2.50",
+    "prompt": "magical bright shimmer reveal burst, joyful sparkling chime, cheerful preschool cartoon, soft and warm. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

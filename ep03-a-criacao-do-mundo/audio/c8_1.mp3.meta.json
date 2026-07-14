@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "43c1b7a2bb8cc36280a6954e0609f041e6348cc51a6f4f8772262cea9b5d697c",
+  "kind": "elevenlabs-audio:eleven_multilingual_v2",
+  "output_sha256": "de90b1cc77ebfd549b60aec6a0f8f57bd33b264cd58fafb2bd1f762ab836b0e3",
+  "output_size": 40586,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[warm] Vamos fazer o ser humano, à nossa imagem!",
+    "tts_model": "eleven_multilingual_v2",
+    "voice_id": "7i7dgyCkKt4c16dLtwT3",
+    "voice_type": "elevenlabs"
+  }
+}

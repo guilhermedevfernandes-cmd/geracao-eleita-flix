@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "69940469de2e2c8cdf258488c324db2e11c2de4dbd5899afcaf4b3e7b9aedf42",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "36d22b5e30c96e293ec249ed01f2256428df7dde7051b731ca1b3d6157ef4d7a",
+  "output_size": 237862,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[awe] E ali, naquela noite... nasceu Jesus! [warm] Maria enrolou o bebê em paninhos, bem quentinho, e o deitou numa manjedoura, a caminha de feno dos animais. [softly] O bebê mais esperado de todos os tempos.",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

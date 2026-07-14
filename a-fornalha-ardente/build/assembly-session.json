@@ -1,0 +1,30 @@
+{
+  "assembly_inputs": [
+    {
+      "filename": "timeline.tsv",
+      "label": "timeline",
+      "sha256": "1f200125798544ee995b495155d4f79eb89d4a9d2b136b083e20effc4124b7ae"
+    },
+    {
+      "filename": "video-only.mp4",
+      "label": "video-stem",
+      "sha256": "b2d51294dde3128150a1997e4852a55115dbe4662a55aafbeffddd1e04d7f4fb"
+    },
+    {
+      "filename": "master-audio.wav",
+      "label": "audio-stem",
+      "sha256": "dc8fb0472c71e4c5fa713b5deb4e944018f39b6bd903825a5cd4b3df933cba2a"
+    }
+  ],
+  "created_at": "2026-07-10T22:51:52.548061+00:00",
+  "episode_slug": "a-fornalha-ardente",
+  "expected_duration": 288.716,
+  "expected_output": "/Users/huiosweb/Documents/huios-web-ccode/8 - Edicao De Videos/gerecao-eleita-flix/a-fornalha-ardente/.a-fornalha-ardente_final.18925.mp4",
+  "master_inputs_fingerprint": "87459851854ee3c4f05d2a2e831538d6ba72ff3b26f25c82f0aa771487911ee9",
+  "nonce": "f21f45fb312ac0829d4ca9072894f666",
+  "pipeline_version": "2.2",
+  "schema": 1,
+  "session_fingerprint": "5546264d6f47c866e8d0ce6e227e34f4c7504c9708ff4154e3f7714c72f7ceb5",
+  "source_fingerprint": "9ac25cba3090f0d1a6143c374d13177e84a37f5f130b0e11ed65d10d1963682f",
+  "source_lock_fingerprint": "0b051981a64e362442cf9b13c5277a2fa29b1b68918291d57829e66b2d5013dc"
+}

@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "8f50245ea9a5925908bd75201767015b38243aabc3f04f36e23661114a1de8c1",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "803ef12bc7d4f32f3049d5de171b973ff5abb6ad53a91808b9847e8fb335c51b",
+  "output_size": 162212,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[happy] E dessa vez... Jonas foi! [calm] Ele avisou o povo. E o povo de Nínive ouviu, e parou de fazer o mal. [warm] E Deus perdoou todinhos eles.",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

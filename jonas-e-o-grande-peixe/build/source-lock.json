@@ -1,0 +1,11 @@
+{
+  "created_at": "2026-07-10T15:47:41.964303+00:00",
+  "episode_slug": "jonas-e-o-grande-peixe",
+  "expected_duration": 285.86,
+  "lock_fingerprint": "5b802cbde8055f287737050e389cab4984ddb8422593127a62792b66888d8abf",
+  "master_inputs_fingerprint": "b7d889d332c37dc36b1a7dc40b818c1f3f6798414f42e483a310198d3680e49c",
+  "nonce": "4ad5ef17e057bfacf5fbda8347018ea9",
+  "pipeline_version": "2.1",
+  "schema": 1,
+  "source_fingerprint": "90f11153762922568c1166a0ea13d091dc9fb50d2b0e48fed829885a2ad8dd4f"
+}

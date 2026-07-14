@@ -1,0 +1,14 @@
+{
+  "dependencies": [],
+  "fingerprint": "3f15b14d60662f41897fa8ce2faaec8221cf48631c950669b7d08cf1926f7b4f",
+  "kind": "higgsfield-audio:text2speech_v2",
+  "output_sha256": "932a16094240c03d8ac86aa21ba39e6e71e52d5e6a3eec9a0c0d3f65a8ebc1ab",
+  "output_size": 74022,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "Então o Senhor falou ao peixe. E o peixe vomitou Jonas em terra firme.",
+    "voice_id": "d8ba9f14-8a24-44db-932b-99e16c45bd32",
+    "voice_type": "preset"
+  }
+}

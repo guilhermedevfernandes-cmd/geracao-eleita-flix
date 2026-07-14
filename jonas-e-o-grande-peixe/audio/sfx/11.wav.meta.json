@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "a16fdd5c68e804731855815a8e52bb5fe35e5908315f0243cb30ca576de7d94d",
+  "kind": "higgsfield-audio:mirelo_text_to_audio",
+  "output_sha256": "c93bdfe49a917788324b2fa9b39abdd673be558d92376683680c69df02ea95f0",
+  "output_size": 1382130,
+  "schema": 1,
+  "values": {
+    "duration": "7.18",
+    "prompt": "ship leaving harbor, gulls fading, deep hull ambience. Scene context: fuga. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "f070b82424a7ab8fabd29f37e03df096e1b3f9de122d2b2076e20529d67c29ba",
+  "kind": "elevenlabs-audio:sound_generation",
+  "output_sha256": "bf97bc5a30c1ab0046afc54f73300755fa369e244e6de5633f1ead4e23ca2c18",
+  "output_size": 33062,
+  "schema": 1,
+  "values": {
+    "duration": "2.00",
+    "prompt": "playful cute water splash, bright happy cartoon plop, gentle, not aggressive. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "ebdf8d57b4e359a59201c9d860402c4b87350ab1637d1609e1911c4f7e0e4e50",
+  "kind": "elevenlabs-audio:sound_generation",
+  "output_sha256": "ff085b5f6d758a295de676e1b8ad877cb13f1942ad2db4802c00d8bfcb09c577",
+  "output_size": 1551438,
+  "schema": 1,
+  "values": {
+    "duration": "8.10",
+    "prompt": "soft cloth rustle, birdsong, gentle breeze. Scene context: humanidade. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

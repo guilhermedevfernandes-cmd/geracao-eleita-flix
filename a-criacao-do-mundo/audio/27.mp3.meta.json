@@ -1,0 +1,20 @@
+{
+  "dependencies": [],
+  "fingerprint": "a0827e83f9aec9d576160a166a1cdf3421d54da6423e35496503466b1ec3c4a6",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "e7352c168cd2c286a2f74bb3d31fde6a3eb84dc6a790837915976e55940d1969",
+  "output_size": 119277,
+  "schema": 1,
+  "values": {
+    "direction": "[tender] [warm storytelling]",
+    "model": "elevenlabs",
+    "post_atempo": "0.95",
+    "prompt": "Leões mansos, elefantes grandes, coelhos rápidos e muitos outros animais encheram a terra.",
+    "similarity_boost": "0.78",
+    "speed": "0.90",
+    "stability": "0.50",
+    "tts_model": "eleven_v3",
+    "voice_id": "gkqqIm2zTUUewCkNIkTF",
+    "voice_type": "elevenlabs"
+  }
+}

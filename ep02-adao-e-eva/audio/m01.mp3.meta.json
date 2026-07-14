@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "d5c98c0e00140940c842e482a95cac8866d010f3267fe9111b1446834f90918a",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "a1ef908aaab6518395a716394b7a82db2cf1891b8ad870733ce79d174d948785",
+  "output_size": 111221,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[warm] Olá, amiguinho! Que bom te ver. [happy] Hoje eu vou contar a história de Adão e Eva, no jardim do Éden. Vem comigo.",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "dependencies": [
+    {
+      "filename": "rei_ninive_ref.png",
+      "label": "ref-rei_ninive",
+      "sha256": "5efb1b21ed673a7609ea95af7e630ee48c5769e9602b23a0eb884b347ef417d5"
+    }
+  ],
+  "fingerprint": "0cc45ee7c4f12e7cb42a4fe5f068ca7240fa947664f514bdf2f70a71f8f5745a",
+  "kind": "episode-frame",
+  "output_sha256": "4a014f03ee3705db67bfb9e1255dc00a35b05a9c2db158d2f34c4a72ce57f48a",
+  "output_size": 8486056,
+  "schema": 1,
+  "values": {
+    "source_signature": "cabb8a2171b3d311b914fea4177b7424d4429770c286ebd592100069622ee00f"
+  }
+}

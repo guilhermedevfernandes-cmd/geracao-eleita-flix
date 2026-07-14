@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "c9a8ba70d70274f755eaabae5073f2ab56eafbe6bfe8f75c9c859a9c72a430da",
+  "kind": "elevenlabs-audio:eleven_multilingual_v2",
+  "output_sha256": "f7dcffdd411a7ad1f8715feb65cb501373822f23407cfa5e15de322157bf30f4",
+  "output_size": 135462,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "Na grande Babilônia, o rei Nabucodonosor mandou construir uma estátua de ouro gigante, brilhando na planície de Dura.",
+    "tts_model": "eleven_multilingual_v2",
+    "voice_id": "gkqqIm2zTUUewCkNIkTF",
+    "voice_type": "elevenlabs"
+  }
+}

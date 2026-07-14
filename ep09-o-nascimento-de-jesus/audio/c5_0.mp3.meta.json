@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "a9684e9f595cfd1238fda6aa8688c18f19540ad9a1a8343641e611b48d2277f8",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "1fd368f23809963b72866e29bc5b39c26becf0cffb6d955b96232278e5ad8fe6",
+  "output_size": 395433,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[calm] Perto dali, alguns pastores cuidavam das ovelhinhas na noite. [awe] De repente, um anjo do Senhor apareceu, e uma luz linda brilhou! Eles ficaram com muito medo. [warm] Mas o anjo disse: não tenham medo! Eu trago uma notícia de muita alegria: hoje nasceu o Salvador de vocês, o Cristo, o Senhor! Vocês vão encontrar o bebê deitado numa manjedoura.",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

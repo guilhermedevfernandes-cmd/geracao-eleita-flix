@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "f177b36989e5e32a02779ebf4e14590c75b42bd77d4efda16c097d48ca8d9b99",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "68a653688c5c40047a77b58306623c2d868d80c36b610ce095ae6c856f2bbf0d",
+  "output_size": 119998,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[calm] Jonas! Vá até a cidade de Nínive. Avise o povo de lá: eles estão fazendo coisas muito erradas.",
+    "tts_model": "eleven_v3",
+    "voice_id": "7i7dgyCkKt4c16dLtwT3",
+    "voice_type": "elevenlabs"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "95b5d8cfa3c92a431e3002ae74fe1dec6c1d841df32e3d45c991ecd0c46db868",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "bf15ed4d7ba4f7e2d5b7f6dfb0db5ec389486c50993878f50664e46fb22267a0",
+  "output_size": 117490,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[warm] Olá, amiguinho! Que bom te ver. [happy] Hoje eu vou contar a história de dois irmãos: Caim e Abel. Vem comigo.",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

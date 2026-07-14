@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "4a14a82dcda6c3c184f195be4ed5a4b49d2c2d9a4ebd5517badc72167729f703",
+  "kind": "elevenlabs-audio:eleven_multilingual_v2",
+  "output_sha256": "3d1822cddc6cc2fec321286172a8cc7fe23f323159d18b5f2c1f3fa23dfd81f4",
+  "output_size": 114146,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "A notícia correu por toda a Babilônia. O Deus de Israel havia vencido o fogo da fornalha.",
+    "tts_model": "eleven_multilingual_v2",
+    "voice_id": "gkqqIm2zTUUewCkNIkTF",
+    "voice_type": "elevenlabs"
+  }
+}

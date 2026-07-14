@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "208d488ed345bf1c86913260c2ab2be883dc50c477b2ab2ed3624baa47b7135f",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "c02ad9d1eb69fd9ac424cf41a5716d63e8ff84f672109a1cd100a03b44add5b7",
+  "output_size": 224906,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[softly] Mas apareceu uma cobra muito esperta, que não falava a verdade. [whispering] Sss... comam a fruta... não vai acontecer nada! [thoughtful] Era mentira. E eles comeram a fruta proibida.",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

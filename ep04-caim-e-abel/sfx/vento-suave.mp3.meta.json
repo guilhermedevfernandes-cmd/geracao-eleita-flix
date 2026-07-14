@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "6af0de5c87f693d93b2ca3c692e96e5781665c43f2f93f1c738ca02ca5183d0a",
+  "kind": "elevenlabs-audio:sound_generation",
+  "output_sha256": "e93b789203052fd072e93dc44588b6bf4d1e73585e7139d4e0f50ad3d5b3b1eb",
+  "output_size": 65245,
+  "schema": 1,
+  "values": {
+    "duration": "4.00",
+    "prompt": "very light gentle breeze whoosh, soft cartoon wind for toddlers, calm and cozy, no voices. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

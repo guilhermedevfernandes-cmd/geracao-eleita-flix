@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "6e7c75e54d8e312d89b55ca9cbbe51e44f12dfb0f578e0d43e8ea39f194dcd1a",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "c55311110833edb1d5e193f4e121299726e894badc05107a172e0b2642346d7e",
+  "output_size": 214875,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[calm] Por causa do que fez, Caim teve que ir morar bem longe. [gentle] Mas olha só: mesmo assim, Deus colocou um sinal em Caim, para ninguém machucar ele. [warm] Mesmo quando a gente erra feio, Deus continua cuidando.",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

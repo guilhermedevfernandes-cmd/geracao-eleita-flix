@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "ef2c8d058623dfbda957f05555b9495034b27927dbdc9aad1087716023aba0ff",
+  "kind": "elevenlabs-audio:sound_generation",
+  "output_sha256": "034378a403c8fc29c7343e7efd25916940ba37820e220451530344602f264524",
+  "output_size": 1474638,
+  "schema": 1,
+  "values": {
+    "duration": "7.72",
+    "prompt": "colossal fire roar, cracking bricks, howling wind. Scene context: fornalha. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

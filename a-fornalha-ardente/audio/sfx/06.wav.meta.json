@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "c474906b15944263ff6ce7132c15adbaa6a9b1557671f43020586a583302fc80",
+  "kind": "elevenlabs-audio:sound_generation",
+  "output_sha256": "41d5d1ae2ab1b407469aafa42c174c2cc7889dfe99a782b62baee83e8c108389",
+  "output_size": 1612878,
+  "schema": 1,
+  "values": {
+    "duration": "8.41",
+    "prompt": "crackling braziers, echoing hall, armor clinking. Scene context: decreto. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

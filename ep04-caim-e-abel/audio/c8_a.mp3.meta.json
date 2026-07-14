@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "5b9e9e07b2ab4233b52a8c91914258052e045ea60fa18a7ce5ac182a482f8592",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "eca7c7f2829859a406897dcdb144fee9a8b88798d6c4baadbedc224146f30498",
+  "output_size": 126685,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[calm] Por causa do que fez, Caim recebeu um castigo: teve que ir morar bem longe. [gentle] Para sempre, longe da sua família.",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "dependencies": [],
+  "fingerprint": "7303d6bc8aacbf27b81613f3372785cf7791001801f43290ba994c43ae3ce255",
+  "kind": "higgsfield-audio:text2speech_v2",
+  "output_sha256": "c4bbb124c98d7e13adb2c4ba277fae180d48e5298da75e54932cd5ced665b4f0",
+  "output_size": 118744,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "Nínive era uma cidade enorme e perigosa. Jonas ficou com medo. E também ficou com raiva no coração.",
+    "voice_id": "d8ba9f14-8a24-44db-932b-99e16c45bd32",
+    "voice_type": "preset"
+  }
+}

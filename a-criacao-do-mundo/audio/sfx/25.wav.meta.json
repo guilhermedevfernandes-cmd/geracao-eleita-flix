@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "4af0d525e02c27cfa403d0dd3ea9e6dcca3ce5afd51b09a02e7afb548cec915a",
+  "kind": "elevenlabs-audio:sound_generation",
+  "output_sha256": "3d15e175fb4c1cb76eca296a9ec12db926188d995243fc5e973e11c571a1d81e",
+  "output_size": 1036878,
+  "schema": 1,
+  "values": {
+    "duration": "5.42",
+    "prompt": "evening surf, distant bird chorus, soft celebration tone. Scene context: vida. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

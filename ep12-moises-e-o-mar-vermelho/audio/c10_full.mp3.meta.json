@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "8a98f76e60869cc51a9c44c38e32578ec80c80310756e4c39c667872f1f10ae1",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "c020d1aa2543e9dafd03b7885c62170f46bf0a985029d8a9b82cf79bc2db07d9",
+  "output_size": 319782,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[warm] E o que aprendemos com essa história? [thoughtful] Vem lembrar comigo.\n\n[calm] Um: Deus ouve o choro do seu povo.\n\n[calm] Dois: Deus abre caminho onde não tem caminho.\n\n[warm] Três: quem confia em Deus não precisa ter medo.\n\n[warm] Deus cuida de mim, Deus cuida de você! [happy] Tchau! Até a próxima.",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "bfbb23160cb998ef95da621901b072ba6ce32afcdbf8420c3d2a9e988d6fe162",
+  "kind": "elevenlabs-audio:sound_generation",
+  "output_sha256": "9192d93a131873b85fdc522f2b17e85e7201eab2ca26d5f0e7ab5d9d4b168c59",
+  "output_size": 1205838,
+  "schema": 1,
+  "values": {
+    "duration": "6.31",
+    "prompt": "soft light shimmer, distant water, warm tone swell. Scene context: luz. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

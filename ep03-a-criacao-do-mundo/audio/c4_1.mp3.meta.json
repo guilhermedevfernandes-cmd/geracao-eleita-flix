@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "e75b4f72900fc8020e16ad3b1f4848423361f63ae0da21fd4b84ec3fc3be428e",
+  "kind": "elevenlabs-audio:eleven_multilingual_v2",
+  "output_sha256": "101ec2bf688cd305d609d4eaeb8c94a50eb877a3183c834907c8bf8a8225aeac",
+  "output_size": 108713,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[calm] E Deus fez o céu. As nuvens, lá em cima. A água, aqui embaixo. Esse foi o segundo dia.",
+    "tts_model": "eleven_multilingual_v2",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

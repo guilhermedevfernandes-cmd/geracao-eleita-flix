@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "761a829c7d3df0a3384e2adb136a7108f3fbfbb89042f146909575af494d26b0",
+  "kind": "elevenlabs-audio:sound_generation",
+  "output_sha256": "0a7457110a398939faef906e82f1993112c48ee03021d0562fff6e937cd0bc83",
+  "output_size": 1413198,
+  "schema": 1,
+  "values": {
+    "duration": "7.37",
+    "prompt": "night insects soft, dawn birds distant, gentle surf. Scene context: astros. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

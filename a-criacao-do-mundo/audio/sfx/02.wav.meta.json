@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "865b40d4edc3738aed6846e93a8b6753418349baf1a31d563e834684cecd7483",
+  "kind": "elevenlabs-audio:sound_generation",
+  "output_sha256": "917bdbdf1e63f0785760ace7490768bd87c9d0780a8504bb3f21f7deeae92315",
+  "output_size": 1274958,
+  "schema": 1,
+  "values": {
+    "duration": "6.65",
+    "prompt": "deep water rumble, cold wind hush. Scene context: gancho. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

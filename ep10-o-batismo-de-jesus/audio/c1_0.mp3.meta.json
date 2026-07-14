@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "01d777de69a3e918331c73c19b7de2a80dcd787b061e754344895e7afe0cc15b",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "80f7cd289499bed5814b937b3f43d48280030257a2b5cef3a20cb53eb56aa2f1",
+  "output_size": 99518,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[warm] Olá, amiguinho! Que bom te ver. [happy] Hoje eu vou contar o dia em que Jesus foi batizado no rio. Vem comigo.",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

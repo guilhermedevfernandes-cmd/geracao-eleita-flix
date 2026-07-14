@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "5c2a1d6d1b3f9602184845bb15b488e2b088628aa9b95d0523cc748c64da88e5",
+  "kind": "elevenlabs-audio:sound_generation",
+  "output_sha256": "1d4a38dbc17bbd807fab39be91f7da42919409af624dbd98dff245f42670a9d9",
+  "output_size": 48945,
+  "schema": 1,
+  "values": {
+    "duration": "3.00",
+    "prompt": "gentle twinkling stars, soft magical bell sparkles appearing one by one, dreamy cozy preschool. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

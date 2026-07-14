@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "e54ffda4be4eb7c5924830a274375cb8d66e36eee714f6d4d9e49591dc13ce44",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "4a7b054d5cae273051be4edf5b132e050e53b3f0e625787a301b74a3894ee145",
+  "output_size": 134208,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[warm] Olá, amiguinho! Que bom te ver. [happy] Hoje eu vou contar a história mais linda de todas: o nascimento do bebê Jesus. Vem comigo.",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

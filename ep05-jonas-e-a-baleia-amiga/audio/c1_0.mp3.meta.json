@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "1e9352f5cf31595fed981db992f1b3a62500bb8ada64538767a166bc2cb9547a",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "94ea8abf8b75890f8795ac42dba66634b8d70ce9c0bbe1593d4708a2e6f65f9e",
+  "output_size": 136716,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[warm] Olá, amiguinho! Que bom te ver. [happy] Hoje eu vou contar a história de Jonas e o peixe mais grandão que você já viu! Vem comigo.",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

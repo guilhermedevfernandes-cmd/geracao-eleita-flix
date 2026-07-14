@@ -1,0 +1,14 @@
+{
+  "dependencies": [],
+  "fingerprint": "1e7661b4fa054b706c2aaf5f9239d5023e440950d230fe2f21720ebeb49caf2b",
+  "kind": "higgsfield-audio:text2speech_v2",
+  "output_sha256": "f9f0b0ecf6776e5deb757a828b7d9868d708810e3f5563a6a1dad454e768fcc5",
+  "output_size": 104951,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "Jonas pagou a passagem, entrou no barco e se escondeu lá embaixo. Ele queria fugir de Deus.",
+    "voice_id": "d8ba9f14-8a24-44db-932b-99e16c45bd32",
+    "voice_type": "preset"
+  }
+}

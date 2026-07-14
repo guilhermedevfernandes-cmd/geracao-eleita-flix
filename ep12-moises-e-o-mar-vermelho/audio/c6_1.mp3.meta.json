@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "16410334096df54ef53f3c303be55afa706ef7e894cad669fea974ca01a21c16",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "c7516f8e49f9c3c9324767c7fc82a2588f0602de5f722ed83459622b390a8464",
+  "output_size": 33062,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[calm] Levante o seu cajado sobre o mar.",
+    "tts_model": "eleven_v3",
+    "voice_id": "7i7dgyCkKt4c16dLtwT3",
+    "voice_type": "elevenlabs"
+  }
+}

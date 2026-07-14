@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "7db578b2ccd1f9ec66f59de03187fc254154633fab73cbd2abaac65f5fc1ab2f",
+  "kind": "elevenlabs-audio:sound_generation",
+  "output_sha256": "13fb6328a9995b07791f01507adacf8d9a47bfa4c4520e68eee757bd07965a9b",
+  "output_size": 1820238,
+  "schema": 1,
+  "values": {
+    "duration": "9.52",
+    "prompt": "morning water lapping, soft birds-to-be silence, warm pad. Scene context: luz. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

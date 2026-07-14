@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "555f03e5b323cca07219d5b1596870a24004f13885191016aeb027d68122b06f",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "20289dc8c7e4f62ffbe3f81f214d33da01788cd07328d3d66f209140c1b3bee2",
+  "output_size": 249565,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[calm] Mas o Faraó mudou de ideia, e mandou os soldados atrás do povo. [gentle] E na frente deles... o mar! Um mar grandão. O povo ficou com medo. [warm] Mas Moisés disse: Não tenham medo! O Senhor vai lutar por vocês!",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

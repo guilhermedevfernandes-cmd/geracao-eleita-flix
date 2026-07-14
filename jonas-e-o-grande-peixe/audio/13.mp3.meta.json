@@ -1,0 +1,14 @@
+{
+  "dependencies": [],
+  "fingerprint": "1e17672d8563e8f7839e8be3df308301da613bbc3341920c7b9a24ecfd5821ef",
+  "kind": "higgsfield-audio:text2speech_v2",
+  "output_sha256": "224f7b13553a71732ac6e43f694e1b627b7c5b705c7d05abba2adb34b6937a2c",
+  "output_size": 131701,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "Segurem as cordas com força! Esta tempestade não é comum. Alguém precisa orar agora!",
+    "voice_id": "573e5163-59b3-4926-aab1-951ef2985f81",
+    "voice_type": "preset"
+  }
+}

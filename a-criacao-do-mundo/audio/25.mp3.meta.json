@@ -1,0 +1,20 @@
+{
+  "dependencies": [],
+  "fingerprint": "74e14a5c26c8501fbdcd008904fbe719af3419a34c39bf5e457d70dee4584532",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "1507c85942a6fef0fcd5d97746bbe4ea0fabb02e96b3de8060b0b1acaa21055b",
+  "output_size": 74733,
+  "schema": 1,
+  "values": {
+    "direction": "[joyful] [filled with wonder]",
+    "model": "elevenlabs",
+    "post_atempo": "0.95",
+    "prompt": "Foi o quinto dia. A criação já cantava, nadava e voava.",
+    "similarity_boost": "0.78",
+    "speed": "0.90",
+    "stability": "0.50",
+    "tts_model": "eleven_v3",
+    "voice_id": "gkqqIm2zTUUewCkNIkTF",
+    "voice_type": "elevenlabs"
+  }
+}

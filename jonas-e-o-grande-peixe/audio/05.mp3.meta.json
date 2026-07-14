@@ -1,0 +1,14 @@
+{
+  "dependencies": [],
+  "fingerprint": "f643d5b757b8272ef006e75ef9aeec877e4b262e993ddc6223046967634156ea",
+  "kind": "higgsfield-audio:text2speech_v2",
+  "output_sha256": "c226b554a273a544e60cf55ea9ef322d8645733e03b3affa1f5baccd0802889a",
+  "output_size": 116236,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "Jonas, levante-se. Vá até a grande cidade de Nínive e anuncie a minha mensagem ao povo.",
+    "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+    "voice_type": "preset"
+  }
+}

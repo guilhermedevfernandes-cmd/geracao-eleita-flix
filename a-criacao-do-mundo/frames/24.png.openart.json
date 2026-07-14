@@ -1,0 +1,19 @@
+{
+  "batch_id": "7f13ee9981d96f67d21c2889ac5a74a838f22501baab080b57596552d6bfb661",
+  "model": "nano-banana-2",
+  "output_sha256": "2e2c9a33aa22bec74d61080cae3187d20990d7eac04a8748b75d28e19f88abff",
+  "provider": "openart-mcp",
+  "registered_at": "2026-07-10T18:55:14.160346+00:00",
+  "result": {
+    "asset_id": "8N3duV0c0KMbbqqxBHEy",
+    "history_id": "ozyfFcWtErrb17xh0pVR",
+    "model": "nano-banana-2",
+    "source_url": "https://cdn.openart.ai/openart-ai/production/2026-07/create-image/U8LYT4b2errrkadcpdhh/image_1783709416865_3e49d2a9_1783709418069_bdce56ad.png",
+    "status": "completed",
+    "task_id": "frame:24"
+  },
+  "schema": 1,
+  "server": "openart",
+  "source_signature": "e5e89bfd166f34518fd4eb3fe65ee34b5fa45f7718e689b59aac00e0d363e768",
+  "task_id": "frame:24"
+}

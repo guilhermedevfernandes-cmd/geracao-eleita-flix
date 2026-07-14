@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "ad01fc1365c0edd73629b85e7067f5ac947449b0f06916991ff4794abeed57ff",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "ab811ff3ee4736ae1ad1badb708afe628a8acc90ab869dea43d2e8228444247b",
+  "output_size": 158450,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[calm] Um dia, o papai de Davi pediu: leve estes pães e estes queijos para os seus irmãos, que estão no acampamento do exército. [happy] E Davi foi, bem cedinho.",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

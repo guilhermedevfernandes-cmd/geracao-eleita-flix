@@ -1,0 +1,589 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8">
+    <title>Intro Geração Eleita Infantil</title>
+  </head>
+  <body>
+    <template>
+      <style>
+        @font-face {
+          font-family: "Fredoka One";
+          src: url("assets/fonts/fredoka-700.woff2") format("woff2");
+          font-style: normal;
+          font-weight: 700;
+          font-display: block;
+        }
+
+        #stage {
+          position: absolute;
+          inset: 0;
+          width: 1920px;
+          height: 1080px;
+          overflow: hidden;
+          container-type: size;
+          background: #f5f0e6;
+          color: #2d2d2d;
+          font-family: "Fredoka One", sans-serif;
+        }
+
+        #g1,
+        #three-wrap,
+        #three-layer,
+        .paper-sky,
+        .ornaments,
+        .title-zone,
+        .ground-zone,
+        .sunburst {
+          position: absolute;
+          inset: 0;
+          width: 100%;
+          height: 100%;
+        }
+
+        #g1 {
+          opacity: 1;
+        }
+
+        .paper-sky {
+          background: #7ecdc0;
+        }
+
+        .paper-sky::after {
+          content: "";
+          position: absolute;
+          inset: 0;
+          border: 14px solid rgba(255, 255, 255, 0.28);
+          box-sizing: border-box;
+          opacity: 1;
+        }
+
+        .sunburst {
+          left: 50%;
+          top: 58%;
+          width: 940px;
+          height: 940px;
+          border: 3px solid #2d2d2d;
+          border-radius: 50%;
+          background: #fde68a;
+          box-shadow: 10px 10px 0 #2d2d2d;
+          opacity: 0;
+        }
+
+        .ground-zone {
+          top: auto;
+          bottom: -155px;
+          height: 430px;
+          border-top: 3px solid #2d2d2d;
+          border-radius: 50% 50% 0 0;
+          background: #f5f0e6;
+          box-shadow: 0 -7px 0 #2d2d2d;
+        }
+
+        #three-wrap {
+          z-index: 4;
+        }
+
+        #three-layer {
+          display: block;
+        }
+
+        .title-zone {
+          z-index: 7;
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          justify-content: flex-start;
+          padding-top: 46px;
+          pointer-events: none;
+        }
+
+        .badge {
+          display: inline-flex;
+          align-items: center;
+          min-height: 54px;
+          padding: 8px 26px 10px;
+          border: 3px solid #2d2d2d;
+          border-radius: 999px;
+          background: #fde68a;
+          box-shadow: 4px 4px 0 #2d2d2d;
+          color: #2d2d2d;
+          font-size: 28px;
+          line-height: 1;
+          letter-spacing: 0.05em;
+          opacity: 0;
+        }
+
+        .title-lockup {
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          gap: 22px;
+          margin-top: 14px;
+          padding: 0 42px 12px;
+          border: 3px solid #2d2d2d;
+          border-radius: 36px;
+          background: #ffffff;
+          box-shadow: 7px 7px 0 #2d2d2d;
+          opacity: 0;
+          transform-origin: 50% 50%;
+          white-space: nowrap;
+        }
+
+        .title-word {
+          display: inline-block;
+          color: #2d2d2d;
+          font-size: 98px;
+          font-weight: 700;
+          line-height: 1;
+          letter-spacing: 0.025em;
+          text-shadow: 3px 3px 0 #f8635f;
+        }
+
+        .title-word:last-child {
+          color: #2d2d2d;
+          text-shadow: 3px 3px 0 #d4a5e8;
+        }
+
+        .title-star {
+          display: inline-block;
+          color: #2d2d2d;
+          font-size: 64px;
+          line-height: 1;
+          text-shadow: 3px 3px 0 #fde68a;
+        }
+
+        .ornaments {
+          z-index: 6;
+          pointer-events: none;
+        }
+
+        .sticker {
+          position: absolute;
+          display: grid;
+          place-items: center;
+          width: 90px;
+          height: 90px;
+          border: 3px solid #2d2d2d;
+          border-radius: 50%;
+          box-shadow: 5px 5px 0 #2d2d2d;
+          color: #2d2d2d;
+          font-size: 52px;
+          line-height: 1;
+          opacity: 0;
+          transform: scale(0.2) rotate(-25deg);
+        }
+
+        .sticker.s1 { left: 68px; top: 78px; background: #f7c8d4; }
+        .sticker.s2 { right: 75px; top: 100px; background: #fde68a; color: #2d2d2d; }
+        .sticker.s3 { left: 118px; bottom: 100px; background: #d4a5e8; }
+        .sticker.s4 { right: 105px; bottom: 118px; background: #f8635f; }
+        .sticker.s5 { left: 365px; top: 210px; width: 68px; height: 68px; background: #a8e6cf; font-size: 38px; }
+        .sticker.s6 { right: 350px; top: 235px; width: 72px; height: 72px; background: #a8d8f0; font-size: 42px; }
+
+        .cloud {
+          position: absolute;
+          width: 190px;
+          height: 72px;
+          border: 3px solid #2d2d2d;
+          border-radius: 60px;
+          background: #ffffff;
+          box-shadow: 5px 5px 0 #2d2d2d;
+          opacity: 0;
+        }
+
+        .cloud::before,
+        .cloud::after {
+          content: "";
+          position: absolute;
+          bottom: 25px;
+          border: 3px solid #2d2d2d;
+          border-bottom: 0;
+          border-radius: 50% 50% 0 0;
+          background: #ffffff;
+        }
+
+        .cloud::before { left: 28px; width: 72px; height: 60px; }
+        .cloud::after { right: 30px; width: 86px; height: 75px; }
+        .cloud.c1 { left: -42px; top: 360px; transform: rotate(-5deg) translateX(-80px); }
+        .cloud.c2 { right: -30px; top: 420px; transform: rotate(4deg) translateX(80px); }
+
+        .sparkle-flash {
+          position: absolute;
+          inset: 0;
+          z-index: 9;
+          background: #ffffff;
+          opacity: 0;
+          pointer-events: none;
+        }
+
+        .loader-note {
+          position: absolute;
+          left: 50%;
+          bottom: 42px;
+          z-index: 12;
+          transform: translateX(-50%);
+          padding: 9px 18px;
+          border: 2px solid #2d2d2d;
+          border-radius: 999px;
+          background: #ffffff;
+          color: #2d2d2d;
+          font: 700 22px/1 "Fredoka One", sans-serif;
+          opacity: 0;
+        }
+      </style>
+
+      <div data-hf-id="hf-0033" id="stage" data-composition-id="01-intro" data-duration="6" data-width="1920" data-height="1080">
+        <div data-hf-id="hf-h7r5" id="g1">
+          <div data-hf-id="hf-6aa2" class="paper-sky"></div>
+          <div data-hf-id="hf-dvuk" class="sunburst"></div>
+          <div data-hf-id="hf-fvbg" class="ground-zone"></div>
+
+          <div data-hf-id="hf-lnic" id="three-wrap">
+            <canvas data-hf-id="hf-lmzk" id="three-layer" width="1920" height="1080"></canvas>
+          </div>
+
+          <div data-hf-id="hf-nebr" class="title-zone" data-layout-allow-occlusion="" data-layout-allow-overlap="">
+            <div data-hf-id="hf-mlvk" class="badge">UMA TURMINHA DE FÉ</div>
+            <div data-hf-id="hf-evmh" class="title-lockup">
+              <span data-hf-id="hf-gaam" class="title-word">GERAÇÃO</span>
+              <span data-hf-id="hf-0585" class="title-star">★</span>
+              <span data-hf-id="hf-ifry" class="title-word">ELEITA</span>
+            </div>
+          </div>
+
+          <div data-hf-id="hf-ts76" class="ornaments" data-layout-allow-occlusion="" data-layout-allow-overlap="" data-layout-allow-overflow="">
+            <div data-hf-id="hf-208c" class="sticker s1">✿</div>
+            <div data-hf-id="hf-rjbk" class="sticker s2">☀</div>
+            <div data-hf-id="hf-3sl0" class="sticker s3">★</div>
+            <div data-hf-id="hf-n5ip" class="sticker s4">♥</div>
+            <div data-hf-id="hf-he57" class="sticker s5">✦</div>
+            <div data-hf-id="hf-szjl" class="sticker s6">✿</div>
+            <div data-hf-id="hf-cgzd" class="cloud c1"></div>
+            <div data-hf-id="hf-gf3e" class="cloud c2"></div>
+          </div>
+
+          <div data-hf-id="hf-vjcj" class="sparkle-flash"></div>
+          <div data-hf-id="hf-zxif" class="loader-note">Preparando a turminha…</div>
+        </div>
+      </div>
+
+      <script>
+        window.__timelines = window.__timelines || {};
+
+        const introTimeline = gsap.timeline({ paused: true });
+        introTimeline.set("#g1", { autoAlpha: 1 }, 0);
+        introTimeline.fromTo(
+          ".sunburst",
+          { autoAlpha: 0, xPercent: -50, yPercent: -50, scale: 0.2, rotation: -18 },
+          { autoAlpha: 0.9, xPercent: -50, yPercent: -50, scale: 1, rotation: 0, duration: 0.85, ease: "back.out(1.4)" },
+          0.72,
+        );
+        introTimeline.fromTo(
+          ".badge",
+          { autoAlpha: 0, y: -24, scale: 0.7 },
+          { autoAlpha: 1, y: 0, scale: 1, duration: 0.48, ease: "back.out(1.8)" },
+          1.0,
+        );
+        introTimeline.fromTo(
+          ".title-lockup",
+          { autoAlpha: 0, y: -35, scale: 0.55, rotation: -2 },
+          { autoAlpha: 1, y: 0, scale: 1, rotation: 0, duration: 0.55, ease: "back.out(1.55)" },
+          1.62,
+        );
+        introTimeline.fromTo(
+          ".title-star",
+          { scale: 0.1, rotation: -80 },
+          { scale: 1, rotation: 0, duration: 0.48, ease: "back.out(2.2)" },
+          1.88,
+        );
+        introTimeline.fromTo(
+          ".sticker",
+          { autoAlpha: 0, scale: 0.2, rotation: -25 },
+          { autoAlpha: 1, scale: 1, rotation: 0, duration: 0.45, stagger: 0.08, ease: "back.out(2)" },
+          1.95,
+        );
+        introTimeline.fromTo(
+          ".cloud.c1",
+          { autoAlpha: 0, x: -80 },
+          { autoAlpha: 1, x: 0, duration: 0.7, ease: "power3.out" },
+          1.15,
+        );
+        introTimeline.fromTo(
+          ".cloud.c2",
+          { autoAlpha: 0, x: 80 },
+          { autoAlpha: 1, x: 0, duration: 0.7, ease: "power3.out" },
+          1.23,
+        );
+        introTimeline.to(
+          ".title-lockup",
+          { scale: 1.055, duration: 0.12, yoyo: true, repeat: 1, ease: "power2.out" },
+          2.22,
+        );
+        introTimeline.to(
+          ".sparkle-flash",
+          { autoAlpha: 0.45, duration: 0.06, yoyo: true, repeat: 1, ease: "none" },
+          3.04,
+        );
+        introTimeline.to(
+          ".sunburst",
+          { rotation: 18, scale: 1.08, duration: 1.02, ease: "power1.inOut" },
+          3.04,
+        );
+        introTimeline.to(
+          ".title-lockup",
+          { scale: 1.08, duration: 0.18, yoyo: true, repeat: 1, ease: "back.out(1.6)" },
+          4.55,
+        );
+        introTimeline.to(
+          ".sparkle-flash",
+          { autoAlpha: 0.72, duration: 0.05, yoyo: true, repeat: 1, ease: "none" },
+          4.95,
+        );
+        introTimeline.to(
+          ".badge",
+          { scale: 1.05, duration: 0.16, yoyo: true, repeat: 1, ease: "power2.out" },
+          5.2,
+        );
+        introTimeline.seek(0);
+        window.__timelines["01-intro"] = introTimeline;
+      </script>
+
+      <script>
+        (async () => {
+        // Carregamento local equivalente a: import "three";
+        const documentUrl = new URL(document.baseURI);
+        const assetBase = documentUrl.pathname.includes("/preview/comp/")
+          ? `${documentUrl.origin}${documentUrl.pathname.replace(/\/preview\/comp\/.*$/, "/preview/assets/")}`
+          : new URL("assets/", document.baseURI).href;
+        const THREE = await import(`${assetBase}vendor/three.module.js`);
+        const { GLTFLoader } = await import(`${assetBase}vendor/addons/loaders/GLTFLoader.js`);
+
+        globalThis.THREE = THREE;
+
+        const WIDTH = 1920;
+        const HEIGHT = 1080;
+        const DURATION = 6;
+        const canvas = document.getElementById("three-layer");
+        const loaderNote = document.querySelector(".loader-note");
+
+        const renderer = new THREE.WebGLRenderer({
+          canvas,
+          alpha: true,
+          antialias: true,
+          powerPreference: "high-performance",
+        });
+        renderer.setSize(WIDTH, HEIGHT, false);
+        renderer.setPixelRatio(1);
+        renderer.outputColorSpace = THREE.SRGBColorSpace;
+        renderer.toneMapping = THREE.ACESFilmicToneMapping;
+        renderer.toneMappingExposure = 1.18;
+        renderer.shadowMap.enabled = true;
+        renderer.shadowMap.type = THREE.PCFSoftShadowMap;
+
+        const scene = new THREE.Scene();
+        const camera = new THREE.PerspectiveCamera(31, WIDTH / HEIGHT, 0.1, 100);
+        camera.position.set(0, 0.8, 13.8);
+        camera.lookAt(0, 0.15, 0);
+
+        scene.add(new THREE.HemisphereLight(0xffffff, 0x7ecdc0, 3.2));
+
+        const keyLight = new THREE.DirectionalLight(0xfff5d6, 4.4);
+        keyLight.position.set(-4, 8, 7);
+        keyLight.castShadow = true;
+        keyLight.shadow.mapSize.set(2048, 2048);
+        keyLight.shadow.camera.left = -9;
+        keyLight.shadow.camera.right = 9;
+        keyLight.shadow.camera.top = 8;
+        keyLight.shadow.camera.bottom = -4;
+        scene.add(keyLight);
+
+        const fillLight = new THREE.DirectionalLight(0xd4a5e8, 2.2);
+        fillLight.position.set(6, 3, 5);
+        scene.add(fillLight);
+
+        const rimLight = new THREE.DirectionalLight(0xa8d8f0, 1.8);
+        rimLight.position.set(0, 5, -5);
+        scene.add(rimLight);
+
+        const shadowMaterial = new THREE.ShadowMaterial({ color: 0x2d2d2d, opacity: 0.22 });
+        const shadowPlane = new THREE.Mesh(new THREE.PlaneGeometry(18, 7), shadowMaterial);
+        shadowPlane.rotation.x = -Math.PI / 2;
+        shadowPlane.position.set(0, -2.23, 0.35);
+        shadowPlane.receiveShadow = true;
+        scene.add(shadowPlane);
+
+        const characters = [];
+        let lastSeekTime = 0;
+
+        const smoothstep = (value) => {
+          const t = Math.max(0, Math.min(1, value));
+          return t * t * (3 - 2 * t);
+        };
+
+        const easeOutBack = (value) => {
+          const t = Math.max(0, Math.min(1, value));
+          const c1 = 1.70158;
+          const c3 = c1 + 1;
+          return 1 + c3 * Math.pow(t - 1, 3) + c1 * Math.pow(t - 1, 2);
+        };
+
+        function prepareModel(gltf, config) {
+          const wrapper = new THREE.Group();
+          const model = gltf.scene;
+          wrapper.add(model);
+          scene.add(wrapper);
+
+          model.traverse((node) => {
+            if (!node.isMesh) return;
+            node.castShadow = true;
+            node.receiveShadow = true;
+            if (node.material) {
+              node.material.side = THREE.FrontSide;
+              node.material.needsUpdate = true;
+            }
+          });
+
+          const initialBox = new THREE.Box3().setFromObject(model);
+          const initialSize = initialBox.getSize(new THREE.Vector3());
+          const scale = config.height / Math.max(initialSize.y, 0.001);
+          model.scale.setScalar(scale);
+
+          const scaledBox = new THREE.Box3().setFromObject(model);
+          const center = scaledBox.getCenter(new THREE.Vector3());
+          model.position.x -= center.x;
+          model.position.z -= center.z;
+          model.position.y -= scaledBox.min.y;
+
+          wrapper.position.set(config.x, -2.18, config.z);
+          wrapper.rotation.y = config.yaw;
+          wrapper.scale.setScalar(0.001);
+
+          const mixer = new THREE.AnimationMixer(model);
+          const clip = gltf.animations[0];
+          if (clip) {
+            const action = mixer.clipAction(clip);
+            action.enabled = true;
+            action.setLoop(THREE.LoopRepeat, 100);
+            action.play();
+          }
+
+          characters.push({
+            wrapper,
+            mixer,
+            clipDuration: clip ? clip.duration : DURATION,
+            config,
+          });
+        }
+
+        const modelConfigs = [
+          {
+            url: `${assetBase}characters/jesus-idle.glb`,
+            x: 0,
+            z: 0.45,
+            yaw: 0,
+            height: 4.7,
+            delay: 0.72,
+            sway: 0.035,
+            phase: 0.2,
+          },
+          {
+            url: `${assetBase}characters/crianca-01-celebration.glb`,
+            x: -3.65,
+            z: 0.05,
+            yaw: -0.1,
+            height: 3.35,
+            delay: 1.0,
+            sway: 0.075,
+            phase: 1.1,
+          },
+          {
+            url: `${assetBase}characters/crianca-02-rigged.glb`,
+            x: 3.7,
+            z: 0.0,
+            yaw: 3.02,
+            height: 3.4,
+            delay: 1.08,
+            sway: 0.065,
+            phase: 2.2,
+          },
+          {
+            url: `${assetBase}characters/crianca-03-celebration.glb`,
+            x: 2.0,
+            z: -0.22,
+            yaw: 3.08,
+            height: 3.25,
+            delay: 1.25,
+            sway: 0.07,
+            phase: 3.1,
+          },
+        ];
+
+        loaderNote.style.opacity = "1";
+
+        const modelPromises = modelConfigs.map(
+          (config) =>
+            new Promise((resolve, reject) => {
+              const loader = new GLTFLoader();
+              loader.load(
+                config.url,
+                (gltf) => {
+                  prepareModel(gltf, config);
+                  resolve();
+                },
+                undefined,
+                reject,
+              );
+            }),
+        );
+
+        function renderAt(rawTime) {
+          const time = Math.max(0, Math.min(DURATION, Number(rawTime) || 0));
+          lastSeekTime = time;
+          const frozenTime = time >= 5 ? 5 : time;
+
+          for (const character of characters) {
+            const { wrapper, mixer, clipDuration, config } = character;
+            const reveal = easeOutBack((frozenTime - config.delay) / 0.72);
+            const settlePulse = 1 + Math.sin(Math.max(0, frozenTime - 1.72) * Math.PI * 2.2 + config.phase) * 0.018;
+            const scale = Math.max(0.001, reveal) * settlePulse;
+            wrapper.scale.setScalar(scale);
+            wrapper.position.y = -2.18 + (1 - Math.min(reveal, 1)) * -1.25;
+            wrapper.rotation.y = config.yaw + Math.sin(frozenTime * 1.35 + config.phase) * config.sway;
+            wrapper.rotation.z = Math.sin(frozenTime * 1.05 + config.phase) * 0.012;
+
+            const animationTime = Math.max(0, frozenTime - 1.0);
+            mixer.setTime(animationTime % Math.max(clipDuration, 0.001));
+          }
+
+          const cameraReveal = smoothstep((frozenTime - 0.2) / 1.8);
+          const cameraPush = smoothstep((frozenTime - 3.04) / 1.96);
+          camera.position.z = 15.0 - cameraReveal * 1.15 - cameraPush * 0.42;
+          camera.position.y = 1.02 - cameraReveal * 0.22;
+          camera.position.x = Math.sin(frozenTime * 0.52) * 0.08;
+          camera.lookAt(0, 0.08, 0.15);
+
+          renderer.render(scene, camera);
+        }
+
+        globalThis.addEventListener("hf-seek", (event) => {
+          renderAt(event.detail.time);
+        });
+
+        Promise.all(modelPromises)
+          .then(() => {
+            loaderNote.style.opacity = "0";
+            renderAt(lastSeekTime || globalThis.__hfThreeTime || 0);
+          })
+          .catch((error) => {
+            loaderNote.textContent = "Não foi possível carregar a turminha";
+            loaderNote.style.opacity = "1";
+            console.error(error);
+          });
+
+        renderAt(globalThis.__hfThreeTime || 0);
+        })();
+      </script>
+    </template>
+  </body>
+</html>

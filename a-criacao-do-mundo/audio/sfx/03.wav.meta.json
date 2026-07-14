@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "9485fa61cad45edb2a57631f004704effa46fe9acd2ce1d158a87593d7f63447",
+  "kind": "elevenlabs-audio:sound_generation",
+  "output_sha256": "476859e4f0fbf01c3ab18abdc211fed74e5cf831bc5529388dbff306213d4284",
+  "output_size": 1274958,
+  "schema": 1,
+  "values": {
+    "duration": "6.68",
+    "prompt": "soft wind over water, gentle resonant tone. Scene context: vazio. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

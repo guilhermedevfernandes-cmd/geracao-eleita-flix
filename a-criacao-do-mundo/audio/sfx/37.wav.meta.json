@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "7bcd139aee21a715b2eba4819b77098b105c8f5b3256b8305b815c7917947ae0",
+  "kind": "elevenlabs-audio:sound_generation",
+  "output_sha256": "25070a70dd404706eff746cdf5a6b63cf5bf4dd6adba82f6f6a11e0d17f68c42",
+  "output_size": 1129038,
+  "schema": 1,
+  "values": {
+    "duration": "5.91",
+    "prompt": "wide nature ambience, distant waterfall, peaceful score bed. Scene context: descanso. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "be9147628c462186fd302ef32e11341ef0a0bc345dcf94960018b6b75888ed4a",
+  "kind": "elevenlabs-audio:sound_generation",
+  "output_sha256": "060807e3f9ad04130edacbbd00fd54299349e7b89a71421453ac3cb32eb108bc",
+  "output_size": 1182798,
+  "schema": 1,
+  "values": {
+    "duration": "6.20",
+    "prompt": "soft night breeze, distant water, warm closing tone. Scene context: aplicacao. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

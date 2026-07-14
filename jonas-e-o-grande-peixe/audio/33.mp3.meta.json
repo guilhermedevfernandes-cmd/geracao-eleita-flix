@@ -1,0 +1,14 @@
+{
+  "dependencies": [],
+  "fingerprint": "1050d744b52739bc87733fd7c86d5d9f5046a7c940667dedabb5c678009765d6",
+  "kind": "higgsfield-audio:text2speech_v2",
+  "output_sha256": "9a28b46e0db8fe07a7507a521405d9b26cb161686260bb589f5a3bb95be3c44d",
+  "output_size": 97010,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "Deus viu o que eles fizeram. Ele viu que mudaram de verdade. E não destruiu a cidade.",
+    "voice_id": "d8ba9f14-8a24-44db-932b-99e16c45bd32",
+    "voice_type": "preset"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "dcb2e4a19cbe31f5cb069c053f6b17aa8ea38c650e807bc1cee6a13f42ed2f8e",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "172e909813d9ec71152f3d40668d6564a8c591b9aff2239f69f830222ca92c9f",
+  "output_size": 249565,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[calm] Moisés chegou ao palácio do Faraó e disse: Assim diz o Senhor: deixa o meu povo ir! [gentle] Mas o Faraó disse: Não! [awe] Então Deus mandou muitos sinais, um atrás do outro... [happy] até que o Faraó deixou! E o povo de Deus saiu do Egito.",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

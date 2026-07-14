@@ -1,0 +1,15 @@
+{
+  "ok": true,
+  "errors": [],
+  "warnings": [],
+  "metrics": {
+    "path": "/Users/huiosweb/Documents/huios-web-ccode/8 - Edicao De Videos/gerecao-eleita-flix/a-criacao-do-mundo/a-criacao-do-mundo_final.mp4",
+    "duration_seconds": 285.458333,
+    "width": 1920,
+    "height": 1080,
+    "loudness_lufs": -13.3,
+    "true_peak_dbfs": -1.0,
+    "session_fingerprint": "30001c882f46ac9b88b75d6911c6aea6b47300e8323621fb75fb70e443c03d00",
+    "validation_scope": "technical-and-provenance"
+  }
+}

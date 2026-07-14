@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "64ece1b577b419905ee7fa16fbda64a6ca1a1c780347967ea92bd443e052914b",
+  "kind": "higgsfield-audio:mirelo_text_to_audio",
+  "output_sha256": "77ed70a012b4c64bb0c0a93a59c89ec9ae56a69a7767e74c814a736d3de04334",
+  "output_size": 1440090,
+  "schema": 1,
+  "values": {
+    "duration": "7.48",
+    "prompt": "oars straining, wave roar, shouted effort, hull slam. Scene context: tempestade. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

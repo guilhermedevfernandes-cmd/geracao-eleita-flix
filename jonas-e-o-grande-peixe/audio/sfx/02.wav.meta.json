@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "c3673e9690faab06b7a92c8a7d754205856d54ef4844f8e6853a14173f4af73a",
+  "kind": "higgsfield-audio:mirelo_text_to_audio",
+  "output_sha256": "4e8bbe1c3a1c712663d7d916d949b9aaa7ab62fd355f90e089b77a7f997348c5",
+  "output_size": 1654082,
+  "schema": 1,
+  "values": {
+    "duration": "8.60",
+    "prompt": "dry wind, distant birds, soft footsteps on dust. Scene context: mundo. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

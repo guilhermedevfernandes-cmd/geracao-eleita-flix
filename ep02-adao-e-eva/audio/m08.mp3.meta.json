@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "b482179ec8f167aa716123a9da115e72a3a19e2ccfc023e2421cda24241459cb",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "48d294d2a6f894262f11d0b2f55cdc0e099ff230a1d05a0a9510ef3f4cb1b61d",
+  "output_size": 186871,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[warm] E Deus mesmo fez roupas novas para eles. Depois, eles precisaram sair do jardim. [thoughtful] Mas escuta: mesmo quando a gente erra... [warm] Deus continua amando a gente.",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

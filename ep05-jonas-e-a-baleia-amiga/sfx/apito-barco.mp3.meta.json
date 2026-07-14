@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "1dd960e8bd228836c5071ac50da63774e6c009c15c2a114061cef40d79493662",
+  "kind": "elevenlabs-audio:sound_generation",
+  "output_sha256": "e4587e2a8a5d3b3e578c114aabb52bf5d9ccfa666c84e2889180c7bf99a30121",
+  "output_size": 40586,
+  "schema": 1,
+  "values": {
+    "duration": "2.50",
+    "prompt": "cute cartoon boat horn toot, cheerful and soft, toy ship whistle for a preschool show, no voices. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

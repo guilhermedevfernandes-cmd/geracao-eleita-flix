@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "17017e1a16f6ae1588d73b8d01acacfbdd121eda75a0e0743bde36062197fd48",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "c74f45591dade06bce98d434c8cecebeb8982cb3c3677716d82b95ebddb9d765",
+  "output_size": 127939,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[happy] E sabe o que aconteceu? O enganador foi embora! Jesus venceu! [warm] E aí, anjos de Deus vieram cuidar de Jesus.",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

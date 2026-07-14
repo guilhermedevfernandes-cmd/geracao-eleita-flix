@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "f2b6b70aaf2b91701967f4fbf3c045b2470802f47215ad42b66e7c7740f0a04d",
+  "kind": "elevenlabs-audio:eleven_multilingual_v2",
+  "output_sha256": "44e39be03f9785b5c109ca8063fd19c327467cb2d1e24c6736947e65f0a8aa8b",
+  "output_size": 97846,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "Amarrados com cordas, os três amigos foram levados até a boca da fornalha ardente.",
+    "tts_model": "eleven_multilingual_v2",
+    "voice_id": "gkqqIm2zTUUewCkNIkTF",
+    "voice_type": "elevenlabs"
+  }
+}

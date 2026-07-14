@@ -1,0 +1,43 @@
+{
+  "_doc": "Registro de uploads/gerações de referência no OpenArt (12/07/2026) — usar como visualReferences em nano-banana-pro e startFrame no pixverseV6",
+  "adao": {
+    "id": "ZvJrg2Pg91h8AiMLpsXW",
+    "url": "https://cdn.openart.ai/openart-uploads/production/2026-07/create-image/U8LYT4b2errrkadcpdhh/personagem-adao_1783885874150_b605e616.png",
+    "label": "Master Adao chibi"
+  },
+  "eva": {
+    "id": "Knan5QtiMKt3fg62JRon",
+    "url": "https://cdn.openart.ai/openart-uploads/production/2026-07/create-image/U8LYT4b2errrkadcpdhh/personagem-eva_1783885877121_c4696526.png",
+    "label": "Master Eva chibi"
+  },
+  "juba": {
+    "id": "5dPtsSokRueNP6v60YtF",
+    "url": "https://cdn.openart.ai/openart-uploads/production/2026-07/create-image/U8LYT4b2errrkadcpdhh/juba-leaozinho_1783885879848_baaa66b4.png",
+    "label": "Master Juba leaozinho"
+  },
+  "nina": {
+    "id": "LOVlcYRvcYBWhwnE4z2W",
+    "url": "https://cdn.openart.ai/openart-uploads/production/2026-07/create-image/U8LYT4b2errrkadcpdhh/nina-pombinha_1783885882422_3e6d7516.png",
+    "label": "Master Nina pombinha"
+  },
+  "joao_batista": {
+    "id": "3pQO80vge6x1s53bA9sn",
+    "url": "https://cdn.openart.ai/openart-uploads/production/2026-07/create-image/U8LYT4b2errrkadcpdhh/personagem-joao-batista_1783951756541_faf6c5b1.png",
+    "label": "Master Joao Batista chibi"
+  },
+  "jesus_chibi": {
+    "id": "24Dv0IiQYAKMfPXuqDmH",
+    "url": "https://cdn.openart.ai/openart-uploads/production/2026-07/create-image/U8LYT4b2errrkadcpdhh/personagem-jesus-chibi_1783951761872_70810cce.png",
+    "label": "Master Jesus chibi adulto"
+  },
+  "enganador": {
+    "id": "JsLQYmX51sUVYyJc2t4h",
+    "url": "https://cdn.openart.ai/openart-uploads/production/2026-07/create-image/U8LYT4b2errrkadcpdhh/personagem-enganador_1783951770246_8cb66b69.png",
+    "label": "Master enganador serpente escura"
+  },
+  "anjo": {
+    "id": "PoqqLpbbAmVyNehq7sN4",
+    "url": "https://cdn.openart.ai/openart-uploads/production/2026-07/create-image/U8LYT4b2errrkadcpdhh/personagem-anjo_1783951773605_f134f69c.png",
+    "label": "Master anjo EP09"
+  }
+}

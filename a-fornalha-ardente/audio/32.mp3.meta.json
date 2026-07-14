@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "94bad8f8dbc600edcc8228cde168b58d64f8e843df17783101353f3cfc859386",
+  "kind": "elevenlabs-audio:eleven_multilingual_v2",
+  "output_sha256": "e5d29dbc87bc4973ff15ff15f8319ecefe342c9134cd22cd1900daaa6af238c9",
+  "output_size": 95338,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "Nenhum povo poderá falar contra o Deus deles, porque não existe outro deus que salve assim!",
+    "tts_model": "eleven_multilingual_v2",
+    "voice_id": "r8pRY97Q57nCIMtpOyWA",
+    "voice_type": "elevenlabs"
+  }
+}

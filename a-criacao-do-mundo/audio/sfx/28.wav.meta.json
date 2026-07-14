@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "245927b62448138a0c478de42c76e9b61caa72cbd677f2d8e95eb4c39012e223",
+  "kind": "elevenlabs-audio:sound_generation",
+  "output_sha256": "84bd279b2fc7c99c9ba7f600d6edcfb70aa3924fbc3a192ff78c894484cc22d8",
+  "output_size": 1536078,
+  "schema": 1,
+  "values": {
+    "duration": "8.04",
+    "prompt": "deep warm resonant presence, soft wind, leaf hush. Scene context: humanidade. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

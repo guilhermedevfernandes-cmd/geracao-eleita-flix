@@ -1,0 +1,14 @@
+{
+  "dependencies": [],
+  "fingerprint": "6fa3836c32fb9dae3a8421ad574a2dc638c0c9ddf9ea814298de1fa17dfce56d",
+  "kind": "higgsfield-audio:text2speech_v2",
+  "output_sha256": "f5ef6c1b927ffe7b11c3fed024db1942b7674be119da08c40287217fa14f3be6",
+  "output_size": 88233,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "Esse amor alcança até quem a gente acha que não merece. E também alcança a gente.",
+    "voice_id": "d8ba9f14-8a24-44db-932b-99e16c45bd32",
+    "voice_type": "preset"
+  }
+}

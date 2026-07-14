@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "8cfc0ab42a59d71b3d45a028ca432afba2406bb89f036e3580618704a3d06115",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "109539d81d0da7f5e3c691bf389d09909a3ab72b5d66657a5eab220edd64a370",
+  "output_size": 347786,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[warm] E o que aprendemos com essa história? [thoughtful] Vem lembrar comigo.\n\n[calm] Um: Jesus é o presente de Deus para nós.\n\n[calm] Dois: Deus conta as boas notícias até para os mais simples, como os pastores.\n\n[warm] Três: quando conhecemos Jesus, louvamos a Deus de alegria.\n\n[warm] Deus cuida de mim, Deus cuida de você! [happy] Tchau! Até a próxima.",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}
