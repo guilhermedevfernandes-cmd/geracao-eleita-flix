@@ -13,7 +13,7 @@
 
 ## CENA 1 — ABERTURA (2 planos · ~13s) · moldura do canal
 **[warm]** "Olá, amiguinho! Que bom te ver. **[happy]** Hoje eu vou contar a história mais linda de todas: o nascimento do bebê Jesus. Vem comigo."
-**SFX:** sininhos @0.8s
+**SFX:** nenhum (sininhos removido — usuário chama de "som de chocalho")
 
 - **P1** (refs: Juba, Nina): the baby lion cub and the chubby white dove waving hello at the camera on a starry gentle night hill overlooking tiny Bethlehem with warm windows, one big soft star above + DNA
 - **P2** (sem refs): a cozy little town of rounded houses on a hill at dusk, warm golden windows, soft purple-blue sky with the first stars + DNA · *no people, no text*
@@ -24,8 +24,10 @@
 
 > Lc 2:1 o decreto do censo (simplificado: "se registrar"); 2:4-5 José subiu de Nazaré a Belém com Maria, que estava grávida. EXATO. Jumentinho = ilustração visual (não narrado).
 
-- **P1** (refs: Maria, José): the gentle young couple walking along a sunny winding road, the sweet mother-to-be in a soft blue veil, a cute little donkey walking beside them carrying a small bag, rolling hills + DNA · *one man one woman one donkey, two arms each*
-- **P2** (refs: Maria, José): the couple seen from a distance arriving at the little town gate at golden dusk, warm windows glowing + DNA · *two people far, cozy*
+- **P1** (refs: Maria, José): the gentle young couple walking along a sunny winding road, the sweet young mother in a soft blue veil **visibly pregnant with a big round baby bump, hand resting on her belly**, a cute little donkey walking beside them carrying a small bag, rolling hills + DNA · *one man one woman one donkey, two arms each*
+- **P2** (refs: Maria, José): the couple arriving at the little town gate at golden dusk, the young mother **clearly pregnant with a round baby bump, hand on her belly**, warm windows glowing + DNA · *cozy*
+
+> **Alteração 14/07/2026:** Maria DEVE aparecer com barriga de grávida em toda cena pré-parto (cenas 2 e 3) — pedido do usuário.
 
 ## CENA 3 — NÃO HAVIA LUGAR (2 planos · ~15s) · Lc 2:6-7b
 **[gentle]** "Quando chegaram, as casinhas de hóspedes estavam cheias. Não havia lugar para eles. **[calm]** Então eles ficaram num cantinho aconchegante, onde os animais dormiam. **[softly]** E chegou a hora do bebê nascer."
@@ -33,14 +35,14 @@
 
 > Lc 2:7 "não havia lugar para eles na hospedaria" — EXATO; "cantinho onde os animais dormiam" = inferência visual da manjedoura (2:7), sem afirmar "estábulo".
 
-- **P1** (refs: Maria, José): the couple standing at a closed rounded inn door, a kind innkeeper shrugging gently with sorry face, warm night light + DNA · *three people, two arms each, gentle mood*
-- **P2** (refs: Maria, José): the couple settling into a cozy warm little stable corner with soft hay, a calm cow and the little donkey resting, lantern glow + DNA · *two people, cozy animals, warm*
+- **P1** (refs: Maria, José): the couple standing at a closed rounded inn door, the young mother **visibly pregnant with a round baby bump**, a kind innkeeper shrugging gently with sorry face, warm night light + DNA · *three people, two arms each, gentle mood*
+- **P2** (refs: Maria, José): the couple settling into a cozy warm little stable corner with soft hay, the young mother **sitting, visibly pregnant, hand on her round belly**, a calm cow and the little donkey resting, lantern glow + DNA · *two people, cozy animals, warm*
 
-## CENA 4 — JESUS NASCEU! (3 planos · ~20s) · Lc 2:7
-**[awe]** "E ali, naquela noite... nasceu Jesus! **[warm]** Maria enrolou o bebê em paninhos, bem quentinho, e o deitou numa manjedoura, a caminha de feno dos animais. **[softly]** O bebê mais esperado de todos os tempos."
-**SFX:** harpa @1.0s · sininhos @10s
+## CENA 4 — JESUS NASCEU! (3 planos · ~21s) · Lc 2:7
+**[awe]** "E ali, naquela noite... nasceu Jesus! **[warm]** Maria enrolou o bebê em paninhos, bem quentinho, e o deitou numa manjedoura, a caminha de feno dos animais. **[awe]** O nosso Salvador nasceu! **[softly]** O bebê mais esperado de todos os tempos."
+**SFX:** musica-celestial @0.8s (coral angelical suave + harpa, 18s — gerada 14/07/2026)
 
-> Lc 2:7: "envolveu-o em faixas e o deitou numa manjedoura" — EXATO ("paninhos" = faixas; "caminha de feno dos animais" = explicação literal de manjedoura). "Mais esperado" = aplicação da narradora (as promessas, Lc 2:11).
+> Lc 2:7: "envolveu-o em faixas e o deitou numa manjedoura" — EXATO ("paninhos" = faixas; "caminha de feno dos animais" = explicação literal de manjedoura). "O nosso Salvador nasceu" = Lc 2:11 ("hoje vos nasceu o Salvador"). "Mais esperado" = aplicação da narradora.
 
 - **P1** (refs: Maria, bebê Jesus): the young mother lovingly holding the newborn baby wrapped in cream cloths, soft golden glow around them, cozy stable + DNA · *one woman one baby*
 - **P2** (refs: Maria, José, bebê Jesus): the couple adoring the baby sleeping in a cute wooden manger filled with soft hay, gentle light beam from above, cow and donkey peeking sweetly + DNA · *two people one baby*
@@ -58,7 +60,7 @@
 
 ## CENA 6 — GLÓRIA A DEUS! (2 planos · ~15s) · Lc 2:13-14
 **[awe]** "E de repente, o céu se encheu de anjos, uma multidão! **[happy]** E todos cantavam louvando a Deus: 'Glória a Deus nas alturas, e paz na terra!'"
-**SFX:** harpa @1.0s · sininhos @8s
+**SFX:** harpa @1.0s
 
 > Lc 2:13-14: "multidão dos exércitos celestiais louvando: Glória a Deus nas alturas, paz na terra" — LITERAL.
 
@@ -90,16 +92,17 @@
 
 | Cena | Narração (voz) | SFX (offset·vol) |
 |---|---|---|
-| 1 | narradora | sininhos-v2 0.8s·0.22 |
+| 1 | narradora | — |
 | 2 | narradora | passarinho-piu 1.0s·0.18 |
 | 3 | narradora | vento-suave 1.0s·0.18 |
-| 4 | narradora | harpa-v2 1.0s·0.18 · sininhos-v2 10s·0.22 |
+| 4 | narradora | musica-celestial 0.8s·0.22 |
 | 5 | narradora | vento-suave 4s·0.18 · surpresa-fofa 8s·0.28 |
-| 6 | narradora | harpa-v2 1.0s·0.20 · sininhos-v2 8s·0.22 |
+| 6 | narradora | harpa-v2 1.0s·0.20 |
 | 7 | narradora | passarinho-piu 1.0s·0.18 · tcham-presente 7s·0.25 |
-| 8 (c10) | narradora (request único) | sininhos-v2 0.5s·0.22 |
+| 8 (c10) | narradora (request único) | — |
 
-**SFX a reusar:** sininhos-v2, harpa-v2, passarinho-piu (EP03) · vento-suave (EP04) · surpresa-fofa (EP07) · tcham-presente (EP06). **Nenhum SFX novo.**
+**SFX:** harpa-v2, passarinho-piu (EP03) · vento-suave (EP04) · surpresa-fofa (EP07) · tcham-presente (EP06) · **musica-celestial (NOVO 14/07/2026 — coral angelical + harpa, cena do nascimento)**.
+**REMOVIDO 14/07/2026:** sininhos-v2 em TODAS as cenas ("som de chocalho" — regra do canal, ver CLAUDE.md §6).
 
 ## Referências de personagem
 

@@ -20,15 +20,15 @@ SPEED = 0.75
 FADE = 0.35
 
 CENAS = [
-    ("c1", ["c1_0"], ["c1p1","c1p2"], False, [("sininhos-v2",0.8,0.22)]),
+    ("c1", ["c1_0"], ["c1p1","c1p2"], False, []),
     ("c2", ["c2_0"], ["c2p1","c2p2"], False, [("passarinho-piu",1.0,0.18)]),
     ("c3", ["c3_0"], ["c3p1","c3p2","c3p3"], False, [("vento-suave",1.0,0.18)]),
-    ("c4", ["c4_0"], ["c4p1","c4p2","c4p3"], False, [("harpa-v2",1.0,0.18),("sininhos-v2",10,0.22)]),
+    ("c4", ["c4_0"], ["c4p1","c4p2","c4p3"], False, [("musica-celestial",0.8,0.22)]),
     ("c5", ["c5_0"], ["c5p1","c5p2","c5p3"], False, [("vento-suave",4,0.18),("surpresa-fofa",8,0.28)]),
-    ("c6", ["c6_0"], ["c6p1","c6p3","c6p2"], False, [("harpa-v2",1.0,0.20),("sininhos-v2",8,0.22)]),
+    ("c6", ["c6_0"], ["c6p1","c6p3","c6p2"], False, [("harpa-v2",1.0,0.20)]),
     ("c7", ["c7_0"], ["c7p1","c7p2","c7p3","c7p4"], False, [("passarinho-piu",1.0,0.18),("tcham-presente",7,0.25)]),
     # REFLEXÃO: 3 lições + bordão + tchau — request único, trilha própria
-    ("c10", ["c10_full"], ["c2p1","c4p2","c5p2","c7p2","c1p1"], False, [("sininhos-v2",0.5,0.22)]),
+    ("c10", ["c10_full"], ["c2p1","c4p2","c5p2","c7p2","c1p1"], False, []),
 ]
 
 scene_files, scene_durs, sfx_events = [], [], []
