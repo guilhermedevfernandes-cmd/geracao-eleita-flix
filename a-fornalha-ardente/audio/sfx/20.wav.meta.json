@@ -1,12 +1,12 @@
 {
   "dependencies": [],
-  "fingerprint": "bc14f8e9a911f509772f7175007eaafb9ec0090d1c5e7314b94ae35919975699",
+  "fingerprint": "18ffcdca51e583249aecbdf7d4097c3668022b16c8018d59b3ac2160676e491c",
   "kind": "elevenlabs-audio:sound_generation",
-  "output_sha256": "ce031f1e8f45394677f59aa4bf3f9538c7edd34ecf8c0b308b1857f45ed54dff",
-  "output_size": 1075278,
+  "output_sha256": "5e62e3b39b85b4d662a49ed36ce70e1e70b432797afa9a6bda3b07ad081b9e1d",
+  "output_size": 1359486,
   "schema": 1,
   "values": {
-    "duration": "5.62",
+    "duration": "7.10",
     "prompt": "roaring command echo, gong, rising fire rumble. Scene context: fornalha. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
   }
 }

@@ -1,12 +1,12 @@
 {
   "dependencies": [],
-  "fingerprint": "d1bbce7cbaadc853c9b0663d583b5f5c97d72b4dc3df03e49b9cb56eb4a21181",
+  "fingerprint": "fafb9f3393091dc158935ba0e3ca0954e420cff0cafb782c4701c471be1d97b0",
   "kind": "elevenlabs-audio:sound_generation",
-  "output_sha256": "7bdb7809ada27b1e021ea499432a6b8ba7eeb47a5dbf38274a153c6377bac7b5",
-  "output_size": 1159758,
+  "output_sha256": "89cd79738c9d0e2e9bcb479b5f4bb4df61b6b0cac083f3a0000adae355b7b7a5",
+  "output_size": 1313358,
   "schema": 1,
   "values": {
-    "duration": "6.04",
+    "duration": "6.86",
     "prompt": "crackling torches, echoing voice, tense wind through the hall. Scene context: acusacao. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
   }
 }

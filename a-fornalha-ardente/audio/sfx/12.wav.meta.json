@@ -1,12 +1,12 @@
 {
   "dependencies": [],
-  "fingerprint": "cf249e2cb54e246ff3a31862ac2074ed2d7581dd612757c2de288008ef96a443",
+  "fingerprint": "7ac1555822dda538cf9888677b3267732c73ded10d61c7c34592999d0d0addc8",
   "kind": "elevenlabs-audio:sound_generation",
-  "output_sha256": "fc3d9c649a398f57ccc482ab761b491a9973402b67a684bac8d530829df4c76a",
-  "output_size": 1136718,
+  "output_sha256": "9b36c8484d586efdf06dbf19a004540bd038675c52d34df73eaa39c9dbf18347",
+  "output_size": 1313358,
   "schema": 1,
   "values": {
-    "duration": "5.95",
+    "duration": "6.86",
     "prompt": "armor clink, footsteps on dry earth, tense wind. Scene context: desafio. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
   }
 }

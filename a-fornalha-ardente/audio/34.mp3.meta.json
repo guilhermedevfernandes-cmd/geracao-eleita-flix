@@ -1,14 +1,14 @@
 {
   "dependencies": [],
-  "fingerprint": "4a14a82dcda6c3c184f195be4ed5a4b49d2c2d9a4ebd5517badc72167729f703",
-  "kind": "elevenlabs-audio:eleven_multilingual_v2",
-  "output_sha256": "3d1822cddc6cc2fec321286172a8cc7fe23f323159d18b5f2c1f3fa23dfd81f4",
-  "output_size": 114146,
+  "fingerprint": "37c8363fe1c475139351d003ac7085d378f980fdaa6a8a96751dd89b59b5aa43",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "1cc012a0508ff86c53d09c63976e7914b3757c69aff6fce66696b136ffffca80",
+  "output_size": 86979,
   "schema": 1,
   "values": {
     "model": "elevenlabs",
-    "prompt": "A notícia correu por toda a Babilônia. O Deus de Israel havia vencido o fogo da fornalha.",
-    "tts_model": "eleven_multilingual_v2",
+    "prompt": "[happy] A notícia correu por toda a Babilônia. O Deus de Israel havia vencido o fogo da fornalha.",
+    "tts_model": "eleven_v3",
     "voice_id": "gkqqIm2zTUUewCkNIkTF",
     "voice_type": "elevenlabs"
   }

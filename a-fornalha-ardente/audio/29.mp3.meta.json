@@ -1,14 +1,14 @@
 {
   "dependencies": [],
-  "fingerprint": "fa1a923e44caf9ec060a2adf2d07dc0923139733362ddc945701dba25bf16d47",
-  "kind": "elevenlabs-audio:eleven_multilingual_v2",
-  "output_sha256": "8a1e9fc237b82908ceb861312284946dd5a5da50219e1583d9a7462639e9e8b0",
-  "output_size": 98264,
+  "fingerprint": "e0615df9ffc2da4de04bdd9200c194bbf58643d052f91d19bc07984966ad2b46",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "2b6591fe5ff8c2e7e387164f98584b1f175e9b40ef8f317e853bc6fe56a11e94",
+  "output_size": 76530,
   "schema": 1,
   "values": {
     "model": "elevenlabs",
-    "prompt": "Os três amigos saíram andando do meio do fogo. Nem cheiro de fumaça ficou neles.",
-    "tts_model": "eleven_multilingual_v2",
+    "prompt": "[warm] Os três amigos saíram andando do meio do fogo. Nem cheiro de fumaça ficou neles.",
+    "tts_model": "eleven_v3",
     "voice_id": "gkqqIm2zTUUewCkNIkTF",
     "voice_type": "elevenlabs"
   }

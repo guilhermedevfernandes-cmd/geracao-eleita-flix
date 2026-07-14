@@ -1,14 +1,14 @@
 {
   "dependencies": [],
-  "fingerprint": "8982aaec7b1241467a2b369e5d61f27a0d6287c06c4f135a48baacc050977eea",
-  "kind": "elevenlabs-audio:eleven_multilingual_v2",
-  "output_sha256": "3d9efb990e0a7950f46438599b1532c93c683054762772dbfc5c0a8aeea8b8a0",
-  "output_size": 71515,
+  "fingerprint": "2137367bb13937f5830c47795ec72af10f71254b7037864aade8f9dfba9e444c",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "d8f28bd9d2ce9a3591922a0015f041f74d36b6e132581d7a1d42020ed0810908",
+  "output_size": 65245,
   "schema": 1,
   "values": {
     "model": "elevenlabs",
-    "prompt": "Quando obedecemos a Deus, podemos confiar: Ele nunca nos deixa sozinhos.",
-    "tts_model": "eleven_multilingual_v2",
+    "prompt": "[gentle] Quando obedecemos a Deus, podemos confiar: Ele nunca nos deixa sozinhos.",
+    "tts_model": "eleven_v3",
     "voice_id": "S6JRAR6bdDn0imFzAhjA",
     "voice_type": "elevenlabs"
   }

@@ -1,12 +1,12 @@
 {
   "dependencies": [],
-  "fingerprint": "5effcee19c3914f143b2e6d63f011bb849b4d3be015be1b544e10903e79c8198",
+  "fingerprint": "e245ae14c64e02b83f6adcf40fee4c3487df2cadc2e41b8b5dcb9ed913093c37",
   "kind": "elevenlabs-audio:sound_generation",
-  "output_sha256": "c524117c3de0adbf1da86f4f4acf9b1e98c08f64e871091e2dca42b421d2fdd4",
-  "output_size": 975438,
+  "output_sha256": "ab7ba4895810052435f03eb659bcebc6d3d14e4837c8c1e1ae441f18b44b6914",
+  "output_size": 1267278,
   "schema": 1,
   "values": {
-    "duration": "5.11",
+    "duration": "6.62",
     "prompt": "close fire roar, heartbeat drum, soft spoken breath. Scene context: fornalha. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
   }
 }

@@ -1,14 +1,14 @@
 {
   "dependencies": [],
-  "fingerprint": "2022f4bce83642f54df39e203b4de9d9ae4d8891816d26ec575a04cfdca85070",
-  "kind": "elevenlabs-audio:eleven_multilingual_v2",
-  "output_sha256": "5d2d3ea160a9fbf86561ae5aec01f7b6a5f7876ef91ee3e673cc5c6cc4eb09eb",
-  "output_size": 122924,
+  "fingerprint": "ad0669adeb68a817d8b1d7b8dbb40a867eb2c69d55bbebf0c69eee7556bafefd",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "e962313706a25038ff4d753647cecb032ee974836298dc482288383b99d8cb92",
+  "output_size": 94502,
   "schema": 1,
   "values": {
     "model": "elevenlabs",
-    "prompt": "O capitão olhou de perto, espantado. O fogo queimou as cordas, mas não tocou em nenhum deles.",
-    "tts_model": "eleven_multilingual_v2",
+    "prompt": "[amazed] O capitão olhou de perto, espantado. O fogo queimou as cordas, mas não tocou em nenhum deles.",
+    "tts_model": "eleven_v3",
     "voice_id": "gkqqIm2zTUUewCkNIkTF",
     "voice_type": "elevenlabs"
   }

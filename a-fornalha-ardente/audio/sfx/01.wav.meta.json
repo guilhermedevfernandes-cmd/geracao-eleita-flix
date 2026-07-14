@@ -1,12 +1,12 @@
 {
   "dependencies": [],
-  "fingerprint": "c56a43c845e227c881a573ead60bae22fd2a83c52c8ed55dff87e78b60c77a4f",
+  "fingerprint": "1e8f06199fad066acc10ad120cd6268a23cf940acdbcfa5936d8c762e33435c3",
   "kind": "elevenlabs-audio:sound_generation",
-  "output_sha256": "aca6b22e63c0fbd5949fbdc49290ac494812721f2f05846a00ec2fb35d76636a",
-  "output_size": 1804878,
+  "output_sha256": "c7fdb748c11a25bd61c87cc03902b2eab75337c42037e53f6f926041633f0493",
+  "output_size": 1666638,
   "schema": 1,
   "values": {
-    "duration": "9.41",
+    "duration": "8.68",
     "prompt": "low wind over the plain, distant city murmur, deep metallic shimmer. Scene context: gancho. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
   }
 }

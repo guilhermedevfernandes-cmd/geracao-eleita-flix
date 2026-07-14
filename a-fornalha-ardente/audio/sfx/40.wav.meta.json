@@ -1,12 +1,12 @@
 {
   "dependencies": [],
-  "fingerprint": "c4d192f2359ae3b45546d6499d25b5fe95249af8c9a455107d31c4808a7a3381",
+  "fingerprint": "39b9dae340694a35d74b1c8486da172f3667a11c5c2ce382cc45397e321adf70",
   "kind": "elevenlabs-audio:sound_generation",
-  "output_sha256": "7baa344a7848da1de0bfcb11eac46af4565b8d597dde957f67f6ee65e86d64d2",
-  "output_size": 1436238,
+  "output_sha256": "45f7e53ce0ef7518914e9dfcb6f1ce5b9bd2e3acafe8e4d900980c8a1ad0aac4",
+  "output_size": 1712718,
   "schema": 1,
   "values": {
-    "duration": "7.49",
+    "duration": "8.92",
     "prompt": "warm swelling wind, soft bells, final gentle tone. Scene context: aplicacao. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
   }
 }

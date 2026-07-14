@@ -1,12 +1,12 @@
 {
   "dependencies": [],
-  "fingerprint": "679febfdd37935fd64e494839e5cd9b7817432ba3ecd632ed474c225488e3608",
+  "fingerprint": "36dfa931247ae2a4fc0a5bd4570ec57ae07b17bdf471a44e82c8cbc0bcf95655",
   "kind": "elevenlabs-audio:sound_generation",
-  "output_sha256": "e39738fde786f8bfa08bb4fa77895e865f41b5a1a02e46bef7fe15295450e67e",
-  "output_size": 1635918,
+  "output_sha256": "70c46e522485aff2e646db055a5a7098a7cdc39876dbbac0736118ebcde149db",
+  "output_size": 1605246,
   "schema": 1,
   "values": {
-    "duration": "8.56",
+    "duration": "8.40",
     "prompt": "city ambience below, banners flapping, royal horns far away. Scene context: mundo. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
   }
 }

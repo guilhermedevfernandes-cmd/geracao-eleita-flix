@@ -1,7 +1,7 @@
 {
-  "approved_at": "2026-07-10T22:16:19.485981+00:00",
-  "fingerprint": "70e87559d0b3621c45e418f0a18c26833dd3801b2285a736add45e5726a02e6a",
-  "output_sha256": "696c5d6af7e3835a3bc1e339269e330bc9e1c784d119d4d5d0ed2954936d1fee",
+  "approved_at": "2026-07-14T19:01:58.491896+00:00",
+  "fingerprint": "561c6ce2c2474c41648aee48618cfcfe4393e818d7c23b488e77476cce72aca3",
+  "output_sha256": "4866154e723dade3480ab5245203cf96f35669c6a5e851ced6a1ef12dbd1a469",
   "schema": 1,
   "source": "generated"
 }

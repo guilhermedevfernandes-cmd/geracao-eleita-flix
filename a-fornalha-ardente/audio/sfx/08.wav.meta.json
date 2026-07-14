@@ -1,12 +1,12 @@
 {
   "dependencies": [],
-  "fingerprint": "6094acf9c3a85ef3771e5d179f2e39d95dfe1f620d8db279e1e14e0d9eb57b80",
+  "fingerprint": "8361da0c3ed1bcd5e67640399e2a71e49f0ef59fdfd774e2940bb015202ab07c",
   "kind": "elevenlabs-audio:sound_generation",
-  "output_sha256": "51e7022ce69d6bf6800594615cf57ec2e47cd9e85a3767f61c6c105b60569ada",
-  "output_size": 1950798,
+  "output_sha256": "e6bf7ba7e1085958f03058c1952d7885fcb620dcf1148526e43cabb8a87a6236",
+  "output_size": 1774158,
   "schema": 1,
   "values": {
-    "duration": "10.17",
+    "duration": "9.26",
     "prompt": "single tuning harp pluck, soft wind, leather creak. Scene context: decreto. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
   }
 }

@@ -1,12 +1,12 @@
 {
   "dependencies": [],
-  "fingerprint": "167c32156f1d53c302dd452ad4bae8a9089eb8569e760ed805d1d3edfe92f984",
+  "fingerprint": "265e7042c49354249ba0251d2463891196c841f7078d00def4114842c4ee9aae",
   "kind": "elevenlabs-audio:sound_generation",
-  "output_sha256": "89eae3e902a8ea157e5d26ca1905d1325387f6751332c959e738a8f5f6db3be8",
-  "output_size": 1743438,
+  "output_sha256": "e34fafd6ba81754446a1208435fd5d00705674002b4a476d2ca93aa872dc4958",
+  "output_size": 1520718,
   "schema": 1,
   "values": {
-    "duration": "9.11",
+    "duration": "7.92",
     "prompt": "wind gusts, fading music echo, cloth snapping. Scene context: desafio. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
   }
 }

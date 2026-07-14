@@ -1,14 +1,14 @@
 {
   "dependencies": [],
-  "fingerprint": "abd965b370bb03f46c3f9a35f47c72967fbf6c0c703ae3982663fcfd8bbc4dd7",
-  "kind": "elevenlabs-audio:eleven_multilingual_v2",
-  "output_sha256": "35b8f94c6bf81d77daa21d04ddc640e409bd6599c681c37adf6f0aefa1eea33d",
-  "output_size": 74440,
+  "fingerprint": "a627a5edc675f28f349cc13dc72396b83a10103431de1535f46a99d13294384e",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "68ef5dd70d56f07f55236767e495b5a55aad6c34f4fe59dedc32ef0dce49b8dd",
+  "output_size": 67753,
   "schema": 1,
   "values": {
     "model": "elevenlabs",
-    "prompt": "Esperem! Nós não jogamos três homens amarrados dentro do fogo?",
-    "tts_model": "eleven_multilingual_v2",
+    "prompt": "[amazed] Esperem! Nós não jogamos três homens amarrados dentro do fogo?",
+    "tts_model": "eleven_v3",
     "voice_id": "r8pRY97Q57nCIMtpOyWA",
     "voice_type": "elevenlabs"
   }

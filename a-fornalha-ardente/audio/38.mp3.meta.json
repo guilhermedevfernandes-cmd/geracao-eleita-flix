@@ -1,14 +1,14 @@
 {
   "dependencies": [],
-  "fingerprint": "70ea3ce79248e1300e3fe42612a9efe223ce597c740412e5d8edb08d6951da2d",
-  "kind": "elevenlabs-audio:eleven_multilingual_v2",
-  "output_sha256": "0b31cb8df51f931a37f4ecf9e2e6454b3ff1f3e28e373bcd4ecbcae3a02d58bf",
-  "output_size": 140060,
+  "fingerprint": "8618af990ef3cbc10cdbfdd768a5d521f65cd7ecc541e671adecc64b021fa770",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "c55ed6917ed1f0add71ed210c8055bc6d0ae4c6fbd9bbc52676000b29a9880d9",
+  "output_size": 112475,
   "schema": 1,
   "values": {
     "model": "elevenlabs",
-    "prompt": "Você também pode confiar nesse Deus. Nos dias difíceis, Ele está com você, como esteve com eles.",
-    "tts_model": "eleven_multilingual_v2",
+    "prompt": "[softly] Você também pode confiar nesse Deus. Nos dias difíceis, Ele está com você, como esteve com eles.",
+    "tts_model": "eleven_v3",
     "voice_id": "gkqqIm2zTUUewCkNIkTF",
     "voice_type": "elevenlabs"
   }

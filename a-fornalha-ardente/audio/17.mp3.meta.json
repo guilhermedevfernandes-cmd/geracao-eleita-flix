@@ -1,14 +1,14 @@
 {
   "dependencies": [],
-  "fingerprint": "907b0f70efe3a9d5459422fc6b13eda9356f24f41fe8a54fb6b2fe792fa6efd1",
-  "kind": "elevenlabs-audio:eleven_multilingual_v2",
-  "output_sha256": "28eeb23d76f14670a1caab64d358e2ee3e6a589c63beee1fa483dccb11294fab",
-  "output_size": 137134,
+  "fingerprint": "b5d2e7736ee1fd1d814cb3b15e3165717bb2cf6d367fc57b2bda6308de135b03",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "561f11bb0ea08050729f80ec6d972bbba6bf13826aeb7422343d9110c5fd810f",
+  "output_size": 93248,
   "schema": 1,
   "values": {
     "model": "elevenlabs",
-    "prompt": "Perto dali, a grande fornalha rugia. Suas chamas subiam altas, pintando o céu de laranja.",
-    "tts_model": "eleven_multilingual_v2",
+    "prompt": "[tense] Perto dali, a grande fornalha rugia. Suas chamas subiam altas, pintando o céu de laranja.",
+    "tts_model": "eleven_v3",
     "voice_id": "gkqqIm2zTUUewCkNIkTF",
     "voice_type": "elevenlabs"
   }

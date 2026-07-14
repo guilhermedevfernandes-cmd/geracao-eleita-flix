@@ -1,12 +1,12 @@
 {
   "dependencies": [],
-  "fingerprint": "1fa05346e3f0eda3164d7ad5e4da196998c8b04f8e19a8049f63da1307f26209",
+  "fingerprint": "6229b49f40c6fcf0a1ce7d8c8f03778a271263967f4b812d90c2618051d2a0a7",
   "kind": "elevenlabs-audio:sound_generation",
-  "output_sha256": "1ccba9e2f584b901b571cc608560e6438975c2ecbeadd22a0e6489bf8dd0d4f3",
-  "output_size": 967758,
+  "output_sha256": "9e2752518320ecfeeb816beb0b712f4e2e01966785482f82803980392acc7c7e",
+  "output_size": 1175118,
   "schema": 1,
   "values": {
-    "duration": "5.07",
+    "duration": "6.14",
     "prompt": "quiet hall, soft flame crackle, fabric shift. Scene context: desafio. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
   }
 }

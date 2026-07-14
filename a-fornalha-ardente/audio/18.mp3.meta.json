@@ -1,14 +1,14 @@
 {
   "dependencies": [],
-  "fingerprint": "38b6dbbf96e4b2e2c1248930e097cdfaa448c330377ebb921d2b9143973e6fd8",
-  "kind": "elevenlabs-audio:eleven_multilingual_v2",
-  "output_sha256": "cd57fcdbf32538f11a5992fc71373d20b15f9281a647e55d86f1485deaccd8a3",
-  "output_size": 71097,
+  "fingerprint": "0768715b9bc53780bcbf4e46cf4fe2fdcb314de2afcd90f12eee196e372bf8ea",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "403e92c25a7feb19b59df5b921b12ecc2a5aaaed27c49703068b100c2df6f42b",
+  "output_size": 75276,
   "schema": 1,
   "values": {
     "model": "elevenlabs",
-    "prompt": "Ó rei, o nosso Deus pode nos livrar da fornalha e da sua mão.",
-    "tts_model": "eleven_multilingual_v2",
+    "prompt": "[calm] Ó rei, o nosso Deus pode nos livrar da fornalha e da sua mão.",
+    "tts_model": "eleven_v3",
     "voice_id": "NHphTvFqgs01MNV8q4Gn",
     "voice_type": "elevenlabs"
   }

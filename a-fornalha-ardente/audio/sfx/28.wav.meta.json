@@ -1,12 +1,12 @@
 {
   "dependencies": [],
-  "fingerprint": "608c58f70063f05f39904217723b2a0a5d9edcadc7e7507f1c3abd9268b463ab",
+  "fingerprint": "b54930092f05dd9ca679a0932e5eb815ff57a8fb14b129a2093ff199abfdea72",
   "kind": "elevenlabs-audio:sound_generation",
-  "output_sha256": "8a4ab383467964b3c37b00ee08c41602b1b69b08fdb5a298a49da89374136f96",
-  "output_size": 1551438,
+  "output_sha256": "665af2b0774763fd2051c74d7f91a297cc9a80782ece17b3543c55b10d31dc56",
+  "output_size": 1958478,
   "schema": 1,
   "values": {
-    "duration": "8.08",
+    "duration": "10.22",
     "prompt": "fire roar softening, echoing call, night wind. Scene context: livramento. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
   }
 }

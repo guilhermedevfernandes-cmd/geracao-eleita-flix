@@ -1,14 +1,14 @@
 {
   "dependencies": [],
-  "fingerprint": "720daa637cbe355f72696fae44b88a5611ba95e0ff994c4a885f68f8c3f260a0",
-  "kind": "elevenlabs-audio:eleven_multilingual_v2",
-  "output_sha256": "ed7caaad7c60d7e4928538d1158bf4e55901024fad192ea88cfb8bd3f28507a6",
-  "output_size": 79874,
+  "fingerprint": "68e172fe043c22e568db57ead1fbad274828a535f15932fed17ac08e258faeb2",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "fe2b74976d72e82e85e9a3e830b0030bd31e9e8a98018274a7fc9dd20e30dc45",
+  "output_size": 90741,
   "schema": 1,
   "values": {
     "model": "elevenlabs",
-    "prompt": "Então esquentem a fornalha sete vezes mais! E amarrem esses três agora!",
-    "tts_model": "eleven_multilingual_v2",
+    "prompt": "[angry] Então esquentem a fornalha sete vezes mais! E amarrem esses três agora!",
+    "tts_model": "eleven_v3",
     "voice_id": "r8pRY97Q57nCIMtpOyWA",
     "voice_type": "elevenlabs"
   }

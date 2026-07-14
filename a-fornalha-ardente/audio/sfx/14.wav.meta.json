@@ -1,12 +1,12 @@
 {
   "dependencies": [],
-  "fingerprint": "f3f7646af808c8b518f15cfc7ccc1ce4486e9d556b0b36283379e0ecefffe6e6",
+  "fingerprint": "8690f8116326097b544fd5f3b8f6a8187c900eb2798dc774694f82589892b791",
   "kind": "elevenlabs-audio:sound_generation",
-  "output_sha256": "a15dd0b27c2d2b2711ac7be74cc1bba7be3d7912708f0c0168f7dce65cf76451",
-  "output_size": 837198,
+  "output_sha256": "37d3701ba6cf56d683db5c47e1b3012ec8e3b35de80bca8dd63e2006b4b2a307",
+  "output_size": 1006158,
   "schema": 1,
   "values": {
-    "duration": "4.37",
+    "duration": "5.26",
     "prompt": "sharp gong hit, echoing hall, fist on throne armrest. Scene context: acusacao. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
   }
 }

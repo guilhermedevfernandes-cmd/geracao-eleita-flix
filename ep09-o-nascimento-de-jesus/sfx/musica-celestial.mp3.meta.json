@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "a5b1dcefac17d64450b63b739f7a1abb932a0c259f18010cc0b3c91b02744e10",
+  "kind": "elevenlabs-audio:sound_generation",
+  "output_sha256": "f2515dd7a9a295f9356d29eb20cbeecdc2a7922216f866d3861827d213714f11",
+  "output_size": 289271,
+  "schema": 1,
+  "values": {
+    "duration": "18.00",
+    "prompt": "gentle heavenly celestial music, soft angelic choir aahs with warm harp arpeggios and soft glowing pads, holy, peaceful, full of wonder, tender and warm, no percussion. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

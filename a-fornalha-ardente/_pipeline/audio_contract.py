@@ -8,7 +8,7 @@ VOICE_TEST_TEXT = (
     "de coragem, esperança e fé. O barco já está no porto, e o coração bate forte."
 )
 
-TTS_JOB_TYPE = "eleven_multilingual_v2"
+TTS_JOB_TYPE = "eleven_v3"
 TTS_PROVIDER = "elevenlabs"
 SFX_JOB_TYPE = "sound_generation"
 MUSIC_JOB_TYPE = "music"

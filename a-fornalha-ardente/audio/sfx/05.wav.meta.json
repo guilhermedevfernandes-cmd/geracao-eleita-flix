@@ -1,12 +1,12 @@
 {
   "dependencies": [],
-  "fingerprint": "f408fe5789f029b7f0f4f5804565e19f4d6523420827497c17843db325c3cf94",
+  "fingerprint": "5f3778c2ccf1dd8cd2d0dff1f17876379b3ac5c01c6203abdb452021a9ba41d4",
   "kind": "elevenlabs-audio:sound_generation",
-  "output_sha256": "d70c834a3ade370bde667bf55b59d56cb8a833acae68dbc2147d994fca3b2c59",
-  "output_size": 1244238,
+  "output_sha256": "de943bdaedf6e4df0668adfa377bbd374e8ae41223acde87549aa77599b61fb6",
+  "output_size": 1559118,
   "schema": 1,
   "values": {
-    "duration": "6.50",
+    "duration": "8.14",
     "prompt": "soft market ambience, gentle wind, close cloth movement. Scene context: mundo. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
   }
 }

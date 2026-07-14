@@ -1,14 +1,14 @@
 {
   "dependencies": [],
-  "fingerprint": "59d20a63e8983708485420370e9dd46a6ef9eccaa31b8f93701def05a7aaaf2f",
-  "kind": "elevenlabs-audio:eleven_multilingual_v2",
-  "output_sha256": "ab0e683b9e01375fee888d2bf9f670183140ca8a42c5912f15713a6793813c3a",
-  "output_size": 111639,
+  "fingerprint": "f8019e66e2ece38a1205e4974c9e1a773412e8816419e45f6718a9db20b1aef7",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "383035156307355f5c537b0933d48ace71fd19374c0f01aa411c014299948f54",
+  "output_size": 93248,
   "schema": 1,
   "values": {
     "model": "elevenlabs",
-    "prompt": "Os servos obedeceram ao rei. A fornalha ficou tão quente que ninguém conseguia chegar perto.",
-    "tts_model": "eleven_multilingual_v2",
+    "prompt": "[serious] Os servos obedeceram ao rei. A fornalha ficou tão quente que ninguém conseguia chegar perto.",
+    "tts_model": "eleven_v3",
     "voice_id": "gkqqIm2zTUUewCkNIkTF",
     "voice_type": "elevenlabs"
   }

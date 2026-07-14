@@ -1,12 +1,12 @@
 {
   "dependencies": [],
-  "fingerprint": "0a3c48d3506883ca41b830345c297cfa773f05501f353a00f12baf5c32cc3481",
+  "fingerprint": "f9e915060d515cee748dd03a4b5a981c380f8505a44e8e767abe1cb04b166ee9",
   "kind": "elevenlabs-audio:sound_generation",
-  "output_sha256": "42c394c900eb41565033c7b5ba142848604d14afd9645c9a8bf4912b2f71357b",
-  "output_size": 1559118,
+  "output_sha256": "b54073e725acf6f27c3332534885baa0b705317d759e22934f971be7f4a23da8",
+  "output_size": 1666638,
   "schema": 1,
   "values": {
-    "duration": "8.13",
+    "duration": "8.70",
     "prompt": "echoing proclamation, banners flapping, distant crowd murmur. Scene context: decreto. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
   }
 }

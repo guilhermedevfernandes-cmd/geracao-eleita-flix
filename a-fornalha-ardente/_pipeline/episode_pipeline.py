@@ -91,7 +91,8 @@ POLICY_INTEGERS = {
     "TARGET_DURATION": 300,
     "MIN_DURATION": 285,
     "MAX_DURATION": 315,
-    "WORDS_PER_MINUTE": 138,
+    # Ritmo medido nas narrações reais do eleven_v3 (138 era o ritmo do v2).
+    "WORDS_PER_MINUTE": 161,
     "MIN_SCENES": 34,
     "MAX_SCENES": 46,
     "MIN_VOICES": 4,
@@ -326,6 +327,13 @@ KEY_RE = re.compile(r"^[a-z0-9][a-z0-9_-]*$")
 SLUG_RE = re.compile(r"^[a-z0-9](?:[a-z0-9-]*[a-z0-9])?$")
 ENV_DEFAULT_RE = re.compile(r"\$\{([A-Za-z_][A-Za-z0-9_]*):-([^}]*)\}")
 WORD_RE = re.compile(r"\b[\wÀ-ÿ'-]+\b", re.UNICODE)
+# Audio tags do Eleven v3 (ex.: [warm], [angry]) não são faladas: ficam fora da
+# contagem de palavras e da detecção de idioma.
+AUDIO_TAG_RE = re.compile(r"\[[A-Za-z][A-Za-z ']{0,30}\]")
+
+
+def spoken_text(text: str) -> str:
+    return AUDIO_TAG_RE.sub(" ", text)
 
 
 class PipelineError(RuntimeError):
@@ -592,7 +600,7 @@ def validate_policy_meta(meta: dict[str, str], errors: list[str]) -> None:
 def word_count(text: str) -> int:
     if not text or text == "-":
         return 0
-    return len(WORD_RE.findall(text))
+    return len(WORD_RE.findall(spoken_text(text)))
 
 
 def validate_portuguese_text(
@@ -604,7 +612,10 @@ def validate_portuguese_text(
     for scene in scenes:
         if scene["text"] == "-":
             continue
-        tokens = [token.casefold() for token in WORD_RE.findall(scene["text"])]
+        tokens = [
+            token.casefold()
+            for token in WORD_RE.findall(spoken_text(scene["text"]))
+        ]
         all_tokens.extend(tokens)
         pt_hits = sum(token in PORTUGUESE_MARKERS for token in tokens)
         pt_morphology = sum(

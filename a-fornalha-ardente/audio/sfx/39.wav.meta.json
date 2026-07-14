@@ -1,12 +1,12 @@
 {
   "dependencies": [],
-  "fingerprint": "9a8a7dd9827200815ab956e0bda264b3f90dc7162d201d3a2a7120ceb49e4deb",
+  "fingerprint": "df7619bf2b504e8eaec5c0731c9fdd81ed03fe444fdc3fe855063b76649fbce4",
   "kind": "elevenlabs-audio:sound_generation",
-  "output_sha256": "ca54b2f58a1a33d0b5e5e8593f622f9f76d33714dc225e93ee434b65d2ae909e",
-  "output_size": 1459278,
+  "output_sha256": "b239ecd52236cae67695fa18f7646355144814bf2708d6e50d8c916ff275d1f9",
+  "output_size": 1336398,
   "schema": 1,
   "values": {
-    "duration": "7.63",
+    "duration": "6.96",
     "prompt": "high morning wind, distant city waking, warm swelling tone. Scene context: aplicacao. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
   }
 }

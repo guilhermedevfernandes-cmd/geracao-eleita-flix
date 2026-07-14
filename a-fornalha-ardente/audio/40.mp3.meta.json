@@ -1,14 +1,14 @@
 {
   "dependencies": [],
-  "fingerprint": "139c7d577db3a6aeaac097d0063ed40562f517d2decfab275d541da42c3e2e8b",
-  "kind": "elevenlabs-audio:eleven_multilingual_v2",
-  "output_sha256": "23bf2d1e00f8946dd08cf581d601194d62d7c635b6f7e583a5343364c9196c54",
-  "output_size": 97010,
+  "fingerprint": "a6265d8e89093f71cdbe547da8488662052af37e2c91d8925692727829d6eeab",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "a53424b62aaf914a68c54caeb07233f02cc445880ac9ba9ea5b0131d392f6da9",
+  "output_size": 82799,
   "schema": 1,
   "values": {
     "model": "elevenlabs",
-    "prompt": "Porque Deus é fiel: Ele esteve na fornalha com eles, e quer estar com você também.",
-    "tts_model": "eleven_multilingual_v2",
+    "prompt": "[warm] Porque Deus é fiel: Ele esteve na fornalha com eles, e quer estar com você também.",
+    "tts_model": "eleven_v3",
     "voice_id": "gkqqIm2zTUUewCkNIkTF",
     "voice_type": "elevenlabs"
   }

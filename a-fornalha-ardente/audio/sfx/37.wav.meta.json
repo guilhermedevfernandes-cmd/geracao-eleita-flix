@@ -1,12 +1,12 @@
 {
   "dependencies": [],
-  "fingerprint": "a2069313fd2b8fd6b7c0933ab25c1ec10d7de74fbca6f244c00c0022c98106a4",
+  "fingerprint": "ce922c607dae6de0886b6dc059474bbca262a0c5acb11bb187b31f1b4e5832d9",
   "kind": "elevenlabs-audio:sound_generation",
-  "output_sha256": "aecb1faa4a557a2af1834ac365dbaf5916ea6eb69c61c5059557d96ab4723256",
-  "output_size": 1190478,
+  "output_sha256": "34bdacfbe53a7fb2df51a3daf3126cd3fb50624dddc94775969e65e020477678",
+  "output_size": 1313358,
   "schema": 1,
   "values": {
-    "duration": "6.20",
+    "duration": "6.84",
     "prompt": "gentle dawn wind, distant birds, deep peaceful tone. Scene context: aplicacao. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
   }
 }

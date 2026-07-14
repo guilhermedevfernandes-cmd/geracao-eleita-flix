@@ -1,14 +1,14 @@
 {
   "dependencies": [],
-  "fingerprint": "5bd95c099337cd1f20cec32acd4ca51bd70a8824019b8a36b4c38e47069689f2",
-  "kind": "elevenlabs-audio:eleven_multilingual_v2",
-  "output_sha256": "6ec4354a256aa2a1bb1403dfce87f85243da95129e41915ea49990bcf0440370",
-  "output_size": 151345,
+  "fingerprint": "8cc3eeea3ca4f0e6ffe1583e207f96bd6e0d063b49558fffb95e078425ec06e7",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "223659b53c7f8f9833e1ace0087198a3657d0154b87258ed2c235365159a9359",
+  "output_size": 140478,
   "schema": 1,
   "values": {
     "model": "elevenlabs",
-    "prompt": "Naquela cidade moravam três amigos: Sadraque, Mesaque e Abednego. Eles serviam ao Deus verdadeiro de Israel.",
-    "tts_model": "eleven_multilingual_v2",
+    "prompt": "[warm] Naquela cidade moravam três amigos: Sadraque, Mesaque e Abednego. Eles serviam ao Deus verdadeiro de Israel.",
+    "tts_model": "eleven_v3",
     "voice_id": "gkqqIm2zTUUewCkNIkTF",
     "voice_type": "elevenlabs"
   }

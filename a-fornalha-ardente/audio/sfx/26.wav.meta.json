@@ -1,12 +1,12 @@
 {
   "dependencies": [],
-  "fingerprint": "a11bc002ea043f098acb558aa8734570f3fe4110876e3b8f9be78db09d49092b",
+  "fingerprint": "649ae973d91bbaf0b2bec7b2e60fbeb421418f8c1b7fdfce64751491b80af2aa",
   "kind": "elevenlabs-audio:sound_generation",
-  "output_sha256": "64dbe0a10e89c2c9afdaeafc7876aab2b5d31503c372f055cfa745bbac979ebe",
-  "output_size": 1282638,
+  "output_sha256": "abdd43e86120d9c9560944c7c9250c765d1ce800bb07a65474278cf998f32373",
+  "output_size": 1451598,
   "schema": 1,
   "values": {
-    "duration": "6.69",
+    "duration": "7.58",
     "prompt": "muffled roar, ethereal shimmer tone, slow heartbeat. Scene context: livramento. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
   }
 }

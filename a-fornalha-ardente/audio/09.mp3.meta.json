@@ -1,14 +1,14 @@
 {
   "dependencies": [],
-  "fingerprint": "39443c4ee43a537450186756b11a232c4d1b7e007769f381e4689819bb904145",
-  "kind": "elevenlabs-audio:eleven_multilingual_v2",
-  "output_sha256": "579f21b5b939e4e78b187684c1e834e73936e1e1818c5c485c730b472de922b4",
-  "output_size": 112475,
+  "fingerprint": "747f3dabe85d8cbf625977e12b7fe422340a70c45d8e77c44f4ab2da14dcd2f9",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "cd7a4700775c867c8b2018ed1cd7bfdc8d1942bcdd6f7c170d4333c975be7f78",
+  "output_size": 95756,
   "schema": 1,
   "values": {
     "model": "elevenlabs",
-    "prompt": "A música ecoou pela planície inteira. E diante da grande estátua, o povo todo se curvou.",
-    "tts_model": "eleven_multilingual_v2",
+    "prompt": "[awe] A música ecoou pela planície inteira. E diante da grande estátua, o povo todo se curvou.",
+    "tts_model": "eleven_v3",
     "voice_id": "gkqqIm2zTUUewCkNIkTF",
     "voice_type": "elevenlabs"
   }

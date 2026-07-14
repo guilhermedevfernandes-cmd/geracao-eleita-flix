@@ -1,14 +1,14 @@
 {
   "dependencies": [],
-  "fingerprint": "b2ab3d5c22b74423ed0ecbbe322b64b902947ae99c4d5b2d812d45d905e03320",
-  "kind": "elevenlabs-audio:eleven_multilingual_v2",
-  "output_sha256": "2f5a7057b0c3543a984badab67c16665dbf27369326b6d282ce318f94e10b198",
-  "output_size": 104533,
+  "fingerprint": "95c6d29aa0fe85f040629c56f3debad02ab5baece41053d46d0bb16fa84062ce",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "0c1951cefcfb9b40e16c2c75c44e7b9ddf9fc3cd7c6d0a404884587d413e6518",
+  "output_size": 108713,
   "schema": 1,
   "values": {
     "model": "elevenlabs",
-    "prompt": "A estátua era tão alta que parecia tocar as nuvens. E todo o reino recebeu uma ordem do rei.",
-    "tts_model": "eleven_multilingual_v2",
+    "prompt": "[awe] A estátua era tão alta que parecia tocar as nuvens. E todo o reino recebeu uma ordem do rei.",
+    "tts_model": "eleven_v3",
     "voice_id": "gkqqIm2zTUUewCkNIkTF",
     "voice_type": "elevenlabs"
   }

@@ -1,14 +1,14 @@
 {
   "dependencies": [],
-  "fingerprint": "4648da55c24fe0894081b4d24972ba7bdd28d0c74e434543bbbe247108b8a3f4",
-  "kind": "elevenlabs-audio:eleven_multilingual_v2",
-  "output_sha256": "9c909c96b2120a77d39a84af582a9449182c1556c956d20936c2efdbffd9bc6e",
-  "output_size": 86561,
+  "fingerprint": "0a1e8b27f19471fba8a85423447df70e2ab822b86f89b203fa0269869dae0492",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "ab347cbc8ff839f71db14f8f15b2321ad5ff47dd4b08ee923b3e1814e3eda0dc",
+  "output_size": 86979,
   "schema": 1,
   "values": {
     "model": "elevenlabs",
-    "prompt": "É verdade que vocês não servem aos meus deuses? Vou dar a vocês uma última chance.",
-    "tts_model": "eleven_multilingual_v2",
+    "prompt": "[serious] É verdade que vocês não servem aos meus deuses? Vou dar a vocês uma última chance.",
+    "tts_model": "eleven_v3",
     "voice_id": "r8pRY97Q57nCIMtpOyWA",
     "voice_type": "elevenlabs"
   }

@@ -1,14 +1,14 @@
 {
   "dependencies": [],
-  "fingerprint": "f2b6b70aaf2b91701967f4fbf3c045b2470802f47215ad42b66e7c7740f0a04d",
-  "kind": "elevenlabs-audio:eleven_multilingual_v2",
-  "output_sha256": "44e39be03f9785b5c109ca8063fd19c327467cb2d1e24c6736947e65f0a8aa8b",
-  "output_size": 97846,
+  "fingerprint": "17255041689c63d3e389fad8fe306e29e86b5b9b68e2e4be000534b97d2669f6",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "a3014dd3c20981918b9a2a7f78f1d1071406a137a91120c13155bb38af129183",
+  "output_size": 81546,
   "schema": 1,
   "values": {
     "model": "elevenlabs",
-    "prompt": "Amarrados com cordas, os três amigos foram levados até a boca da fornalha ardente.",
-    "tts_model": "eleven_multilingual_v2",
+    "prompt": "[tense] Amarrados com cordas, os três amigos foram levados até a boca da fornalha ardente.",
+    "tts_model": "eleven_v3",
     "voice_id": "gkqqIm2zTUUewCkNIkTF",
     "voice_type": "elevenlabs"
   }

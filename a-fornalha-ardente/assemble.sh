@@ -131,7 +131,7 @@ if [[ -s audio/bgm.mp3 ]]; then
     -i build/sfx-full.wav \
     -filter_complex \
     "[0:a]volume=1.0,asplit=2[dialogue_mix][dialogue_key]; \
-     [1:a][dialogue_key]sidechaincompress=threshold=0.025:ratio=10:attack=15:release=500[ducked]; \
+     [1:a][dialogue_key]sidechaincompress=threshold=0.05:ratio=3:attack=25:release=700[ducked]; \
      [2:a]volume=${SFXVOL}[effects]; \
      [dialogue_mix][ducked][effects]amix=inputs=3:duration=first:normalize=0, \
      loudnorm=I=-14:TP=-1.5:LRA=9,alimiter=limit=${MASTER_LIMIT}[master]" \

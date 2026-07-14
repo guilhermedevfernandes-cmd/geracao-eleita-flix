@@ -1,14 +1,14 @@
 {
   "dependencies": [],
-  "fingerprint": "44b83df72b7206c544554e9bd3bfbaedda88d77552b7a914903fb1ba18e2ef7d",
-  "kind": "elevenlabs-audio:eleven_multilingual_v2",
-  "output_sha256": "f4d2f235be5cf0c8aa0e1d8947610833ad2fab97e1f7b94fd8f61b18ebd20f2f",
-  "output_size": 130447,
+  "fingerprint": "9b2a7fce2beec7cc9a5583ccf7f29cbc805c6803cbdc96f00dd5772aeb7c8590",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "b9cd5e578b4bae7e76a7978f991277e3fd92a370732b5dc0ad8bee66cefc3eef",
+  "output_size": 104951,
   "schema": 1,
   "values": {
     "model": "elevenlabs",
-    "prompt": "Dentro da fornalha, uma luz gloriosa caminhava com eles. Deus cuidava dos seus servos no meio do fogo.",
-    "tts_model": "eleven_multilingual_v2",
+    "prompt": "[awe] Dentro da fornalha, uma luz gloriosa caminhava com eles. Deus cuidava dos seus servos no meio do fogo.",
+    "tts_model": "eleven_v3",
     "voice_id": "gkqqIm2zTUUewCkNIkTF",
     "voice_type": "elevenlabs"
   }

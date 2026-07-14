@@ -27,7 +27,8 @@ from audio_contract import (
 
 
 API_BASE = os.environ.get("ELEVENLABS_API_BASE", "https://api.elevenlabs.io").rstrip("/")
-TTS_MODEL = os.environ.get("ELEVENLABS_TTS_MODEL", "eleven_multilingual_v2")
+# O modelo TTS vem do contrato para gerar e validar sempre em lockstep.
+TTS_MODEL = TTS_JOB_TYPE
 TRANSIENT_MARKERS = (
     "http 429",
     "http 500",
@@ -210,18 +211,23 @@ def with_retries(label: str, retries: int, fn) -> bytes:
 
 
 def generate_tts(text: str, voice_id: str) -> bytes:
+    if TTS_MODEL.startswith("eleven_v3"):
+        # v3 só aceita stability 0.0/0.5/1.0; outros settings deixam a fala forçada.
+        voice_settings: dict[str, Any] = {"stability": 1.0}
+    else:
+        voice_settings = {
+            "stability": 0.45,
+            "similarity_boost": 0.8,
+            "style": 0.15,
+            "use_speaker_boost": True,
+        }
     return request_bytes(
         "POST",
         f"/v1/text-to-speech/{voice_id}",
         {
             "text": text,
             "model_id": TTS_MODEL,
-            "voice_settings": {
-                "stability": 0.45,
-                "similarity_boost": 0.8,
-                "style": 0.15,
-                "use_speaker_boost": True,
-            },
+            "voice_settings": voice_settings,
         },
         accept="audio/mpeg",
     )

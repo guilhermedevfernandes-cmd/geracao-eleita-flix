@@ -3,12 +3,12 @@
 Escute cada arquivo com fones. Aprove somente pronúncia e sotaque naturais do português brasileiro.
 Se soar português de Portugal, robótico ou inconsistente, troque o voice_id e gere novamente.
 
-- [ ] **Narrador** (`narrator`) — `narrator.mp3` — voice_id `gkqqIm2zTUUewCkNIkTF` — amostra `0a3bbb096b588fdc94bd8faa9817ad5ab215c6c43bb48290b00042df43ea00b8`
-- [ ] **Rei Nabucodonosor** (`rei`) — `rei.mp3` — voice_id `r8pRY97Q57nCIMtpOyWA` — amostra `3aa9d3212fc9357b048bdf311a1110b1a5eb2ed23b8c2fc7721a55651224ec72`
-- [ ] **Sadraque** (`sadraque`) — `sadraque.mp3` — voice_id `NHphTvFqgs01MNV8q4Gn` — amostra `41d94e961689dd234e198a9dbc90d439d346e68594c0728cc2aa536c2694444f`
-- [ ] **Mesaque** (`mesaque`) — `mesaque.mp3` — voice_id `5ALQoVCeBkwZZplFpKkO` — amostra `3ef721bed7f5e5cfdef445cbb47a70e8a279dbe6b01dfd3f61cb92bd531e1d02`
-- [ ] **Abednego** (`abednego`) — `abednego.mp3` — voice_id `S6JRAR6bdDn0imFzAhjA` — amostra `14b62f16fc47a8d09146520f3862bd3f49a3de7f9c80dbd2e22cb80d0c2ac8e0`
-- [ ] **Capitão da Guarda** (`guarda`) — `guarda.mp3` — voice_id `JtRtm0OrgcgUP6oMWQgc` — amostra `150ecfc5aacbe0942df90aeda963aca227b32341174efdcbb5b237902ea53d73`
+- [ ] **Narrador** (`narrator`) — `narrator.mp3` — voice_id `gkqqIm2zTUUewCkNIkTF` — amostra `284ed4d06ceb05fbc740435102f8d683b423b684aaafc89d7eb6b6e2b7ef466d`
+- [ ] **Rei Nabucodonosor** (`rei`) — `rei.mp3` — voice_id `r8pRY97Q57nCIMtpOyWA` — amostra `24d4e82d6f9c2ea4d0c95a64b8be9bb7c37fe2ac69a0044c36cc0ec07018d7db`
+- [ ] **Sadraque** (`sadraque`) — `sadraque.mp3` — voice_id `NHphTvFqgs01MNV8q4Gn` — amostra `84843a1a6a7350dd66b020b16b4dc3311a5467a2103e1349bca568732c0e10c8`
+- [ ] **Mesaque** (`mesaque`) — `mesaque.mp3` — voice_id `5ALQoVCeBkwZZplFpKkO` — amostra `fa1ece751ee4e2a15e1fd764f1fb7267785073436e4b61a1a020427a5d4c7d3f`
+- [ ] **Abednego** (`abednego`) — `abednego.mp3` — voice_id `S6JRAR6bdDn0imFzAhjA` — amostra `eb37e9d0d0600035b8d5018001c87ac0dc33cad09ca8b21e95d33920e3c2fb1a`
+- [ ] **Capitão da Guarda** (`guarda`) — `guarda.mp3` — voice_id `JtRtm0OrgcgUP6oMWQgc` — amostra `2f39802bea9ef5edffe3eb432bacdbfb97eb7e03701cdc15c73645f339de6ef7`
 
 Depois de ouvir:
 

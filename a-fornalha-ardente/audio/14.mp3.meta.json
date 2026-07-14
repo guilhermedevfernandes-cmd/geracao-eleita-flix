@@ -1,14 +1,14 @@
 {
   "dependencies": [],
-  "fingerprint": "ad209a9cc6203abb7fe889a2d4b33a3d3fa94f36c5d31ca7cb6bedfd77ec296f",
-  "kind": "elevenlabs-audio:eleven_multilingual_v2",
-  "output_sha256": "a02180fe2f6c775b59c011bd8fb049cf3f372915feca7b34618816a710db854f",
-  "output_size": 59812,
+  "fingerprint": "7cbd314eff13c457865306e74bd1ff255c657bfc9c02e24f5b325562285d0b8d",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "5fa0605f2729db2aa44f82932b2d081c8849a13fc06c19e80ab946a8df2de31a",
+  "output_size": 61066,
   "schema": 1,
   "values": {
     "model": "elevenlabs",
-    "prompt": "O quê? Tragam esses homens diante de mim agora mesmo!",
-    "tts_model": "eleven_multilingual_v2",
+    "prompt": "[angry] O quê? Tragam esses homens diante de mim agora mesmo!",
+    "tts_model": "eleven_v3",
     "voice_id": "r8pRY97Q57nCIMtpOyWA",
     "voice_type": "elevenlabs"
   }

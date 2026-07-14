@@ -155,6 +155,20 @@ trio da fornalha nos `assets/*.higgsfield.json`.
   O STT scribe NÃO detecta esse erro (corrige pelo contexto) — conferir DE OUVIDO.
 - Nunca regravar segmento já aprovado sem necessidade (cada geração é loteria de prosódia).
 
+**Eleven v3 na linha madura (pipeline zsh de `a-fornalha-ardente` — migrado em 2026-07-14):**
+- O modelo vem de `TTS_JOB_TYPE` em `_pipeline/audio_contract.py` (geração e validação em
+  lockstep); `elevenlabs_audio.py` manda `voice_settings {stability: 1.0}` quando o modelo
+  é v3. Tags de expressão vão NO texto de `scenes.tsv` (ex.: `[warm] Na grande Babilônia...`);
+  `episode_pipeline.py` as ignora na contagem de palavras e na detecção de idioma (`spoken_text`).
+- **v3 fala mais rápido que o v2**: ritmo real medido ≈ **161 wpm** (v2 ≈ 138). Ao migrar um
+  episódio, a duração real cai ~10%; compensar aumentando os `hold` (respiro que também deixa
+  o BGM aparecer) e alinhar `WORDS_PER_MINUTE` (meta.env + POLICY_INTEGERS do pipeline local).
+- Trocar narração invalida em cascata: voice-tests (re-ouvir + re-aprovar), roteiro
+  (make-roteiro + approve-script), SFX (duração por cena no fingerprint) e BGM (duração total
+  no fingerprint) — regenerar tudo ANTES do assemble.
+- Ducking do BGM no `assemble.sh`: `sidechaincompress threshold=0.05:ratio=3:attack=25:release=700`.
+  O antigo `ratio=10:threshold=0.025` esmagava a música até ficar inaudível sob narração contínua.
+
 **SFX:** `POST /v1/sound-generation`. **Novos a cada episódio** (reaproveitar só 1-2
 genéricos, ex.: passarinho — "precisamos inovar"). Chuva/ambientes saem MUITO baixos
 (~-48dB): aplicar ganho ×4 na mixagem. **NUNCA usar sininhos/twinkle/guizos** (o usuário

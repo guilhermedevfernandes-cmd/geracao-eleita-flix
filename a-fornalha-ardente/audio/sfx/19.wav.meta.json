@@ -1,12 +1,12 @@
 {
   "dependencies": [],
-  "fingerprint": "1da0d364097f27dbd8ba8e7f1b74f9a5426532f71deffc46d5507e433ba0fa20",
+  "fingerprint": "14db7bf66895b1131e2528433fe2d9f3e4b61ab7eaa6112027d19f4f0e5c969b",
   "kind": "elevenlabs-audio:sound_generation",
-  "output_sha256": "6608018889011d6f1c8e2989fa590134cb3ea5ca7c331598a37c63849c5ce46b",
-  "output_size": 829518,
+  "output_sha256": "9549b03a9aa5d9e9d53b163ac8ab9b4a517fdc7d7a450dbc5a13aadccc36a64e",
+  "output_size": 1067598,
   "schema": 1,
   "values": {
-    "duration": "4.32",
+    "duration": "5.58",
     "prompt": "hushed hall, single deep drum, flame whisper. Scene context: desafio. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
   }
 }

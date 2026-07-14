@@ -1,14 +1,14 @@
 {
   "dependencies": [],
-  "fingerprint": "7766702d237e35e4556bef236dee6ca9be0598d20a85cb164f694a93030b210d",
-  "kind": "elevenlabs-audio:eleven_multilingual_v2",
-  "output_sha256": "4e6c45d32a01c004c6f1e00cf5fe7feff851849d9bcb4c07ab470c30bd4d65e8",
-  "output_size": 84889,
+  "fingerprint": "f3706aebaff4cfb9cf8f6b218ed0f669c81c188092575fa9545f3f2f6af11403",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "35bef9af5d7ac130f7dca872513e3050ba8b4bab9536601e4bf4034ba9cbbe9f",
+  "output_size": 86979,
   "schema": 1,
   "values": {
     "model": "elevenlabs",
-    "prompt": "Vocês três, venham comigo! O rei precisa saber que vocês não obedeceram à ordem dele.",
-    "tts_model": "eleven_multilingual_v2",
+    "prompt": "[serious] Vocês três, venham comigo! O rei precisa saber que vocês não obedeceram à ordem dele.",
+    "tts_model": "eleven_v3",
     "voice_id": "JtRtm0OrgcgUP6oMWQgc",
     "voice_type": "elevenlabs"
   }

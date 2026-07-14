@@ -1,14 +1,14 @@
 {
   "dependencies": [],
-  "fingerprint": "bdcf22f2d712881219eb653944a6cc87e9b242f5e184020ca560d4c802453fe0",
-  "kind": "elevenlabs-audio:eleven_multilingual_v2",
-  "output_sha256": "c8a3fe7701f24c9d214430c8cee874f407811625c32a63936985bb885f2897f0",
-  "output_size": 104533,
+  "fingerprint": "a6206d7780113423f5a98af4b08e410998ad8ffeb983e21d7f503b5c09226291",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "fabfe3b20062e9cfdf98d2d8d8bf54d1643c98882ecbe2b77b578455a09dc974",
+  "output_size": 93248,
   "schema": 1,
   "values": {
     "model": "elevenlabs",
-    "prompt": "Ó rei, estes três jovens não adoram os seus deuses e não se curvaram diante da estátua.",
-    "tts_model": "eleven_multilingual_v2",
+    "prompt": "[serious] Ó rei, estes três jovens não adoram os seus deuses e não se curvaram diante da estátua.",
+    "tts_model": "eleven_v3",
     "voice_id": "JtRtm0OrgcgUP6oMWQgc",
     "voice_type": "elevenlabs"
   }

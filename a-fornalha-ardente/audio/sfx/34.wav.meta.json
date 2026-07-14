@@ -1,12 +1,12 @@
 {
   "dependencies": [],
-  "fingerprint": "5ccf9d5e6b9622c2d6b05ebcca5c1c7a94ad013f2c2fd91d220d2cf3f7e0c0c6",
+  "fingerprint": "9b4cd55654caec80e33cdad76f1994a6da8edba759bfc189e4169f3b00d5864e",
   "kind": "elevenlabs-audio:sound_generation",
-  "output_sha256": "efaedef5da880f6fe611e2fffe11b3a0d5418b8725a5097e8595b7b3a75210cb",
-  "output_size": 1520718,
+  "output_sha256": "a057e5ca67ed49d99380cf625060d78ff4f4cac4f71a6ae5e2f12614ca496b0d",
+  "output_size": 1505358,
   "schema": 1,
   "values": {
-    "duration": "7.96",
+    "duration": "7.86",
     "prompt": "night wind, distant celebration drums, low city hum. Scene context: resposta. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
   }
 }

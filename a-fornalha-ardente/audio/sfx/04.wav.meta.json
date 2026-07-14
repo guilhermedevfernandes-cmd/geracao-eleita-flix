@@ -1,12 +1,12 @@
 {
   "dependencies": [],
-  "fingerprint": "31c4dfbb8f9202cc1e780ce82de3eef3f674ddc03671ccf2bb408a7adc164964",
+  "fingerprint": "1bed5e270c746bc9a295c139f0d57ca643a67ace732274217a22b531e0b6cac0",
   "kind": "elevenlabs-audio:sound_generation",
-  "output_sha256": "a5444aff5d00b51328e37c0a899986ef65c10d0f4a98708932ae89bb5b98e31f",
-  "output_size": 1935438,
+  "output_sha256": "0fa1c4f51351ec7fb8feef248cbe4ad652a3d916de9eba048581e610f5c4e55b",
+  "output_size": 1958478,
   "schema": 1,
   "values": {
-    "duration": "10.08",
+    "duration": "10.22",
     "prompt": "market chatter, footsteps on dust, fabric rustle. Scene context: mundo. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
   }
 }

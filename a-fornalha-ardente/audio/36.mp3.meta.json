@@ -1,14 +1,14 @@
 {
   "dependencies": [],
-  "fingerprint": "86abd08a4091a217ce3343b4317b9691d6c8886bb6a12bb8d5dc182701c6912c",
-  "kind": "elevenlabs-audio:eleven_multilingual_v2",
-  "output_sha256": "768595a20535eb142bd43bb1c89a3935b55a1d6735ccd9216992af476b61958c",
-  "output_size": 94084,
+  "fingerprint": "a3ef2825bc15828445fcfe322ec732362417ad03e2a51d4681ca3f9ed5e2ee47",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "2972982232e05badd4e7a1ed6d14ea3f0fb32ba283563171f24101408fbf0339",
+  "output_size": 86979,
   "schema": 1,
   "values": {
     "model": "elevenlabs",
-    "prompt": "Os três amigos continuaram servindo a Deus na Babilônia, com coragem e alegria no coração.",
-    "tts_model": "eleven_multilingual_v2",
+    "prompt": "[warm] Os três amigos continuaram servindo a Deus na Babilônia, com coragem e alegria no coração.",
+    "tts_model": "eleven_v3",
     "voice_id": "gkqqIm2zTUUewCkNIkTF",
     "voice_type": "elevenlabs"
   }

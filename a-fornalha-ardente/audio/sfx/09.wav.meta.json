@@ -1,12 +1,12 @@
 {
   "dependencies": [],
-  "fingerprint": "4e344129f495ae043a4406891148dbd05c4fc9208e90ad07c0e1be4c7d9a3c50",
+  "fingerprint": "050a8109db92c7943ff3f6dc4d1e177bc5b0bbc6d2855009c046cbd8517d8b6c",
   "kind": "elevenlabs-audio:sound_generation",
-  "output_sha256": "5aa28800a697bb2ac575ee6b7b6e0b5c604b34cd7b8072f79bd17973c79edd6f",
-  "output_size": 1528398,
+  "output_sha256": "31c0d50cd7de9fd3415487d5ae521a0ad43db82d7cf755f9c7081b38b74abdf9",
+  "output_size": 1474638,
   "schema": 1,
   "values": {
-    "duration": "7.97",
+    "duration": "7.72",
     "prompt": "distant layered horns and harps, wind, deep drum pulses. Scene context: decreto. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
   }
 }

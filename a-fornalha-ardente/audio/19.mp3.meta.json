@@ -1,14 +1,14 @@
 {
   "dependencies": [],
-  "fingerprint": "3646fbb3e33bebd3cfa786230154c0337030e0318e7c0f6639569cea8fc610c2",
-  "kind": "elevenlabs-audio:eleven_multilingual_v2",
-  "output_sha256": "af715eccad8442259d087c56f9d786d4c6fe216c051a7427c8280c9ac53bff89",
-  "output_size": 58976,
+  "fingerprint": "5bb1972c0edbe23cf51068c6134684df550dfa9adce1ec51b2c65abdb9a2ecf6",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "5487fa51e1d0adf8a855be8a0e4466bea91ea1cd63911efa6252fd585732dca7",
+  "output_size": 66499,
   "schema": 1,
   "values": {
     "model": "elevenlabs",
-    "prompt": "Mas, mesmo que Ele não nos livre, nós nunca vamos adorar a estátua de ouro.",
-    "tts_model": "eleven_multilingual_v2",
+    "prompt": "[determined] Mas, mesmo que Ele não nos livre, nós nunca vamos adorar a estátua de ouro.",
+    "tts_model": "eleven_v3",
     "voice_id": "S6JRAR6bdDn0imFzAhjA",
     "voice_type": "elevenlabs"
   }

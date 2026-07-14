@@ -1,14 +1,14 @@
 {
   "dependencies": [],
-  "fingerprint": "501183453f2f032f9b88af126dd81aade2c1bfd47040a2bb28a6500a3d1f5b52",
-  "kind": "elevenlabs-audio:eleven_multilingual_v2",
-  "output_sha256": "5c80f81d83644be8f55a49436d6d27dbe016e6e02e04f75aec71323ab99c08ec",
-  "output_size": 94084,
+  "fingerprint": "0834e8e2448d6b2da0f787dd6998ec60400ca5203cb31f42bd62a1144b86348e",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "f1e8564716c4291baabf452f6d35bd7b4516fdcd47c1046bae9b0a8741349b0e",
+  "output_size": 107459,
   "schema": 1,
   "values": {
     "model": "elevenlabs",
-    "prompt": "Deus cuidou de nós até aqui. Em tudo o que fizermos, vamos honrar somente a Ele.",
-    "tts_model": "eleven_multilingual_v2",
+    "prompt": "[calm] Deus cuidou de nós até aqui. Em tudo o que fizermos, vamos honrar somente a Ele.",
+    "tts_model": "eleven_v3",
     "voice_id": "NHphTvFqgs01MNV8q4Gn",
     "voice_type": "elevenlabs"
   }

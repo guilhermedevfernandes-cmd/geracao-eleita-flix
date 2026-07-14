@@ -1,12 +1,12 @@
 {
   "dependencies": [],
-  "fingerprint": "b731b2703ea37ab07d4b215fe1b0886228b40cae0bf6246b1a75245e2dd7e060",
+  "fingerprint": "1108ee2a0184b3c172c1bf537d504a0bf4fbbfd0b329213f807f3abbc02536a4",
   "kind": "elevenlabs-audio:sound_generation",
-  "output_sha256": "866012a1bc5173cb4f5f9e193da8d99d85566011fd3f6668d9bacff73e4dd782",
-  "output_size": 1390158,
+  "output_sha256": "ee0a036f3a9d9ef89756114023650ec211493afb5e5ca5a2e6228a5eea4c540b",
+  "output_size": 1589838,
   "schema": 1,
   "values": {
-    "duration": "7.26",
+    "duration": "8.32",
     "prompt": "high wind, distant banners flapping, deep resonant hum. Scene context: gancho. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
   }
 }

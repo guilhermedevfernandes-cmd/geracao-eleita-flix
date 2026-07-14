@@ -1,12 +1,12 @@
 {
   "dependencies": [],
-  "fingerprint": "8bc504d10adff23ed97ed51b4e30a861c5920064142d3a075678bbafc7aa62a7",
+  "fingerprint": "c91db3c3b4fa313b03727597fc9b602236a4d6a5ff8edf43bc6e183c15fe28ed",
   "kind": "elevenlabs-audio:sound_generation",
-  "output_sha256": "b07efbd8741b5d685fac99d2ad7e4fadc8e94b29bcb48a99cfe7428b10ce20a3",
-  "output_size": 1321038,
+  "output_sha256": "c4c37a83cfc306d1a6a728ced66c7486f35bfdbb4b8369b09deeb64371545425",
+  "output_size": 1213518,
   "schema": 1,
   "values": {
-    "duration": "6.88",
+    "duration": "6.32",
     "prompt": "fire fading behind, slow footsteps, wondering gasps. Scene context: livramento. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
   }
 }

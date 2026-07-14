@@ -1,12 +1,12 @@
 {
   "dependencies": [],
-  "fingerprint": "330b9821ea361e1090fd0ddacb50750aafc24ebbeaa8b0853003d7bfa6b04b1d",
+  "fingerprint": "d209ed1682b0b9478908ba5c3a4dfd267226d5229f22a6fab20a86c4c89ebe5c",
   "kind": "elevenlabs-audio:sound_generation",
-  "output_sha256": "48786722bd7b40024d7bf15396630ff9ad897a9f826f8fddf2db1f05ffeff9e8",
-  "output_size": 1013838,
+  "output_sha256": "4594b6e87c73db8e1b246f78007ab137595b3d5d648fa534a87fb76db1749216",
+  "output_size": 1082958,
   "schema": 1,
   "values": {
-    "duration": "5.30",
+    "duration": "5.66",
     "prompt": "sudden hush, distant fire, sharp intake of breath. Scene context: livramento. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
   }
 }

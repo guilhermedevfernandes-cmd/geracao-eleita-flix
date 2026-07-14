@@ -1,12 +1,12 @@
 {
   "dependencies": [],
-  "fingerprint": "874f0f707d7dbc1c88502c45ea3bfb33487e5d4e3ce7792e2e08a6e902047b38",
+  "fingerprint": "b267dc8866a73b83506af8d69cb116990a260a7a3861949b5277ca476b55bb1a",
   "kind": "elevenlabs-audio:sound_generation",
-  "output_sha256": "dc74fcc6ca06ab4d2f8dfea1aea8cfad75646086cfa5c373c6b1fbac336cf4f6",
-  "output_size": 1259598,
+  "output_sha256": "b5e6e502fe9c941502925042c29f210369b98dfa7c04a9e12723b36cddae962c",
+  "output_size": 1390158,
   "schema": 1,
   "values": {
-    "duration": "6.60",
+    "duration": "7.26",
     "prompt": "night crickets, torch crackle, soft royal drums. Scene context: resposta. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
   }
 }

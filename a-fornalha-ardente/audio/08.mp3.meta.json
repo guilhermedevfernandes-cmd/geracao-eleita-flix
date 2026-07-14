@@ -1,14 +1,14 @@
 {
   "dependencies": [],
-  "fingerprint": "0fc5911247164fa6024a1f1bd7f6af0d05681a6a50a4de7f5b70f425f57866fa",
-  "kind": "elevenlabs-audio:eleven_multilingual_v2",
-  "output_sha256": "00f7693e1cd88d0feb0dc923932af8f56c92d9d35983a0952c1b40e520cb463f",
-  "output_size": 152599,
+  "fingerprint": "bb10c1bfe3e361a2fe490da36f08c7d12cc7c3ea8489583656a2635c2b6ecf78",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "0ae76b150e38653b7a86cb8a6d78239f697b18deca711dc07a77faa43adc270c",
+  "output_size": 112475,
   "schema": 1,
   "values": {
     "model": "elevenlabs",
-    "prompt": "Trombetas, harpas, flautas e tambores ficaram prontos. Ao primeiro som, todos deveriam se ajoelhar no chão.",
-    "tts_model": "eleven_multilingual_v2",
+    "prompt": "[calm] Trombetas, harpas, flautas e tambores ficaram prontos. Ao primeiro som, todos deveriam se ajoelhar no chão.",
+    "tts_model": "eleven_v3",
     "voice_id": "gkqqIm2zTUUewCkNIkTF",
     "voice_type": "elevenlabs"
   }

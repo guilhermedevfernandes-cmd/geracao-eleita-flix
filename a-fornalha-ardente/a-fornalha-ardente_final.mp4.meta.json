@@ -3,7 +3,7 @@
     {
       "filename": "meta.env",
       "label": "meta",
-      "sha256": "202ab84af9c0e9aeea73d3fe2525b80a9db521751a58b4de168cfd7a005cfff5"
+      "sha256": "7f286a44a063a7295650a21ad974da1fb5edb2db301a4db9efc767b2427d8025"
     },
     {
       "filename": "characters.tsv",
@@ -13,7 +13,7 @@
     {
       "filename": "scenes.tsv",
       "label": "scenes",
-      "sha256": "f1d3c3397323e7dd1881a6a9a0b096fa227a8a88454d09ad27da0ff8172c97c2"
+      "sha256": "17d4371924daf44b1140a936eba5135ba5426f6e6d279ff8db48461fc35c6fb8"
     },
     {
       "filename": "PRODUCTION-BRIEF.md",
@@ -23,17 +23,17 @@
     {
       "filename": "roteiro.md",
       "label": "roteiro",
-      "sha256": "534476a88acb4762e7370b6aed4f1d7702e00f4059c0c03b518fc88a5f9b2f74"
+      "sha256": "fb8169c543dd3716b41070bd6577267475299752b7c08e280f0cbab161c23f6e"
     },
     {
       "filename": "script.json",
       "label": "script-approval",
-      "sha256": "620184571dd2cdcca92b30b229987b04518aef88bbd6130660b0a85b5df14cd4"
+      "sha256": "e77a6f38f83562d70701e380c593ad827d913e77fbb6003756a2eef6b435368f"
     },
     {
       "filename": "approvals.json",
       "label": "voice-approvals",
-      "sha256": "2b56c21a266accdd88809c69254fc86969aa43fa193b3542ef04f5132915753a"
+      "sha256": "7d7804cfe269406e5f7576f119f58d2107f3a81ff3ab8892375f9dd8cd77ec76"
     },
     {
       "filename": "visual.json",
@@ -78,12 +78,12 @@
     {
       "filename": "01.mp3",
       "label": "dialogue-01",
-      "sha256": "f7dcffdd411a7ad1f8715feb65cb501373822f23407cfa5e15de322157bf30f4"
+      "sha256": "467dccf8d034d3120839b4a46154f7fdaa726ce876fdcb786ab65a1eff789a6d"
     },
     {
       "filename": "01.wav",
       "label": "sfx-01",
-      "sha256": "aca6b22e63c0fbd5949fbdc49290ac494812721f2f05846a00ec2fb35d76636a"
+      "sha256": "c7fdb748c11a25bd61c87cc03902b2eab75337c42037e53f6f926041633f0493"
     },
     {
       "filename": "02.png",
@@ -98,12 +98,12 @@
     {
       "filename": "02.mp3",
       "label": "dialogue-02",
-      "sha256": "2f5a7057b0c3543a984badab67c16665dbf27369326b6d282ce318f94e10b198"
+      "sha256": "0c1951cefcfb9b40e16c2c75c44e7b9ddf9fc3cd7c6d0a404884587d413e6518"
     },
     {
       "filename": "02.wav",
       "label": "sfx-02",
-      "sha256": "866012a1bc5173cb4f5f9e193da8d99d85566011fd3f6668d9bacff73e4dd782"
+      "sha256": "ee0a036f3a9d9ef89756114023650ec211493afb5e5ca5a2e6228a5eea4c540b"
     },
     {
       "filename": "03.png",
@@ -118,12 +118,12 @@
     {
       "filename": "03.mp3",
       "label": "dialogue-03",
-      "sha256": "d67d7221ce325963fcc0998c62a2349abc706653cfdbda23d60a70633f2a2423"
+      "sha256": "9d52392797d1aaf708da3547081fd7232e82187e59f0da65740dd117d8af8a45"
     },
     {
       "filename": "03.wav",
       "label": "sfx-03",
-      "sha256": "e39738fde786f8bfa08bb4fa77895e865f41b5a1a02e46bef7fe15295450e67e"
+      "sha256": "70c46e522485aff2e646db055a5a7098a7cdc39876dbbac0736118ebcde149db"
     },
     {
       "filename": "04.png",
@@ -138,12 +138,12 @@
     {
       "filename": "04.mp3",
       "label": "dialogue-04",
-      "sha256": "6ec4354a256aa2a1bb1403dfce87f85243da95129e41915ea49990bcf0440370"
+      "sha256": "223659b53c7f8f9833e1ace0087198a3657d0154b87258ed2c235365159a9359"
     },
     {
       "filename": "04.wav",
       "label": "sfx-04",
-      "sha256": "a5444aff5d00b51328e37c0a899986ef65c10d0f4a98708932ae89bb5b98e31f"
+      "sha256": "0fa1c4f51351ec7fb8feef248cbe4ad652a3d916de9eba048581e610f5c4e55b"
     },
     {
       "filename": "05.png",
@@ -158,12 +158,12 @@
     {
       "filename": "05.mp3",
       "label": "dialogue-05",
-      "sha256": "5c80f81d83644be8f55a49436d6d27dbe016e6e02e04f75aec71323ab99c08ec"
+      "sha256": "f1e8564716c4291baabf452f6d35bd7b4516fdcd47c1046bae9b0a8741349b0e"
     },
     {
       "filename": "05.wav",
       "label": "sfx-05",
-      "sha256": "d70c834a3ade370bde667bf55b59d56cb8a833acae68dbc2147d994fca3b2c59"
+      "sha256": "de943bdaedf6e4df0668adfa377bbd374e8ae41223acde87549aa77599b61fb6"
     },
     {
       "filename": "06.png",
@@ -178,12 +178,12 @@
     {
       "filename": "06.mp3",
       "label": "dialogue-06",
-      "sha256": "e2016fa8e7df8587cc0004034cbdce2ba7f09b8a84864a89508c18570ea00538"
+      "sha256": "9701e17a1352b55edde49b4730ed4632e9e35aba33dfa56d3f56d760d1bfe27c"
     },
     {
       "filename": "06.wav",
       "label": "sfx-06",
-      "sha256": "41d5d1ae2ab1b407469aafa42c174c2cc7889dfe99a782b62baee83e8c108389"
+      "sha256": "dfac26871657fe3eec3d50f0285cfb685f98ec8238fd9f6d7dc2dd4d0b82cf95"
     },
     {
       "filename": "07.png",
@@ -198,12 +198,12 @@
     {
       "filename": "07.mp3",
       "label": "dialogue-07",
-      "sha256": "30f6783a045b4dbc71a0acf8a6ea182cfb898b81143bb2a245c0873651333021"
+      "sha256": "657ed7398d110e3ed08b48d5701d75a4b369d8fe7e1047789106d38bcf378f40"
     },
     {
       "filename": "07.wav",
       "label": "sfx-07",
-      "sha256": "42c394c900eb41565033c7b5ba142848604d14afd9645c9a8bf4912b2f71357b"
+      "sha256": "b54073e725acf6f27c3332534885baa0b705317d759e22934f971be7f4a23da8"
     },
     {
       "filename": "08.png",
@@ -218,12 +218,12 @@
     {
       "filename": "08.mp3",
       "label": "dialogue-08",
-      "sha256": "00f7693e1cd88d0feb0dc923932af8f56c92d9d35983a0952c1b40e520cb463f"
+      "sha256": "0ae76b150e38653b7a86cb8a6d78239f697b18deca711dc07a77faa43adc270c"
     },
     {
       "filename": "08.wav",
       "label": "sfx-08",
-      "sha256": "51e7022ce69d6bf6800594615cf57ec2e47cd9e85a3767f61c6c105b60569ada"
+      "sha256": "e6bf7ba7e1085958f03058c1952d7885fcb620dcf1148526e43cabb8a87a6236"
     },
     {
       "filename": "09.png",
@@ -238,12 +238,12 @@
     {
       "filename": "09.mp3",
       "label": "dialogue-09",
-      "sha256": "579f21b5b939e4e78b187684c1e834e73936e1e1818c5c485c730b472de922b4"
+      "sha256": "cd7a4700775c867c8b2018ed1cd7bfdc8d1942bcdd6f7c170d4333c975be7f78"
     },
     {
       "filename": "09.wav",
       "label": "sfx-09",
-      "sha256": "5aa28800a697bb2ac575ee6b7b6e0b5c604b34cd7b8072f79bd17973c79edd6f"
+      "sha256": "31c0d50cd7de9fd3415487d5ae521a0ad43db82d7cf755f9c7081b38b74abdf9"
     },
     {
       "filename": "10.png",
@@ -258,12 +258,12 @@
     {
       "filename": "10.mp3",
       "label": "dialogue-10",
-      "sha256": "a5d33c1f24e419f137d1cb4d4ca7b0e6feeb8673313bd2fc4d294ce46f5691fb"
+      "sha256": "b003890a038519d32f79829718da69350bdc4aae2a53db0981ddf44b83238a80"
     },
     {
       "filename": "10.wav",
       "label": "sfx-10",
-      "sha256": "89eae3e902a8ea157e5d26ca1905d1325387f6751332c959e738a8f5f6db3be8"
+      "sha256": "e34fafd6ba81754446a1208435fd5d00705674002b4a476d2ca93aa872dc4958"
     },
     {
       "filename": "11.png",
@@ -278,12 +278,12 @@
     {
       "filename": "11.mp3",
       "label": "dialogue-11",
-      "sha256": "1ce10d9652c8337eaf880be9c1881c8b8f41933d50dcc914ef763fc662dc7259"
+      "sha256": "b593d889cb0087d6f64899e56ca6cf9538d2009b6c462562ffd524037110d8ac"
     },
     {
       "filename": "11.wav",
       "label": "sfx-11",
-      "sha256": "6350a79ac8aa3945e0a559c54ea5f1ece6cc665a825aa1b3c189f6437ed3465b"
+      "sha256": "e0cec688ae8429eb8e2d223032c2dfec7486be833ce6eec41330cc825a739367"
     },
     {
       "filename": "12.png",
@@ -298,12 +298,12 @@
     {
       "filename": "12.mp3",
       "label": "dialogue-12",
-      "sha256": "4e6c45d32a01c004c6f1e00cf5fe7feff851849d9bcb4c07ab470c30bd4d65e8"
+      "sha256": "35bef9af5d7ac130f7dca872513e3050ba8b4bab9536601e4bf4034ba9cbbe9f"
     },
     {
       "filename": "12.wav",
       "label": "sfx-12",
-      "sha256": "fc3d9c649a398f57ccc482ab761b491a9973402b67a684bac8d530829df4c76a"
+      "sha256": "9b36c8484d586efdf06dbf19a004540bd038675c52d34df73eaa39c9dbf18347"
     },
     {
       "filename": "13.png",
@@ -318,12 +318,12 @@
     {
       "filename": "13.mp3",
       "label": "dialogue-13",
-      "sha256": "c8a3fe7701f24c9d214430c8cee874f407811625c32a63936985bb885f2897f0"
+      "sha256": "fabfe3b20062e9cfdf98d2d8d8bf54d1643c98882ecbe2b77b578455a09dc974"
     },
     {
       "filename": "13.wav",
       "label": "sfx-13",
-      "sha256": "4563f334fe3b55fb9227c1a4f1fdb9e4ba5443649f93351004a19c8465fe4181"
+      "sha256": "38f74bf9dc8b99f124c2136e436f7b83b8cd803cfda86d5543d2991ea31caa06"
     },
     {
       "filename": "14.png",
@@ -338,12 +338,12 @@
     {
       "filename": "14.mp3",
       "label": "dialogue-14",
-      "sha256": "a02180fe2f6c775b59c011bd8fb049cf3f372915feca7b34618816a710db854f"
+      "sha256": "5fa0605f2729db2aa44f82932b2d081c8849a13fc06c19e80ab946a8df2de31a"
     },
     {
       "filename": "14.wav",
       "label": "sfx-14",
-      "sha256": "a15dd0b27c2d2b2711ac7be74cc1bba7be3d7912708f0c0168f7dce65cf76451"
+      "sha256": "37d3701ba6cf56d683db5c47e1b3012ec8e3b35de80bca8dd63e2006b4b2a307"
     },
     {
       "filename": "15.png",
@@ -358,12 +358,12 @@
     {
       "filename": "15.mp3",
       "label": "dialogue-15",
-      "sha256": "9c909c96b2120a77d39a84af582a9449182c1556c956d20936c2efdbffd9bc6e"
+      "sha256": "ab347cbc8ff839f71db14f8f15b2321ad5ff47dd4b08ee923b3e1814e3eda0dc"
     },
     {
       "filename": "15.wav",
       "label": "sfx-15",
-      "sha256": "7bdb7809ada27b1e021ea499432a6b8ba7eeb47a5dbf38274a153c6377bac7b5"
+      "sha256": "89cd79738c9d0e2e9bcb479b5f4bb4df61b6b0cac083f3a0000adae355b7b7a5"
     },
     {
       "filename": "16.png",
@@ -378,12 +378,12 @@
     {
       "filename": "16.mp3",
       "label": "dialogue-16",
-      "sha256": "127acec375e0c5a505ae64b8b8e1a3f220a386ffdee10f841d8cc73b4257a900"
+      "sha256": "562c8d1dae8177a18a6776b875bf2a64f2a051ea389e79f84ae3bbbd5ca32b5a"
     },
     {
       "filename": "16.wav",
       "label": "sfx-16",
-      "sha256": "36b99fc186de99c327df253f70ff9bbaae588585a3431d042dcbb74590054fae"
+      "sha256": "d17523482df87c1d8567e87ac34e85197e567872b9d80fa75d68aa9a453489c4"
     },
     {
       "filename": "17.png",
@@ -398,12 +398,12 @@
     {
       "filename": "17.mp3",
       "label": "dialogue-17",
-      "sha256": "28eeb23d76f14670a1caab64d358e2ee3e6a589c63beee1fa483dccb11294fab"
+      "sha256": "561f11bb0ea08050729f80ec6d972bbba6bf13826aeb7422343d9110c5fd810f"
     },
     {
       "filename": "17.wav",
       "label": "sfx-17",
-      "sha256": "2944c1faa2004ffdb5a8037ef104d1c04bb87683ef7867d2fee4ef53fc38852f"
+      "sha256": "7a4728a50853755206e32a2bdcc9d2417c7ebeddd8aa7738c8755f2d71c25cca"
     },
     {
       "filename": "18.png",
@@ -418,12 +418,12 @@
     {
       "filename": "18.mp3",
       "label": "dialogue-18",
-      "sha256": "cd57fcdbf32538f11a5992fc71373d20b15f9281a647e55d86f1485deaccd8a3"
+      "sha256": "403e92c25a7feb19b59df5b921b12ecc2a5aaaed27c49703068b100c2df6f42b"
     },
     {
       "filename": "18.wav",
       "label": "sfx-18",
-      "sha256": "1ccba9e2f584b901b571cc608560e6438975c2ecbeadd22a0e6489bf8dd0d4f3"
+      "sha256": "9e2752518320ecfeeb816beb0b712f4e2e01966785482f82803980392acc7c7e"
     },
     {
       "filename": "19.png",
@@ -438,12 +438,12 @@
     {
       "filename": "19.mp3",
       "label": "dialogue-19",
-      "sha256": "af715eccad8442259d087c56f9d786d4c6fe216c051a7427c8280c9ac53bff89"
+      "sha256": "5487fa51e1d0adf8a855be8a0e4466bea91ea1cd63911efa6252fd585732dca7"
     },
     {
       "filename": "19.wav",
       "label": "sfx-19",
-      "sha256": "6608018889011d6f1c8e2989fa590134cb3ea5ca7c331598a37c63849c5ce46b"
+      "sha256": "9549b03a9aa5d9e9d53b163ac8ab9b4a517fdc7d7a450dbc5a13aadccc36a64e"
     },
     {
       "filename": "20.png",
@@ -458,12 +458,12 @@
     {
       "filename": "20.mp3",
       "label": "dialogue-20",
-      "sha256": "ed7caaad7c60d7e4928538d1158bf4e55901024fad192ea88cfb8bd3f28507a6"
+      "sha256": "fe2b74976d72e82e85e9a3e830b0030bd31e9e8a98018274a7fc9dd20e30dc45"
     },
     {
       "filename": "20.wav",
       "label": "sfx-20",
-      "sha256": "ce031f1e8f45394677f59aa4bf3f9538c7edd34ecf8c0b308b1857f45ed54dff"
+      "sha256": "5e62e3b39b85b4d662a49ed36ce70e1e70b432797afa9a6bda3b07ad081b9e1d"
     },
     {
       "filename": "21.png",
@@ -478,12 +478,12 @@
     {
       "filename": "21.mp3",
       "label": "dialogue-21",
-      "sha256": "ab0e683b9e01375fee888d2bf9f670183140ca8a42c5912f15713a6793813c3a"
+      "sha256": "383035156307355f5c537b0933d48ace71fd19374c0f01aa411c014299948f54"
     },
     {
       "filename": "21.wav",
       "label": "sfx-21",
-      "sha256": "034378a403c8fc29c7343e7efd25916940ba37820e220451530344602f264524"
+      "sha256": "5195f38ac9bfe3b9d2bd296e977ee649802f68ec4fb4b3e55a1c38a9a63c981c"
     },
     {
       "filename": "22.png",
@@ -498,12 +498,12 @@
     {
       "filename": "22.mp3",
       "label": "dialogue-22",
-      "sha256": "44e39be03f9785b5c109ca8063fd19c327467cb2d1e24c6736947e65f0a8aa8b"
+      "sha256": "a3014dd3c20981918b9a2a7f78f1d1071406a137a91120c13155bb38af129183"
     },
     {
       "filename": "22.wav",
       "label": "sfx-22",
-      "sha256": "da06c9eaf18bffd9c539e50f9aae13ecfa055e4ff68a3355d8af593ff2b59dde"
+      "sha256": "9eb89c65c672bbf0d235c8dc584b7cbaeeece2256ad339c71cc06d0516ca8405"
     },
     {
       "filename": "23.png",
@@ -518,12 +518,12 @@
     {
       "filename": "23.mp3",
       "label": "dialogue-23",
-      "sha256": "4e393371cd3de3208125aea29e38e1bf6af714a1d36b8de4b9f8c0ecf62c1909"
+      "sha256": "23445a6e29f8203ad4782fa18ba49da7dab5c04464a27aef4ff3b4cb3783172a"
     },
     {
       "filename": "23.wav",
       "label": "sfx-23",
-      "sha256": "c524117c3de0adbf1da86f4f4acf9b1e98c08f64e871091e2dca42b421d2fdd4"
+      "sha256": "ab7ba4895810052435f03eb659bcebc6d3d14e4837c8c1e1ae441f18b44b6914"
     },
     {
       "filename": "24.png",
@@ -538,12 +538,12 @@
     {
       "filename": "24.mp3",
       "label": "dialogue-24",
-      "sha256": "501b6dc5690f9a5caf3664e3722c0e5f492f53cf8500d3bda25d66fe58658fbc"
+      "sha256": "f42bd4ddada7e6c60ffddd37f24d20e655cf472f83393aa0ad00060ee53e81c5"
     },
     {
       "filename": "24.wav",
       "label": "sfx-24",
-      "sha256": "89d48636ba1432d76695f88bb1f761e11b662c3622e04280d6176789c27c4d63"
+      "sha256": "c1965ed3fb0b678d1690d289b0996ff8a1f845d3b0c7649d51ba93a81045f093"
     },
     {
       "filename": "25.png",
@@ -558,12 +558,12 @@
     {
       "filename": "25.mp3",
       "label": "dialogue-25",
-      "sha256": "35b8f94c6bf81d77daa21d04ddc640e409bd6599c681c37adf6f0aefa1eea33d"
+      "sha256": "68ef5dd70d56f07f55236767e495b5a55aad6c34f4fe59dedc32ef0dce49b8dd"
     },
     {
       "filename": "25.wav",
       "label": "sfx-25",
-      "sha256": "48786722bd7b40024d7bf15396630ff9ad897a9f826f8fddf2db1f05ffeff9e8"
+      "sha256": "4594b6e87c73db8e1b246f78007ab137595b3d5d648fa534a87fb76db1749216"
     },
     {
       "filename": "26.png",
@@ -578,12 +578,12 @@
     {
       "filename": "26.mp3",
       "label": "dialogue-26",
-      "sha256": "5cb955c5a2c80c97171362e7b14d3cdad2f8a5fccbc0ef660d9aac8a86a0688e"
+      "sha256": "9776769ebf32cd697c59f62e54cb3085792e95a9c39568b587c41adca9f258ec"
     },
     {
       "filename": "26.wav",
       "label": "sfx-26",
-      "sha256": "64dbe0a10e89c2c9afdaeafc7876aab2b5d31503c372f055cfa745bbac979ebe"
+      "sha256": "abdd43e86120d9c9560944c7c9250c765d1ce800bb07a65474278cf998f32373"
     },
     {
       "filename": "27.png",
@@ -598,12 +598,12 @@
     {
       "filename": "27.mp3",
       "label": "dialogue-27",
-      "sha256": "f4d2f235be5cf0c8aa0e1d8947610833ad2fab97e1f7b94fd8f61b18ebd20f2f"
+      "sha256": "b9cd5e578b4bae7e76a7978f991277e3fd92a370732b5dc0ad8bee66cefc3eef"
     },
     {
       "filename": "27.wav",
       "label": "sfx-27",
-      "sha256": "5cf06a202492f421fbd9cdff4acb4f70d7f16a350430c16b891457259291d495"
+      "sha256": "b4cbca40ac27baad8a0d44fc60b9a404c84134253b6aaf6c6cbcf0718e807326"
     },
     {
       "filename": "28.png",
@@ -618,12 +618,12 @@
     {
       "filename": "28.mp3",
       "label": "dialogue-28",
-      "sha256": "05aff4f24a4f20a916436cef8ce98e9580a658b0f514fe9c52a0eca5d9b027bd"
+      "sha256": "0cc5d47e0ae7245e9cd66543e0e2ea9e046ff8ce0b0382dc93ecdc4f1d01a3b0"
     },
     {
       "filename": "28.wav",
       "label": "sfx-28",
-      "sha256": "8a4ab383467964b3c37b00ee08c41602b1b69b08fdb5a298a49da89374136f96"
+      "sha256": "665af2b0774763fd2051c74d7f91a297cc9a80782ece17b3543c55b10d31dc56"
     },
     {
       "filename": "29.png",
@@ -638,12 +638,12 @@
     {
       "filename": "29.mp3",
       "label": "dialogue-29",
-      "sha256": "8a1e9fc237b82908ceb861312284946dd5a5da50219e1583d9a7462639e9e8b0"
+      "sha256": "2b6591fe5ff8c2e7e387164f98584b1f175e9b40ef8f317e853bc6fe56a11e94"
     },
     {
       "filename": "29.wav",
       "label": "sfx-29",
-      "sha256": "b07efbd8741b5d685fac99d2ad7e4fadc8e94b29bcb48a99cfe7428b10ce20a3"
+      "sha256": "c4c37a83cfc306d1a6a728ced66c7486f35bfdbb4b8369b09deeb64371545425"
     },
     {
       "filename": "30.png",
@@ -658,12 +658,12 @@
     {
       "filename": "30.mp3",
       "label": "dialogue-30",
-      "sha256": "5d2d3ea160a9fbf86561ae5aec01f7b6a5f7876ef91ee3e673cc5c6cc4eb09eb"
+      "sha256": "e962313706a25038ff4d753647cecb032ee974836298dc482288383b99d8cb92"
     },
     {
       "filename": "30.wav",
       "label": "sfx-30",
-      "sha256": "7bb0156cb765bf909e4a45fc3ab538f9fa58c5d3fb1332fe30560d03d6af4ff6"
+      "sha256": "29401849d86650609d52f75ebd34af11a3c55ab91f47ba8f3080f2a45388648d"
     },
     {
       "filename": "31.png",
@@ -678,12 +678,12 @@
     {
       "filename": "31.mp3",
       "label": "dialogue-31",
-      "sha256": "9a440d51ae2a7a28c5791763e1942a654be1c606c127b8eb179bf408129e531f"
+      "sha256": "ee86a792db665aee6b6b98d85aa5cd2cab12433e5d41d1248733beae2dfbb77a"
     },
     {
       "filename": "31.wav",
       "label": "sfx-31",
-      "sha256": "e4e038fb833a36391957c9918dae8ca0f50717f762514699162cb1393a227cab"
+      "sha256": "573bbd1e46eb08a2117bfadaae40b76ff55107bf14ee814a5bb1b0c0ba01b225"
     },
     {
       "filename": "32.png",
@@ -698,12 +698,12 @@
     {
       "filename": "32.mp3",
       "label": "dialogue-32",
-      "sha256": "e5d29dbc87bc4973ff15ff15f8319ecefe342c9134cd22cd1900daaa6af238c9"
+      "sha256": "81b9a1b4aac31717f623fe0e8586372efdd51a35847c41e8bffca38c884fcd27"
     },
     {
       "filename": "32.wav",
       "label": "sfx-32",
-      "sha256": "dc74fcc6ca06ab4d2f8dfea1aea8cfad75646086cfa5c373c6b1fbac336cf4f6"
+      "sha256": "b5e6e502fe9c941502925042c29f210369b98dfa7c04a9e12723b36cddae962c"
     },
     {
       "filename": "33.png",
@@ -718,12 +718,12 @@
     {
       "filename": "33.mp3",
       "label": "dialogue-33",
-      "sha256": "ec6207ff46093caa55e15376f2285ddeca2a095ef1aa65141466f6818d3fb325"
+      "sha256": "1005b44c8876d584b55443d2e9727f02910c2b91439bbace9220ac2c41e10075"
     },
     {
       "filename": "33.wav",
       "label": "sfx-33",
-      "sha256": "254b52fdab5ff99a623e3356b3f33f4e969adb6142f5ff360c40ec9ea753dc7c"
+      "sha256": "c244d7172517faf5209a4ddebc24aede5dc55c0986ba28fffc274e6b827a8932"
     },
     {
       "filename": "34.png",
@@ -738,12 +738,12 @@
     {
       "filename": "34.mp3",
       "label": "dialogue-34",
-      "sha256": "3d1822cddc6cc2fec321286172a8cc7fe23f323159d18b5f2c1f3fa23dfd81f4"
+      "sha256": "1cc012a0508ff86c53d09c63976e7914b3757c69aff6fce66696b136ffffca80"
     },
     {
       "filename": "34.wav",
       "label": "sfx-34",
-      "sha256": "efaedef5da880f6fe611e2fffe11b3a0d5418b8725a5097e8595b7b3a75210cb"
+      "sha256": "a057e5ca67ed49d99380cf625060d78ff4f4cac4f71a6ae5e2f12614ca496b0d"
     },
     {
       "filename": "35.png",
@@ -758,12 +758,12 @@
     {
       "filename": "35.mp3",
       "label": "dialogue-35",
-      "sha256": "3d9efb990e0a7950f46438599b1532c93c683054762772dbfc5c0a8aeea8b8a0"
+      "sha256": "d8f28bd9d2ce9a3591922a0015f041f74d36b6e132581d7a1d42020ed0810908"
     },
     {
       "filename": "35.wav",
       "label": "sfx-35",
-      "sha256": "f5c99f317163de06ca614014daa1420b64fad1132530ad32193e3a90b6aa5592"
+      "sha256": "cf7bc5761b670afd8de045398576479fa5a14b99c204c57da05f6a0ebaeb0b42"
     },
     {
       "filename": "36.png",
@@ -778,12 +778,12 @@
     {
       "filename": "36.mp3",
       "label": "dialogue-36",
-      "sha256": "768595a20535eb142bd43bb1c89a3935b55a1d6735ccd9216992af476b61958c"
+      "sha256": "2972982232e05badd4e7a1ed6d14ea3f0fb32ba283563171f24101408fbf0339"
     },
     {
       "filename": "36.wav",
       "label": "sfx-36",
-      "sha256": "048c1f8c5443b99284c2408da77cba5454da89c9d2ea2da3070611c342e5a8c4"
+      "sha256": "b1943a609f11951eb3b00defa268b354692dd7018b3773b5b3a3fa0d9d599d5b"
     },
     {
       "filename": "37.png",
@@ -798,12 +798,12 @@
     {
       "filename": "37.mp3",
       "label": "dialogue-37",
-      "sha256": "de16b3ca8d9f704194543b46535a9d705c53f437871640d7f1d6357c4997ab33"
+      "sha256": "c3490cebd58412371c483e8462d5ba383246a36c36710ad44130739d3de79eb5"
     },
     {
       "filename": "37.wav",
       "label": "sfx-37",
-      "sha256": "aecb1faa4a557a2af1834ac365dbaf5916ea6eb69c61c5059557d96ab4723256"
+      "sha256": "34bdacfbe53a7fb2df51a3daf3126cd3fb50624dddc94775969e65e020477678"
     },
     {
       "filename": "38.png",
@@ -818,12 +818,12 @@
     {
       "filename": "38.mp3",
       "label": "dialogue-38",
-      "sha256": "0b31cb8df51f931a37f4ecf9e2e6454b3ff1f3e28e373bcd4ecbcae3a02d58bf"
+      "sha256": "c55ed6917ed1f0add71ed210c8055bc6d0ae4c6fbd9bbc52676000b29a9880d9"
     },
     {
       "filename": "38.wav",
       "label": "sfx-38",
-      "sha256": "4daaeb0ee1cf104b5e3d52f833d92a83210d5c0ce53f98f59f05afa6be8e9801"
+      "sha256": "0805b43ced58a1347d9fb5640b9ff79447c7c9a30bdb3a6fd7a848a22d08caa0"
     },
     {
       "filename": "39.png",
@@ -838,12 +838,12 @@
     {
       "filename": "39.mp3",
       "label": "dialogue-39",
-      "sha256": "be6eae4d722d6eacd8924ecdf6fcf0a52dd7fc86fa72c8bcebd3da56557bffdb"
+      "sha256": "9c6166c22af60a9273ebceda655eb32c162039cda319c7d2fada90f6412c1d71"
     },
     {
       "filename": "39.wav",
       "label": "sfx-39",
-      "sha256": "ca54b2f58a1a33d0b5e5e8593f622f9f76d33714dc225e93ee434b65d2ae909e"
+      "sha256": "b239ecd52236cae67695fa18f7646355144814bf2708d6e50d8c916ff275d1f9"
     },
     {
       "filename": "40.png",
@@ -858,40 +858,40 @@
     {
       "filename": "40.mp3",
       "label": "dialogue-40",
-      "sha256": "23bf2d1e00f8946dd08cf581d601194d62d7c635b6f7e583a5343364c9196c54"
+      "sha256": "a53424b62aaf914a68c54caeb07233f02cc445880ac9ba9ea5b0131d392f6da9"
     },
     {
       "filename": "40.wav",
       "label": "sfx-40",
-      "sha256": "7baa344a7848da1de0bfcb11eac46af4565b8d597dde957f67f6ee65e86d64d2"
+      "sha256": "45f7e53ce0ef7518914e9dfcb6f1ce5b9bd2e3acafe8e4d900980c8a1ad0aac4"
     },
     {
       "filename": "bgm.mp3",
       "label": "bgm",
-      "sha256": "696c5d6af7e3835a3bc1e339269e330bc9e1c784d119d4d5d0ed2954936d1fee"
+      "sha256": "4866154e723dade3480ab5245203cf96f35669c6a5e851ced6a1ef12dbd1a469"
     },
     {
       "filename": "music.json",
       "label": "music-approval",
-      "sha256": "80acb7bd46c1ef7ee460000cbf92f63f9f56d1cc20b492f0b58bfef2ca64be6a"
+      "sha256": "eb5e90eb9e3c8383972f754f33b2959573aaf96333edb04ac3747ce027c1fcee"
     }
   ],
-  "fingerprint": "1160445a8ed7dca4fc214ac9a792f7f5d7f4860c249f2367d1d1763948600276",
+  "fingerprint": "f6b2d0923a2d33ed684626c177ceeda480dfd239db206ef2977e9b890eb1d6b2",
   "kind": "episode-master",
-  "output_sha256": "b44671bd7f443ac55744f1a32dd7d71433180fe49a5130e8067d9d69e0f564bd",
-  "output_size": 241910498,
+  "output_sha256": "47c3ef24055ae9a53f23e6574deee4de49e7500436dc5ed7abca8f271a9a9f54",
+  "output_size": 247177742,
   "schema": 1,
   "values": {
-    "assembly_session": "5546264d6f47c866e8d0ce6e227e34f4c7504c9708ff4154e3f7714c72f7ceb5",
+    "assembly_session": "755ad0d99aee95f83223497d3d798888aff52ec88915d81aeecc9f94825f1f50",
     "audio_codec": "aac-256k-48000-stereo",
     "bgm_volume": "0.12",
-    "expected_duration": "288.716",
+    "expected_duration": "296.880",
     "fps": "24",
     "loudness": "I=-14:TP=-1.5:LRA=9",
     "master_limit": "0.95",
     "pipeline_version": "2.2",
     "sfx_volume": "0.38",
-    "source_fingerprint": "9ac25cba3090f0d1a6143c374d13177e84a37f5f130b0e11ed65d10d1963682f",
+    "source_fingerprint": "1be3fbeefe9f466399825b4264ec060a1c6b04dbb49a372f25bd61d658ce91ad",
     "video_codec": "libx264-crf17-slow-yuv420p"
   }
 }

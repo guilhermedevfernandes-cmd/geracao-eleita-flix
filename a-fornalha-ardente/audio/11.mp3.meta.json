@@ -1,14 +1,14 @@
 {
   "dependencies": [],
-  "fingerprint": "1a9ef879fdefab0e3089c9f01ddb51bdeeb088f263327ee1112089d588514977",
-  "kind": "elevenlabs-audio:eleven_multilingual_v2",
-  "output_sha256": "1ce10d9652c8337eaf880be9c1881c8b8f41933d50dcc914ef763fc662dc7259",
-  "output_size": 90323,
+  "fingerprint": "e6fa6482e9848601f9ad47452e31d023ba0474300a5366df3a69c0428dfb8f56",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "b593d889cb0087d6f64899e56ca6cf9538d2009b6c462562ffd524037110d8ac",
+  "output_size": 91995,
   "schema": 1,
   "values": {
     "model": "elevenlabs",
-    "prompt": "Nós não podemos adorar uma estátua de ouro. A nossa adoração pertence somente ao nosso Deus.",
-    "tts_model": "eleven_multilingual_v2",
+    "prompt": "[calm] Nós não podemos adorar uma estátua de ouro. A nossa adoração pertence somente ao nosso Deus.",
+    "tts_model": "eleven_v3",
     "voice_id": "5ALQoVCeBkwZZplFpKkO",
     "voice_type": "elevenlabs"
   }

@@ -1,12 +1,12 @@
 {
   "dependencies": [],
-  "fingerprint": "bc49dafd3f6b94f10ec49452157ec7204d9fa3930d63725e72c2c6b45162196a",
+  "fingerprint": "6cf722dffdc5aa67fcbbce36820ffd393beb820472fcdf827760d006f4fbfecc",
   "kind": "elevenlabs-audio:sound_generation",
-  "output_sha256": "4daaeb0ee1cf104b5e3d52f833d92a83210d5c0ce53f98f59f05afa6be8e9801",
-  "output_size": 1820238,
+  "output_sha256": "0805b43ced58a1347d9fb5640b9ff79447c7c9a30bdb3a6fd7a848a22d08caa0",
+  "output_size": 1643598,
   "schema": 1,
   "values": {
-    "duration": "9.48",
+    "duration": "8.56",
     "prompt": "deep calm wind, distant crickets, warm resonant tone. Scene context: aplicacao. Build clear foreground action, environmental ambience, and subtle spatial depth.. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
   }
 }
