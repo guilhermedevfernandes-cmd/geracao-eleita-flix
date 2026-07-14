@@ -244,6 +244,11 @@ aac 192k + faststart. Episódio sem `EPxx-COM-INTRO-*.mp4` = episódio não term
   `stays ducked/hidden the entire time, never rises, clothes stay hidden`.
 - Fim do clipe estranho (serpente ganha carinha cômica, gigante caído levanta)? →
   verificar se a janela USADA na montagem está limpa antes de regenerar (trim resolve grátis).
+- **CUIDADO com o bumerangue da montagem em cena de "estado final"** (personagem caído,
+  porta fechada etc.): quando o clipe é mais curto que o tempo do plano, o script de
+  montagem toca o clipe REVERTIDO no fim — um caído "levanta" mesmo com o clipe limpo
+  (EP08: Golias). Solução padrão: set `FREEZE` no `montar_epxx.py` — planos listados
+  congelam o último frame (`tpad=stop_mode=clone`) em vez de reverter (ver `ep08/montar_ep08.py`).
 - Virou anoitecer sem pedir? (PixVerse faz isso.)
 
 ## 11. Armadilhas de plataforma

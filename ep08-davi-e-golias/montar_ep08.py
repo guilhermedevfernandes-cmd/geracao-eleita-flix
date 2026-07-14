@@ -21,6 +21,9 @@ FADE = 0.35
 
 # v2 (13/07/2026): c4p3 = 3 soldados diferentes (≠ Davi); c7 = pedra voando (c7p5)
 # + Golias caído (c7p6) antes da comemoração (c7p3); c7p4 removido.
+# v3 (14/07/2026): c7p5 regenerado (pedra na TESTA, não no peito); c7p6 cortado em 2.2s
+# e com freeze do último frame — o bumerangue (reverse) fazia o gigante caído "levantar".
+FREEZE = {"c7p6"}
 CENAS = [
     ("c1", ["c1_0"], ["c1p1","c1p2"], False, [("sininhos-v2",0.8,0.22)]),
     ("c2", ["c2_0"], ["c2p1","c2p2","c2p3"], False, [("passarinho-piu",1.0,0.18)]),
@@ -58,6 +61,9 @@ for nome, segs, planos, pausa, sfxs in CENAS:
         slow = dur(src)/SPEED
         if per <= slow:
             vf = f"setpts=PTS/{SPEED},trim=duration={per:.3f}"
+        elif pl in FREEZE:
+            vf = (f"setpts=PTS/{SPEED},tpad=stop_mode=clone:stop_duration={per:.3f},"
+                  f"trim=duration={per:.3f}")
         else:
             vf = (f"setpts=PTS/{SPEED},split[f][r];[r]reverse[rr];[f][rr]concat=n=2:v=1:a=0,"
                   f"trim=duration={per:.3f}")

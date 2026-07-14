@@ -129,3 +129,16 @@
 
 1. **c4p3 regenerado:** os 3 homens com medo agora são 3 soldados adultos BEM diferentes entre si (moreno liso com bigode, careca de barba grisalha, loiro com sardas) — nenhum parecido com Davi (antes eram 3 clones do Davi).
 2. **Cena 7 reordenada:** `c7p5` novo (pedrinha voando em arco até Golias surpreso) + `c7p6` novo (Golias caído de olhos fechados com estrelinhas, cômico e sem violência) entram entre a funda (c7p2) e a comemoração (c7p3), que agora cai exatamente em "Deus deu a vitória, e todo mundo comemorou". c7p4 (paisagem) saiu. c7p6.mp4 cortado em 3.5s (no fim do clipe bruto o gigante levantava — `c7p6-full.mp4` guarda o original).
+
+## REVISÃO v3 (14/07/2026 — feedback do usuário)
+
+1. **c7p5 regenerado (pedra na TESTA):** na v2 a pedra atingia o PEITO de Golias.
+   Imagem nova (nano-banana i2i sobre a c7p5 antiga: pedra em voo na altura da testa)
+   + vídeo novo (PixVerse V6: pedra quica na testa, estrelinhas de tontura, sem queda
+   no plano — a queda é o c7p6). Fiel a 1Sm 17:49 ("a pedra cravou-se-lhe na testa").
+   Antigos em `imagens/backup-v2/` e `videos/backup-v2/`; TSVs atualizados.
+2. **Golias não levanta mais:** o corte em 3.5s da v2 ainda terminava com o gigante
+   se apoiando no braço, E o bumerangue da montagem (reverse quando o clipe é mais
+   curto que o plano) fazia ele "levantar" de novo. c7p6.mp4 recortado para 2.2s
+   (deitado o tempo todo) + `FREEZE` no `montar_ep08.py`: planos nesse set congelam
+   o último frame em vez de reverter (tpad stop_mode=clone).
