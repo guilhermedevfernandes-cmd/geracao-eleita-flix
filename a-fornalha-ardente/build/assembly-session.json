@@ -13,18 +13,18 @@
     {
       "filename": "master-audio.wav",
       "label": "audio-stem",
-      "sha256": "7fa0700c5fd0a15f7c026e29f2efb670f92ac4f4a5335bd9d6828f589dc99f0b"
+      "sha256": "644e625b46850d8893f7aa895b4f0c3e24861199d000e369583e7b8a9e269afb"
     }
   ],
-  "created_at": "2026-07-14T19:07:21.157250+00:00",
+  "created_at": "2026-07-14T19:37:56.682548+00:00",
   "episode_slug": "a-fornalha-ardente",
   "expected_duration": 296.88,
-  "expected_output": "/Users/huiosweb/Documents/huios-web-ccode/8 - Edicao De Videos/gerecao-eleita-flix/a-fornalha-ardente/.a-fornalha-ardente_final.38686.mp4",
-  "master_inputs_fingerprint": "f51441970324717d5b29969e4f8d97be085086032383175c5eae035899745095",
-  "nonce": "23a5f9e35032374881e74062346b05d8",
+  "expected_output": "/Users/huiosweb/Documents/huios-web-ccode/8 - Edicao De Videos/gerecao-eleita-flix/a-fornalha-ardente/.a-fornalha-ardente_final.55188.mp4",
+  "master_inputs_fingerprint": "270186911b1ba0b81d245e614322bd46493c7161b6c0f97a1005102f05851e2e",
+  "nonce": "5d3e8eefd6b7308c1fe22b76c26f67cb",
   "pipeline_version": "2.2",
   "schema": 1,
-  "session_fingerprint": "755ad0d99aee95f83223497d3d798888aff52ec88915d81aeecc9f94825f1f50",
-  "source_fingerprint": "1be3fbeefe9f466399825b4264ec060a1c6b04dbb49a372f25bd61d658ce91ad",
-  "source_lock_fingerprint": "b58c625c6c54415ada1754e699f1934c7260ffdd94ec20cff98585506657083d"
+  "session_fingerprint": "59ea8b11fc4cf9164a9af039e1884afb530aa7226f1d0699d9cb4fc9719218f7",
+  "source_fingerprint": "612ed325008e2886126544bbda8ed5fdc6221dcbd72c83bc98ae0c81f6c27f58",
+  "source_lock_fingerprint": "6c2ee9d41544299cd71417ad2b94018ab2b3a1a96b283775728570d2470ccce8"
 }

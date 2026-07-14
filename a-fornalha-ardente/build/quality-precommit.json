@@ -3,14 +3,14 @@
   "errors": [],
   "warnings": [],
   "metrics": {
-    "path": "/Users/huiosweb/Documents/huios-web-ccode/8 - Edicao De Videos/gerecao-eleita-flix/a-fornalha-ardente/.a-fornalha-ardente_final.38686.mp4",
+    "path": "/Users/huiosweb/Documents/huios-web-ccode/8 - Edicao De Videos/gerecao-eleita-flix/a-fornalha-ardente/.a-fornalha-ardente_final.55188.mp4",
     "duration_seconds": 296.833333,
     "width": 1920,
     "height": 1080,
     "loudness_lufs": -13.4,
     "true_peak_dbfs": -1.0,
-    "session_fingerprint": "755ad0d99aee95f83223497d3d798888aff52ec88915d81aeecc9f94825f1f50",
+    "session_fingerprint": "59ea8b11fc4cf9164a9af039e1884afb530aa7226f1d0699d9cb4fc9719218f7",
     "validation_scope": "technical-and-provenance",
-    "provenance_fingerprint": "f6b2d0923a2d33ed684626c177ceeda480dfd239db206ef2977e9b890eb1d6b2"
+    "provenance_fingerprint": "2afd00eab8d9fc766e4e22b0e17922cc81284db0eea08937a92873840b369b4b"
   }
 }

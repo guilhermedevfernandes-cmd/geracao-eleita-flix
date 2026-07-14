@@ -1,8 +1,8 @@
 {
   "ambiguous_language_confirmed": false,
   "ambiguous_pt_br_lines": [],
-  "approved_at": "2026-07-14T18:57:16.049876+00:00",
-  "document_sha256": "fb8169c543dd3716b41070bd6577267475299752b7c08e280f0cbab161c23f6e",
+  "approved_at": "2026-07-14T19:33:32.242096+00:00",
+  "document_sha256": "d65db911cfaa4a37e3fabbdf5800fa20c72880ca525ed0c5ab5f0e29888b8c99",
   "schema": 1,
-  "source_fingerprint": "1be3fbeefe9f466399825b4264ec060a1c6b04dbb49a372f25bd61d658ce91ad"
+  "source_fingerprint": "612ed325008e2886126544bbda8ed5fdc6221dcbd72c83bc98ae0c81f6c27f58"
 }

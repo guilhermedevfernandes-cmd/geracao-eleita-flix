@@ -2,8 +2,8 @@
   "dependencies": [],
   "fingerprint": "e6fa6482e9848601f9ad47452e31d023ba0474300a5366df3a69c0428dfb8f56",
   "kind": "elevenlabs-audio:eleven_v3",
-  "output_sha256": "b593d889cb0087d6f64899e56ca6cf9538d2009b6c462562ffd524037110d8ac",
-  "output_size": 91995,
+  "output_sha256": "85ccd77ac1fb4b3a276ec448d53c33bfc582ef85724ab046b9665470ef0d5941",
+  "output_size": 89487,
   "schema": 1,
   "values": {
     "model": "elevenlabs",

@@ -136,7 +136,7 @@
 ### Cena 11 · close-up · cut
 **Voz:** Mesaque (mesaque)
 **Texto:** “[calm] Nós não podemos adorar uma estátua de ouro. A nossa adoração pertence somente ao nosso Deus.”
-**Respiro dramático:** 1.5s
+**Respiro dramático:** 1.7s
 **Visual:** Close-up of Meshach with gentle unshakable resolve, chin slightly lifted, warm light on one side of his face, the golden statue glow softly out of focus behind him, family-friendly heroic framing
 **Movimento de câmera/personagens:** Meshach breathes steadily, shakes his head once and speaks with quiet courage, his hair moving in the wind
 **VFX:** sem efeito especial dedicado

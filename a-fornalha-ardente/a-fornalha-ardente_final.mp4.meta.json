@@ -13,7 +13,7 @@
     {
       "filename": "scenes.tsv",
       "label": "scenes",
-      "sha256": "17d4371924daf44b1140a936eba5135ba5426f6e6d279ff8db48461fc35c6fb8"
+      "sha256": "33bca111670b1fc12fff4e6fc65c6b3f416eccf63550587304b6c0354b0a969b"
     },
     {
       "filename": "PRODUCTION-BRIEF.md",
@@ -23,12 +23,12 @@
     {
       "filename": "roteiro.md",
       "label": "roteiro",
-      "sha256": "fb8169c543dd3716b41070bd6577267475299752b7c08e280f0cbab161c23f6e"
+      "sha256": "d65db911cfaa4a37e3fabbdf5800fa20c72880ca525ed0c5ab5f0e29888b8c99"
     },
     {
       "filename": "script.json",
       "label": "script-approval",
-      "sha256": "e77a6f38f83562d70701e380c593ad827d913e77fbb6003756a2eef6b435368f"
+      "sha256": "6dc609e341b133d24319c324ccb2d99309e6ac5c5ccaef530c7efea3c5c0ae8c"
     },
     {
       "filename": "approvals.json",
@@ -278,7 +278,7 @@
     {
       "filename": "11.mp3",
       "label": "dialogue-11",
-      "sha256": "b593d889cb0087d6f64899e56ca6cf9538d2009b6c462562ffd524037110d8ac"
+      "sha256": "85ccd77ac1fb4b3a276ec448d53c33bfc582ef85724ab046b9665470ef0d5941"
     },
     {
       "filename": "11.wav",
@@ -876,13 +876,13 @@
       "sha256": "eb5e90eb9e3c8383972f754f33b2959573aaf96333edb04ac3747ce027c1fcee"
     }
   ],
-  "fingerprint": "f6b2d0923a2d33ed684626c177ceeda480dfd239db206ef2977e9b890eb1d6b2",
+  "fingerprint": "2afd00eab8d9fc766e4e22b0e17922cc81284db0eea08937a92873840b369b4b",
   "kind": "episode-master",
-  "output_sha256": "47c3ef24055ae9a53f23e6574deee4de49e7500436dc5ed7abca8f271a9a9f54",
-  "output_size": 247177742,
+  "output_sha256": "9f9189d365ee4b54af23b112437f48e9a5b9f9b6f3004824231b935883f9f287",
+  "output_size": 247173981,
   "schema": 1,
   "values": {
-    "assembly_session": "755ad0d99aee95f83223497d3d798888aff52ec88915d81aeecc9f94825f1f50",
+    "assembly_session": "59ea8b11fc4cf9164a9af039e1884afb530aa7226f1d0699d9cb4fc9719218f7",
     "audio_codec": "aac-256k-48000-stereo",
     "bgm_volume": "0.12",
     "expected_duration": "296.880",
@@ -891,7 +891,7 @@
     "master_limit": "0.95",
     "pipeline_version": "2.2",
     "sfx_volume": "0.38",
-    "source_fingerprint": "1be3fbeefe9f466399825b4264ec060a1c6b04dbb49a372f25bd61d658ce91ad",
+    "source_fingerprint": "612ed325008e2886126544bbda8ed5fdc6221dcbd72c83bc98ae0c81f6c27f58",
     "video_codec": "libx264-crf17-slow-yuv420p"
   }
 }
