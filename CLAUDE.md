@@ -64,10 +64,14 @@ revisão visual/auditiva antes de aprovar. Nunca montar episódio com asset não
     `EPxx-COM-INTRO-*.mp4` (seção 8.3).
 11. **Capas** — 16:9 e 9:16 (`capa-epxx-16x9.png` / `capa-epxx-9x16.png`). Revisar TEXTO
     do título (nano-banana às vezes duplica palavra — pedir título "EXACTLY ONCE").
-    **Título SEMPRE em dourado/amarelo sólido, letras arredondadas com contorno branco
-    grosso + sombra** (padrão "DAVI E GOLIAS"/"Moisés"). UMA cor só — NUNCA título
-    multicolorido/arco-íris (o usuário chama de "carnaval de cores" e reprova). No prompt:
-    `ALL SOLID GOLDEN YELLOW letters with thick white outline, only ONE gold color, NOT rainbow`.
+    **Tipografia oficial do canal (padrão `ep12-*/capa-ep12-9x16.png`):** letras 3D
+    "infladas"/brilhantes (glossy bubble), arredondadas, com contorno creme/branco GROSSO
+    e sombra suave. Cor em DUAS camadas quentes: **1ª linha AMARELO, 2ª linha LARANJA**
+    (ex.: "DANIEL" amarelo / "E OS LEÕES" laranja; "Moisés" amarelo / "e o Mar Vermelho"
+    laranja). Na 9:16 o título fica empilhado em 2 linhas no topo. NUNCA cada letra de uma
+    cor diferente (o usuário chama de "carnaval de cores" e reprova). No prompt:
+    `big glossy inflated 3D bubble letters, first line bright YELLOW, second line warm ORANGE,
+    thick creamy white outline + soft drop shadow, only these two warm colors, NOT rainbow`.
 12. **Registrar aprendizados** — lições novas → atualizar este CLAUDE.md + commit.
 
 **Arquivos padrão da pasta de episódio:** `ROTEIRO-EPxx.md`, `imagens-resources.tsv`
@@ -271,6 +275,17 @@ aac 192k + faststart. Episódio sem `EPxx-COM-INTRO-*.mp4` = episódio não term
   (EP08: Golias). Solução padrão: set `FREEZE` no `montar_epxx.py` — planos listados
   congelam o último frame (`tpad=stop_mode=clone`) em vez de reverter (ver `ep08/montar_ep08.py`).
 - Virou anoitecer sem pedir? (PixVerse faz isso.)
+- **Montar episódio a partir de clipes prontos com nomes opacos (ex.: `openart-<uuid>_seed..._<ts>_<hash>.mp4`)
+  — EP14/Rute:** identifique CADA clipe olhando um frame e amarre `plano→arquivo` por uma CHAVE ESTÁVEL
+  (o `<hash>` de 8 chars do fim do nome), NUNCA pela POSIÇÃO numa lista ordenada. Ordenações diferentes do
+  mesmo diretório dão ordens diferentes (`ls|sort -t_ -k4` ordena pelo hash; `sort(key=ts)` em Python ordena
+  por outro campo) — se você vê os frames numa ordem e gera os symlinks noutra, os planos apontam para os
+  clipes ERRADOS e o episódio inteiro embaralha SEM nenhum erro de execução. Blindagem obrigatória: extrair
+  **1 frame por cena do MASTER final** e conferir olho a olho que a ordem narrativa bate (ver seção 9.2).
+- **Narração mais longa que os clipes (só 5s cada):** na linha baby remontada sobre vídeo pronto, a fala pode
+  passar de 3min e os 21×5s não cobrem. Solução no `montar_epxx.py`: ESTICAR cada plano com `setpts` até
+  preencher seu tempo (slow-mo suave, ~0.4–0.75x) em vez de reverter (bumerangue treme) ou travar; só congela
+  o resto se o stretch passar de ~2.9x (`MAX_STRETCH`, ≈0.34x). Ver `ep14- Rute/montar_ep14.py`.
 
 ## 11. Armadilhas de plataforma
 
