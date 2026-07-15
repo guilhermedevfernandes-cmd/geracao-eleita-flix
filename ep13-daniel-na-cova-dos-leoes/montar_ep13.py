@@ -21,8 +21,11 @@ OUTRO = 3.0
 SPEED = 0.75
 FADE = 0.35
 
-# planos que congelam o último frame em vez de reverter (estado final)
-FREEZE = {"c7p1","c7p2","c7p3","c8p1"}
+# planos de "estado final" (cova/anjo/proclamação): NÃO reverter (reverso desfaz o
+# estado — leões se agitam, rei abaixa o braço) e NÃO congelar (fica travado parado).
+# Em vez disso, ESTICAR o clipe para preencher todo o tempo do plano — movimento lento
+# e contínuo, sem travar e sem bumerangue.
+STRETCH = {"c7p1","c7p2","c7p3","c8p1"}
 
 CENAS = [
     ("c1", ["c1_0"], ["c1p1","c1p2"], False, []),
@@ -58,11 +61,14 @@ for nome, segs, planos, pausa, sfxs in CENAS:
     for j, pl in enumerate(planos):
         src = os.path.join(EP, "videos", f"{pl}.mp4")
         part = os.path.join(BUILD, f"vid_{nome}_{j}.mp4")
-        slow = dur(src)/SPEED
-        if per <= slow:
+        d_src = dur(src)
+        slow = d_src/SPEED
+        if pl in STRETCH and per > slow:
+            # estica o clipe inteiro para durar exatamente o tempo do plano (movimento contínuo)
+            factor = per / d_src
+            vf = f"setpts=PTS*{factor:.4f},trim=duration={per:.3f}"
+        elif per <= slow:
             vf = f"setpts=PTS/{SPEED},trim=duration={per:.3f}"
-        elif pl in FREEZE:
-            vf = f"setpts=PTS/{SPEED},tpad=stop_mode=clone:stop_duration={per-slow+0.1:.3f},trim=duration={per:.3f}"
         else:
             vf = (f"setpts=PTS/{SPEED},split[f][r];[r]reverse[rr];[f][rr]concat=n=2:v=1:a=0,"
                   f"trim=duration={per:.3f}")

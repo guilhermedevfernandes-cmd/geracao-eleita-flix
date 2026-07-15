@@ -41,7 +41,7 @@
 - **P3** (ref: oficiais): os oficiais correndo pelo corredor do palácio com o pergaminho na mão
 
 ## CENA 6 — NA COVA DOS LEÕES (3 planos · ~24s) · Dn 6:14-18
-**[gentle]** "O rei ficou muito triste, porque gostava de Daniel. Ele tentou salvá-lo o dia inteiro... mas aquela lei não podia mudar. **[calm]** Então Daniel foi colocado na cova dos leões. E o rei disse: 'Daniel, o seu Deus, a quem você serve todos os dias, vai livrar você!' **[gentle]** Uma pedra enorme fechou a entrada. E o rei passou a noite inteira sem comer e sem dormir, preocupado."
+**[gentle]** "O rei ficou muito triste, porque gostava de Daniel. Ele tentou salvá-lo o dia inteiro... mas aquela lei não podia mudar. **[calm]** Então Daniel foi colocado na cova dos leões. E o rei disse: 'Que o seu Deus, a quem você serve todos os dias, livre você dos leões!' (Dn 6:16) **[gentle]** Uma pedra enorme fechou a entrada. E o rei passou a noite inteira sem comer e sem dormir, preocupado."
 **SFX:** pedra-arrastando @14s
 - **P1** (ref: Dario): rei Dario triste no trono, mão na testa, luz baixa e quente
 - **P2** (refs: Daniel, Dario): rei com a mão no ombro de Daniel na entrada da cova de pedra ao entardecer, tochas acesas
