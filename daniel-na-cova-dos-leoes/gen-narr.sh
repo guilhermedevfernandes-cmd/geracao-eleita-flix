@@ -1,13 +1,18 @@
 #!/bin/zsh
-# Gera a narração PT-BR de cada cena via ElevenLabs (text2speech_v2).
-# A voz é definida na coluna "voice" de scenes.tsv:
-#   - "narrator" (ou vazio) → NARRATOR_VOICE do meta.env
-#   - uma <chave> de personagem → usa o voice_id daquela linha em characters.tsv
-# Lê scenes.tsv. Salva em audio/NN.mp3. Pula os que já existem.
+# Gera a narração PT-BR de cada cena via ElevenLabs **v3 (API direta)** — NUNCA o
+# TTS do HiggsField (regra do canal). Usa ../scripts/elevenlabs_audio.py (modelo
+# eleven_v3 + voice_settings stability 1.0 "Robusto"). A expressão vem das AUDIO
+# TAGS no próprio texto de scenes.tsv ([warm], [calm], [awe], [sad]...).
+# Voz por cena (coluna "voice" de scenes.tsv):
+#   - "narrator" (ou vazio) → NARRATOR_VOICE do meta.env (Lucas – Deep & Profound)
+#   - <chave> de personagem  → voice_id daquela linha em characters.tsv
+#     (daniel → Felipette · rei → Adam Borges)
+# Salva em audio/NN.mp3. Pula os que já existem (use --force p/ refazer).
 # Uso: ./gen-narr.sh [id1 id2 ...]  (sem args = todas)  |  --force
 set -u
 cd "${0:A:h}"
 source ./meta.env
+EL="../scripts/elevenlabs_audio.py"
 
 FORCE=0; ONLY=()
 for a in "$@"; do
@@ -25,6 +30,7 @@ while IFS='=' read -r k v; do VOICEMAP[$k]="$v"; done < /tmp/_goal_voices.$$
 rm -f /tmp/_goal_voices.$$
 
 mkdir -p audio
+rc=0
 
 tail -n +2 scenes.tsv | while IFS=$'\t' read -r id refs voice narration image_prompt motion_prompt; do
   [[ -z "$id" || "$id" == \#* ]] && continue
@@ -43,16 +49,10 @@ tail -n +2 scenes.tsv | while IFS=$'\t' read -r id refs voice narration image_pr
     else echo "  ⚠ voz '$voice' sem voice_id em characters.tsv — usando narrador"; fi
   fi
 
-  echo "=== narr $id (voz: ${voice:-narrator}) ==="
-  url=$(higgsfield generate create text2speech_v2 \
-    --model elevenlabs --voice_id "$vid" --voice_type preset \
-    --prompt "$narration" --wait --wait-timeout 5m 2>&1 | tail -1)
-  if [[ "$url" == http* ]]; then
-    curl -s -o "$out" "$url"
-    d=$(ffprobe -v error -show_entries format=duration -of default=noprint_wrappers=1:nokey=1 "$out" 2>/dev/null)
-    printf "  ✓ %s  %.1fs\n" "$out" "$d"
-  else
-    echo "  ✗ FALHOU: $url"
-  fi
+  echo "=== narr $id (voz: ${voice:-narrator} / $vid) ==="
+  forceflag=(); [[ $FORCE -eq 1 ]] && forceflag=(--force)
+  python3 "$EL" tts --text "$narration" --voice-id "$vid" --out "$out" "${forceflag[@]}"
+  if [[ $? -ne 0 ]]; then echo "  ✗ FALHOU cena $id"; rc=1; fi
 done
-echo "=== narração concluída ==="
+echo "=== narração concluída (rc=$rc) ==="
+exit $rc

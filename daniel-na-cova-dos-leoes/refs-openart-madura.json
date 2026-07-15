@@ -1,0 +1,27 @@
+{
+  "_doc": "Refs OpenArt para o redo do Daniel IDOSO (linha madura/Pixar, 15/07/2026). Daniel = novo master idoso ~80. rei/oficiais/anjo = uploads dos assets/*_ref.png existentes (preservam o visual das cenas mantidas).",
+  "daniel": {
+    "type": "image",
+    "id": "zVgV8cYjisqLkd7D366Q",
+    "url": "https://cdn.openart.ai/openart-ai/production/2026-07/create-image/U8LYT4b2errrkadcpdhh/image_1784134158087_cffe6adf_1784134158441_8fd0edec.png",
+    "label": "Daniel idoso ~80 (madura)"
+  },
+  "rei": {
+    "type": "image",
+    "id": "qf94cpwUnmA2obZLe1gX",
+    "url": "https://cdn.openart.ai/openart-uploads/production/2026-07/create-image/U8LYT4b2errrkadcpdhh/rei_ref_1784134141915_25f0b71f.png",
+    "label": "Rei Dario (madura)"
+  },
+  "oficiais": {
+    "type": "image",
+    "id": "Gn3LnkbbdBvvntuXg1a5",
+    "url": "https://cdn.openart.ai/openart-uploads/production/2026-07/create-image/U8LYT4b2errrkadcpdhh/oficiais_ref_1784134144806_c38cbe6d.png",
+    "label": "Oficiais invejosos (madura)"
+  },
+  "anjo": {
+    "type": "image",
+    "id": "mB8Wa9mXEqUdMjXvxQVF",
+    "url": "https://cdn.openart.ai/openart-uploads/production/2026-07/create-image/U8LYT4b2errrkadcpdhh/anjo_ref_1784134147825_18b4116a.png",
+    "label": "Anjo (madura)"
+  }
+}

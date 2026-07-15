@@ -140,6 +140,7 @@ Em luz divina/objetos = NÃO. Presença de Deus = luz/brilho SEM rosto
 | Daniel idoso ~80 anos (EP13 — cova dos leões acontece sob Dario, Dn 6; NÃO usar o Daniel jovem) | `hDupNNk3Vti7dhDcbYW4` |
 | Rei Dario (EP13) | `RyoU9ycCjj8Cz2jRS1vl` |
 | Oficiais invejosos ×2 (EP13 — vilão-cômico) | `i6WyMlnAW2x4VTxG7nTW` |
+| Daniel idoso ~80 **linha madura/Pixar** (`daniel-na-cova-dos-leoes`, Dn 6 sob Dario) | `zVgV8cYjisqLkd7D366Q` |
 
 Linha madura (HiggsField): Adão v1 `9e913a82-236b-407a-bbf0-bde10babcdc1` ·
 Eva v1 `012b847f-1044-4cf9-b290-8f01fc6e2182` · Jonas `9607b390-b035-4ff6-be86-2c8a616a3ba9` ·
@@ -179,6 +180,27 @@ trio da fornalha nos `assets/*.higgsfield.json`.
   no fingerprint) — regenerar tudo ANTES do assemble.
 - Ducking do BGM no `assemble.sh`: `sidechaincompress threshold=0.05:ratio=3:attack=25:release=700`.
   O antigo `ratio=10:threshold=0.025` esmagava a música até ficar inaudível sob narração contínua.
+
+**Redo do `daniel-na-cova-dos-leoes` (madura, scripts SIMPLES do topo — 15/07/2026):** este
+episódio usa os scripts `gen-*.sh`/`assemble.sh` da própria pasta (NÃO o `_pipeline` da
+fornalha). Lições do redo "Daniel idoso":
+- **Fidelidade:** a cova dos leões é Dn 6, sob Dario — Daniel é IDOSO (~80), não jovem.
+  Master madura OpenArt `zVgV8cYjisqLkd7D366Q`; corrigido também o texto ("um jovem" → "um homem"
+  na cena 04). Personagens que aparecem em cenas MANTIDAS (Rei, oficiais, anjo) NÃO podem mudar
+  de visual → subir os `assets/*_ref.png` EXISTENTES como `visualReferences` (não regerar).
+- **Áudio = ElevenLabs v3 DIRETO:** `gen-narr.sh` foi reescrito p/ chamar
+  `../scripts/elevenlabs_audio.py tts` (nunca mais o `text2speech_v2` do HiggsField). Vozes robustas
+  + solenes: narrador **Lucas – Deep & Profound** `GIuLCSVfgJaUuh7hYOY8`, Daniel idoso **Felipette**
+  `JtRtm0OrgcgUP6oMWQgc`, Rei Dario **Adam Borges** `ZqE9vIHPcrC35dZv0Svu`. Tags de emoção `[warm]`/`[calm]`/
+  `[awe]`/`[sad]`... no início da fala em `scenes.tsv` (v3 interpreta; conferido por STT scribe que NÃO
+  são lidas em voz alta).
+- **Vídeo via OpenART** (HiggsField estava sem créditos — só 70): frames por `nano-banana-pro`
+  image2image 16:9/2K com os refs; clipes por `kling-3-omni` image2video **std + generateSound=false**
+  (125 créditos/clipe; a montagem escala p/ 1080 e tira o áudio). **Cap de 8 gerações Kling simultâneas**
+  (`PARALLEL_LIMIT_EXCEEDED`) → ondas de 8.
+- **SFX + BGM:** `mix_sfx.py` (novo) mistura narração (dominante) + BGM suave em loop + SFX de
+  momentos-chave posicionados por cena (`assemble.sh` grava `build/offsets.txt`); `alimiter=limit=0.60:level=0`
+  (o 0.63 deixou o pico em -3.8dB > -4dB). BGMVOL baixado p/ 0.10.
 
 **SFX:** `POST /v1/sound-generation`. **Novos a cada episódio** (reaproveitar só 1-2
 genéricos, ex.: passarinho — "precisamos inovar"). Chuva/ambientes saem MUITO baixos

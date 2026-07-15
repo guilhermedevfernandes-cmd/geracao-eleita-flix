@@ -14,6 +14,7 @@ CLIP=${VIDEO_DUR:-${CLIP_SECONDS:-8}}
 rm -rf build && mkdir -p build
 : > build/concat.txt
 : > build/anarr.txt
+: > build/offsets.txt
 total=0
 
 ids=("${(@f)$(tail -n +2 scenes.tsv | awk -F'\t' 'NF && $1 !~ /^#/ {print $1}')}")
@@ -21,6 +22,9 @@ ids=("${(@f)$(tail -n +2 scenes.tsv | awk -F'\t' 'NF && $1 !~ /^#/ {print $1}')}
 for nn in $ids; do
   [[ -f "audio/${nn}.mp3" ]] || { echo "✗ falta audio/${nn}.mp3"; exit 1; }
   [[ -f "clips/${nn}.mp4" ]] || { echo "✗ falta clips/${nn}.mp4"; exit 1; }
+
+  # início desta cena no master (antes de somar seu seg) — usado p/ posicionar SFX
+  printf "%s\t%s\n" "$nn" "$total" >> build/offsets.txt
 
   nd=$(ffprobe -v error -show_entries format=duration -of csv=p=0 "audio/${nn}.mp3")
   seg=$(echo "$nd + $TAIL" | bc -l)
@@ -45,16 +49,13 @@ printf ">> total: %.1fs\n" "$total"
 ffmpeg -y -f concat -safe 0 -i build/concat.txt -c:v libx264 -pix_fmt yuv420p -crf 18 build/video_only.mp4 -loglevel error
 ffmpeg -y -f concat -safe 0 -i build/anarr.txt -c:a pcm_s16le build/narr_full.wav -loglevel error
 
-# Mix de áudio: com música de fundo se houver audio/bgm.mp3, senão só narração
-if [[ -f audio/bgm.mp3 ]]; then
-  ffmpeg -y -stream_loop -1 -i audio/bgm.mp3 -t "$total" -ar 44100 -ac 2 build/bgm_cut.wav -loglevel error
-  ffmpeg -y -i build/narr_full.wav -i build/bgm_cut.wav -filter_complex \
-    "[0:a]volume=1.0[n];[1:a]volume=${BGMVOL},afade=t=out:st=$(echo "$total-3" | bc -l):d=3[b];[n][b]amix=inputs=2:duration=first:dropout_transition=0[a]" \
-    -map "[a]" -ar 44100 -ac 2 build/mix.wav -loglevel error
-else
-  echo "  (sem audio/bgm.mp3 — montando só com narração)"
-  cp build/narr_full.wav build/mix.wav
-fi
+# Mix de áudio: narração (dominante) + BGM suave (se houver audio/bgm.mp3) + SFX
+# de momentos-chave posicionados por cena. Limitado a <= -4 dB. Ver mix_sfx.py.
+bgmargs=()
+[[ -f audio/bgm.mp3 ]] && bgmargs=(--bgm audio/bgm.mp3 --bgmvol "$BGMVOL")
+python3 ./mix_sfx.py --narr build/narr_full.wav --out build/mix.wav \
+  --total "$total" --offsets build/offsets.txt "${bgmargs[@]}" \
+  || { echo "✗ mix_sfx falhou"; exit 1; }
 
 OUT="${SLUG}_final.mp4"
 ffmpeg -y -i build/video_only.mp4 -i build/mix.wav \
