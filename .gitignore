@@ -43,3 +43,7 @@ elevenlabs.env
 !assets/bgm-reflexao-oficial.mp3
 !musica-oficial-geracao-eleita.mp3
 !musica-oficial-geracao-eleita.m4a
+
+# --- Cache/derivados de pipeline ---
+**/*.meta.json
+**/build/

@@ -1,0 +1,6 @@
+{
+  "_doc": "Refs OpenArt — Adão e Eva (madura/Pixar, 15/07/2026). Masters gerados no OpenArt.",
+  "adao": {"type":"image","id":"EgS1Vc4m51NDd63hSd3c","url":"https://cdn.openart.ai/openart-ai/production/2026-07/create-image/U8LYT4b2errrkadcpdhh/image_1784138467706_36097fec_1784138468022_1d5cada1.png","label":"Adão madura"},
+  "eva": {"type":"image","id":"4vQoW2rKUcT3abqr49hq","url":"https://cdn.openart.ai/openart-ai/production/2026-07/create-image/U8LYT4b2errrkadcpdhh/image_1784138468907_ffa1eb96_1784138469126_84fb655c.png","label":"Eva madura"},
+  "serpente": {"type":"image","id":"02EaWaVWCuj1JAbygiLa","url":"https://cdn.openart.ai/openart-ai/production/2026-07/create-image/U8LYT4b2errrkadcpdhh/image_1784138488388_9e882558_1784138488727_822eb40e.png","label":"Serpente enganadora madura"}
+}

@@ -141,6 +141,9 @@ Em luz divina/objetos = NÃO. Presença de Deus = luz/brilho SEM rosto
 | Rei Dario (EP13) | `RyoU9ycCjj8Cz2jRS1vl` |
 | Oficiais invejosos ×2 (EP13 — vilão-cômico) | `i6WyMlnAW2x4VTxG7nTW` |
 | Daniel idoso ~80 **linha madura/Pixar** (`daniel-na-cova-dos-leoes`, Dn 6 sob Dario) | `zVgV8cYjisqLkd7D366Q` |
+| Adão **madura/Pixar** (`adao-e-eva`) | `EgS1Vc4m51NDd63hSd3c` |
+| Eva **madura/Pixar** (`adao-e-eva`) | `4vQoW2rKUcT3abqr49hq` |
+| Serpente enganadora **madura/Pixar** (`adao-e-eva`) | `02EaWaVWCuj1JAbygiLa` |
 
 Linha madura (HiggsField): Adão v1 `9e913a82-236b-407a-bbf0-bde10babcdc1` ·
 Eva v1 `012b847f-1044-4cf9-b290-8f01fc6e2182` · Jonas `9607b390-b035-4ff6-be86-2c8a616a3ba9` ·
