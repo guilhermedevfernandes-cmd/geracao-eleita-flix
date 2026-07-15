@@ -187,6 +187,17 @@ trio da fornalha nos `assets/*.higgsfield.json`.
   palavra já virou outra coisa ("José" → "Rosé"). Proteger com artigo ("O José tinha...").
   O STT scribe NÃO detecta esse erro (corrige pelo contexto) — conferir DE OUVIDO.
 - Nunca regravar segmento já aprovado sem necessidade (cada geração é loteria de prosódia).
+- **SOTAQUE — SEMPRE português do BRASIL, nunca de Portugal.** O `eleven_v3` puxa para
+  **pt-PT** com algumas vozes/palavras (o dono reclamou disso mais de uma vez). Lição:
+  usar SÓ vozes fortemente brasileiras; **evitar sotaque nordestino**; preferir neutro
+  **paulista/gaúcho, sem forçar**. Vozes reprovadas por soarem pt-PT/estranhas: **"Eva GE
+  Flix"** `CQvWt7QRuInVGJUccjBp` (ridícula + puxa pt-PT — NÃO usar). Vozes femininas BR boas:
+  **Taciana** `oqUwsXKac3MSo4E51ySV` (jovem, natural, calorosa) e Roberta `RGymW84CSmfVugnA5tvA`.
+  Masculina explicitamente **gaúcha (RS), dicção limpa: Eduardo J.** `S6JRAR6bdDn0imFzAhjA`
+  (usada p/ José e p/ Adão). Não há `language_code` que force pt-BR no v3 — a ESCOLHA DA VOZ
+  é a única alavanca; conferir SEMPRE de ouvido (o STT não distingue pt-BR de pt-PT).
+  Elenco corrigido do `adao-e-eva`: narrador Lucas, Deus David, **Adão = Eduardo J. (gaúcho)**,
+  **Eva = Taciana**, serpente Nicolas.
 
 **Eleven v3 na linha madura (pipeline zsh de `a-fornalha-ardente` — migrado em 2026-07-14):**
 - O modelo vem de `TTS_JOB_TYPE` em `_pipeline/audio_contract.py` (geração e validação em

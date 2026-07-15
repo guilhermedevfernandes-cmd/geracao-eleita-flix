@@ -76,7 +76,7 @@ def main() -> int:
     filt.append(
         "".join(mix_labels) +
         f"amix=inputs={len(mix_labels)}:normalize=0:duration=first[mx];"
-        "[mx]alimiter=limit=0.60:level=0[a]"
+        "[mx]alimiter=limit=0.55:level=0[a]"
     )
 
     cmd = ["ffmpeg", "-y", *inputs, "-filter_complex", ";".join(filt),
