@@ -72,6 +72,19 @@ revisão visual/auditiva antes de aprovar. Nunca montar episódio com asset não
     cor diferente (o usuário chama de "carnaval de cores" e reprova). No prompt:
     `big glossy inflated 3D bubble letters, first line bright YELLOW, second line warm ORANGE,
     thick creamy white outline + soft drop shadow, only these two warm colors, NOT rainbow`.
+    **ATENÇÃO — a linha MADURA (Pixar 5-11: `a-fornalha-ardente`, `a-criacao-do-mundo`,
+    `jonas-e-o-grande-peixe`, `daniel-na-cova-dos-leoes`, `adao-e-eva`, `jose`) usa OUTRA
+    tipografia, NÃO a bubble amarelo/laranja.** Padrão madura = **pôster cinematográfico de
+    filme animado**: letras 3D grandes e encorpadas com profundidade/bisel, acabamento
+    METÁLICO brilhante na COR TEMÁTICA da história (ouro na Criação e Adão/Eva; dourado-fogo
+    na Fornalha; azul-turquesa+ouro no Jonas e no José-egípcio) + **contorno/trim DOURADO**
+    grosso e brilho nas bordas; título empilhado em 2 linhas no topo; e assinatura
+    **"Geração Eleita Flix"** em texto branco pequeno centralizado embaixo. Grafia PT-BR com
+    acentos (ADÃO, JOSÉ), título EXACTLY ONCE. Prompt-base: `big cinematic epic 3D movie-poster
+    title, bold letters with strong depth and bevel, glossy metallic <cor-tema> finish with a
+    thick bright GOLD outline/trim and glowing edges, embossed feature-film-logo look, uniform
+    coloring NOT per-letter rainbow, NOT candy bubble letters; small white 'Geração Eleita Flix'
+    at the very bottom center`.
 12. **Registrar aprendizados** — lições novas → atualizar este CLAUDE.md + commit.
 
 **Arquivos padrão da pasta de episódio:** `ROTEIRO-EPxx.md`, `imagens-resources.tsv`
