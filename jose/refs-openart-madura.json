@@ -25,14 +25,14 @@
     "label": "Farao"
   },
   "_capas": {
-    "_estilo": "tipografia MADURA cinematografica (ouro+turquesa egipcio + trim + byline)",
+    "_estilo": "MADURA cinematografica, ouro+turquesa egipcio, SEM byline (so o titulo)",
     "capa-16x9": {
-      "id": "hCbvK01kNHsG2gaigi0y",
-      "url": "https://cdn.openart.ai/openart-ai/production/2026-07/create-image/U8LYT4b2errrkadcpdhh/image_1784153049483_2e5464b2_1784153049813_0c903904.png"
+      "id": "eAUDuc4brEJmCrYaFany",
+      "url": "https://cdn.openart.ai/openart-ai/production/2026-07/create-image/U8LYT4b2errrkadcpdhh/image_1784155952414_ec38af39_1784155953124_79d2eafc.png"
     },
     "capa-9x16": {
-      "id": "kdFLcP55Y4AAHlNH0Cxp",
-      "url": "https://cdn.openart.ai/openart-ai/production/2026-07/create-image/U8LYT4b2errrkadcpdhh/image_1784153061871_71008552_1784153062807_dd37ee54.png"
+      "id": "Pn8M7O4axG0CidIApxfn",
+      "url": "https://cdn.openart.ai/openart-ai/production/2026-07/create-image/U8LYT4b2errrkadcpdhh/image_1784155956343_4a30b7b3_1784155956682_7930dee6.png"
     }
   }
 }

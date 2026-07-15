@@ -78,13 +78,14 @@ revisão visual/auditiva antes de aprovar. Nunca montar episódio com asset não
     filme animado**: letras 3D grandes e encorpadas com profundidade/bisel, acabamento
     METÁLICO brilhante na COR TEMÁTICA da história (ouro na Criação e Adão/Eva; dourado-fogo
     na Fornalha; azul-turquesa+ouro no Jonas e no José-egípcio) + **contorno/trim DOURADO**
-    grosso e brilho nas bordas; título empilhado em 2 linhas no topo; e assinatura
-    **"Geração Eleita Flix"** em texto branco pequeno centralizado embaixo. Grafia PT-BR com
-    acentos (ADÃO, JOSÉ), título EXACTLY ONCE. Prompt-base: `big cinematic epic 3D movie-poster
-    title, bold letters with strong depth and bevel, glossy metallic <cor-tema> finish with a
-    thick bright GOLD outline/trim and glowing edges, embossed feature-film-logo look, uniform
-    coloring NOT per-letter rainbow, NOT candy bubble letters; small white 'Geração Eleita Flix'
-    at the very bottom center`.
+    grosso e brilho nas bordas; título empilhado em 2 linhas no topo. **A capa vai SÓ com o
+    título — SEM o texto "Geração Eleita Flix" escrito** (o usuário pediu para tirar o byline;
+    as capas antigas da fornalha/jonas tinham, mas NÃO usar mais). Grafia PT-BR com acentos
+    (ADÃO, JOSÉ), título EXACTLY ONCE. Prompt-base: `big cinematic epic 3D movie-poster title,
+    bold letters with strong depth and bevel, glossy metallic <cor-tema> finish with a thick
+    bright GOLD outline/trim and glowing edges, embossed feature-film-logo look, uniform coloring
+    NOT per-letter rainbow, NOT candy bubble letters; the ONLY text is the title — absolutely NO
+    byline, NO channel name, NO watermark, NO other text`.
 12. **Registrar aprendizados** — lições novas → atualizar este CLAUDE.md + commit.
 
 **Arquivos padrão da pasta de episódio:** `ROTEIRO-EPxx.md`, `imagens-resources.tsv`
