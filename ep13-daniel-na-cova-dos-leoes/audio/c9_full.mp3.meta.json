@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "5797cc05bec3c7c7a97d536071c01a280853737454b020b459f73befa45a3813",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "c3dc68c5e8c563b0cf7925e8ff3709e671b13f5c2fc78914570b28746152e101",
+  "output_size": 350711,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[warm] E o que aprendemos com essa história? [thoughtful] Vem lembrar comigo.\n\n[calm] Um: podemos orar a Deus todos os dias, como Daniel orava.\n\n[calm] Dois: Deus enviou o seu anjo e cuidou de Daniel na cova.\n\n[warm] Três: o Deus de Daniel é o Deus vivo, que livra e salva.\n\n[warm] Deus cuida de mim, Deus cuida de você! [happy] Tchau! Até a próxima.",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

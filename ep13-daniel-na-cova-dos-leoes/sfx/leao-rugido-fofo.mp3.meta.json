@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "a1bb90e64eba6fe575f56fa0385d484c9fa61ed1bd29f08758055f5875ecb6cd",
+  "kind": "elevenlabs-audio:sound_generation",
+  "output_sha256": "c81a63d2a874889a8289db68ea05ee41b7d7c5bf7ba129880a334c1df52ad148",
+  "output_size": 48945,
+  "schema": 1,
+  "values": {
+    "duration": "3.00",
+    "prompt": "a friendly gentle lion soft roar for a cute preschool cartoon, warm and rounded, playful not scary, no music, no voices. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

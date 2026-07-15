@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "fccc57c4d016efd318a1ed0f5a27e00ebfd92b0ee812d6a87b4824e625951466",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "c45d124db91ee47eeda2e31d4502e48381d388441d612104128da221538a5397",
+  "output_size": 412151,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[gentle] O rei ficou muito triste, porque gostava de Daniel. Ele tentou salvá-lo o dia inteiro... mas aquela lei não podia mudar. [calm] Então Daniel foi colocado na cova dos leões. E o rei disse: Daniel, o seu Deus, a quem você serve todos os dias, vai livrar você! [gentle] Uma pedra enorme fechou a entrada. E o rei passou a noite inteira sem comer e sem dormir, preocupado.",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

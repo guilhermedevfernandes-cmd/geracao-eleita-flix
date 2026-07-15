@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "b26108e47f053d3d43f23b65c87985bf3830c906cbe9e401c983d72af1585f19",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "55f6cd678cd88e18248dffef6838675dc998097de4445bbd9d6971cdbad8be71",
+  "output_size": 254581,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[calm] O Daniel ficou sabendo da lei. E o que ele fez? [warm] Foi para casa, abriu a janela na direção de Jerusalém, ficou de joelhos... e orou a Deus, como sempre fazia. [gentle] Mas os homens invejosos estavam espiando. E correram para contar ao rei.",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

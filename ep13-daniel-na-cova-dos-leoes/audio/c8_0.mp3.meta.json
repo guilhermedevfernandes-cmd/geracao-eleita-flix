@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "4aa85e1feb18b441f9032d5056b34763b08fed800cc942becf4727679beb52c2",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "15a66f919a92706e934716a3f49b86140dd31d91aa1ab79fb432cfc8eedd825c",
+  "output_size": 141732,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[happy] O rei ficou tão feliz! E mandou avisar o reino inteiro: O Deus de Daniel é o Deus vivo! Ele livra e salva o seu povo.",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

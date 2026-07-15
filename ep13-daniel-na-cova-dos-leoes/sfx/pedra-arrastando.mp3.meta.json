@@ -1,0 +1,12 @@
+{
+  "dependencies": [],
+  "fingerprint": "c0f63f5bdc34a52dea07ecbac7dfb20ca2a066f7d57758f221f131112ede2dd7",
+  "kind": "elevenlabs-audio:sound_generation",
+  "output_sha256": "0b7d648d5e55d769605dcaa95354622aa9a61cd9127200d378767eab92eb9f88",
+  "output_size": 65245,
+  "schema": 1,
+  "values": {
+    "duration": "4.00",
+    "prompt": "a big round stone slowly rolling and grinding over stone to seal a cave entrance, soft and gentle for a preschool cartoon, low rumble, not scary, no voices. Cinematic layered sound design for a premium family animated film. No dialogue, no voices, no narration, no music."
+  }
+}

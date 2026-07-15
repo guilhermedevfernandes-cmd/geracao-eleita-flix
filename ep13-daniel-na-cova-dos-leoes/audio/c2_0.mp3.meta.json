@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "da81c0cbcdc43cdfab9e4b14b0a7616c34894125349805928cb1b95368c06be4",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "5a2db809f4d6f7b9e9025b03388a9a9997c215375bab06b44a6f7a16847f6f92",
+  "output_size": 248311,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[calm] Na terra da Babilônia, vivia o rei Dario. Ele escolheu muitos líderes para cuidar do reino. [warm] E o melhor de todos era Daniel. Deus tinha dado muita sabedoria a ele. [happy] Por isso, o rei quis colocar Daniel como chefe de todo o reino.",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

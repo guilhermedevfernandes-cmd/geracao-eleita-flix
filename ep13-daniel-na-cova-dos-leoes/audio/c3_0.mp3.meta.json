@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "4d79a7493edc6e89f7509fb9c2b032128995f58423c6ff8a0ce35797b61105ae",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "300daefaa677b3db74b7edb07217fdbb504ea78513309ecfb90826ed7d212801",
+  "output_size": 240370,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[calm] Sabe o que Daniel fazia todos os dias? Três vezes por dia, ele abria a janela, ficava de joelhos... e orava, agradecendo a Deus. [warm] Ele fazia isso desde sempre. Você também gosta de conversar com Deus?",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

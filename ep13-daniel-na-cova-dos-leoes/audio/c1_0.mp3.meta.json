@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "0b7f68e5ca603ea6303b49f04a5c07c10e5a6f30e6d5672060e256cc0c8f79f6",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "e95308d9780630d134a05b76f69b3426bd1574b69ee72ff667ad90c71f8d4c50",
+  "output_size": 180184,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[warm] Olá, amiguinho! Que bom te ver. [happy] Hoje eu vou contar a história de Daniel. Ele já era bem velhinho, tinha cabelos brancos... e amou a Deus a vida inteira. Vem comigo!",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "08ffdeb7ccc409c59691149ee46960419decbcc83d8a63a41fb2a3a5f0247ac8",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "2f8cb8a511c5c9b4555288be482f1498e970f193ca8f7b1ff04b36d119b715e3",
+  "output_size": 527090,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[awe] Dentro da cova, havia leões enormes. Roooar! [calm] Mas Daniel não ficou sozinho: Deus enviou o seu anjo, e o anjo fechou a boca dos leões. [gentle] De manhã, bem cedo, o rei correu até a cova e chamou: Daniel! O seu Deus pôde livrar você? [happy] E Daniel respondeu: Ó rei, o meu Deus enviou o seu anjo e fechou a boca dos leões! Eles não me machucaram. [warm] Daniel saiu da cova sem nenhum arranhão, porque confiou no seu Deus.",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}

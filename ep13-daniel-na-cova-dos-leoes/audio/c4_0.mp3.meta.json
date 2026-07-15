@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "fingerprint": "a8e31b65b0b8c8c449d967e68d8ed153483707a9520677efce4f92eeac255209",
+  "kind": "elevenlabs-audio:eleven_v3",
+  "output_sha256": "c9f64c086369640976f2cac43dcd5f4501821aa0794f5b86badf2cec728bb83f",
+  "output_size": 356981,
+  "schema": 1,
+  "values": {
+    "model": "elevenlabs",
+    "prompt": "[calm] Mas alguns homens do palácio ficaram com inveja de Daniel. Eles procuraram algum erro nele... e não acharam nenhum! [gentle] Então armaram um plano que não era bom. Disseram ao rei: Ó rei, faça uma lei! Por trinta dias, ninguém pode orar a ninguém, só ao rei! [calm] E o rei assinou a lei, sem saber que era uma armadilha.",
+    "tts_model": "eleven_v3",
+    "voice_id": "RGymW84CSmfVugnA5tvA",
+    "voice_type": "elevenlabs"
+  }
+}
