@@ -64,6 +64,10 @@ revisão visual/auditiva antes de aprovar. Nunca montar episódio com asset não
     `EPxx-COM-INTRO-*.mp4` (seção 8.3).
 11. **Capas** — 16:9 e 9:16 (`capa-epxx-16x9.png` / `capa-epxx-9x16.png`). Revisar TEXTO
     do título (nano-banana às vezes duplica palavra — pedir título "EXACTLY ONCE").
+    **Título SEMPRE em dourado/amarelo sólido, letras arredondadas com contorno branco
+    grosso + sombra** (padrão "DAVI E GOLIAS"/"Moisés"). UMA cor só — NUNCA título
+    multicolorido/arco-íris (o usuário chama de "carnaval de cores" e reprova). No prompt:
+    `ALL SOLID GOLDEN YELLOW letters with thick white outline, only ONE gold color, NOT rainbow`.
 12. **Registrar aprendizados** — lições novas → atualizar este CLAUDE.md + commit.
 
 **Arquivos padrão da pasta de episódio:** `ROTEIRO-EPxx.md`, `imagens-resources.tsv`
