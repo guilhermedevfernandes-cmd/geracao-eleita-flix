@@ -1,0 +1,7 @@
+{
+  "_doc": "Refs OpenArt — José do Egito (madura/Pixar, 15/07/2026).",
+  "jose":   {"type":"image","id":"98LcbPLPmThtkndsCI3D","url":"https://cdn.openart.ai/openart-ai/production/2026-07/create-image/U8LYT4b2errrkadcpdhh/image_1784140688144_308311c9_1784140688706_a556fc1c.png","label":"Jose tunica colorida"},
+  "jaco":   {"type":"image","id":"117ZPWhTqDjWQNGYK51x","url":"https://cdn.openart.ai/openart-ai/production/2026-07/create-image/U8LYT4b2errrkadcpdhh/image_1784140700125_4b0f106c_1784140700716_79905696.png","label":"Jaco"},
+  "irmaos": {"type":"image","id":"sWhdRjEP6qp42N59tQuu","url":"https://cdn.openart.ai/openart-ai/production/2026-07/create-image/U8LYT4b2errrkadcpdhh/image_1784140699840_4285de62_1784140700592_3a616c3c.png","label":"Irmaos de Jose"},
+  "farao":  {"type":"image","id":"15lTqU2k8bFBcRIAdwN0","url":"https://cdn.openart.ai/openart-ai/production/2026-07/create-image/U8LYT4b2errrkadcpdhh/image_1784140706769_8f005ad4_1784140707272_819f91c7.png","label":"Farao"}
+}

@@ -144,6 +144,10 @@ Em luz divina/objetos = NÃO. Presença de Deus = luz/brilho SEM rosto
 | Adão **madura/Pixar** (`adao-e-eva`) | `EgS1Vc4m51NDd63hSd3c` |
 | Eva **madura/Pixar** (`adao-e-eva`) | `4vQoW2rKUcT3abqr49hq` |
 | Serpente enganadora **madura/Pixar** (`adao-e-eva`) | `02EaWaVWCuj1JAbygiLa` |
+| José (túnica de muitas cores) **madura/Pixar** (`jose`) | `98LcbPLPmThtkndsCI3D` |
+| Jacó **madura/Pixar** (`jose`) | `117ZPWhTqDjWQNGYK51x` |
+| Irmãos de José (grupo) **madura/Pixar** (`jose`) | `sWhdRjEP6qp42N59tQuu` |
+| Faraó **madura/Pixar** (`jose`) | `15lTqU2k8bFBcRIAdwN0` |
 
 Linha madura (HiggsField): Adão v1 `9e913a82-236b-407a-bbf0-bde10babcdc1` ·
 Eva v1 `012b847f-1044-4cf9-b290-8f01fc6e2182` · Jonas `9607b390-b035-4ff6-be86-2c8a616a3ba9` ·
@@ -204,6 +208,27 @@ fornalha). Lições do redo "Daniel idoso":
 - **SFX + BGM:** `mix_sfx.py` (novo) mistura narração (dominante) + BGM suave em loop + SFX de
   momentos-chave posicionados por cena (`assemble.sh` grava `build/offsets.txt`); `alimiter=limit=0.60:level=0`
   (o 0.63 deixou o pico em -3.8dB > -4dB). BGMVOL baixado p/ 0.10.
+
+**Novos episódios madura via OpenArt — `adao-e-eva` e `jose` (15/07/2026):** mesmo pipeline
+(nano-banana-pro 2K i2i + kling-3-omni std/sem som + ElevenLabs v3). Lições:
+- **Custo real medido:** episódio madura de ~25 cenas ≈ **4,3k–4,9k créditos OpenArt**
+  (3-4 masters + ~26 frames a 40 + ~26 clipes a 125). Nano-banana-pro custa 40 tanto em 1K
+  quanto em 2K (use 2K). Kling std sem som = 125/clipe; **cap de 8 simultâneos**.
+- **Continuidade de figurino no i2i:** o nano-banana tende a REVERTER a roupa do personagem
+  para a do master (ex.: José voltou a usar a túnica colorida no Egito, onde deveria estar de
+  linho/roupa de governador). Blindagem: no prompt, referencie só o ROSTO ("the FACE from
+  reference image 1") + descreva a roupa nova e negative a antiga ("NOT wearing the colorful
+  coat, just plain Egyptian linen"). Reveja o figurino cena a cena.
+- **Estourou o teto de crédito?** Para consertar 1-2 cenas sem novos clipes Kling (125 cada),
+  regenere só o FRAME (40) e anime localmente com Ken-Burns no ffmpeg
+  (`zoompan`, push-in lento) — custo de vídeo zero. Usado nas cenas 24/25 do José.
+- **Pico do master vs AAC:** o `alimiter=0.60` (wav ≈ -4.4dB) às vezes vira -3.6dB no MP4 por
+  overshoot do encoder AAC. Para garantir ≤ -4dB no arquivo final, use `alimiter=limit=0.55`.
+- **Google content policy (nano-banana):** "twirling" bloqueou uma cena do José ("Content
+  Policy Violation"); reescrever a AÇÃO ("standing proudly, arms open, big smile") destrava.
+- **Vozes v3 por episódio:** Adão/Eva usam Deus (David `7i7dgyCkKt4c16dLtwT3`), Adão (`NHphTvFqgs01MNV8q4Gn`),
+  Eva (`CQvWt7QRuInVGJUccjBp`), serpente (Nicolas `5ALQoVCeBkwZZplFpKkO`). José usa
+  José (Eduardo J. `S6JRAR6bdDn0imFzAhjA`), Jacó (Felipette), Faraó (Adam Borges). Narrador sempre Lucas.
 
 **SFX:** `POST /v1/sound-generation`. **Novos a cada episódio** (reaproveitar só 1-2
 genéricos, ex.: passarinho — "precisamos inovar"). Chuva/ambientes saem MUITO baixos
