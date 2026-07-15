@@ -23,5 +23,16 @@
     "id": "mB8Wa9mXEqUdMjXvxQVF",
     "url": "https://cdn.openart.ai/openart-uploads/production/2026-07/create-image/U8LYT4b2errrkadcpdhh/anjo_ref_1784134147825_18b4116a.png",
     "label": "Anjo (madura)"
+  },
+  "_capas": {
+    "_estilo": "MADURA cinematografica dourada, DANIEL IDOSO, SEM byline",
+    "capa-16x9": {
+      "id": "fv1i6lWeVSEnRRN9jEaa",
+      "url": "https://cdn.openart.ai/openart-ai/production/2026-07/create-image/U8LYT4b2errrkadcpdhh/image_1784156352920_c29ae4b4_1784156353322_8ca5bffb.png"
+    },
+    "capa-9x16": {
+      "id": "4ynpz6GLGjJ4lSmS76hZ",
+      "url": "https://cdn.openart.ai/openart-ai/production/2026-07/create-image/U8LYT4b2errrkadcpdhh/image_1784156347616_a836b46a_1784156348048_1a56e733.png"
+    }
   }
 }
