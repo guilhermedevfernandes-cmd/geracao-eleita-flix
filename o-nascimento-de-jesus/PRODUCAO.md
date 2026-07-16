@@ -12,17 +12,18 @@
 | 2. scenes.tsv (27 cenas) / characters.tsv (5 masters) / meta.env | ✅ |
 | 3. Narração ElevenLabs v3 (27 arquivos em `audio/`) | ✅ gerada — **falta revisão DE OUVIDO** (pt-BR, 1ª palavra, prosódia) |
 | 4. SFX (5) + BGM em `sfx/` e `audio/bgm.mp3` | ✅ gerados — falta revisão de ouvido |
-| 5. Masters OpenArt (5 refs) | ⏳ pendente — PRECISA do conector OpenArt MCP |
-| 6. Frames (27) + GATE de revisão de imagem | ⏳ pendente |
-| 7. Clipes Kling (27, ondas de 8) + GATE de vídeo | ⏳ pendente |
-| 8. assemble.sh + QA (pico ≤ -4dB, yuv420p) | ⏳ pendente |
-| 9. COM-INTRO obrigatória | ⏳ pendente |
-| 10. Capas 16:9 + 9:16 (azul-noite + prata, trim dourado, SEM byline) | ⏳ pendente |
+| 5. Masters OpenArt (5 refs) | ✅ 16/07 — aprovados no GATE (ids em `refs-openart-madura.json`) |
+| 6. Frames (27 + 1 retake da c25 por figurino) + GATE de imagem | ✅ 16/07 — aprovados (mapa em `frames-openart.tsv`) |
+| 7. Clipes Kling (27, ondas de 8) + GATE de vídeo | ✅ 16/07 — aprovados (mapa em `videos-jobs.tsv`) |
+| 8. assemble.sh + QA | ✅ `o-nascimento-de-jesus_final.mp4` 1080p24 5:04, pico -4.8dB, yuv420p/High |
+| 9. COM-INTRO obrigatória | ✅ `O-NASCIMENTO-DE-JESUS-COM-INTRO.mp4` 5:10 |
+| 10. Capas 16:9 + 9:16 (azul-noite + prata, trim dourado, SEM byline) | ✅ `capa-nascimento-16x9.png` / `capa-nascimento-9x16.png` |
 
-**⚠ Bloqueio atual:** a sessão do VSCode não tem o conector OpenArt MCP (nem HiggsField).
-A geração visual (etapas 5-7 e 10) deve ser feita numa sessão com o conector OpenArt
-da conta claude.ai, seguindo este documento. Alternativa: CLI `higgsfield`/`kie`
-via `gen-sheets.sh`/`gen-frames.sh`/`gen-clips.sh` (mas o orçamento aprovado é OpenArt).
+**Custo real (medido pelo saldo):** 4.775 créditos OpenArt de um teto de 6.000
+(masters 200 + frames 1.080 + retake 40 + clipes 3.375 + capas 80). Kling-3-omni std
+via MCP entregou 1284×716/24fps em ~1-2min por clipe, com o resourceId do frame passado
+direto em `startFrame` (sem upload/metadata). **Pendência humana:** revisão de ouvido da
+narração no arquivo final (pt-BR, 1ª palavra) — o STT não pega.
 
 ## Orçamento (teto 6.000 créditos OpenArt)
 

@@ -1,0 +1,44 @@
+{
+  "_doc": "Refs OpenArt — O Nascimento de Jesus (madura/Pixar, série de Jesus, 16/07/2026).",
+  "maria": {
+    "type": "image",
+    "id": "kaxH3pOSt2TdeFcaGlsl",
+    "url": "https://cdn.openart.ai/openart-ai/production/2026-07/create-image/U8LYT4b2errrkadcpdhh/image_1784231350797_02ee165c_1784231350904_86211ecb.png",
+    "label": "Maria de Nazare"
+  },
+  "jose": {
+    "type": "image",
+    "id": "HrsEdDj6hAbYzQUIIXAD",
+    "url": "https://cdn.openart.ai/openart-ai/production/2026-07/create-image/U8LYT4b2errrkadcpdhh/image_1784231356023_e298c2c1_1784231356659_1a2856ad.png",
+    "label": "Jose de Nazare (carpinteiro)"
+  },
+  "anjo": {
+    "type": "image",
+    "id": "O0K7RLCFRlOb7i3Rz1KZ",
+    "url": "https://cdn.openart.ai/openart-ai/production/2026-07/create-image/U8LYT4b2errrkadcpdhh/image_1784231360278_3009f586_1784231360644_ec52bf36.png",
+    "label": "Anjo do Senhor"
+  },
+  "pastores": {
+    "type": "image",
+    "id": "c59aodsZzXKaBz5yYe4d",
+    "url": "https://cdn.openart.ai/openart-ai/production/2026-07/create-image/U8LYT4b2errrkadcpdhh/image_1784231367106_458dab21_1784231367256_9c34feb8.png",
+    "label": "Pastores de Belem (3, um com cordeirinho)"
+  },
+  "magos": {
+    "type": "image",
+    "id": "m1iIRcnPggrUJ5aBFM8V",
+    "url": "https://cdn.openart.ai/openart-ai/production/2026-07/create-image/U8LYT4b2errrkadcpdhh/image_1784231369934_cba00376_1784231370636_c908d95a.png",
+    "label": "Magos do Oriente (3, com presentes)"
+  },
+  "_capas": {
+    "_estilo": "MADURA cinematografica, azul-noite + prata-estrela com trim DOURADO, SEM byline (so o titulo)",
+    "capa-16x9": {
+      "id": "MNzSBqbcBihYW3lky369",
+      "url": "https://cdn.openart.ai/openart-ai/production/2026-07/create-image/U8LYT4b2errrkadcpdhh/image_1784235462970_9d019e40_1784235463865_22c5c384.png"
+    },
+    "capa-9x16": {
+      "id": "gjuIzenSQNC9BhhbuRcP",
+      "url": "https://cdn.openart.ai/openart-ai/production/2026-07/create-image/U8LYT4b2errrkadcpdhh/image_1784235468614_d9bca6f5_1784235469460_1bf20747.png"
+    }
+  }
+}

@@ -162,6 +162,11 @@ Em luz divina/objetos = NÃO. Presença de Deus = luz/brilho SEM rosto
 | Jacó **madura/Pixar** (`jose`) | `117ZPWhTqDjWQNGYK51x` |
 | Irmãos de José (grupo) **madura/Pixar** (`jose`) | `sWhdRjEP6qp42N59tQuu` |
 | Faraó **madura/Pixar** (`jose`) | `15lTqU2k8bFBcRIAdwN0` |
+| Maria **madura/Pixar** (`o-nascimento-de-jesus`) | `kaxH3pOSt2TdeFcaGlsl` |
+| José de Nazaré **madura/Pixar** (`o-nascimento-de-jesus`) | `HrsEdDj6hAbYzQUIIXAD` |
+| Anjo do Senhor **madura/Pixar** (`o-nascimento-de-jesus`) | `O0K7RLCFRlOb7i3Rz1KZ` |
+| Pastores de Belém ×3 **madura/Pixar** (`o-nascimento-de-jesus`) | `c59aodsZzXKaBz5yYe4d` |
+| Magos do Oriente ×3 **madura/Pixar** (`o-nascimento-de-jesus`) | `m1iIRcnPggrUJ5aBFM8V` |
 
 Linha madura (HiggsField): Adão v1 `9e913a82-236b-407a-bbf0-bde10babcdc1` ·
 Eva v1 `012b847f-1044-4cf9-b290-8f01fc6e2182` · Jonas `9607b390-b035-4ff6-be86-2c8a616a3ba9` ·
@@ -264,6 +269,11 @@ registra nenhuma palavra dele — decisão de fidelidade a manter nos próximos 
 Jesus). Magos: narração NUNCA diz "três magos/reis" (são três PRESENTES, Mt 2:11) e
 eles visitam a CASA, não a manjedoura; Herodes/fuga p/ o Egito omitidos (pesado p/ a
 idade). Capa do nascimento: azul-noite + prata-estrela com trim dourado.
+Produção do nascimento (16/07/2026, custo real **4.775** créditos): kling-3-omni std sem som
+via OpenArt MCP entrega 1284×716/24fps em ~1-2min/clipe e aceita o resourceId do frame
+nano-banana DIRETO em `startFrame` (sem upload/metadata — aquilo é só p/ arquivo local);
+o assemble escala p/ 1080. GATEs de imagem/vídeo em folha de contato (1 frame por cena /
+último frame por clipe) funcionam bem p/ revisar 27 cenas de uma vez.
 
 **SFX:** `POST /v1/sound-generation`. **Novos a cada episódio** (reaproveitar só 1-2
 genéricos, ex.: passarinho — "precisamos inovar"). Chuva/ambientes saem MUITO baixos
