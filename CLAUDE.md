@@ -255,6 +255,16 @@ fornalha). Lições do redo "Daniel idoso":
   Eva (`CQvWt7QRuInVGJUccjBp`), serpente (Nicolas `5ALQoVCeBkwZZplFpKkO`). José usa
   José (Eduardo J. `S6JRAR6bdDn0imFzAhjA`), Jacó (Felipette), Faraó (Adam Borges). Narrador sempre Lucas.
 
+**Série de JESUS na linha madura (a partir de 16/07/2026 — `o-nascimento-de-jesus`):**
+episódios de Jesus são **nível elevado** — teto de **6.000 créditos OpenArt** cada (vs
+~4,9k dos madura comuns), com reserva p/ retakes. Mesmo pipeline do `jose/`. Vozes do
+nascimento: narrador Lucas, Maria **Taciana** (`oqUwsXKac3MSo4E51ySV`), anjo **Adam
+Borges**, pastor Eduardo J., mago Felipette. **José de Nazaré NÃO fala** (a Bíblia não
+registra nenhuma palavra dele — decisão de fidelidade a manter nos próximos eps de
+Jesus). Magos: narração NUNCA diz "três magos/reis" (são três PRESENTES, Mt 2:11) e
+eles visitam a CASA, não a manjedoura; Herodes/fuga p/ o Egito omitidos (pesado p/ a
+idade). Capa do nascimento: azul-noite + prata-estrela com trim dourado.
+
 **SFX:** `POST /v1/sound-generation`. **Novos a cada episódio** (reaproveitar só 1-2
 genéricos, ex.: passarinho — "precisamos inovar"). Chuva/ambientes saem MUITO baixos
 (~-48dB): aplicar ganho ×4 na mixagem. **NUNCA usar sininhos/twinkle/guizos** (o usuário
